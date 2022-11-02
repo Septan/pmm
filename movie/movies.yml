@@ -1,0 +1,216 @@
+##########################################################################
+##########################################################################
+##                                                                      ##
+##         _____ _   _____     _____     _   _____         _            ##
+##        |     | |_|     |_ _| __  |___| |_|   __|___ ___| |_          ##
+##        |  |  |   | | | | | | __ -| .'|   |  |  | . |_ -|   |         ##
+##        |_____|_|_|_|_|_|_  |_____|__,|_|_|_____|___|___|_|_|         ##
+##                        |___|                                         ##
+##                                                                      ##
+##           ..Movie Library Collections YML Confg For..                ##
+##         https://github.com/meisnate12/Plex-Meta-Manager              ##
+##########################################################################
+##                         github.com/ohmybahgosh                       ##
+##########################################################################
+##                   -=My Trakt.tv Collection Lists=-                   ##
+##              _-=https://trakt.tv/users/hdlists/lists=-_              ##
+##########################################################################
+## Every Collection Comes With a Poster I Made & A Background I Grabbed ##
+###  BY NO MEANS AM I A GRAPHIC DESIGNER, SO FEEL FREE TO SWAP POSTERS ###
+##########################################################################
+
+##NOTE:
+###I have add_to_arr set to FALSE, if you wan't these added to Radarr change to TRUE
+collections:
+  Rare & Obscure Movies:
+    imdb_list:
+     - https://www.imdb.com/list/ls000042748/
+     - https://www.imdb.com/list/ls020857049/
+     - https://www.imdb.com/list/ls066933204/
+     - https://www.imdb.com/list/ls066694151/
+     - https://www.imdb.com/list/ls093301987/
+     - https://www.imdb.com/list/ls021247383/
+     - https://www.imdb.com/list/ls049884140/
+    trakt_list:
+     - https://trakt.tv/users/ld667/lists/fifty-seven-great-obscure-movies
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Rare & Obscure Movies
+    summary: Collectors list of films include Horror Films, Exploitation movies, Shocking Videos and Bizarre imports including Cult Films, Grindhouse Films from the 70's, Obscure Rare Horror, Revenge Movies, Euro-Trash, Psychotronic, Drive-In Movies, Midnight Movies, Made for TV Horror, Forgotten Gems & more.
+    url_poster: https://i.imgur.com/cuK3vzr.png
+    url_background: https://i.imgur.com/cuK3vzr.png
+    add_to_arr: false
+
+
+  Mindfuck Movies:
+    trakt_list:
+     - https://trakt.tv/users/hdlists/lists/mindfuck-movies
+     - https://trakt.tv/users/benfranklin/lists/best-mindfucks
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Mindfuck Movies
+    summary: There’s nothing greater than a film that makes you think. A film that lingers on your mind long after the credits have rolled and is the subject of many conversation and discussion. Trying to piece together the puzzle of what you saw and coming to a conclusion that makes sense or still doesn’t add up.
+    url_poster: https://i.imgur.com/Tl6QMgA.png
+    url_background: https://i.imgur.com/DM1Im1X.jpeg
+    add_to_arr: false
+
+
+  80s Movies:
+    trakt_list:
+     - https://trakt.tv/users/hdlists/lists/rottentomatoes-com-s-best-of-the-80s
+     - https://trakt.tv/users/zyrus/lists/80s-classics
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_80s Movies
+    summary: The Best Movies From The 80s
+    url_poster: https://i.imgur.com/k9c4ieG.png
+    url_background: https://i.imgur.com/ITnaga1.jpg
+    add_to_arr: false
+
+
+  90s Movies:
+    trakt_list: https://trakt.tv/users/hdlists/lists/rottentomatoes-com-s-best-of-the-90s
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_90s Movies
+    summary: The Best Movies From The 90s
+    url_poster: https://i.imgur.com/Nq8fxp8.png
+    url_background: https://i.imgur.com/g2yfzfx.jpg
+    add_to_arr: false
+
+
+  Best Picture Nominees (2021 Academy Awards):
+    trakt_list: https://trakt.tv/users/hdlists/lists/2021-academy-award-nominated-for-best-picture-93rd-academy-awards-oscar-s
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Oscar Nominated Best Picture Movies 2021
+    summary: The 93rd Academy Awards ceremony is scheduled to take place on April 25, more than two months later than last year’s ceremony. The awards will recognize films released during a year in which movie theaters were largely closed.  Streaming services, which were already on the rise as an awards-season presence, are poised to dominate in April, both with their own productions (like Netflix’s “Mank”) and with traditional studio films that were released through streaming platforms because of the pandemic (like Searchlight Pictures’s “Nomadland,” which is streaming on Hulu).
+    url_poster: https://i.imgur.com/HhpBvRR.png
+    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    add_to_arr: false
+
+
+  Oscar Nominated Movies (2021 Academy Awards):
+    trakt_list: https://trakt.tv/users/hdlists/lists/2021-academy-award-nominated-movies-93rd-academy-awards-oscar-s
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Oscar Nominated Movies 2021
+    summary: The 93rd Academy Awards ceremony is scheduled to take place on April 25, more than two months later than last year’s ceremony. The awards will recognize films released during a year in which movie theaters were largely closed.  Streaming services, which were already on the rise as an awards-season presence, are poised to dominate in April, both with their own productions (like Netflix’s “Mank”) and with traditional studio films that were released through streaming platforms because of the pandemic (like Searchlight Pictures’s “Nomadland,” which is streaming on Hulu).
+    url_poster: https://i.imgur.com/H05ESeK.png
+    url_background: https://i.imgur.com/0Kao9gY.jpeg
+    add_to_arr: false
+
+
+  Nostalgia Collection (Classics From The 80s & 90s):
+    trakt_list: https://trakt.tv/users/hdlists/lists/nostalgiac-movies-from-the-80s-90s
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Nostalgia Collection
+    summary: All The Nostalgiac Movies From The 80s & 90s in One Collection
+    url_poster: https://i.imgur.com/vE8dsdd.jpg
+    url_background: https://i.imgur.com/frz0kly.jpg
+    add_to_arr: false
+
+
+  Outer Space Movie Collection:
+    trakt_list: https://trakt.tv/users/hdlists/lists/outer-space-space-exploration-movies
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Outer Space Movie Collection
+    summary: Movies That Take Place in Outer Space
+    url_poster: https://i.imgur.com/tOujJnS.jpg
+    url_background: https://i.imgur.com/CUIrEWQ.jpg
+    add_to_arr: false
+
+
+  Documentary Collection:
+    trakt_list: https://trakt.tv/users/hdlists/lists/documentary-movies-top-rated-from-1980-to-today
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Documentary Collection
+    summary: Top Rated Documentaries from 1980 onward
+    url_poster: https://i.imgur.com/2AtAgce.jpg
+    url_background: https://i.imgur.com/lJQwoDH.jpg
+    add_to_arr: false
+
+
+  Parody Movie Collection:
+    trakt_list: https://trakt.tv/users/hdlists/lists/top-50-parody-movies-of-all-time
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Parody Movie Collection
+    summary: Top 50 Parody Movies of All Time
+    url_poster: https://i.imgur.com/yFtJ5eV.png
+    url_background: https://i.imgur.com/eELv4eB.jpg
+    add_to_arr: false
+
+
+  Gangster Collection:
+    imdb_list:
+      - https://www.imdb.com/list/ls026270180/
+      - https://www.imdb.com/list/ls000093502/
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Gangster Collection
+    summary: Gangster film is a sub-genre of crime films that center on organized crime or the mafia. Often the plot revolves around the rise and fall of an organized crime leader. Many Gangster films explore the destructive nature of organized crime, while others attempt to show the humanity of the individual characters.
+    url_poster: https://theposterdb.com/api/assets/62561
+    add_to_arr: false
+
+  Martial Arts Collection:
+    imdb_list:
+      - https://www.imdb.com/list/ls000099643/
+      - https://www.imdb.com/list/ls068611186/
+      - https://www.imdb.com/list/ls068378513/
+      - https://www.imdb.com/list/ls090404120/
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Martial Arts Collection
+    summary: Martial Arts film is a sub-genre of action films that feature numerous martial arts combat between characters. These combats are usually the films' primary appeal and entertainment value, and often are a method of storytelling and character expression and development. Martial Arts are frequently featured in training scenes and other sequences in addition to fights. Martial Arts films commonly include other types of action, such as hand-to-hand combat, stuntwork, chases, and gunfights.  
+    url_poster: https://theposterdb.com/api/assets/51773
+    add_to_arr: false
+
+  Stand-Up Comedy Collection:
+    imdb_list:
+      - https://www.imdb.com/list/ls070221411/
+      - https://www.imdb.com/list/ls086584751/
+      - https://www.imdb.com/list/ls086022668/
+      - https://www.imdb.com/list/ls049792208/
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Stand-Up Collection
+    summary: Stand-up comedy is a comedic style in which a comedian performs in front of a live audience, speaking directly to them through a microphone. Comedians give the illusion that they are dialoguing, but in actuality, they are monologuing a grouping of humorous stories, jokes and one-liners, typically called a shtick, routine, act, or set. Some stand-up comedians use props, music or magic tricks to enhance their acts. Stand-up comedians perform quasi-autobiographical and fictionalized extensions of their offstage selves.
+    url_poster: https://theposterdb.com/api/assets/49137
+    add_to_arr: false
+
+
+  Christmas Collection:
+    trakt_list:
+      - https://trakt.tv/users/movistapp/lists/christmas-movies
+      - https://trakt.tv/users/2borno2b/lists/christmas-movies-extravanganza
+      - https://trakt.tv/users/graham-a-r/lists/christmas
+    imdb_list:
+     - https://www.imdb.com/list/ls025976544/
+      - https://www.imdb.com/list/ls003863000/
+      - https://www.imdb.com/list/ls027454200/
+      - https://www.imdb.com/list/ls027886673/
+      - https://www.imdb.com/list/ls097998599/
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Christmas Collection      
+    summary: Christmas film is a genre that revolves around the plot involving Christmas.
+    url_poster: https://theposterdb.com/api/assets/111696
+    add_to_arr: false
+
+  Halloween Collection:
+    trakt_list:
+      - https://trakt.tv/users/kairbear08/lists/halloween
+      - https://trakt.tv/users/mybicycle/lists/halloween
+      - https://trakt.tv/users/jayinftl/lists/halloween
+      - https://trakt.tv/users/roswellgeek/lists/halloween
+      - https://trakt.tv/users/graham-a-r/lists/halloween
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Halloween Collection      
+    summary: Halloween film is a genre that revolves around the plot involving Halloween.
+    url_poster: https://theposterdb.com/api/assets/27316
+    add_to_arr: false

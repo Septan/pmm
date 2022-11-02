@@ -1,0 +1,12 @@
+#
+
+collections:
+  Short Films:
+    trakt_list:
+     - https://trakt.tv/users/madepidemic1/lists/best-short-films
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Short Films
+    summary: A short film is any motion picture not long enough in running time to be considered a feature film. The Academy of Motion Picture Arts and Sciences defines a short film as "an original motion picture that has a running time of 40 minutes or less, including all credits".
+    url_poster: https://theposterdb.com/api/assets/53063
+    add_to_arr: false
