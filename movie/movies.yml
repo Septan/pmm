@@ -189,7 +189,7 @@ collections:
       - https://trakt.tv/users/2borno2b/lists/christmas-movies-extravanganza
       - https://trakt.tv/users/graham-a-r/lists/christmas
     imdb_list:
-     - https://www.imdb.com/list/ls025976544/
+      - https://www.imdb.com/list/ls025976544/
       - https://www.imdb.com/list/ls003863000/
       - https://www.imdb.com/list/ls027454200/
       - https://www.imdb.com/list/ls027886673/
