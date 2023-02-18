@@ -8,20 +8,23 @@ templates:
     sync_mode: sync
     tmdb_collection_details: <<collection>>
     tmdb_movie: <<movie>>
+    sort_title: <<collection_sort>>
   auto_collections:
     minimum_items: 2
     tmdb_collection_details: <<value>>
-    sort_title: <<collection_name>>
+    sort_title: <<collection_sort>>
+    move_prefix: The,A
     collection_mode: hide_items
     collection_order: release
 dynamic_collections:
   auto_tmdb_collections:
-    template: auto_collections
     type: tmdb_collection
-    exclude: 
+    exclude:
       - 96850
       - 703485
+      - 662002
       - 425164
+    template: auto_collections
 collections:
   Neon Genesis Evangelion Collection:
     template: 
@@ -51,3 +54,13 @@ collections:
     template:
       name: collection
       collection: 34055
+  My Hero Academia Collection:
+    template:
+      name: collection
+      movie:
+        - 768744
+        - 592350
+        - 505262
+        - 1054116
+        - 1057063
+        - 1057067
