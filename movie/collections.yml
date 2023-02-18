@@ -39,6 +39,16 @@ dynamic_collections:
   auto_tmdb_collections:
     type: tmdb_collection
     exclude:
+      - 115839
+      - 785583
+      - 1028525
+      - 593251
+      - 286558
+      - 363015
+      - 493668
+      - 1028532
+      - 1029835
+      - 1064555
       - 993048
       - 33514
       - 933959
@@ -87,8 +97,10 @@ dynamic_collections:
       - 44215
       - 978459
       - 725681
+      - 256377
       - 920650
       - 439053
+      - 176118
       - 271668
       - 97445
       - 31562
@@ -99,6 +111,10 @@ dynamic_collections:
       - 1004630
       - 464270
       - 103577
+      - 952095
+      - 1063254
+      - 242587
+      - 722971
     template: auto_collections
 collections:
   101 Dalmatians (Animated) Collection:
@@ -639,6 +655,56 @@ collections:
         - 37490
         - 13353
         - 15242
+        - 102973
+        - 28069
+        - 31726
+        - 31112
+        - 52952
+        - 37556
+        - 60897
+        - 51940
+        - 54909
+        - 34228
+        - 24251
+        - 40375
+        - 52955
+        - 270432
+        - 52956
+        - 117314
+        - 40489
+        - 23998
+        - 117333
+        - 37490
+        - 54920
+        - 28550
+        - 215503
+        - 13353
+        - 35020
+        - 68917
+        - 31113
+        - 55443
+        - 31718
+        - 141933
+        - 881211
+        - 975490
+        - 949581
+        - 103782
+        - 15242
+        - 40481
+        - 69770
+        - 40482
+        - 54912
+        - 55444
+        - 149827
+        - 133131
+        - 51330
+        - 40483
+        - 51528
+        - 141891
+        - 31732
+        - 52446
+        - 40484
+        - 227973
       name: kids-collection
   Pete's Dragon Collection:
     template:
@@ -1157,7 +1223,7 @@ collections:
       movie:
         - 533
       name: collection
-  Walt Disney Animation Shorts:
+  Walt Disney Animated Shorts:
     summary: Collection of all Walt Disney Animation Theatrical Shorts.
     template:
       movie:
@@ -1495,3 +1561,32 @@ collections:
     template:
       name: collection
       collection: 103577
+  DC Showcase Collection:
+    template:
+      name: collection
+      movie:
+        - 76420
+        - 637663
+        - 46718
+        - 41988
+        - 618352
+        - 618346
+        - 38180
+        - 618350
+        - 791344
+        - 791346
+        - 791343
+        - 43641
+        - 618353
+        - 791348
+  Super Mario Bros. Collection:
+    template:
+      name: collection
+      movie:
+        - 502356
+        - 9607
+        - 28152
+  Knives Out Collection:
+    template:
+      name: collection
+      collection: 722971
