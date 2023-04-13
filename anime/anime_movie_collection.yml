@@ -60,17 +60,3 @@ collections:
       movie:
         - 39323
         - 39324
-  Pokémon Collection:
-    template:
-      name: collection
-      collection: 34055
-  My Hero Academia Collection:
-    template:
-      name: collection
-      movie:
-        - 768744
-        - 592350
-        - 505262
-        - 1054116
-        - 1057063
-        - 1057067
