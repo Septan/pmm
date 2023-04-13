@@ -1,4 +1,6 @@
 metadata:
+  100% Wolf:
+    label: kids
   "101 Dalmatians II: Patch's London Adventure":
     label: kids
   22 vs. Earth:
@@ -7,7 +9,11 @@ metadata:
     label: kids
   A Goofy Movie:
     label: kids
+  A Walt Disney Christmas:
+    label: kids
   Abominable:
+    label: kids
+  Air Mater:
     label: kids
   Aladdin:
     label: kids
@@ -47,6 +53,10 @@ metadata:
     label: kids
   Balto:
     label: kids
+  "Balto II: Wolf Quest":
+    label: kids
+  "Balto III: Wings of Change":
+    label: kids
   Bambi:
     label: kids
   Bambi II:
@@ -81,6 +91,8 @@ metadata:
   Brave:
     label: kids
   Brother Bear:
+    label: kids
+  Bugged:
     label: kids
   Burrow:
     label: kids
@@ -153,13 +165,11 @@ metadata:
     label: kids
   Dumbo:
     label: kids
-  Dumbo2:
-    title: Dumbo
-    year: 2019
-    label: kids
   Earl Scouts:
     label: kids
   Eddie's Life Coach:
+    label: kids
+  El Materdor:
     label: kids
   Encanto:
     label: kids
@@ -225,7 +235,9 @@ metadata:
     label: kids
   Happy Feet Two:
     label: kids
-  "Toy Story Toons: Hawaiian Vacation":
+  Hawaiian Vacation:
+    label: kids
+  Heavy Metal Mater:
     label: kids
   Hercules:
     label: kids
@@ -313,23 +325,23 @@ metadata:
     label: kids
   "Kung Fu Panda: Secrets of the Scroll":
     label: kids
-  "LEGO Batman: DC Super Heroes Unite":
+  "LEGO Batman: The Movie - DC Super Heroes Unite":
     Label: kids
   "LEGO DC Batman: Family Matters":
     label: kids
   "LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis":
     label: kids
-  "LEGO DC Comics: Batman Be-Leaguered":
+  "LEGO DC Comics Super Heroes: Batman Be-Leaguered":
     Label: kids
-  "LEGO DC Comics: Justice League - Cosmic Clash":
+  "LEGO DC Comics Super Heroes: Justice League - Cosmic Clash":
     Label: kids
-  "LEGO DC Comics: Justice League - Gotham City Breakout":
+  "LEGO DC Comics Super Heroes: Justice League - Gotham City Breakout":
     Label: kids
   "LEGO DC Comics Super Heroes: Justice League vs. Bizarro League":
     Label: kids
-  "LEGO DC Comics: Justice League - Attack of the Legion of Doom!":
+  "LEGO DC Comics Super Heroes: Justice League: - Attack of the Legion of Doom!":
     Label: kids
-  "LEGO DC Comics: The Flash":
+  "LEGO DC Comics Super Heroes: The Flash":
     Label: kids
   "LEGO DC Super Hero Girls: Brain Drain":
     label: kids
@@ -342,7 +354,7 @@ metadata:
     label: kids
   "LEGO Jurassic World: The Indominus Escape":
     label: kids
-  "LEGO Marvel: Spider-Man - Vexed by Venom":
+  "LEGO Marvel Spider-Man: Vexed by Venom":
     label: kids
   "LEGO Marvel Super Heroes: Avengers Reassembled!":
     label: kids
@@ -412,6 +424,12 @@ metadata:
     label: kids
   Make Mine Music:
     label: kids
+  Mater Private Eye:
+    label: kids
+  Mater and the Ghostlight:
+    label: kids
+  Mater the Greater:
+    label: kids
   Meet the Robinsons:
     label: kids
   Megamind:
@@ -436,15 +454,23 @@ metadata:
     label: kids
   Minions:
     label: kids
+  Miss Fritter's Racing Skoool:
+    label: kids
   Moana:
     label: kids
   "Monster Pets: A Hotel Transylvania Short":
     label: kids
+  Monster Truck Mater:
+    label: kids
   Monsters University:
+    label: kids
+  "Monsters vs Aliens: Mutant Pumpkins from Outer Space":
     label: kids
   Monsters vs. Aliens:
     label: kids
   Monsters, Inc.:
+    label: kids
+  Moon Mater:
     label: kids
   Mower Minions:
     label: kids
@@ -519,7 +545,7 @@ metadata:
     label: kids
   Party Central:
     label: kids
-  "Toy Story Toons: Partysaurus Rex":
+  Partysaurus Rex:
     label: kids
   Penguins of Madagascar:
     label: kids
@@ -560,8 +586,6 @@ metadata:
     label: kids
   "Puss in Boots: The Three Diablos":
     label: kids
-  "Puss in Boots: The Last Wish":
-    label: kids
   Ralph Breaks the Internet:
     label: kids
   Rango:
@@ -571,6 +595,8 @@ metadata:
   Raya and the Last Dragon:
     label: kids
   Red's Dream:
+    label: kids
+  Rescue Squad Mater:
     label: kids
   Riley's First Date?:
     label: kids
@@ -584,6 +610,10 @@ metadata:
     year: 1973
     label: kids
   Robots:
+    label: kids
+  Rock Dog:
+    label: kids
+  "Rock Dog 2: Rock Around the Park":
     label: kids
   Ron's Gone Wrong:
     label: kids
@@ -617,6 +647,8 @@ metadata:
     label: kids
   Shrek Forever After:
     label: kids
+  Shrek in the Swamp Karaoke Dance Party:
+    label: kids
   Shrek the Halls:
     label: kids
   Shrek the Third:
@@ -629,7 +661,7 @@ metadata:
     label: kids
   Sleeping Beauty:
     label: kids
-  "Toy Story Toons: Small Fry":
+  Small Fry:
     label: kids
   Smallfoot:
     label: kids
@@ -643,6 +675,8 @@ metadata:
   Soul:
     label: kids
   Spies in Disguise:
+    label: kids
+  Spinning:
     label: kids
   Spirit Untamed:
     label: kids
@@ -707,7 +741,9 @@ metadata:
     label: kids
   The Boss Baby and Tim's Treasure Hunt Through Time:
     label: kids
-  "The Boss Baby 2: Family Business":
+  "The Boss Baby: Family Business":
+    label: kids
+  The Chubbchubbs Save Xmas:
     label: kids
   The Croods:
     label: kids
@@ -789,6 +825,8 @@ metadata:
     label: kids
   The Princess and the Frog:
     label: kids
+  The Radiator Springs 500½:
+    label: kids
   The Rescuers:
     label: kids
   The Rescuers Down Under:
@@ -831,6 +869,8 @@ metadata:
     Label: kids
   Tick Tock Tale:
     Label: kids
+  Time Travel Mater:
+    label: kids
   Tin Toy:
     label: kids
   Tinker Bell:
@@ -848,6 +888,8 @@ metadata:
   Tinker Bell and the Secret of the Wings:
     label: kids
   Tinker Bell and the the Pirate Fairy:
+    label: kids
+  Tokyo Mater:
     label: kids
   Tom & Jerry:
   Toy Story:
@@ -883,6 +925,8 @@ metadata:
   Twenty Something:
     label: kids
   UglyDolls:
+    label: kids
+  Unidentified Flying Mater:
     label: kids
   Up:
     label: kids
@@ -934,7 +978,7 @@ metadata:
     label: kids
   The Bad Guys:
     label: kids
-  "Chip 'N Dale: Rescue Rangers":
+  "Chip 'n' Dale: Rescue Rangers":
     label: kids
   The Willoughbys:
     label: kids
@@ -948,7 +992,7 @@ metadata:
     label: kids
   Luck:
     label: kids
-  Ballerina:
+  Leap!:
     label: kids
   Pinocchio2:
     title: Pinocchio
@@ -1026,13 +1070,15 @@ metadata:
     label: kids
   She's a Good Skate, Charlie Brown:
     label: kids
-  "Snoopy Presents: For Auld Lang Syne":
+  Snoopy in Space:
     label: kids
-  "Snoopy Presents: Lucy's School":
+  Snoopy Presents_ For Auld Lang Syne:
     label: kids
-  "Snoopy Presents To Mom (and Dad), With Love":
+  Snoopy Presents_ Lucy's School:
     label: kids
-  "Snoopy: The Musical":
+  Snoopy Presents_ To Mom (and Dad), With Love:
+    label: kids
+  Snoopy_ The Musical:
     label: kids
   Snoopy, Come Home:
     label: kids
@@ -1042,7 +1088,11 @@ metadata:
     label: kids
   Someday You'll Find Her, Charlie Brown:
     label: kids
+  The Charlie Brown and Snoopy Show:
+    label: kids
   There's No Time For Love, Charlie Brown:
+    label: kids
+  This Is America, Charlie Brown:
     label: kids
   What a Nightmare, Charlie Brown:
     label: kids
@@ -1060,24 +1110,3 @@ metadata:
     label: kids
   You're Not Elected, Charlie Brown:
     label: kids
-  Lyle, Lyle, Crocodile:
-    label: kids
-  The Polar Express:
-    label: kids
-  The Nightmare Before Christmas:
-    label: kids
-  The Little Drummer Boy:
-    label: kids
-  Rudolph the Red-Nosed Reindeer:
-    label: kids
-  Santa Claus Is Comin' to Town:
-    label: kids
-  The Year Without a Santa Claus:
-    label: kids
-  Frosty the Snowman:
-    label: kids
-  Strange World:
-    label: kids
-  My Father's Dragon:
-    label: kids
-  
