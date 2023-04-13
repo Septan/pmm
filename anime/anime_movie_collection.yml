@@ -1,21 +1,6 @@
-templates:
-  collection:
-    collection_mode: hide_items
-    collection_order: release
-    optional:
-      - collection
-      - movie
-    sync_mode: sync
-    tmdb_collection_details: <<collection>>
-    tmdb_movie: <<movie>>
-    sort_title: <<collection_sort>>
-  auto_collections:
-    minimum_items: 2
-    tmdb_collection_details: <<value>>
-    sort_title: <<collection_sort>>
-    move_prefix: The,A
-    collection_mode: hide_items
-    collection_order: release
+external_templates:
+  repo: templates
+
 dynamic_collections:
   auto_tmdb_collections:
     type: tmdb_collection
@@ -24,6 +9,9 @@ dynamic_collections:
       - 703485
       - 662002
       - 425164
+      - 34055
+      - 1094000
+      - 1092136
     template: auto_collections
 collections:
   Neon Genesis Evangelion Collection:
@@ -34,7 +22,29 @@ collections:
         - 21832
         - 18491
         - 54270
-        - 34055
+  Dragon Ball Z Collection:
+    template:
+      name: collection
+      collection: 425164
+      movie:
+        - 39323
+        - 39324
+  My Hero Academia Collection:
+    template:
+      name: collection
+      movie:
+        - 768744
+        - 592350
+        - 505262
+        - 1054116
+  Pokémon Collection:
+      template:
+        name: collection
+        collection: 34055
+        movie:
+          - 36897
+          - 571891
+          - 211814
   Ghost in the Shell (Animated) Collection: 
     template:
       name: collection
