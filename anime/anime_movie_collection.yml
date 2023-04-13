@@ -53,10 +53,3 @@ collections:
     template:
       name: collection
       collection: 703485
-  Dragon Ball Z Collection:
-    template:
-      name: collection
-      collection: 425164
-      movie:
-        - 39323
-        - 39324
