@@ -85,7 +85,7 @@ collections:
         key: popular_movies
 
   Trending Animated Series:
-    mdblist_list: https://mdblist.com/lists/drazzilb/trending-animated-shows-50
+    mdblist_list: https://mdblist.com/lists/drazzilb/trending_animated-shows
     summary: Trending animated shows collected from TheMovieDb and Trakt sorted by release date.
     template:
       - name: customsync
@@ -93,7 +93,7 @@ collections:
         key: trending_animated
 
   Popular Series:
-    mdblist_list: https://mdblist.com/lists/drazzilb/popular-shows-50
+    mdblist_list: https://mdblist.com/lists/drazzilb/popular-shows
     summary: Most popular Trakt Popular shows plus mdblist's popular list released in the past 10 years sorted by audiance score.
     template:
       - name: customsync
@@ -101,7 +101,7 @@ collections:
         key: popular_series
 
   Trending Series:
-    mdblist_list: https://mdblist.com/lists/drazzilb/trending-shows-20
+    mdblist_list: https://mdblist.com/lists/drazzilb/trending-shows
     summary: Trending shows from Trakt Trending rated above 50 sorted by release date.
     template:
       - name: customsync
