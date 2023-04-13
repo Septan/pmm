@@ -22,7 +22,7 @@ collections:
     collection_order: custom
     trakt_trending: 150
     summary: A collection of movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/master/chart/<<key>.jpg
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/master/chart/<<key>>.jpg
     visible_library: true
     visible_home: true
     visible_shared: true
@@ -33,7 +33,7 @@ collections:
     smart_label: random
     trakt_watched_weekly: 150
     summary: A collection of the most watched movies over the past week.
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/master/chart/<<key>.jpg
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/master/chart/<<key>>.jpg
     visible_library: true
     visible_home: true
     visible_shared: true
