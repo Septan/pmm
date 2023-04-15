@@ -16,7 +16,7 @@ collections:
       - name: chart_shared
         key: anidb
 
-  Trending Movies:
+Trending Movies:
     sort_title: +01_1Trending
     sync_mode: sync
     collection_order: custom
@@ -27,7 +27,7 @@ collections:
     visible_home: true
     visible_shared: true
     
-   Popular Movies:
+Popular Movies:
     sort_title: +01_2Popular
     sync_mode: sync
     smart_label: random
@@ -38,7 +38,7 @@ collections:
     visible_home: true
     visible_shared: true
 
-  Newly Released Movies:
+Newly Released Movies:
     sort_title: +01_3NewReleases
     sync_mode: sync
     smart_label: added.desc
