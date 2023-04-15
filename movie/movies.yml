@@ -23,16 +23,9 @@
 ###I have add_to_arr set to FALSE, if you wan't these added to Radarr change to TRUE
 collections:
   Rare & Obscure Movies:
-    imdb_list:
-     - https://www.imdb.com/list/ls000042748/
-     - https://www.imdb.com/list/ls020857049/
-     - https://www.imdb.com/list/ls066933204/
-     - https://www.imdb.com/list/ls066694151/
-     - https://www.imdb.com/list/ls093301987/
-     - https://www.imdb.com/list/ls021247383/
-     - https://www.imdb.com/list/ls049884140/
     trakt_list:
      - https://trakt.tv/users/ld667/lists/fifty-seven-great-obscure-movies
+     - https://trakt.tv/users/madepidemic1/lists/rare-obscure
     collection_order: alpha
     collection_mode: default
     sort_title: ++++++++++++++++++_Rare & Obscure Movies
