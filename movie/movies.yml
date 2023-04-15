@@ -116,7 +116,7 @@ collections:
 
 
   Gangster:
-    trakt_list: https://trakt.tv/users/madepidemic1/lists/gangster
+    trakt_list: https://trakt.tv/users/madepidemic1/lists/gangster-ba3860df-9f13-4ac9-8ad7-f4da809186b0
     smart_label: critic_rating.desc
     sync_mode: sync
     sort_title: ++++++++++++++++++_Gangster
