@@ -67,7 +67,7 @@ collections:
 
   "Trending Movies":
     summary: Movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/trending.jpg
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/trending.png
     schedule: daily
     template: {
                     name: trakt,
@@ -80,7 +80,7 @@ collections:
 
   "Popular Movies":
     summary: Popular movies across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/popular.jpg
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/popular.png
     visible_library: true
     schedule: daily
     template: {
@@ -107,7 +107,7 @@ collections:
 
   "Most Watched Daily":
     summary: Movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/watching.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/dailymw.png
     schedule: daily
     template: {
                     name: trakt,
@@ -120,7 +120,7 @@ collections:
 
   "Most Watched Weekly":
     summary: Movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/watching.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/weeklymw.png
     schedule: daily
     template: {
                     name: trakt,
@@ -133,7 +133,7 @@ collections:
 
   "Most Watched Monthly":
     summary: Movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/watching.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/monthlymw.png
     schedule: weekly(sunday)
     template: {
                     name: trakt,
@@ -146,7 +146,7 @@ collections:
 
   "Most Watched Yearly":
     summary: Movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/watching.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/yearlymw.png
     schedule: weekly(sunday)
     template: {
                     name: trakt,

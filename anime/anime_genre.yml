@@ -1,6 +1,6 @@
 templates:
   anime_genre:
-    mal_genre:
+    mal_search:
       genre: <<mal_id>>
     collection_order: alpha
     collection_mode: hide

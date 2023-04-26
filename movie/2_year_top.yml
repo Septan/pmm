@@ -19,7 +19,7 @@ templates:
 collections:
   "Top Rated of 2023":
     summary: "Top rated movies in 2023"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2023.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -33,7 +33,7 @@ collections:
 
   "Top Rated of 2022":
     summary: "Top rated movies in 2022"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2022.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -47,7 +47,7 @@ collections:
 
   "Top Rated of 2021":
     summary: "Top rated movies in 2021"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2021.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -61,7 +61,7 @@ collections:
 
   "Top Rated of 2020":
     summary: "Top rated movies in 2020"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2020.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -75,7 +75,7 @@ collections:
 
   "Top Rated of 2019":
     summary: "Top rated movies in 2019"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2019.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -89,7 +89,7 @@ collections:
 
   "Top Rated of 2018":
     summary: "Top rated movies in 2018"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2018.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -103,7 +103,7 @@ collections:
 
   "Top Rated of 2017":
     summary: "Top rated movies in 2017"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2017.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -117,7 +117,7 @@ collections:
 
   "Top Rated of 2016":
     summary: "Top rated movies in 2016"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2016.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -131,7 +131,7 @@ collections:
 
   "Top Rated of 2015":
     summary: "Top rated movies in 2015"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2015.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -145,7 +145,7 @@ collections:
 
   "Top Rated of 2014":
     summary: "Top rated movies in 2014"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2014.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -159,7 +159,7 @@ collections:
 
   "Top Rated of 2013":
     summary: "Top rated movies in 2013"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.pngg
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2013.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -173,7 +173,7 @@ collections:
 
   "Top Rated of 2012":
     summary: "Top rated movies in 2012"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2012.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -187,7 +187,7 @@ collections:
 
   "Top Rated of 2011":
     summary: "Top rated movies in 2011"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2011.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -201,7 +201,7 @@ collections:
 
   "Top Rated of 2010":
     summary: "Top rated movies in 2010"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm-config/assets/assets/year/top-rated-year-2010.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2010.png
     schedule: weekly(tuesday)
     template: {
                     name: year,

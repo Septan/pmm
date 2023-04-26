@@ -36,7 +36,7 @@ templates:
     collection_mode: hide
     collection_order: title.asc
     label.sync: Parental
-#    item_label.sync: Parental # Enable on initial run
+    item_label.sync: Parental # Enable on initial run
     visible_home: false
     visible_shared: false
     visible_library: false
@@ -49,6 +49,7 @@ templates:
 collections:
   "Parental: All":
     summary: "Movies suitable for children"
+        url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-all.png
     template: {
                     name: mdblist,
                     num: "V",
@@ -58,6 +59,7 @@ collections:
 
   "Parental: Random":
     summary: "Random movies suitable for children"
+        url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-random.png
     schedule: daily
     template: {
                     name: plex,
@@ -71,6 +73,7 @@ collections:
 
   "Parental: Recently Released":
     summary: "Recently released movies suitable for children"
+        url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-recently-released.png
     template: {
                     name: plex,
                     num: "X"
@@ -83,6 +86,7 @@ collections:
 
   "Parental: Recently Added":
     summary: "Recently added movies suitable for children"
+        url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-recently-added.png
     template: {
                     name: plex_added,
                     num: "Y"
@@ -95,6 +99,7 @@ collections:
 
   "Parental: Top Rated":
     summary: "Top rated movies suitable for children"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-top-rated.png
     template: {
                     name: plex,
                     num: "Z"
