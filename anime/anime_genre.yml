@@ -22,56 +22,56 @@ templates:
 collections:
   Action:
     template:
-      - name: anime_genre
+      - name: Action
         mal_id: 1
       - name: shared
       - name: customsync
     summary: The action genre in anime depicts extremely high levels of intense action. More often than not, you’ll be witnessing thrilling battles and action-packed fight scenes in the shows from this genre. These series will make you jump off your seat or knock your socks off. Overall, the action genre usually possesses lots of battle scenes, fluid animation, and highly-engaging elements that will make your adrenaline rush!
   Adult Cast:
     template:
-      - name: anime_genre
+      - name: Adult Cast
         mal_id: 50
       - name: shared
       - name: customsync
     summary: If you are in the 18+ age group, finding an anime show that doesn't revolve around high school or the trials of adolescence can be remarkably difficult. Anime with adult protagonists might be a comparatively smaller category, but they boast some unique and compelling storylines that are far from cliché.
   Adventure:
     template:
-      - name: anime_genre
+      - name: Adventure
         mal_id: 2
       - name: shared
       - name: customsync
     summary: The adventure genre is about traveling and undertaking an adventure in a certain place or around the world (which may sometimes escalate to the whole universe or even to the other dimensions). In this genre, the main characters don’t usually stay in one place. They venture into several different places, usually with a goal in mind (e.g. searching for treasure, exploring some new place, defeating a heinous villain, or saving the world). Adventure anime are so broad and flexible that these shows can usually stretch to a huge mal_id of episodes as well as overlap with multiple genres, usually with action.
   Anthropomorphic:
     template:
-      - name: anime_genre
+      - name: Anthropomorphic
         mal_id: 51
       - name: shared
       - name: customsync
     summary: Anthropomorphism, in which someone “sees” human-like attributes in a non-human, is often associated with the bonds between humans and their beloved pets or possessions or the ways they interpret animal behavior
   Avant Garde:
     template:
-      - name: anime_genre
+      - name: Avant Garde
         mal_id: 5
       - name: shared
       - name: customsync
     summary: Experimental fiction which shunned conventional storytelling at the time it was created. These stories often invoke unsettled feelings because they reject traditional ways in which we prefer to view (or escape from) the world. Narrative is avant garde works is often of higher importance than the content.
   Boys Love:
     template:
-      - name: anime_genre
+      - name: Boys Love
         mal_id: 28
       - name: shared
       - name: customsync
     summary: Shounen-ai literally translates to "boys love." The male characters (typically younger boys) in these shows display tender affection for each other. The romance in shounen-ai is generally milder when compared to the more explicit yaoi genre. There is usually more focus on developing romance than actual relationships.
   Cars:
     template:
-      - name: anime_genre
+      - name: Cars
         mal_id: 3
       - name: shared
       - name: customsync
     summary: The action genre in anime depicts extremely high levels of intense action. More often than not, you’ll be witnessing thrilling battles and action-packed fight scenes in the shows from this genre. These series will make you jump off your seat or knock your socks off. Overall, the action genre usually possesses lots of battle scenes, fluid animation, and highly-engaging elements that will make your adrenaline rush!
   Childcare:
     template:
-      - name: anime_genre
+      - name: Childcare
         mal_id: 53
       - name: shared
       - name: customsync
@@ -85,21 +85,21 @@ collections:
     summary: The main purpose of the comedy genre is…you got it…to make you laugh! If it fails to make you laugh or at least make you giggle, then it’s a failure. But then again, humor can depend on your personal sense of humor. The animation may not be as impressive as TV shows in the action and drama category, but that can be forgiven for the laughs. Funny moments, hilarious scenes, wacky dialogue, comical happenings—all of these are covered by the comedy genre in anime!
   Cute Girls Doing Cute Things:
     template:
-      - name: anime_genre
+      - name: Cute Girls Doing Cute Things
         mal_id: 52
       - name: shared
       - name: customsync
     summary: Anime with a cast of all/mostly girls just having fun. Typically school life and/or slice of life.
   Delinquents:
     template:
-      - name: anime_genre
+      - name: Delinquents
         mal_id: 55
       - name: shared
       - name: customsync
     summary: A delinquent is a young person, generally of school age, who has a problem with following social rules or the word of authority figures. These anime typically focus on the group dynamics of a delinquent's gang of friends, or the misadventures they get into thanks to their attitudes and actions.
   Demons:
     template:
-      - name: anime_genre
+      - name: Demons
         mal_id: 6
       - name: shared
       - name: customsync
@@ -114,63 +114,63 @@ collections:
     summary: Bringing us tears and a wave of emotions is basically what the drama genre does best! Drama anime tends to connect the viewers to the experiences of the characters. This results in viewers feeling what the characters are going through. Whether it's a tickle of emotion or a barrage of feelings, the goal of these series is to touch our hearts. In anime, one of the greatest signs that the drama effectively worked is if it was able to make you cry.
   Ecchi:
     template:
-      - name: anime_genre
+      - name: Ecchi
         mal_id: 9
       - name: shared
       - name: customsync
     summary: The word ecchi comes from the sound of H in the word hentai, which in turn means pervert in Japanese. This subgenre is generally accepted as being full of sexually provocative scenes (mild enough to be viewed by the general audience) and scenarios derived from innuendoes and humorous situations. It’s a fact that ecchi shows are taking an upswing nowadays as more and more titles are produced every season. More often than not, ecchi is paired up with comedy as both genres compliment each other well. This in turn serves as a buffer that prevents the shows from crossing the line and delving into something less appropriate for general audiences.
   Fantasy:
     template:
-      - name: anime_genre
+      - name: Fantasy
         mal_id: 10
       - name: shared
       - name: customsync
     summary: The fantasy genre in anime primarily deals with fantasy worlds and surreal events and locations. Most of the time, the setting is in a magical world where the characters start an adventure. Sometimes they get sent there from the real world. Magic is oftentimes a component of this genre, and various mystical elements serve as the building blocks of the story. You’ll often know it’s a fantasy anime if the environment and atmosphere seems so dazzling and dreamlike that it’ll make you feel captivated and allured.
   Gag Humor:
     template:
-      - name: anime_genre
+      - name: Gag Humor
         mal_id: 57
       - name: shared
       - name: customsync
     summary: Gag comedies are usually episodic, focusing on a specific pun, joke, situation, or character, for a series of episodes for anime, or one or more chapters for manga. The breakdown is similar to a single sketch in a stand-up comedy show.
   Game:
     template:
-      - name: anime_genre
+      - name: Game
         mal_id: 11
       - name: shared
       - name: customsync
     summary: The game category encompasses shows revolving around the idea of gaming and playing. The anime can feature a card game, board game, puzzle game, or even a virtual online game. As long as it concerns any playable game of any kind, it belongs in this category. Sometimes, even videogame-based shows can count in this selection.
   Girls Love:
     template:
-      - name: anime_genre
+      - name: Girls Love
         mal_id: 26
       - name: shared
       - name: customsync
     summary: Shoujo-ai literally translates to "girls love." The typically young female characters in shojou-ai anime show love and affection for each other. The romance is usually more milder in comparison to the more explicit yuri genre. Shows in this category portray blooming feelings of love and romance rather than intimate relationships.
   Gourmet:
     template:
-      - name: anime_genre
+      - name: Gourment
         mal_id: 47
       - name: shared
       - name: customsync
     summary: Preparation and consumption of food or drink take focus in gourmet stories and the narrative is designed to feature numerous different dishes or beverages. Characters are often chefs or food connoisseurs, and special attention is given to all steps in the cooking process, ranging from detailed descriptions of recipes to the characters' often over-the-top reactions when tasting the finished product.
   Gore:
     template:
-      - name: anime_genre
+      - name: Gore
         mal_id: 58
       - name: shared
       - name: customsync
     summary: Get ready to cover your eyes, because this is a list of the best gore anime of all time. Sure, a lot of anime have degrees of violence in them, but these shows will really gross you out with torn limbs, spewed blood, and whatever other awful things you can think of.
   Harem:
     template:
-      - name: anime_genre
+      - name: Harem
         mal_id: 35
       - name: shared
       - name: customsync
     summary: If you see a reluctant male character surrounded by multiple female characters who all adore him, then you’re probably watching an anime of the harem subgenre. This type of show typically features more than two female characters go head-over-heels for a single male character. Anime in this category is typically within the comedy and romance genre. It's possible that a harem anime can have no romance and feature mostly slapstick comedy.
   High Stakes Game:
     template:
-      - name: anime_genre
+      - name: High Stakes Game
         mal_id: 59
       - name: shared
       - name: customsync
