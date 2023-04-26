@@ -1,9 +1,9 @@
 templates:
   anime_genre:
-   mal_search:
+      url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/anime_genre/<<collection_name_encoded>>.jpg
+  mal_search:
       genre: <<mal_id>>
       limit: 0
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/anime_genre/<<collection_name_encoded>>.jpg
     collection_order: alpha
     collection_mode: hide
     sync_mode: sync
