@@ -59,7 +59,7 @@ collections:
 
   "Parental: Random":
     summary: "Random TV shows suitable for children"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parentrandom.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parentalrandom.png
     schedule: daily
     template: {
                     name: plex,
