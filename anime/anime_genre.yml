@@ -3,7 +3,7 @@ templates:
     mal_search:
       genre: <<mal_id>>
       limit: 0
-    url_poster: https://theposterdb.com/api/assets/<<poster>>
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/master/anime_genre/<<collection_name_encoded>>.jpg
     collection_order: alpha
     collection_mode: hide
     sync_mode: sync
@@ -18,18 +18,6 @@ templates:
     collection_order: alpha
     collection_mode: hide
     sync_mode: sync
-
-templates:
-  Genre Collections:
-    template:
-      - name: separator off
-        separator: genre
-  anime_genre:
-    #schedule: weekly(monday)
-    mal_search:
-      genre: <<mal_id>>
-      limit: 0
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/master/anime_genre/<<collection_name_encoded>>.jpg
 
 collections:
   Action:
