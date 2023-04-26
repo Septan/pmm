@@ -54,7 +54,6 @@ collections:
   "Random TV shows":
     summary: Random selection of TV shows
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/random.png
-    url_poster:
     visible_library: true
     schedule: daily
     template: {
