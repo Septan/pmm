@@ -1,26 +1,23 @@
-#############################################################
-#                 Dynamic Genre Collections                 #
-#                    Created by Drazzilb                    #
-#############################################################
-#  Call this from your config.yml (Movie or Show)           #
-#  If nothing is specified these are the defaults           #
-#                                                           #
-#    metadata_path:                                         #
-#      - repo: anime_genre                                  #
-#        template_variables:                                #
-#          # Turn the separator collection on/off           #
-#          use_separator: false                             #
-#          # Sets how the collection is sorted              #
-#          sort_by: release.desc                            #
-#          # Sets the collection mode of the collection     #
-#          collection_mode: hide                            #
-#          # Sets the value at the start of the sort title  #
-#          collection_section: "06"                         #
-#############################################################
-external_templates:
-  repo: templates
-  template_variables:
-    collection_section: "06"
+templates:
+  Anime:
+    mal_search:
+      genre: <<mal_id>>
+      limit: 0
+    url_poster: https://theposterdb.com/api/assets/<<poster>>
+    collection_order: alpha
+    collection_mode: hide
+    sync_mode: sync
+  User:
+    sort_title: ~<<collection_name>>
+    url_poster: <<poster>>
+    mal_userlist:
+      username: <<username>>
+      status: plan_to_watch
+      sort_by: title
+      limit: 0
+    collection_order: alpha
+    collection_mode: hide
+    sync_mode: sync
 
 templates:
   Genre Collections:
