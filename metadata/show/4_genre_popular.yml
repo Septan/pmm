@@ -1,0 +1,208 @@
+## 4_genre_popular.yml
+
+templates:
+  popular:
+    sort_title: "+4: <<collection_name>>"
+    limit: 50
+    sync_mode: sync
+    collection_order: custom
+    collection_mode: hide
+    visible_home: false
+    visible_shared: false
+    visible_library: false
+    delete_not_scheduled: false
+    cache_builders: 6
+    imdb_list:
+      url: https://www.imdb.com/search/title/?title_type=<<title_type>>&genres=<<genres>>&languages=<<languages>>&sort=moviemeter,asc
+      limit: 250
+
+collections:
+  "Popular in Action":
+    summary: "Popular TV shows in Action"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "action",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Adventure":
+    summary: "Popular TV shows in Adventure"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "adventure",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Animation":
+    summary: "Popular TV shows in Animation"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "animation",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Biography":
+    summary: "Popular TV shows in Biography"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "biography",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Comedy":
+    summary: "Popular TV shows in Comedy"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "comedy",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Crime":
+    summary: "Popular TV shows in Crime"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "crime",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Drama":
+    summary: "Popular TV shows in Drama"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "drama",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Family":
+    summary: "Popular TV shows in Family"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "family",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Fantasy":
+    summary: "Popular TV shows in Fantasy"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "fantasy",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in History":
+    summary: "Popular TV shows in History"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "history",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Horror":
+    summary: "Popular TV shows in Horror"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "horror",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Music":
+    summary: "Popular TV shows in Music"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "music",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Musicals":
+    summary: "Popular TV shows in Musicals"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "musicals",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Mystery":
+    summary: "Popular TV shows in Mystery"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "mystery",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Romance":
+    summary: "Popular TV shows in Romance"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "romance",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Sci-Fi":
+    summary: "Popular TV shows in Sci-Fi"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "sci-fi",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Thriller":
+    summary: "Popular TV shows in Thriller"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "thriller",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in War":
+    summary: "Popular TV shows in War"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "war",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
+  "Popular in Western":
+    summary: "Popular TV shows in Western"
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "western",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
