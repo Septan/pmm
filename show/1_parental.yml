@@ -49,6 +49,7 @@ templates:
 collections:
   "Parental: All":
     summary: "TV shows suitable for children"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parentall.png
     template: {
                     name: mdblist,
                     num: "V",
@@ -58,6 +59,7 @@ collections:
 
   "Parental: Random":
     summary: "Random TV shows suitable for children"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parentrandom.png
     schedule: daily
     template: {
                     name: plex,
@@ -71,6 +73,7 @@ collections:
 
   "Parental: Recently Released":
     summary: "Recently released TV shows suitable for children"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parentrr.png
     template: {
                     name: plex,
                     num: "X"
