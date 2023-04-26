@@ -1,26 +1,21 @@
 templates:
   anime_genre:
-  template_variables:
-    collection_section: "06"
-  mal_search:
-      genre: <<mal_id>>
-      limit: 0
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/anime_genre/<<collection_name_encoded>>.jpg
+    mal_genre:
+      genre_id: <<genre_id>>
     collection_order: alpha
     collection_mode: hide
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/anime_genre/<<collection_name_encoded>>.jpg
     sync_mode: sync
-  User:
+  MAL User:
     sort_title: ~<<collection_name>>
-    url_poster: <<poster>>
     mal_userlist:
       username: <<username>>
       status: plan_to_watch
       sort_by: title
-      limit: 0
+      limit: 500
     collection_order: alpha
     collection_mode: hide
     sync_mode: sync
-
 collections:
   Action:
     template:
