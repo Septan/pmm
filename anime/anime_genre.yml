@@ -1,7 +1,7 @@
 templates:
   anime_genre:
     mal_genre:
-      genre_id: <<genre_id>>
+      genre: <<mal_id>>
     collection_order: alpha
     collection_mode: hide
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/anime_genre/<<collection_name_encoded>>.jpg
