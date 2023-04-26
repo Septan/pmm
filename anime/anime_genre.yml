@@ -1,9 +1,23 @@
-external_templates:
-  repo: templates
-  template_variables:
-    collection_section: "06"
-    image:
-      default: anime_genre/<<key_encoded>>
+templates:
+  anime_genre:
+   mal_search:
+      genre: <<mal_id>>
+      limit: 0
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/anime_genre/<<collection_name_encoded>>.jpg
+    collection_order: alpha
+    collection_mode: hide
+    sync_mode: sync
+  User:
+    sort_title: ~<<collection_name>>
+    url_poster: <<poster>>
+    mal_userlist:
+      username: <<username>>
+      status: plan_to_watch
+      sort_by: title
+      limit: 0
+    collection_order: alpha
+    collection_mode: hide
+    sync_mode: sync
 collections:
   Action:
     template:
