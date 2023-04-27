@@ -97,3 +97,14 @@ collections:
                     holiday: "New Year's Eve",
                     }
     imdb_list: https://www.imdb.com/list/ls066838460
+
+  "🎆 Independence Day Movies":
+    schedule: range(06/23-07/11)
+    template: {
+                    name: seasonal,
+                    num: 5,
+                    holiday: "Independence Day"
+                    }
+    imdb_list:
+      - https://www.imdb.com/list/ls068664510/
+      - https://www.imdb.com/list/ls080925875/
