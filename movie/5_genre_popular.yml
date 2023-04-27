@@ -19,6 +19,7 @@ templates:
 collections:
   "Popular in Action":
     summary: "Popular movies in Action"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-action.png
     schedule: daily
     template: {
                     name: popular,
@@ -29,6 +30,7 @@ collections:
 
   "Popular in Adventure":
     summary: "Popular movies in Adventure"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-adventure.png
     schedule: daily
     template: {
                     name: popular,
@@ -39,6 +41,7 @@ collections:
 
   "Popular in Animation":
     summary: "Popular movies in Animation"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-animation.png
     schedule: daily
     template: {
                     name: popular,
@@ -49,6 +52,7 @@ collections:
 
   "Popular in Biography":
     summary: "Popular movies in Biography"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-biography.png
     schedule: daily
     template: {
                     name: popular,
@@ -59,6 +63,7 @@ collections:
 
   "Popular in Comedy":
     summary: "Popular movies in Comedy"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-comedy.png
     schedule: daily
     template: {
                     name: popular,
@@ -69,6 +74,7 @@ collections:
 
   "Popular in Crime":
     summary: "Popular movies in Crime"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-crime.png
     schedule: daily
     template: {
                     name: popular,
@@ -79,6 +85,7 @@ collections:
 
   "Popular in Drama":
     summary: "Popular movies in Drama"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-drama.png
     schedule: daily
     template: {
                     name: popular,
@@ -89,6 +96,7 @@ collections:
 
   "Popular in Family":
     summary: "Popular movies in Family"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-family.png
     schedule: daily
     template: {
                     name: popular,
@@ -99,6 +107,7 @@ collections:
 
   "Popular in Fantasy":
     summary: "Popular movies in Fantasy"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-fantasy.png
     schedule: daily
     template: {
                     name: popular,
@@ -109,6 +118,7 @@ collections:
 
   "Popular in History":
     summary: "Popular movies in History"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-history.png
     schedule: daily
     template: {
                     name: popular,
@@ -119,6 +129,7 @@ collections:
 
   "Popular in Horror":
     summary: "Popular movies in Horror"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-horror.png
     schedule: daily
     template: {
                     name: popular,
@@ -129,6 +140,7 @@ collections:
 
   "Popular in Music":
     summary: "Popular movies in Music"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-music.png
     schedule: daily
     template: {
                     name: popular,
@@ -139,6 +151,7 @@ collections:
 
   "Popular in Musicals":
     summary: "Popular movies in Musicals"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-musicals.png
     schedule: daily
     template: {
                     name: popular,
@@ -149,6 +162,7 @@ collections:
 
   "Popular in Mystery":
     summary: "Popular movies in Mystery"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-mystery.png
     schedule: daily
     template: {
                     name: popular,
@@ -159,6 +173,7 @@ collections:
 
   "Popular in Romance":
     summary: "Popular movies in Romance"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-romance.png
     schedule: daily
     template: {
                     name: popular,
