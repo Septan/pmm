@@ -19,6 +19,7 @@ templates:
 collections:
   "Top Rated in Action":
     summary: "Top rated TV shows in Action"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-action.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -31,6 +32,7 @@ collections:
 
   "Top Rated in Adventure":
     summary: "Top rated TV shows in Adventure"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-adventure.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -43,6 +45,7 @@ collections:
 
   "Top Rated in Animation":
     summary: "Top rated TV shows in Animation"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-animation.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -55,6 +58,7 @@ collections:
 
   "Top Rated in Biography":
     summary: "Top rated TV shows in Biography"
+        url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-biography.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -67,6 +71,7 @@ collections:
 
   "Top Rated in Comedy":
     summary: "Top rated TV shows in Comedy"
+        url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-comedy.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -79,6 +84,7 @@ collections:
 
   "Top Rated in Crime":
     summary: "Top rated TV shows in Crime"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-crime.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -91,6 +97,7 @@ collections:
 
   "Top Rated in Drama":
     summary: "Top rated TV shows in Drama"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-drama.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -103,6 +110,7 @@ collections:
 
   "Top Rated in Family":
     summary: "Top rated TV shows in Family"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-family.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -115,6 +123,7 @@ collections:
 
   "Top Rated in Fantasy":
     summary: "Top rated TV shows in Fantasy"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-fantasy.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -127,6 +136,7 @@ collections:
 
   "Top Rated in History":
     summary: "Top rated TV shows in History"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-history.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -139,6 +149,7 @@ collections:
 
   "Top Rated in Horror":
     summary: "Top rated TV shows in Horror"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-horror.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -151,6 +162,7 @@ collections:
 
   "Top Rated in Music":
     summary: "Top rated TV shows in Music"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-music.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -163,6 +175,7 @@ collections:
 
   "Top Rated in Musicals":
     summary: "Top rated TV shows in Musicals"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-musicals.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -175,6 +188,7 @@ collections:
 
   "Top Rated in Mystery":
     summary: "Top rated TV shows in Mystery"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-mystery.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -187,6 +201,7 @@ collections:
 
   "Top Rated in Romance":
     summary: "Top rated TV shows in Romance"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-romance.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -199,6 +214,7 @@ collections:
 
   "Top Rated in Sci-Fi":
     summary: "Top rated TV shows in Sci-Fi"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-sci-fi.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -211,6 +227,7 @@ collections:
 
   "Top Rated in Thriller":
     summary: "Top rated TV shows in Thriller"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-thriller.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -223,6 +240,7 @@ collections:
 
   "Top Rated in War":
     summary: "Top rated TV shows in War"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-war.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -235,6 +253,7 @@ collections:
 
   "Top Rated in Western":
     summary: "Top rated TV shows in Western"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-western.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
