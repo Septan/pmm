@@ -184,6 +184,7 @@ collections:
 
   "Popular in Sci-Fi":
     summary: "Popular movies in Sci-Fi"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-sci-fi.png
     schedule: daily
     template: {
                     name: popular,
@@ -194,6 +195,7 @@ collections:
 
   "Popular in Thriller":
     summary: "Popular movies in Thriller"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-thriller.png
     schedule: daily
     template: {
                     name: popular,
@@ -204,6 +206,7 @@ collections:
 
   "Popular in War":
     summary: "Popular movies in War"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-war.png
     schedule: daily
     template: {
                     name: popular,
@@ -214,6 +217,7 @@ collections:
 
   "Popular in Western":
     summary: "Popular movies in Western"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-western.png
     schedule: daily
     template: {
                     name: popular,
