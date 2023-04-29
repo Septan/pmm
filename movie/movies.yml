@@ -47,17 +47,17 @@ collections:
   #   add_to_arr: false
 
 
-  80s Movies:
-    trakt_list:
-     - https://trakt.tv/users/hdlists/lists/rottentomatoes-com-s-best-of-the-80s
-     - https://trakt.tv/users/zyrus/lists/80s-classics
-    collection_order: alpha
-    collection_mode: default
-    sort_title: ++++++++++++++++++_80s Movies
-    summary: The Best Movies From The 80s
-    url_poster: https://i.imgur.com/k9c4ieG.png
-    url_background: https://i.imgur.com/ITnaga1.jpg
-    add_to_arr: false
+  # 80s Movies:
+  #   trakt_list:
+  #    - https://trakt.tv/users/hdlists/lists/rottentomatoes-com-s-best-of-the-80s
+  #    - https://trakt.tv/users/zyrus/lists/80s-classics
+  #   collection_order: alpha
+  #   collection_mode: default
+  #   sort_title: ++++++++++++++++++_80s Movies
+  #   summary: The Best Movies From The 80s
+  #   url_poster: https://i.imgur.com/k9c4ieG.png
+  #   url_background: https://i.imgur.com/ITnaga1.jpg
+  #   add_to_arr: false
 
 
   # 90s Movies:
@@ -93,26 +93,26 @@ collections:
   #   add_to_arr: false
 
 
-  Documentary Collection:
-    trakt_list: https://trakt.tv/users/hdlists/lists/documentary-movies-top-rated-from-1980-to-today
-    collection_order: alpha
-    collection_mode: default
-    sort_title: ++++++++++++++++++_Documentary Collection
-    summary: Top Rated Documentaries from 1980 onward
-    url_poster: https://i.imgur.com/2AtAgce.jpg
-    url_background: https://i.imgur.com/lJQwoDH.jpg
-    add_to_arr: false
+  # Documentary Collection:
+  #   trakt_list: https://trakt.tv/users/hdlists/lists/documentary-movies-top-rated-from-1980-to-today
+  #   collection_order: alpha
+  #   collection_mode: default
+  #   sort_title: ++++++++++++++++++_Documentary Collection
+  #   summary: Top Rated Documentaries from 1980 onward
+  #   url_poster: https://i.imgur.com/2AtAgce.jpg
+  #   url_background: https://i.imgur.com/lJQwoDH.jpg
+  #   add_to_arr: false
 
 
-  Parody Movie Collection:
-    trakt_list: https://trakt.tv/users/hdlists/lists/top-50-parody-movies-of-all-time
-    collection_order: alpha
-    collection_mode: default
-    sort_title: ++++++++++++++++++_Parody Movie Collection
-    summary: Top 50 Parody Movies of All Time
-    url_poster: https://i.imgur.com/yFtJ5eV.png
-    url_background: https://i.imgur.com/eELv4eB.jpg
-    add_to_arr: false
+  # Parody Movie Collection:
+  #   trakt_list: https://trakt.tv/users/hdlists/lists/top-50-parody-movies-of-all-time
+  #   collection_order: alpha
+  #   collection_mode: default
+  #   sort_title: ++++++++++++++++++_Parody Movie Collection
+  #   summary: Top 50 Parody Movies of All Time
+  #   url_poster: https://i.imgur.com/yFtJ5eV.png
+  #   url_background: https://i.imgur.com/eELv4eB.jpg
+  #   add_to_arr: false
 
 
   # Gangster:
