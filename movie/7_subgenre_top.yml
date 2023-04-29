@@ -410,6 +410,7 @@ collections:
 
   "Top Rated in Epics":
     summary: "Top rated movies in Epics"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-epics.png
     template: {
                     name: sub_genre,
                     keywords: "epic",
@@ -423,6 +424,7 @@ collections:
 
   "Top Rated in Espionage":
     summary: "Top rated movies in Espionage"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-espionage.png
     template: {
                     name: sub_genre,
                     keywords: "espionage",
@@ -436,6 +438,7 @@ collections:
 
   "Top Rated in Experimental":
     summary: "Top rated movies in Experimental"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-experimental.png
     template: {
                     name: sub_genre,
                     keywords: "experimental-film",
@@ -449,6 +452,7 @@ collections:
 
   "Top Rated in Fairytales":
     summary: "Top rated movies in Fairytales"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-fairytales.png
     template: {
                     name: sub_genre,
                     keywords: "based-on-fairy-tale",
@@ -462,6 +466,7 @@ collections:
 
   "Top Rated in Found Footage":
     summary: "Top rated movies in Found Footage"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-found-footage.png
     template: {
                     name: sub_genre,
                     keywords: "found-footage",
@@ -475,6 +480,7 @@ collections:
 
   "Top Rated in Fugitives":
     summary: "Top rated movies in Fugitives"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-fugitives.png
     template: {
                     name: sub_genre,
                     keywords: "fugitive,on-the-run",
@@ -488,6 +494,7 @@ collections:
 
   "Top Rated in Gangsters":
     summary: "Top rated movies in Gangsters"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-gangsters.png
     template: {
                     name: sub_genre,
                     keywords: "gangster",
@@ -501,6 +508,7 @@ collections:
 
   "Top Rated in Ghosts":
     summary: "Top rated movies in Ghosts"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-ghosts.png
     template: {
                     name: sub_genre,
                     keywords: "ghost",
@@ -514,6 +522,7 @@ collections:
 
   "Top Rated in Gothic":
     summary: "Top rated movies in Gothic"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-gothic.png
     template: {
                     name: sub_genre,
                     keywords: "gothic",
@@ -527,6 +536,7 @@ collections:
 
   "Top Rated in Heartbreak":
     summary: "Top rated movies in Heartbreak"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-heartbreak.png
     template: {
                     name: sub_genre,
                     keywords: "broken-heart",
@@ -540,6 +550,7 @@ collections:
 
   "Top Rated in Heists":
     summary: "Top rated movies in Heists"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-heists.png
     template: {
                     name: sub_genre,
                     keywords: "heist,robbery",
@@ -553,6 +564,7 @@ collections:
 
   "Top Rated in Historical Event":
     summary: "Top rated movies in Historical Event"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-historical-event.png
     template: {
                     name: sub_genre,
                     keywords: "historical-event",
@@ -566,6 +578,7 @@ collections:
 
   "Top Rated in Hostage":
     summary: "Top rated movies in Hostage"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-hostage.png
     template: {
                     name: sub_genre,
                     keywords: "hostage-situation",
@@ -580,6 +593,7 @@ collections:
 
   "Top Rated in Hustle":
     summary: "Top rated movies in Hustle"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-hustle.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -594,6 +608,7 @@ collections:
 
   "Top Rated in Martial-Arts":
     summary: "Top rated movies in Martial-Arts"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-martial-arts.png
     template: {
                     name: sub_genre,
                     keywords: "martial-artist,martial-arts-master,martial-arts",
@@ -611,6 +626,7 @@ collections:
 
   "Top Rated in Medical":
     summary: "Top rated movies in Medical"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-medical.png
     template: {
                     name: sub_genre,
                     keywords: "medical",
@@ -624,6 +640,7 @@ collections:
 
   "Top Rated in Medieval":
     summary: "Top rated movies in Medieval"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-medieval.png
     template: {
                     name: sub_genre,
                     keywords: "medieval-times",
