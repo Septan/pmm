@@ -16,28 +16,6 @@ collections:
       - name: chart_shared
         key: anidb
 
-Trending Movies:
-    sort_title: +01_1Trending
-    sync_mode: sync
-    collection_order: custom
-    trakt_trending: 150
-    summary: A collection of movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/master/chart/<<key>>.jpg
-    visible_library: true
-    visible_home: true
-    visible_shared: true
-    
-Popular Movies:
-    sort_title: +01_2Popular
-    sync_mode: sync
-    smart_label: random
-    trakt_watched_weekly: 150
-    summary: A collection of the most watched movies over the past week.
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/master/chart/<<key>>.jpg
-    visible_library: true
-    visible_home: true
-    visible_shared: true
-
 Newly Released Movies:
     sort_title: +01_3NewReleases
     sync_mode: sync

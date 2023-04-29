@@ -36,7 +36,7 @@ templates:
     collection_mode: hide
     collection_order: title.asc
     label.sync: Parental
-    item_label.sync: Parental # Enable on initial run
+    # item_label.sync: Parental # Enable on initial run
     visible_home: false
     visible_shared: false
     visible_library: false
