@@ -94,7 +94,7 @@ collections:
 
   "Top Rated Movies":
     summary: Top rated movies across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/toprated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/top-rated.png
     schedule: daily
     template: {
                     name: imdb_top,

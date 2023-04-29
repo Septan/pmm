@@ -41,6 +41,7 @@ templates:
 collections:
   "Top Rated in Absurdism":
     summary: "Top rated movies in Absurdism"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-absurdism.png
     template: {
                     name: sub_genre,
                     keywords: "absurdism",
@@ -54,6 +55,7 @@ collections:
 
   "Top Rated in Aliens":
     summary: "Top rated movies in Aliens"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-aliens.png
     template: {
                     name: sub_genre,
                     keywords: "alien,alien-invasion",
@@ -67,6 +69,7 @@ collections:
 
   "Top Rated in Alternate History":
     summary: "Top rated movies in Alternate History"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-alternate-history.png
     template: {
                     name: sub_genre,
                     keywords: "alternate-history",
@@ -80,6 +83,7 @@ collections:
 
   "Top Rated in Anti-Hero":
     summary: "Top rated movies in Anti-Hero"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-anti-hero.png
     template: {
                     name: sub_genre,
                     keywords: "anti-hero,superhero",
@@ -93,6 +97,7 @@ collections:
 
   "Top Rated in Apocalypse":
     summary: "Top rated movies in Apocalypse"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-apocalypse.png
     template: {
                     name: sub_genre,
                     keywords: "apocalypse,end-of-the-world",
@@ -106,6 +111,7 @@ collections:
 
   "Top Rated in Artificial Intelligence":
     summary: "Top rated movies in Artificial Intelligence"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-artificial-intelligence.png
     template: {
                     name: sub_genre,
                     keywords: "artificial-intelligence",
@@ -119,6 +125,7 @@ collections:
 
   "Top Rated in Assassins":
     summary: "Top rated movies in Assassins"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-assassins.png
     template: {
                     name: sub_genre,
                     keywords: "assassination-attempt",
@@ -132,6 +139,7 @@ collections:
 
   "Top Rated in Betrayal":
     summary: "Top rated movies in Betrayal"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-betrayal.png
     template: {
                     name: sub_genre,
                     keywords: "betrayal",
@@ -145,6 +153,7 @@ collections:
 
   "Top Rated in Black Comedy":
     summary: "Top rated movies in Black Comedy"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-black-comedy.png
     template: {
                     name: sub_genre,
                     keywords: "black-comedy",
@@ -158,6 +167,7 @@ collections:
 
   "Top Rated in Boxing":
     summary: "Top rated movies in Boxing"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-boxing.png
     template: {
                     name: sub_genre,
                     keywords: "boxing",
@@ -172,6 +182,7 @@ collections:
 
   "Top Rated in Bugs":
     summary: "Top rated movies in Bugs"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-bugs.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -186,6 +197,7 @@ collections:
 
   "Top Rated in Cannibals":
     summary: "Top rated movies in Cannibals"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-cannibals.png
     template: {
                     name: sub_genre,
                     keywords: "cannibalism,cannibal",
@@ -199,6 +211,7 @@ collections:
 
   "Top Rated in Caper":
     summary: "Top rated movies in Caper"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-caper.png
     template: {
                     name: sub_genre,
                     keywords: "caper",
@@ -212,6 +225,7 @@ collections:
 
   "Top Rated in Chick-flick":
     summary: "Top rated movies in Chick-flick"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-chick-flick.png
     template: {
                     name: sub_genre,
                     keywords: "chick-flick",
@@ -227,6 +241,7 @@ collections:
 
   "Top Rated in Comics":
     summary: "Top rated movies in Comics"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-comics.png
     template: {
                     name: sub_genre,
                     keywords: "based-on-comic",
@@ -240,6 +255,7 @@ collections:
 
   "Top Rated in Coming of Age":
     summary: "Top rated movies in Coming of Age"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-coming-of-age.png
     template: {
                     name: sub_genre,
                     keywords: "coming-of-age,friendship,teenage-boy,teenage-girl",
@@ -253,6 +269,7 @@ collections:
 
   "Top Rated in Con-Artists":
     summary: "Top rated movies in Con-Artists"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-con-artists.png
     template: {
                     name: sub_genre,
                     keywords: "con-artist,con-man",
@@ -266,6 +283,7 @@ collections:
 
   "Top Rated in Cop":
     summary: "Top rated movies in Cop"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-cop.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -280,6 +298,7 @@ collections:
 
   "Top Rated in Costume Drama":
     summary: "Top rated movies in Costume Drama"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-drama.png
     template: {
                     name: sub_genre,
                     keywords: "costume-drama",
@@ -293,6 +312,7 @@ collections:
 
   "Top Rated in Courtroom":
     summary: "Top rated movies in Courtroom"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-courtroom.png
     template: {
                     name: sub_genre,
                     keywords: "courtroom,judge,lawyer",
@@ -306,6 +326,7 @@ collections:
 
   "Top Rated in Cyberpunk":
     summary: "Top rated movies in Cyberpunk"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-cyberpunk.png
     template: {
                     name: sub_genre,
                     keywords: "cyberpunk,future",
@@ -319,6 +340,7 @@ collections:
 
   "Top Rated in Dark Fantasy":
     summary: "Top rated movies in Dark Fantasy"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-dark-fantasy.png
     template: {
                     name: sub_genre,
                     keywords: "dark-fantasy",
@@ -332,6 +354,7 @@ collections:
 
   "Top Rated in Detective":
     summary: "Top rated movies in Detective"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-detective.png
     template: {
                     name: sub_genre,
                     keywords: "detective,police-detective",
@@ -345,6 +368,7 @@ collections:
 
   "Top Rated in Disaster":
     summary: "Top rated movies in Disaster"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-disaster.png
     template: {
                     name: sub_genre,
                     keywords: "disaster,disaster-film",
@@ -358,6 +382,7 @@ collections:
 
   "Top Rated in Dragons":
     summary: "Top rated movies in Dragons"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-dragons.png
     template: {
                     name: sub_genre,
                     keywords: "dragon",
@@ -371,6 +396,7 @@ collections:
 
   "Top Rated in Dystopian":
     summary: "Top rated movies in Dystopian"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-dystopian.png
     template: {
                     name: sub_genre,
                     keywords: "dystopia",
