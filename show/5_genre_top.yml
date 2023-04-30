@@ -58,7 +58,7 @@ collections:
 
   "Top Rated in Biography":
     summary: "Top rated TV shows in Biography"
-        url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-biography.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-biography.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
@@ -71,7 +71,7 @@ collections:
 
   "Top Rated in Comedy":
     summary: "Top rated TV shows in Comedy"
-        url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-comedy.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-comedy.png
     schedule: weekly(thursday)
     template: {
                     name: genre,
