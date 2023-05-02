@@ -61,7 +61,7 @@ collections:
 
   "Top Rated of the 1970s":
     summary: "Top rated movies of the 1970s"
-      url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-1970s.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-1970s.png
     schedule: weekly(wednesday)
     template: {
                     name: decade,
