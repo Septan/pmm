@@ -225,6 +225,18 @@ collections:
                     languages: "en",
                     }
 
+  "Top Rated in Shorts":
+    summary: "Top rated movies in Shorts"
+    schedule: weekly(thursday)
+    template: {
+                    name: genre,
+                    genres: "short",
+                    title_type: "short_film",
+                    user_rating: "5.0,10.0",
+                    votes: "10000,",
+                    languages: "en",
+                    }
+
   "Top Rated in Thriller":
     summary: "Top rated movies in Thriller"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-thriller.png
