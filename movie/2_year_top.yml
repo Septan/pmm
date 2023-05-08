@@ -89,7 +89,7 @@ collections:
 
   "Top Rated of 2018":
     summary: "Top rated movies in 2018"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2018.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2018.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -103,7 +103,7 @@ collections:
 
   "Top Rated of 2017":
     summary: "Top rated movies in 2017"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2017.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2017.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -117,7 +117,7 @@ collections:
 
   "Top Rated of 2016":
     summary: "Top rated movies in 2016"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2016.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2016.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -131,7 +131,7 @@ collections:
 
   "Top Rated of 2015":
     summary: "Top rated movies in 2015"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2015.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2015.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -145,7 +145,7 @@ collections:
 
   "Top Rated of 2014":
     summary: "Top rated movies in 2014"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2014.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2014.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -173,7 +173,7 @@ collections:
 
   "Top Rated of 2012":
     summary: "Top rated movies in 2012"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/year/top-rated-2012.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2012.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
