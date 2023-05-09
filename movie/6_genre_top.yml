@@ -227,6 +227,7 @@ collections:
 
   "Top Rated in Shorts":
     summary: "Top rated movies in Shorts"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/top-rated-shorts.png
     schedule: weekly(thursday)
     template: {
                     name: genre,

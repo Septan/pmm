@@ -195,6 +195,7 @@ collections:
 
   "Popular in Shorts":
     summary: "Popular movies in Shorts"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-shorts.png
     schedule: daily
     template: {
                     name: popular,
