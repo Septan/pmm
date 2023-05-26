@@ -42,13 +42,6 @@ templates:
       - <<letterboxd_extra_3>>
       - <<letterboxd_extra_4>>
       - <<letterboxd_extra_5>>
-    trakt_list:
-      - https://trakt.tv/users/madepidemic1/lists/<<trakt_list>>/
-      - <<trakt_extra_1>>
-      - <<trakt_extra_2>>
-      - <<trakt_extra_3>>
-      - <<trakt_extra_4>>
-      - <<trakt_extra_5>>
 
 collections:
   "Top Rated in Absurdism":
@@ -218,8 +211,10 @@ collections:
                     user_rating: "2.0,10.0",
                     votes: "100,",
                     languages: "en",
-                    trakt_list: "theme-cannibals"
+                    letterboxd_list: "theme-cannibals"
                     }
+    trakt_list:
+     - https://trakt.tv/users/madepidemic1/lists/theme-cannibals
 
   "Top Rated in Caper":
     summary: "Top rated movies in Caper"
