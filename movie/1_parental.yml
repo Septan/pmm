@@ -41,6 +41,7 @@ templates:
     visible_shared: false
     visible_library: false
     delete_not_scheduled: false
+    collection_order: alpha
     cache_builders: 6
     mdblist_list:
       url: https://mdblist.com/lists/<<mdblist_user>>/<<mdblist_list>>/
@@ -52,7 +53,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-all.png
     template: {
                     name: mdblist,
-                    num: "V",
+                    num: "A",
                     mdblist_user: "a2u2y13",
                     mdblist_list: "list-suitable-for-children"
                     }
@@ -60,23 +61,22 @@ collections:
   "Parental: Random":
     summary: "Random movies suitable for children"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-random.png
-    schedule: daily
     template: {
                     name: plex,
-                    num: "W"
+                    num: "B"
                     }
     smart_filter:
       all:
         collection: "Parental: All"
       sort_by: random
-      limit: 500
+      limit: 250
 
   "Parental: Recently Released":
     summary: "Recently released movies suitable for children"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-recently-released.png
     template: {
                     name: plex,
-                    num: "X"
+                    num: "C"
                     }
     smart_filter:
       all:
@@ -89,7 +89,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-recently-added.png
     template: {
                     name: plex_added,
-                    num: "Y"
+                    num: "D"
                     }
     smart_filter:
       all:
@@ -102,7 +102,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-top-rated.png
     template: {
                     name: plex,
-                    num: "Z"
+                    num: "E"
                     }
     smart_filter:
       all:
