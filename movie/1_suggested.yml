@@ -68,7 +68,7 @@ collections:
 
   "Trending Movies":
     summary: Movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/trending.png
+    url_poster: https://images2.imgbox.com/ee/c6/sGdBToVv_o.png
     schedule: daily
     template: {
                     name: trakt,
@@ -77,11 +77,13 @@ collections:
     trakt_chart:
       chart: trending
       time_period: daily
+      languages: en
+      countries: us, gb, ie, ca, au, nz
       limit: 50
 
   "Popular Movies":
     summary: Popular movies across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/popular.png
+    url_poster: https://images2.imgbox.com/55/ba/Z1GU6NcR_o.png
     visible_library: true
     schedule: daily
     template: {
@@ -94,7 +96,7 @@ collections:
 
   "Top Rated Movies":
     summary: Top rated movies across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/top-rated.png
+    url_poster: https://images2.imgbox.com/0c/63/FiXfE8HU_o.png
     schedule: daily
     template: {
                     name: imdb_top,
@@ -108,7 +110,7 @@ collections:
 
   "Most Watched Daily":
     summary: Movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/dailymw.png
+    url_poster: https://images2.imgbox.com/cc/22/dzvWyJsq_o.png
     schedule: daily
     template: {
                     name: trakt,
@@ -117,11 +119,13 @@ collections:
     trakt_chart:
       chart: watched
       time_period: daily
+      languages: en
+      countries: us, gb, ie, ca, au, nz
       limit: 50
 
   "Most Watched Weekly":
     summary: Movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/weeklymw.png
+    url_poster: https://images2.imgbox.com/07/a7/PWLNejJY_o.png
     schedule: daily
     template: {
                     name: trakt,
@@ -130,11 +134,13 @@ collections:
     trakt_chart:
       chart: watched
       time_period: weekly
+      languages: en
+      countries: us, gb, ie, ca, au, nz
       limit: 50
 
   "Most Watched Monthly":
     summary: Movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/monthlymw.png
+    url_poster: https://images2.imgbox.com/c2/61/RlIeTpf8_o.png
     schedule: weekly(sunday)
     template: {
                     name: trakt,
@@ -143,11 +149,13 @@ collections:
     trakt_chart:
       chart: watched
       time_period: monthly
+      languages: en
+      countries: us, gb, ie, ca, au, nz
       limit: 75
 
   "Most Watched Yearly":
     summary: Movies trending across the internet
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/yearlymw.png
+    url_poster: https://images2.imgbox.com/a5/aa/CVhylnXG_o.png
     schedule: weekly(sunday)
     template: {
                     name: trakt,
@@ -156,4 +164,6 @@ collections:
     trakt_chart:
       chart: watched
       time_period: yearly
+      languages: en
+      countries: us, gb, ie, ca, au, nz
       limit: 100
