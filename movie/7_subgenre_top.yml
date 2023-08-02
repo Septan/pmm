@@ -305,7 +305,7 @@ collections:
 
   "Top Rated in Costume Drama":
     summary: "Top rated movies in Costume Drama"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-drama.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-costume-drama.png
     template: {
                     name: sub_genre,
                     keywords: "costume-drama",
@@ -735,7 +735,7 @@ collections:
 
   "Top Rated in Mythology":
     summary: "Top rated movies in Mythology"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-myhology.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-mythology.png
     template: {
                     name: sub_genre,
                     keywords: "mythology",
