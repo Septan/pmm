@@ -137,18 +137,18 @@ collections:
   #   url_poster: https://theposterdb.com/api/assets/51773
   #   add_to_arr: false
 
-  Stand-Up Comedy Collection:
-    imdb_list:
-      - https://www.imdb.com/list/ls070221411/
-      - https://www.imdb.com/list/ls086584751/
-      - https://www.imdb.com/list/ls086022668/
-      - https://www.imdb.com/list/ls049792208/
-    collection_order: alpha
-    collection_mode: default
-    sort_title: ++++++++++++++++++_Stand-Up Collection
-    summary: Stand-up comedy is a comedic style in which a comedian performs in front of a live audience, speaking directly to them through a microphone. Comedians give the illusion that they are dialoguing, but in actuality, they are monologuing a grouping of humorous stories, jokes and one-liners, typically called a shtick, routine, act, or set. Some stand-up comedians use props, music or magic tricks to enhance their acts. Stand-up comedians perform quasi-autobiographical and fictionalized extensions of their offstage selves.
-    url_poster: https://theposterdb.com/api/assets/49137
-    add_to_arr: false
+  # Stand-Up Comedy Collection:
+  #   imdb_list:
+  #     - https://www.imdb.com/list/ls070221411/
+  #     - https://www.imdb.com/list/ls086584751/
+  #     - https://www.imdb.com/list/ls086022668/
+  #     - https://www.imdb.com/list/ls049792208/
+  #   collection_order: alpha
+  #   collection_mode: default
+  #   sort_title: ++++++++++++++++++_Stand-Up Collection
+  #   summary: Stand-up comedy is a comedic style in which a comedian performs in front of a live audience, speaking directly to them through a microphone. Comedians give the illusion that they are dialoguing, but in actuality, they are monologuing a grouping of humorous stories, jokes and one-liners, typically called a shtick, routine, act, or set. Some stand-up comedians use props, music or magic tricks to enhance their acts. Stand-up comedians perform quasi-autobiographical and fictionalized extensions of their offstage selves.
+  #   url_poster: https://theposterdb.com/api/assets/49137
+  #   add_to_arr: false
 
 
   # Christmas Collection:
