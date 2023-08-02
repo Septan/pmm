@@ -17,13 +17,28 @@ templates:
       limit: 250
 
 collections:
-  "Top Rated of the 1940s":
-    summary: "Top rated movies of the 1940s"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-1940s.png
+  "Top Rated of the 1930s":
+    summary: "Top rated movies of the 1930s"
+    url_poster: https://images2.imgbox.com/13/21/ouGDrOVt_o.png
     schedule: weekly(wednesday)
     template: {
                     name: decade,
                     num: "Z",
+                    release_date: "1930-01-01,1939-12-31",
+                    title_type: "feature,tv_movie",
+                    user_rating: "5.0,10.0",
+                    votes: "1000,",
+                    languages: "en"
+                    }
+
+collections:
+  "Top Rated of the 1940s":
+    summary: "Top rated movies of the 1940s"
+    url_poster: https://images2.imgbox.com/5e/c9/4SdoK0eP_o.png
+    schedule: weekly(wednesday)
+    template: {
+                    name: decade,
+                    num: "Y",
                     release_date: "1940-01-01,1949-12-31",
                     title_type: "feature,tv_movie",
                     user_rating: "5.0,10.0",
@@ -33,11 +48,11 @@ collections:
 
   "Top Rated of the 1950s":
     summary: "Top rated movies of the 1950s"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-1950s.png
+    url_poster: https://images2.imgbox.com/4b/ea/VGFomFYE_o.png
     schedule: weekly(wednesday)
     template: {
                     name: decade,
-                    num: "Y",
+                    num: "X",
                     release_date: "1950-01-01,1959-12-31",
                     title_type: "feature,tv_movie",
                     user_rating: "5.0,10.0",
@@ -47,11 +62,11 @@ collections:
 
   "Top Rated of the 1960s":
     summary: "Top rated movies of the 1960s"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-1960s.png
+    url_poster: https://images2.imgbox.com/86/17/DiJAAecV_o.png
     schedule: weekly(wednesday)
     template: {
                     name: decade,
-                    num: "X",
+                    num: "W",
                     release_date: "1960-01-01,1969-12-31",
                     title_type: "feature,tv_movie",
                     user_rating: "5.0,10.0",
@@ -61,11 +76,11 @@ collections:
 
   "Top Rated of the 1970s":
     summary: "Top rated movies of the 1970s"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-1970s.png
+    url_poster: https://images2.imgbox.com/79/ed/aHJ5afFU_o.png
     schedule: weekly(wednesday)
     template: {
                     name: decade,
-                    num: "W",
+                    num: "V",
                     release_date: "1970-01-01,1979-12-31",
                     title_type: "feature,tv_movie",
                     user_rating: "5.0,10.0",
@@ -75,11 +90,11 @@ collections:
 
   "Top Rated of the 1980s":
     summary: "Top rated movies of the 1980s"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-1980s.png
+    url_poster: https://images2.imgbox.com/75/64/42CyHVA7_o.png
     schedule: weekly(wednesday)
     template: {
                     name: decade,
-                    num: "V",
+                    num: "U",
                     release_date: "1980-01-01,1989-12-31",
                     title_type: "feature,tv_movie",
                     user_rating: "5.0,10.0",
@@ -89,11 +104,11 @@ collections:
 
   "Top Rated of the 1990s":
     summary: "Top rated movies of the 1990s"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-1990s.png
+    url_poster: https://images2.imgbox.com/87/14/PhAweINN_o.png
     schedule: weekly(wednesday)
     template: {
                     name: decade,
-                    num: "U",
+                    num: "T",
                     release_date: "1990-01-01,1999-12-31",
                     title_type: "feature,tv_movie",
                     user_rating: "5.0,10.0",
@@ -103,11 +118,11 @@ collections:
 
   "Top Rated of the 2000s":
     summary: "Top rated movies of the 2000s"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2000s.png
+    url_poster: https://images2.imgbox.com/c2/b7/KwIzYeF4_o.png
     schedule: weekly(wednesday)
     template: {
                     name: decade,
-                    num: "T",
+                    num: "S",
                     release_date: "2000-01-01,2009-12-31",
                     title_type: "feature,tv_movie",
                     user_rating: "5.0,10.0",
@@ -117,11 +132,11 @@ collections:
 
   "Top Rated of the 2010s":
     summary: "Top rated movies of the 2010s"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2010s.png
+    url_poster: https://images2.imgbox.com/a7/92/ngi1xucn_o.png
     schedule: weekly(wednesday)
     template: {
                     name: decade,
-                    num: "S",
+                    num: "R",
                     release_date: "2010-01-01,2019-12-31",
                     title_type: "feature,tv_movie",
                     user_rating: "5.0,10.0",
@@ -131,11 +146,11 @@ collections:
 
   "Top Rated of the 2020s":
     summary: "Top rated movies of the 2020s"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2020s.png
+    url_poster: https://images2.imgbox.com/92/06/ksMEWjYl_o.png
     schedule: weekly(wednesday)
     template: {
                     name: decade,
-                    num: "R",
+                    num: "P",
                     release_date: "2020-01-01,2029-12-31",
                     title_type: "feature,tv_movie",
                     user_rating: "5.0,10.0",
