@@ -1,0 +1,73 @@
+## 1_documentary.yml
+
+templates:
+  plex:
+    sort_title: "+1_<<num>>_<<collection_name>>"
+    sync_mode: sync
+    collection_mode: hide
+    visible_home: false
+    visible_shared: false
+    visible_library: false
+    delete_not_scheduled: false
+    cache_builders: 4
+
+collections:
+  "Documentaries: All":
+    summary: "Documentaries"
+    template: {
+                    name: plex,
+                    num: "F"
+                    }
+    smart_filter:
+      all:
+        genre: documentary
+      sort_by: title.asc
+
+  "Documentaries: Random":
+    summary: "Random documentaries"
+    template: {
+                    name: plex,
+                    num: "G"
+                    }
+    smart_filter:
+      all:
+        genre: documentary
+      sort_by: random
+      limit: 250
+
+  "Documentaries: Recently Released":
+    summary: "Recently released documentaries"
+    template: {
+                    name: plex,
+                    num: "H"
+                    }
+    smart_filter:
+      all:
+        genre: documentary
+      sort_by: release.desc
+      limit: 250
+
+  "Documentaries: Recently Added":
+    summary: "Recently added documentaries"
+    visible_library: true 
+    template: {
+                    name: plex,
+                    num: "I"
+                    }
+    smart_filter:
+      all:
+        genre: documentary
+      sort_by: added.desc
+      limit: 100
+
+  "Documentaries: Top Rated":
+    summary: "Top rated documentaries"
+    template: {
+                    name: plex,
+                    num: "J"
+                    }
+    smart_filter:
+      all:
+        genre: documentary
+      sort_by: critic_rating.desc
+      limit: 250
