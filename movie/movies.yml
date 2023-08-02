@@ -22,13 +22,13 @@
 ##NOTE:
 ###I have add_to_arr set to FALSE, if you wan't these added to Radarr change to TRUE
 collections:
-  Rare & Obscure Movies:
+  Rare & Obscure:
     trakt_list:
      - https://trakt.tv/users/ld667/lists/fifty-seven-great-obscure-movies
      - https://trakt.tv/users/madepidemic1/lists/rare-obscure
     collection_order: alpha
     collection_mode: default
-    sort_title: ++++++++++++++++++_Rare & Obscure Movies
+    sort_title: ++++++++++++++++++_Rare & Obscure
     summary: Rare and obscure movies often appeal to cinephiles and movie enthusiasts who are interested in exploring lesser-known films and discovering hidden gems. These movies can range from cult classics to experimental art films and everything in between.
     url_poster: https://cdn.discordapp.com/attachments/1096584253527036095/1096603138464698418/RareObscure.png
     add_to_arr: false
