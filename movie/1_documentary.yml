@@ -14,6 +14,7 @@ templates:
 collections:
   "Documentaries: All":
     summary: "Documentaries"
+    url_poster: https://images2.imgbox.com/8e/59/r57Dls2s_o.png
     template: {
                     name: plex,
                     num: "F"
@@ -25,6 +26,7 @@ collections:
 
   "Documentaries: Random":
     summary: "Random documentaries"
+    url_poster: https://images2.imgbox.com/51/0a/nmhnOYmg_o.png
     template: {
                     name: plex,
                     num: "G"
@@ -37,6 +39,7 @@ collections:
 
   "Documentaries: Recently Released":
     summary: "Recently released documentaries"
+    url_poster: https://images2.imgbox.com/df/c4/azWkTn6w_o.png
     template: {
                     name: plex,
                     num: "H"
@@ -49,6 +52,7 @@ collections:
 
   "Documentaries: Recently Added":
     summary: "Recently added documentaries"
+    url_poster: https://images2.imgbox.com/e5/03/lH76xar1_o.png
     visible_library: true 
     template: {
                     name: plex,
@@ -62,6 +66,7 @@ collections:
 
   "Documentaries: Top Rated":
     summary: "Top rated documentaries"
+    url_poster: https://images2.imgbox.com/bd/ee/mZLYxGt5_o.png
     template: {
                     name: plex,
                     num: "J"
