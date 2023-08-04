@@ -44,6 +44,7 @@ templates:
 collections:
   "Stand-up: All":
     summary: "Stand-up"
+    url_poster: https://images2.imgbox.com/04/f0/RM0zTp0P_o.png
     template: {
                     name: mdblist,
                     num: "K",
@@ -53,6 +54,7 @@ collections:
 
   "Stand-up: Random":
     summary: "Random Stand-up"
+    url_poster: https://images2.imgbox.com/2a/57/JRxQLoUr_o.png
     template: {
                     name: plex,
                     num: "L"
@@ -65,6 +67,7 @@ collections:
 
   "Stand-up: Recently Released":
     summary: "Recently released Stand-up"
+    url_poster: https://images2.imgbox.com/24/da/eJ9epiyC_o.png
     template: {
                     name: plex,
                     num: "M"
@@ -77,6 +80,7 @@ collections:
 
   "Stand-up: Recently Added":
     summary: "Recently added Stand-up"
+    url_poster: https://images2.imgbox.com/77/5f/v22tSniv_o.png
     template: {
                     name: plex_added,
                     num: "N"
@@ -89,6 +93,7 @@ collections:
 
   "Stand-up: Top Rated":
     summary: "Top rated Stand-up"
+    url_poster: https://images2.imgbox.com/dc/e9/t3Tr7ngi_o.png
     template: {
                     name: plex,
                     num: "O"
