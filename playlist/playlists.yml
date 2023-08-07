@@ -37,7 +37,7 @@ playlists:
     summary: All Star Trek canon in chronological order. Does not include Kelvinverse movies.
   "Star Wars: The Clone Wars - Chronological Order":
     template: {name: order, cache: 365, library: TV Shows, Movies, Animated Series, user: tomfin46, trakt: star-wars-the-clone-wars-chronological-episode-order}
-    summary: Star Wars: The Clone Wars, set between Episode II and III, added to the Star Wars universe like nothing else before it. The beloved animated series took us to strange worlds, explored classic characters, and introduced new heroes and villains. Now that the series is complete and available on Netflix, StarWars.com presents an official chronological order of the show’s 121 episodes, as well as the feature film that started it all. Get ready to have a LONG viewing party.
+    summary: Star Wars: The Clone Wars, set between Episode II and III, added to the Star Wars universe like nothing else before it. The beloved animated series took us to strange worlds, explored classic characters, and introduced new heroes and villains. Now that the series is complete and available on Netflix, StarWars.com presents an official chronological order of the shows 121 episodes, as well as the feature film that started it all. Get ready to have a LONG viewing party.
   X-Man Timeline Order:
     template: {name: order, cache: 365, library: TV Shows, Movies, Animated Series, user: heyitsbea, trakt: x-men}
     summary: Timeline order of the X-Man
