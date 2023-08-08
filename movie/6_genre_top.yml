@@ -234,7 +234,7 @@ collections:
                     genres: "short",
                     title_type: "short_film",
                     user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    votes: "500,",
                     languages: "en",
                     }
 
