@@ -19,7 +19,7 @@ templates:
 collections:
   "Popular in Action":
     summary: "Popular TV shows in Action"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-action.png
+    url_poster: https://images2.imgbox.com/88/a7/u2lPRZBa_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -30,7 +30,7 @@ collections:
 
   "Popular in Adventure":
     summary: "Popular TV shows in Adventure"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-adventure.png
+    url_poster: https://images2.imgbox.com/62/4f/ikh2up5m_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -41,7 +41,7 @@ collections:
 
   "Popular in Animation":
     summary: "Popular TV shows in Animation"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-animation.png
+    url_poster: https://images2.imgbox.com/dc/01/kZMRB1ck_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -52,7 +52,7 @@ collections:
 
   "Popular in Biography":
     summary: "Popular TV shows in Biography"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-biography.png
+    url_poster: https://images2.imgbox.com/f3/85/WzSpkYzE_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -63,7 +63,7 @@ collections:
 
   "Popular in Comedy":
     summary: "Popular TV shows in Comedy"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-comedy.png
+    url_poster: https://images2.imgbox.com/86/9c/Czwboh2j_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -74,7 +74,7 @@ collections:
 
   "Popular in Crime":
     summary: "Popular TV shows in Crime"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-crime.png
+    url_poster: https://images2.imgbox.com/43/95/I4sdDt9z_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -85,7 +85,7 @@ collections:
 
   "Popular in Drama":
     summary: "Popular TV shows in Drama"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-drama.png
+    url_poster: https://images2.imgbox.com/3a/88/rTwkiTUh_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -96,7 +96,7 @@ collections:
 
   "Popular in Family":
     summary: "Popular TV shows in Family"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-family.png
+    url_poster: https://images2.imgbox.com/18/31/ugIUzK9n_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -107,7 +107,7 @@ collections:
 
   "Popular in Fantasy":
     summary: "Popular TV shows in Fantasy"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-fantasy.png
+    url_poster: https://images2.imgbox.com/ae/71/IuyxAInh_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -118,7 +118,7 @@ collections:
 
   "Popular in History":
     summary: "Popular TV shows in History"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-history.png
+    url_poster: https://images2.imgbox.com/2b/64/JAyAGgxb_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -129,7 +129,7 @@ collections:
 
   "Popular in Horror":
     summary: "Popular TV shows in Horror"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-horror.png
+    url_poster: https://images2.imgbox.com/3a/57/pPgBdN3y_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -140,7 +140,7 @@ collections:
 
   "Popular in Music":
     summary: "Popular TV shows in Music"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-music.png
+    url_poster: https://images2.imgbox.com/a7/64/Fzl9fF36_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -151,7 +151,7 @@ collections:
 
   "Popular in Musicals":
     summary: "Popular TV shows in Musicals"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-musicals.png
+    url_poster: https://images2.imgbox.com/ab/24/OCyAJwlk_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -162,7 +162,7 @@ collections:
 
   "Popular in Mystery":
     summary: "Popular TV shows in Mystery"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-mystery.png
+    url_poster: https://images2.imgbox.com/dc/f0/g1aJBoHZ_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -173,7 +173,7 @@ collections:
 
   "Popular in Romance":
     summary: "Popular TV shows in Romance"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-romance.png
+    url_poster: https://images2.imgbox.com/33/91/h91gnIoJ_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -184,7 +184,7 @@ collections:
 
   "Popular in Sci-Fi":
     summary: "Popular TV shows in Sci-Fi"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-sci-fi.png
+    url_poster: https://images2.imgbox.com/ea/60/XhHF1iyn_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -193,9 +193,20 @@ collections:
                     languages: "en",
                     }
 
+  "Popular in Shorts":
+    summary: "Popular movies in Shorts"
+    url_poster: https://images2.imgbox.com/e3/34/8hV5Ezf6_o.png
+    schedule: daily
+    template: {
+                    name: popular,
+                    genres: "short",
+                    title_type: "tv_series,tv_special,tv_miniseries",
+                    languages: "en",
+                    }
+
   "Popular in Thriller":
     summary: "Popular TV shows in Thriller"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-thriller.png
+    url_poster: https://images2.imgbox.com/3b/9e/OxQMkeAf_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -206,7 +217,7 @@ collections:
 
   "Popular in War":
     summary: "Popular TV shows in War"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-war.png
+    url_poster: https://images2.imgbox.com/8d/0e/eTvLQNP7_o.png
     schedule: daily
     template: {
                     name: popular,
@@ -217,7 +228,7 @@ collections:
 
   "Popular in Western":
     summary: "Popular TV shows in Western"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/genre/popular-western.png
+    url_poster: https://images2.imgbox.com/60/5e/ZQa1dSds_o.png
     schedule: daily
     template: {
                     name: popular,

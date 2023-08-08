@@ -19,7 +19,7 @@ templates:
 collections:
   "Top Rated of 2023":
     summary: "Top rated TV shows in 2023"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2023.png
+    url_poster: https://images2.imgbox.com/91/53/LgP0wFIS_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -33,7 +33,7 @@ collections:
 
   "Top Rated of 2022":
     summary: "Top rated TV shows in 2022"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2022.png
+    url_poster: https://images2.imgbox.com/c2/a8/CL6uWsYe_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -47,7 +47,7 @@ collections:
 
   "Top Rated of 2021":
     summary: "Top rated TV shows in 2021"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2021.png
+    url_poster: https://images2.imgbox.com/21/05/eNBE7zoq_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -61,7 +61,7 @@ collections:
 
   "Top Rated of 2020":
     summary: "Top rated TV shows in 2020"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2020.png
+    url_poster: https://images2.imgbox.com/51/25/cjsfwZas_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -75,7 +75,7 @@ collections:
 
   "Top Rated of 2019":
     summary: "Top rated TV shows in 2019"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2019.png
+    url_poster: https://images2.imgbox.com/ae/6b/5frEL7AM_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -89,7 +89,7 @@ collections:
 
   "Top Rated of 2018":
     summary: "Top rated TV shows in 2018"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2018.png
+    url_poster: https://images2.imgbox.com/9d/7a/ykCdsDzB_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -103,7 +103,7 @@ collections:
 
   "Top Rated of 2017":
     summary: "Top rated TV shows in 2017"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2017.png
+    url_poster: https://images2.imgbox.com/6d/46/y150IN1x_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -117,7 +117,7 @@ collections:
 
   "Top Rated of 2016":
     summary: "Top rated TV shows in 2016"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2016.png
+    url_poster: https://images2.imgbox.com/c6/4f/pDsdeILe_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -131,7 +131,7 @@ collections:
 
   "Top Rated of 2015":
     summary: "Top rated TV shows in 2015"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2015.png
+    url_poster: https://images2.imgbox.com/02/cb/4cbVD6IO_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -145,7 +145,7 @@ collections:
 
   "Top Rated of 2014":
     summary: "Top rated TV shows in 2014"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2014.png
+    url_poster: https://images2.imgbox.com/b4/bf/WBpDm5AB_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -159,7 +159,7 @@ collections:
 
   "Top Rated of 2013":
     summary: "Top rated TV shows in 2013"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2013.png
+    url_poster: https://images2.imgbox.com/2d/81/t55G3X82_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -173,7 +173,7 @@ collections:
 
   "Top Rated of 2012":
     summary: "Top rated TV shows in 2012"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2012.png
+    url_poster: https://images2.imgbox.com/d3/3b/HWa6Q3Vk_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -187,7 +187,7 @@ collections:
 
   "Top Rated of 2011":
     summary: "Top rated TV shows in 2011"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2011.png
+    url_poster: https://images2.imgbox.com/2e/2f/ciQZQnLo_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,
@@ -201,7 +201,7 @@ collections:
 
   "Top Rated of 2010":
     summary: "Top rated TV shows in 2010"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2010.png
+    url_poster: https://images2.imgbox.com/03/77/oELxJqVY_o.png
     schedule: weekly(tuesday)
     template: {
                     name: year,

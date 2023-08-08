@@ -53,7 +53,7 @@ templates:
 collections:
   "Random Movies":
     summary: Random selection of movies
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/chart/random.png
+    url_poster: https://images2.imgbox.com/7c/7f/Zx202214_o.png
     visible_library: true
     schedule: daily
     template: {
