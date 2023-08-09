@@ -1,0 +1,101 @@
+## 1_criterion.yml
+
+templates:
+  plex:
+    sort_title: "+1_<<num>>_<<collection_name>>"
+    sync_mode: sync
+    collection_mode: hide
+    label.sync: Criterion
+    item_label.sync: Criterion
+    visible_home: false
+    visible_shared: false
+    visible_library: false
+    delete_not_scheduled: false
+    cache_builders: 4
+
+  mdblist:
+    optional:
+      - mdblist_extra_1
+      - mdblist_extra_2
+      - mdblist_extra_3
+      - mdblist_extra_4
+      - mdblist_extra_5
+    sort_title: "+1_<<num>>_<<collection_name>>"
+    sync_mode: sync
+    collection_mode: hide
+    label.sync: Criterion
+    item_label.sync: Criterion ## Enable on initial run
+    visible_home: false
+    visible_shared: false
+    visible_library: false
+    delete_not_scheduled: false
+    collection_order: alpha
+    cache_builders: 6
+    mdblist_list:
+      url: https://mdblist.com/lists/<<mdblist_user>>/<<mdblist_list>>/
+      sort_by: title.asc
+
+collections:
+  "Criterion: All":
+    summary: "The Criterion Collection"
+    url_poster: https://images2.imgbox.com/f6/9f/d6zqdpSl_o.png
+    template: {
+                    name: mdblist,
+                    num: "P",
+                    mdblist_user: "g4zz0l1",
+                    mdblist_list: "the=criterion-collection"
+                    }
+
+  "Criterion: Random":
+    summary: "Random criterion"
+    url_poster: https://images2.imgbox.com/03/ac/Fo6ODerb_o.png
+    template: {
+                    name: plex,
+                    num: "Q"
+                    }
+    smart_filter:
+      all:
+        collection: "Criterion: All"
+      sort_by: random
+      limit: 250
+
+  "Criterion: Recently Released":
+    summary: "Recently released criterion"
+    url_poster: https://images2.imgbox.com/e2/0a/gqyV1xor_o.png
+    template: {
+                    name: plex,
+                    num: "R"
+                    }
+    smart_filter:
+      all:
+        collection: "Criterion: All"
+      sort_by: random
+      limit: 250
+
+  "Criterion: Recently Added":
+    summary: "Recently added criterion"
+    url_poster: https://images2.imgbox.com/12/0a/PwBDfxAa_o.png
+    visible_library: true 
+    template: {
+                    name: plex,
+                    num: "S"
+                    }
+    smart_filter:
+      all:
+        collection: "Criterion: All"
+      sort_by: random
+      limit: 250
+
+
+  "Criterion: Top Rated":
+    summary: "Top rated criterion"
+    url_poster: https://images2.imgbox.com/b6/9c/QSfWyOnG_o.png
+    template: {
+                    name: plex,
+                    num: "T"
+                    }
+    smart_filter:
+      all:
+        collection: "Criterion: All"
+      sort_by: random
+      limit: 250
