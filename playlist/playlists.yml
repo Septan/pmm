@@ -23,6 +23,21 @@ playlists:
   South Park Top 100 Episodes:
     template: {name: top, cache: 1, library: Animated Series, imdb: tt0121955}
     summary: Top 100 episodes of South Park based on IMDb user rating.
+  Futurama Top 100 Episodes:
+    template: {name: top, cache: 1, library: Animated Series, imdb: tt0149460}
+    summary: Top 100 episodes of Futurama based on IMDb user rating.
+  Adventure Time Top 100 Episodes:
+    template: {name: top, cache: 1, library: Animated Series, imdb: tt1305826}
+    summary: Top 100 episodes of Adventure Time based on IMDb user rating.
+  American Dad! Top 100 Episodes:
+    template: {name: top, cache: 1, library: Animated Series, imdb: tt0397306}
+    summary: Top 100 episodes of American Dad! based on IMDb user rating.
+  SpongeBob SquarePantsTop 100 Episodes:
+    template: {name: top, cache: 1, library: Animated Series, imdb: tt0206512}
+    summary: Top 100 episodes of SpongeBob SquarePants based on IMDb user rating.
+  Family Guy 100 Episodes:
+    template: {name: top, cache: 1, library: Animated Series, imdb: tt0182576}
+    summary: Top 100 episodes of Family Guy based on IMDb user rating.
   Arrowverse Timeline Order:
     template: {name: order, cache: 365, library: TV Shows, Movies, Animated Series, user: donxy, trakt: arrowverse}
     summary: Timeline order of the Arrowverse.
