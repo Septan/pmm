@@ -1,3 +1,32 @@
 metadata:
-  12 Angery Men:
+  "12 Angry Men":
+    year: 1957
+    title: "12 Angry Men"
+    alt_title: "12 Angry Men (1957)"
+    orig_title: "12 Angry Men"
+    sort_title: "12 Angry Men"
     url_poster: https://images2.imgbox.com/87/0d/73LBjzZQ_o.jpg
+  
+  "All About Eve":
+    year: 1950
+    title: "All About Eve"
+    alt_title: "All About Eve (1950)"
+    orig_title: "All About Eve"
+    sort_title: "All About Eve"
+    url_poster: https://thumbs2.imgbox.com/3b/d5/yYMKLKmJ_t.jpg
+
+  "Blood Simple":
+    year: 1985
+    title: "Blood Simple"
+    alt_title: "Blood Simple (1985)"
+    orig_title: "Blood Simple"
+    sort_title: "Blood Simple"
+    url_poster: https://images2.imgbox.com/5c/fd/3mWbL1X7_o.jpg
+
+  "Carnival of Souls":
+    year: 1962
+    title: "Carnvial of Souls"
+    alt_title: "Carnvial of Souls (1962)"
+    orig_title: "Carnvial of Souls"
+    sort_title: "Carnvial of Souls"
+    url_poster: https://thumbs2.imgbox.com/69/35/XfwrOfxu_t.png
