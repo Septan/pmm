@@ -24,7 +24,7 @@ templates:
     sync_mode: sync
     collection_mode: hide
     label.sync: Criterion
-    item_label.sync: Criterion ## Enable on initial run
+    # item_label.sync: Criterion ## Enable on initial run
     visible_home: false
     visible_shared: false
     visible_library: false
