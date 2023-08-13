@@ -128,3 +128,14 @@ metadata:
             url_poster: https://images2.imgbox.com/2a/69/nr4Nkf03_o.png
         3:
             url_poster: https://images2.imgbox.com/0f/42/m1pXrEdH_o.png
+
+  "Animal Control":
+    year: 2023
+    title: "Animal Control"
+    alt_title: "Animal Control (2023)"
+    orig_title: "Animal Control"
+    sort_title: "Animal Control"
+    url_poster: https://images2.imgbox.com/94/e9/5ErNFTpy_o.png
+    seasons:
+        1:
+            url_poster: https://images2.imgbox.com/17/d5/xAqmMCHx_o.png
