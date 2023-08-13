@@ -15,3 +15,89 @@ metadata:
             url_poster: https://images2.imgbox.com/10/cd/rzvLchPG_o.png
         4:  
             url_poster: https://images2.imgbox.com/1b/73/oEedBO9V_o.png
+
+  "Nancy Drew":
+    year: 2019
+    title: "Nancy Drew"
+    alt_title: "Nancy Drew (2019)"
+    orig_title: "Nancy Drew"
+    sort_title: "Nancy Drew"
+    url_poster: https://images2.imgbox.com/3f/a1/jg1qew6o_o.png
+    seasons:
+        1:
+            url_poster: https://images2.imgbox.com/0c/8d/QD7JnNMM_o.png
+        2:  
+            url_poster: https://images2.imgbox.com/37/b8/OZD61ZfJ_o.png
+        3:
+            url_poster: https://images2.imgbox.com/62/80/gvGKQtsC_o.png
+        4:  
+            url_poster: https://images2.imgbox.com/97/0d/KRVjNxtI_o.png
+
+  "The 100":
+    year: 2014
+    title: "The 100"
+    alt_title: "The 100 (2014)"
+    orig_title: "The 100"
+    sort_title: "100"
+    url_poster: https://images2.imgbox.com/69/c1/dzFNvdLa_o.png
+    seasons:
+        # 0:
+        #     url_poster: https://images2.imgbox.com/d1/7b/XdTy7LLs_o.png
+        1:
+            url_poster: https://images2.imgbox.com/c8/d5/WwUNxoao_o.png
+        2:  
+            url_poster: https://images2.imgbox.com/4d/58/pUDnU0Pm_o.png
+        3:
+            url_poster: https://images2.imgbox.com/3e/26/ZYome78P_o.png
+        4:  
+            url_poster: https://images2.imgbox.com/dc/fa/g4aMNwKk_o.png
+        5:
+            url_poster: https://images2.imgbox.com/23/02/iWD5K8OL_o.png
+        6:
+            url_poster: https://images2.imgbox.com/a6/dd/rfMgavx7_o.png
+        7:
+            url_poster: https://images2.imgbox.com/34/af/bFFWlqei_o.png
+
+  "Superman & Lois":
+    year: 2021
+    title: "Superman & Lois"
+    alt_title: "Superman & Lois (2021)"
+    orig_title: "Superman & Lois"
+    sort_title: "Superman & Lois"
+    url_poster: https://images2.imgbox.com/21/33/6W0O5Uy6_o.png
+    seasons:
+        # 0:
+        #     url_poster: https://images2.imgbox.com/84/f2/4i3VXIzR_o.png
+        1:
+            url_poster: https://images2.imgbox.com/f1/53/KZsFOhaa_o.png
+        2:  
+            url_poster: https://images2.imgbox.com/14/03/rMlNqKgT_o.png
+        3:
+            url_poster: https://images2.imgbox.com/a3/3d/Fk04OiyO_o.png
+
+  "The Flash":
+    year: 2014
+    title: "The 100"
+    alt_title: "The Flash (2014)"
+    orig_title: "The Flash"
+    sort_title: "Flash"
+    url_poster: https://images2.imgbox.com/95/ad/nqzaHBf8_o.png
+    seasons:
+        # 0:
+        #     url_poster: https://images2.imgbox.com/ec/b5/TzRCmnvJ_o.png
+        1:
+            url_poster: https://images2.imgbox.com/ad/77/x91WswoW_o.png
+        2:  
+            url_poster: https://images2.imgbox.com/b5/f2/tmSWo4ot_o.png
+        3:
+            url_poster: https://images2.imgbox.com/c9/b2/yKEvu7Z9_o.png
+        4:  
+            url_poster: https://images2.imgbox.com/56/73/fiu97y4r_o.png
+        5:
+            url_poster: https://images2.imgbox.com/52/da/v37UGIXT_o.png
+        6:
+            url_poster: https://images2.imgbox.com/a3/32/bCwPgbnG_o.png
+        7:
+            url_poster: https://images2.imgbox.com/d2/b9/MpqWs6Cu_o.png
+        8:
+            url_poster: https://images2.imgbox.com/d5/6c/P4uiVqq4_o.png
