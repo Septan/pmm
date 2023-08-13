@@ -116,3 +116,46 @@ metadata:
             url_poster: https://images2.imgbox.com/78/8e/5DBjtUWS_o.png
         3:
             url_poster: https://images2.imgbox.com/c2/07/Z4ivmqWy_o.png
+
+  "Stargirl"
+    year: 2020
+    title: "Stargirl"
+    alt_title: "Stargirl (2020)"
+    orig_title: "Stargirl"
+    sort_title: "Stargirl"
+    url_poster: https://images2.imgbox.com/ae/42/FDg8GPz7_o.png
+    seasons:
+        1:
+            url_poster: https://images2.imgbox.com/78/df/HvFNldn0_o.png
+        2:  
+            url_poster: https://images2.imgbox.com/c2/d8/k0y6tJdb_o.png
+        3:
+            url_poster: https://images2.imgbox.com/09/5e/G6zPUNEB_o.png
+
+  "Batwoman"
+    year: 2019
+    title: "Batwoman"
+    alt_title: "Batwoman (2019)"
+    orig_title: "Batwoman"
+    sort_title: "Batwoman"
+    url_poster: https://images2.imgbox.com/69/9e/b7xZWMKi_o.png
+    seasons:
+        1:
+            url_poster: https://images2.imgbox.com/73/34/3eTeC5KY_o.png
+        2:  
+            url_poster: https://images2.imgbox.com/49/a6/fASyMBDP_o.png
+        3:
+            url_poster: https://images2.imgbox.com/49/ae/FBe0xCJ9_o.png
+
+  "Pandora"
+    year: 2019
+    title: "Pandora"
+    alt_title: "Pandora (2019)"
+    orig_title: "Pandora"
+    sort_title: "Pandora"
+    url_poster: https://images2.imgbox.com/fc/48/DJax6RYo_o.png
+    seasons:
+        1:
+            url_poster: https://images2.imgbox.com/8f/39/azAGFzC0_o.png
+        2:  
+            url_poster: https://images2.imgbox.com/0a/45/Ta8FDWoW_o.png
