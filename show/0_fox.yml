@@ -16,7 +16,7 @@ metadata:
         4:  
             url_poster: https://images2.imgbox.com/ee/39/8H7bMRh2_o.png
 
-   "The Resident":
+  "The Resident":
     year: 2018
     title: "The Resident"
     alt_title: "The Resident (2018)"
@@ -37,7 +37,7 @@ metadata:
         6: 
             url_poster: https://images2.imgbox.com/60/b8/mzlI3N2P_o.png
            
-   "Deputy":
+  "Deputy":
     year: 2020
     title: "Deputy"
     alt_title: "Deputy (2020)"
@@ -48,7 +48,7 @@ metadata:
         1:
             url_poster: https://images2.imgbox.com/bb/e8/xmWHCkrQ_o.png
     
-   "Lucifer":
+  "Lucifer":
     year: 2016
     title: "Lucifer"
     alt_title: "Lucifer (2016)"
@@ -70,3 +70,61 @@ metadata:
             url_poster: https://images2.imgbox.com/6b/1e/uirOXLMQ_o.png
         6: 
             url_poster: https://images2.imgbox.com/22/b4/nHoydqfa_o.png
+
+  "The Orville":
+    year: 2017
+    title: "The Orville"
+    alt_title: "The Orville (2017)"
+    orig_title: "The Orville"
+    sort_title: "Orville"
+    url_poster: https://images2.imgbox.com/f8/73/3cDA368t_o.png
+    seasons:
+        # 0:
+        #     url_poster: https://images2.imgbox.com/66/0e/ccZW196h_o.png
+        1:
+            url_poster: https://images2.imgbox.com/3b/f5/OXwebisr_o.png
+        2:  
+            url_poster: https://images2.imgbox.com/9a/3a/fwu1WPpn_o.png
+        3:
+            url_poster: https://images2.imgbox.com/13/00/U0MdEn24_o.png
+                       
+  "Prodigal Son":
+    year: 2019
+    title: "Prodigal Son"
+    alt_title: "Prodigal Son (2019)"
+    orig_title: "Prodigal Son"
+    sort_title: "Prodigal Son"
+    url_poster: https://images2.imgbox.com/a0/c1/WrSyPjPs_o.png
+    seasons:
+        1:
+            url_poster: https://images2.imgbox.com/eb/10/4evKlVKH_o.png
+        2:
+            url_poster: https://images2.imgbox.com/84/34/yyjnyZsT_o.png
+
+  "The Gifted":
+    year: 2017
+    title: "The Gifted"
+    alt_title: "The Gifted (2017)"
+    orig_title: "The Gifted"
+    sort_title: "Gifted"
+    url_poster: https://images2.imgbox.com/40/48/gXHW3Ti1_o.png
+    seasons:
+        1:
+            url_poster: https://images2.imgbox.com/78/d3/Q0PIazGS_o.png
+        2:
+            url_poster: https://images2.imgbox.com/84/27/owUjdLMh_o.png
+
+  "Lego Masters":
+    year: 2020
+    title: "Lego Masters"
+    alt_title: "Lego Masters (2020)"
+    orig_title: "Lego Masters"
+    sort_title: "Lego Masters"
+    url_poster: https://images2.imgbox.com/cc/ad/STvbcRR1_o.png
+    seasons:
+        1:
+            url_poster: https://images2.imgbox.com/72/08/1DRQg1Nm_o.png
+        2:
+            url_poster: https://images2.imgbox.com/2a/69/nr4Nkf03_o.png
+        3:
+            url_poster: https://images2.imgbox.com/0f/42/m1pXrEdH_o.png
