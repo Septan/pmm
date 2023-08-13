@@ -71,7 +71,7 @@ metadata:
     sort_title: "Eraserhead"
     url_poster: https://images2.imgbox.com/b4/d3/RfGNW7nk_o.jpg
 
-  "Fantasic Planet"
+  "Fantasic Planet":
     year: 1973
     title: "Fantasic Planet"
     alt_title: "Fantasic Planet (1973)"
@@ -79,7 +79,7 @@ metadata:
     sort_title: "Fantasic Planet"
     url_poster: https://images2.imgbox.com/a3/33/FC1wOuMn_o.jpg
 
-  "The Fisher King"
+  "The Fisher King":
     year: 1991
     title: "The Fisher King"
     alt_title: "The Fisher King (1991)"
@@ -87,7 +87,7 @@ metadata:
     sort_title: "The Fisher King"
     url_poster: https://images2.imgbox.com/cf/e9/S8PNWFC6_o.png
 
-  "The Gold Rush"
+  "The Gold Rush":
     year: 1925
     title: "The Gold Rush"
     alt_title: "The Gold Rush (1925)"
@@ -95,7 +95,7 @@ metadata:
     sort_title: "The Gold Rush"
     url_poster: https://images2.imgbox.com/78/5d/9d5MvATH_o.png
   
-  "Hamlet"
+  "Hamlet":
     year: 1948
     title: "Hamlet"
     alt_title: "Hamlet (1948)"
@@ -103,7 +103,7 @@ metadata:
     sort_title: "Hamlet"
     url_poster: https://images2.imgbox.com/05/11/TwcVnLQi_o.jpeg
 
-  "House"
+  "House":
     year: 1977
     title: "House"
     alt_title: "House (1977)"
@@ -111,7 +111,7 @@ metadata:
     sort_title: "House"
     url_poster: https://images2.imgbox.com/76/b6/MGJBlzFK_o.jpg
 
-  "Internal Affairs"
+  "Internal Affairs":
     year: 2002
     title: "Internal Affairs"
     alt_title: "Internal Affairs (1977)"
@@ -119,7 +119,7 @@ metadata:
     sort_title: "Internal Affairs"
     url_poster: https://images2.imgbox.com/f4/83/XYAPL2CL_o.png
 
-  "Internal Affairs II"
+  "Internal Affairs II":
     year: 2003
     title: "Internal Affairs"
     alt_title: "Internal Affairs (2003)"
@@ -127,7 +127,7 @@ metadata:
     sort_title: "Internal Affairs"
     url_poster: https://images2.imgbox.com/ad/75/OtHUSKjf_o.png
 
-  "Me and You and Everyone We Know"
+  "Me and You and Everyone We Know":
     year: 2005
     title: "Me and You and Everyone We Know"
     alt_title: "Me and You and Everyone We Know (2005)"
