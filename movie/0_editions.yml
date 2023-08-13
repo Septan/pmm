@@ -23,7 +23,7 @@ metadata:
     sort_title: "Lord of the the Rings: The Return of the King"
     url_poster: https://images2.imgbox.com/76/25/fwEngBuu_o.png
 
-  "The Hobbit: An Unexpected Journey"
+  "The Hobbit: An Unexpected Journey":
     year: 2012
     title: "The Hobbit: An Unexpected Journey"
     alt_title: "The Hobbit: An Unexpected Journey (2012)"
@@ -31,7 +31,7 @@ metadata:
     sort_title: "Hobbit: An Unexpected Journy"
     url_poster: https://images2.imgbox.com/74/c7/Kh0eS69p_o.png
   
-  "The Hobbit: The Desolation of Smaug"
+  "The Hobbit: The Desolation of Smaug":
     year: 2013
     title: "The Hobbit: The Desolation of Smaug"
     alt_title: "The Hobbit: "The Desolation of Smaug (2013)"
@@ -39,7 +39,7 @@ metadata:
     sort_title: "Hobbit: The Desolation of Smaug"
     url_poster: https://images2.imgbox.com/aa/15/UGWEXOwv_o.png
 
-  "The Hobbit: The Battle of the Five Armies"
+  "The Hobbit: The Battle of the Five Armies":
     year: 2014
     title: "The Hobbit: The Battle of the Five Armies"
     alt_title: "The Hobbit: The Battle of the Five Armies (2014)"
