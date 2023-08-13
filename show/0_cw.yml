@@ -233,3 +233,48 @@ metadata:
             url_poster: https://images2.imgbox.com/f4/eb/i9R40hUR_o.png
         7:
             url_poster: https://images2.imgbox.com/95/1e/Laqn7z5O_o.png
+
+  "Walker Independence"
+    year: 2022
+    title: "Walker Independence"
+    alt_title: "Walker Independence (2022)"
+    orig_title: "Walker Independence"
+    sort_title: "Walker Independence"
+    url_poster: https://images2.imgbox.com/55/f8/JxpK5BET_o.png
+    seasons:
+        1:
+            url_poster: https://images2.imgbox.com/b3/7f/q07DIn3D_o.png
+
+  "Supergirl"
+    year: 2015
+    title: "Supergirl"
+    alt_title: "Supergirl (2015)"
+    orig_title: "Supergirl"
+    sort_title: "Supergirl"
+    url_poster: https://images2.imgbox.com/82/b4/gCFT497a_o.png
+    seasons:
+        # 0:
+        #     url_poster: https://images2.imgbox.com/84/cd/To8xeSq3_o.png
+        1:  
+            url_poster: https://images2.imgbox.com/c3/58/AKotHcNn_o.png
+        2:
+            url_poster: https://images2.imgbox.com/f2/42/yrf3PiYA_o.png
+        3:
+            url_poster: https://images2.imgbox.com/83/7e/6oJ2Wx1Q_o.png
+        4:  
+            url_poster: https://images2.imgbox.com/e1/d8/6w6GknZb_o.png
+        5:
+            url_poster: https://images2.imgbox.com/1e/ac/xI4synIt_o.png
+        6:
+            url_poster: https://images2.imgbox.com/58/43/msl1RCp8_o.png
+
+  "Gotham Knights"
+    year: 2023
+    title: "Gotham Knights"
+    alt_title: "Gotham Knights (2023)"
+    orig_title: "Gotham Knights"
+    sort_title: "Gotham Knights"
+    url_poster: https://images2.imgbox.com/5b/b3/qAxrVtPM_o.png
+    seasons:
+        1:
+            url_poster: https://images2.imgbox.com/4b/5a/RxMz4l4l_o.png
