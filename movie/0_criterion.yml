@@ -84,7 +84,7 @@ metadata:
     title: "The Fisher King"
     alt_title: "The Fisher King (1991)"
     orig_title: "The Fisher King"
-    sort_title: "The Fisher King"
+    sort_title: "Fisher King"
     url_poster: https://images2.imgbox.com/cf/e9/S8PNWFC6_o.png
 
   "The Gold Rush":
@@ -92,7 +92,7 @@ metadata:
     title: "The Gold Rush"
     alt_title: "The Gold Rush (1925)"
     orig_title: "The Gold Rush"
-    sort_title: "The Gold Rush"
+    sort_title: "Gold Rush"
     url_poster: https://images2.imgbox.com/78/5d/9d5MvATH_o.png
   
   "Hamlet":
@@ -134,3 +134,35 @@ metadata:
     orig_title: "Me and You and Everyone We Know"
     sort_title: "Me and You and Everyone We Know"
     url_poster: https://images2.imgbox.com/8f/ab/9oumjdEM_o.png
+
+  "The 'High Sign'":
+    year: 1921
+    title: "The 'High Sign'"
+    alt_title: "The 'High Sign' (1921)"
+    orig_title: "The High Sign"
+    sort_title: "'High Sigh'"
+    url_poster: https://images2.imgbox.com/63/05/Lq4fZpz9_o.png
+
+  "Aguirre, the Wrath of God":
+    year: 1972
+    title: "Aguirre, the Wrath of God"
+    alt_title: "Aguirre, the Wrath of God (1972)"
+    orig_title: "Aguirre, the Wrath of God"
+    sort_title: "Aguirre, the Wrath of God"
+    url_poster: https://images2.imgbox.com/91/69/rvY0dwCG_o.png
+
+  "The Apartment":
+    year: 1960
+    title: "The Apartment"
+    alt_title: "The Apartment (1960)"
+    orig_title: "The Apartment"
+    sort_title: "Apartment"
+    url_poster: https://images2.imgbox.com/a9/10/Wa6RS7yv_o.png
+  
+  "Blue Hawaii":
+    year: 1961
+    title: "Blue Hawaii"
+    alt_title: "Blue Hawaii (1961)"
+    orig_title: "Blue Hawaii"
+    sort_title: "Blue Hawaii"
+    url_poster: https://images2.imgbox.com/96/55/SG4ectqC_o.png
