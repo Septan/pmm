@@ -102,7 +102,7 @@ metadata:
         8:
             url_poster: https://images2.imgbox.com/d5/6c/P4uiVqq4_o.png
 
-  "Walker"
+  "Walker":
     year: 2021
     title: "Walker"
     alt_title: "Walker (2021)"
@@ -117,7 +117,7 @@ metadata:
         3:
             url_poster: https://images2.imgbox.com/c2/07/Z4ivmqWy_o.png
 
-  "Stargirl"
+  "Stargirl":
     year: 2020
     title: "Stargirl"
     alt_title: "Stargirl (2020)"
@@ -132,7 +132,7 @@ metadata:
         3:
             url_poster: https://images2.imgbox.com/09/5e/G6zPUNEB_o.png
 
-  "Batwoman"
+  "Batwoman":
     year: 2019
     title: "Batwoman"
     alt_title: "Batwoman (2019)"
@@ -147,7 +147,7 @@ metadata:
         3:
             url_poster: https://images2.imgbox.com/49/ae/FBe0xCJ9_o.png
 
-  "Pandora"
+  "Pandora":
     year: 2019
     title: "Pandora"
     alt_title: "Pandora (2019)"
@@ -160,7 +160,7 @@ metadata:
         2:  
             url_poster: https://images2.imgbox.com/0a/45/Ta8FDWoW_o.png
 
-  "Legacies"
+  "Legacies":
     year: 2018
     title: "Legacies"
     alt_title: "Legacies (2018)"
@@ -177,7 +177,7 @@ metadata:
         4:
             url_poster: https://images2.imgbox.com/d6/05/0Hr6pnrf_o.png
 
-  "Charmed"
+  "Charmed":
     year: 2018
     title: "Charmed"
     alt_title: "Charmed (2018)"
@@ -194,7 +194,7 @@ metadata:
         4:
             url_poster: https://images2.imgbox.com/84/4a/t85eBggv_o.jpg
 
-  "Black Lighting"
+  "Black Lighting":
     year: 2018
     title: "Black Lighting"
     alt_title: "Black Lighting (2018)"
@@ -211,7 +211,7 @@ metadata:
         4:
             url_poster: https://images2.imgbox.com/7b/0d/dbkNK4fq_o.png
 
-  "Riverdale"
+  "Riverdale":
     year: 2017
     title: "Riverdale"
     alt_title: "Riverdale (2017)"
@@ -234,7 +234,7 @@ metadata:
         7:
             url_poster: https://images2.imgbox.com/95/1e/Laqn7z5O_o.png
 
-  "Walker Independence"
+  "Walker Independence":
     year: 2022
     title: "Walker Independence"
     alt_title: "Walker Independence (2022)"
@@ -245,7 +245,7 @@ metadata:
         1:
             url_poster: https://images2.imgbox.com/b3/7f/q07DIn3D_o.png
 
-  "Supergirl"
+  "Supergirl":
     year: 2015
     title: "Supergirl"
     alt_title: "Supergirl (2015)"
@@ -268,7 +268,7 @@ metadata:
         6:
             url_poster: https://images2.imgbox.com/58/43/msl1RCp8_o.png
 
-  "Gotham Knights"
+  "Gotham Knights":
     year: 2023
     title: "Gotham Knights"
     alt_title: "Gotham Knights (2023)"
