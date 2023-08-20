@@ -31,7 +31,6 @@ collections:
                     languages: "en"
                     }
 
-collections:
   "Top Rated of the 1940s":
     summary: "Top rated movies of the 1940s"
     url_poster: https://images2.imgbox.com/5e/c9/4SdoK0eP_o.png
