@@ -53,8 +53,8 @@ collections:
     template: {
                     name: mdblist,
                     num: "A",
-                    mdblist_user: "a2u2y13",
-                    mdblist_list: "list-suitable-for-children"
+                    mdblist_user: "archivist",
+                    mdblist_list: "collection-parental"
                     }
 
   "Parental: Random":
