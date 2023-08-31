@@ -45,7 +45,7 @@ metadata:
     alt_title: "Chungking Express (1994)"
     orig_title: "Chungking Express"
     sort_title: "Chungking Express"
-    url_poster: https://images2.imgbox.com/e6/4f/GZQhZc9L_o.jpg
+    url_poster: https://images2.imgbox.com/97/17/ODaxETXq_o.jpg
 
   "Dead Man":
     year: 1995
@@ -117,7 +117,7 @@ metadata:
     alt_title: "Infernal Affairs (2003)"
     orig_title: "Infernal Affairs"
     sort_title: "Infernal Affairs"
-    url_poster: https://images2.imgbox.com/f4/83/XYAPL2CL_o.png
+    url_poster: https://images2.imgbox.com/87/87/HjOglVmI_o.jpg
 
   "Infernal Affairs II":
     year: 2003
@@ -125,7 +125,7 @@ metadata:
     alt_title: "Infernal Affairs II (2003)"
     orig_title: "Infernal Affairs II"
     sort_title: "Infernal Affairs II"
-    url_poster: https://images2.imgbox.com/ad/75/OtHUSKjf_o.png
+    url_poster: https://images2.imgbox.com/44/6c/yK9eLUbm_o.jpg
 
   "Me and You and Everyone We Know":
     year: 2005
@@ -166,3 +166,35 @@ metadata:
     orig_title: "Blue Hawaii"
     sort_title: "Blue Hawaii"
     url_poster: https://images2.imgbox.com/96/55/SG4ectqC_o.png
+
+  "Mona Lisa":
+    year: 1986
+    title: "Mona Lisa"
+    alt_title: "Mona Lisa (1986)"
+    orig_title: "Mona Lisa"
+    sort_title: "Mona Lisa"
+    url_poster: https://images2.imgbox.com/77/8f/b3Cms4QA_o.jpg
+
+  "The Naked Kiss":
+    year: 1964
+    title: "The Naked Kiss"
+    alt_title: "The Naked Kiss (1964)"
+    orig_title: "The Naked Kiss"
+    sort_title: "Naked Kiss"
+    url_poster: https://images2.imgbox.com/61/b0/cQ06pteO_o.jpg
+
+  "Night and the City":
+    year: 1950
+    title: "Night and the City"
+    alt_title: "Night and the City (1950)"
+    orig_title: "Night and the City"
+    sort_title: "Night and the City"
+    url_poster: https://images2.imgbox.com/4a/35/mbfUTgDW_o.jpg
+
+  "Night of the Living Dead"
+    year: 1968
+    title: "Night of the Living Dead"
+    alt_title: "Night of the Living Dead (1968)"
+    orig_title: "Night of the Living Dead"
+    sort_title: "NIght of the Living Dead"
+    url_poster: https://images2.imgbox.com/47/0d/AF2BFZcB_o.jpg
