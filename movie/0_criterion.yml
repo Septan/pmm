@@ -32,9 +32,9 @@ metadata:
     url_poster: https://images2.imgbox.com/7d/5c/IpMN7NFf_o.jpg
 
   "Certain Women":
-    year: 2016
+    year: 2017
     title: "Certain Women"
-    alt_title: "Certain Women (2016)"
+    alt_title: "Certain Women (2017)"
     orig_title: "Certain Women"
     sort_title: "Certain Women"
     url_poster: https://images2.imgbox.com/3a/a8/WXzWYFmG_o.jpg
@@ -64,9 +64,9 @@ metadata:
     url_poster: https://images2.imgbox.com/b4/48/9W1XY1et_o.png
 
   "Eraserhead":
-    year: 1977
+    year: 1978
     title: "Eraserhead"
-    alt_title: "Eraserhead (1977)"
+    alt_title: "Eraserhead (1978)"
     orig_tile: "Eraserhead"
     sort_title: "Eraserhead"
     url_poster: https://images2.imgbox.com/b4/d3/RfGNW7nk_o.jpg
@@ -112,9 +112,9 @@ metadata:
     url_poster: https://images2.imgbox.com/76/b6/MGJBlzFK_o.jpg
 
   "Infernal Affairs":
-    year: 2003
+    year: 2002
     title: "Infernal Affairs"
-    alt_title: "Infernal Affairs (2003)"
+    alt_title: "Infernal Affairs (2002)"
     orig_title: "Infernal Affairs"
     sort_title: "Infernal Affairs"
     url_poster: https://images2.imgbox.com/87/87/HjOglVmI_o.jpg
@@ -146,7 +146,7 @@ metadata:
   "Aguirre, the Wrath of God":
     year: 1972
     title: "Aguirre, the Wrath of God"
-    alt_title: "Aguirre, the Wrath of God (1972)"
+    alt_title: "Aguirre, the Wrath of God (1974)"
     orig_title: "Aguirre, the Wrath of God"
     sort_title: "Aguirre, the Wrath of God"
     url_poster: https://images2.imgbox.com/91/69/rvY0dwCG_o.png
@@ -198,3 +198,67 @@ metadata:
     orig_title: "Night of the Living Dead"
     sort_title: "NIght of the Living Dead"
     url_poster: https://images2.imgbox.com/47/0d/AF2BFZcB_o.jpg
+
+  "Old Joy"
+    year: 2006
+    title: "Old Joy"
+    alt_title: "Old Joy (2006)"
+    orig_title: "Old Joy"
+    sort_title: "Old Joy"
+    url_poster: https://images2.imgbox.com/74/b6/rWZnUdlL_o.jpg
+
+  "The Phantom Carriage"
+    year: 1921
+    title: "The Phantom Carriage"
+    alt_title: "The Phantom Carriage (1921)"
+    orig_title: "The Phantom Carriage"
+    sort_title: "Phantom Carriage"
+    url_poster: https://images2.imgbox.com/42/97/vNxJ15ZF_o.jpg
+
+  "Picnic at Hanging Rock"
+    year: 1976
+    title: "Picnic at Hanging Rock"
+    alt_title: "Picnic at Hanging Rock (1976)"
+    orig_title: "Picnic at Hanging Rock"
+    sort_title: "Picnic at Hanging Rock"
+    url_poster: https://images2.imgbox.com/a3/99/Im7bvqzs_o.jpg
+
+  "Police Story"
+    year: 1985
+    title: "Police Story"
+    alt_title: "Police Story (1985)"
+    orig_title: "Police Story"
+    sort_title: "Police Story"
+    url_poster: https://images2.imgbox.com/48/21/GO9IuXAt_o.jpg
+
+  "Police Story 2"
+    year: 1988
+    title: "Police Story 2"
+    alt_title: "Police Story 2 (1988)"
+    orig_title: "Police Story 2"
+    sort_title: "Police Story 2"
+    url_poster: https://images2.imgbox.com/ff/16/rMPyr2Ki_o.jpg
+
+  "Stranger Than Paradise"
+    year: 1984
+    title: "Stranger Than Paradise"
+    alt_title: "Stranger Than Paradise (1984)"
+    orig_title: "Stranger Than Paradise"
+    sort_title: "Stranger Than Paradise"
+    url_poster: https://images2.imgbox.com/99/cd/eKNDNRk1_o.jpg
+
+  "Until the End of the World"
+    year: 1991
+    title: "Until the End of the World"
+    alt_title: "Until the End of the World (1991)"
+    orig_title: "Until the End of the World"
+    sort_title: "Until the End of the World"
+    url_poster: https://images2.imgbox.com/80/34/5EZmT9Yt_o.jpg
+
+  "Watership Down"
+    year: 1978
+    title: "Watership Down"
+    alt_title: "Watership Down (1978)"
+    orig_title: "Watership Down"
+    sort_title: "Watership Down"
+    url_poster: https://images2.imgbox.com/6e/41/atmtg4Jz_o.jpg
