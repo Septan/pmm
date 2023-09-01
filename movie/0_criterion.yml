@@ -191,7 +191,7 @@ metadata:
     sort_title: "Night and the City"
     url_poster: https://images2.imgbox.com/4a/35/mbfUTgDW_o.jpg
 
-  "Night of the Living Dead"
+  "Night of the Living Dead":
     year: 1968
     title: "Night of the Living Dead"
     alt_title: "Night of the Living Dead (1968)"
@@ -199,7 +199,7 @@ metadata:
     sort_title: "NIght of the Living Dead"
     url_poster: https://images2.imgbox.com/47/0d/AF2BFZcB_o.jpg
 
-  "Old Joy"
+  "Old Joy":
     year: 2006
     title: "Old Joy"
     alt_title: "Old Joy (2006)"
@@ -207,7 +207,7 @@ metadata:
     sort_title: "Old Joy"
     url_poster: https://images2.imgbox.com/74/b6/rWZnUdlL_o.jpg
 
-  "The Phantom Carriage"
+  "The Phantom Carriage":
     year: 1921
     title: "The Phantom Carriage"
     alt_title: "The Phantom Carriage (1921)"
@@ -215,7 +215,7 @@ metadata:
     sort_title: "Phantom Carriage"
     url_poster: https://images2.imgbox.com/42/97/vNxJ15ZF_o.jpg
 
-  "Picnic at Hanging Rock"
+  "Picnic at Hanging Rock":
     year: 1976
     title: "Picnic at Hanging Rock"
     alt_title: "Picnic at Hanging Rock (1976)"
@@ -223,7 +223,7 @@ metadata:
     sort_title: "Picnic at Hanging Rock"
     url_poster: https://images2.imgbox.com/a3/99/Im7bvqzs_o.jpg
 
-  "Police Story"
+  "Police Story":
     year: 1985
     title: "Police Story"
     alt_title: "Police Story (1985)"
@@ -231,7 +231,7 @@ metadata:
     sort_title: "Police Story"
     url_poster: https://images2.imgbox.com/48/21/GO9IuXAt_o.jpg
 
-  "Police Story 2"
+  "Police Story 2":
     year: 1988
     title: "Police Story 2"
     alt_title: "Police Story 2 (1988)"
@@ -239,7 +239,7 @@ metadata:
     sort_title: "Police Story 2"
     url_poster: https://images2.imgbox.com/ff/16/rMPyr2Ki_o.jpg
 
-  "Stranger Than Paradise"
+  "Stranger Than Paradise":
     year: 1984
     title: "Stranger Than Paradise"
     alt_title: "Stranger Than Paradise (1984)"
@@ -247,7 +247,7 @@ metadata:
     sort_title: "Stranger Than Paradise"
     url_poster: https://images2.imgbox.com/99/cd/eKNDNRk1_o.jpg
 
-  "Until the End of the World"
+  "Until the End of the World":
     year: 1991
     title: "Until the End of the World"
     alt_title: "Until the End of the World (1991)"
@@ -255,7 +255,7 @@ metadata:
     sort_title: "Until the End of the World"
     url_poster: https://images2.imgbox.com/80/34/5EZmT9Yt_o.jpg
 
-  "Watership Down"
+  "Watership Down":
     year: 1978
     title: "Watership Down"
     alt_title: "Watership Down (1978)"
