@@ -15,7 +15,7 @@ metadata:
     sort_title: "Snow White and the Seven Dwarfs"
     url_poster: https://theposterdb.com/api/assets/328184
 
-  "All Quiet on the Western Front"
+  "All Quiet on the Western Front":
     year: 1930
     title: "All Quiet on the Western Front"
     alt_title: "All Quiet on the Western Front (1930)"
@@ -23,7 +23,7 @@ metadata:
     sort_title: "All Quiet on the Western Front"
     url_poster: https://theposterdb.com/api/assets/340143
 
-  "Mutiny on the Bounty"
+  "Mutiny on the Bounty":
     year: 1936
     title: "Mutiny on the Bounty"
     alt_title: "Mutiny on the Bounty (1936)"
@@ -31,7 +31,7 @@ metadata:
     sort_title: "Mutiny on the Bounty"
     url_poster: https://theposterdb.com/api/assets/402266
 
-  "White Zombie"
+  "White Zombie":
     year: 1932
     title: "White Zombie"
     alt_title: "White Zombie (1932)"
@@ -39,7 +39,7 @@ metadata:
     sort_title: "White Zombie"
     url_poster: https://theposterdb.com/api/assets/176111
 
-  "Sons of the Desert"
+  "Sons of the Desert":
     year: 1933
     title: "Sons of the Desert"
     alt_title: "Sons of the Desert (1933)"
@@ -49,7 +49,7 @@ metadata:
 
 #################### End of Top 30s ####################
 
-  "It's a Wonderful Life"
+  "It's a Wonderful Life":
     year: 1946
     title: "It's a Wonderful Life"
     alt_title: "It's a Wonderful Life (1946)"
