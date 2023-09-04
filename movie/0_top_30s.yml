@@ -1,0 +1,32 @@
+metadata:
+  "The Wizard of Oz":
+    year: 1939
+    title: "The Wizard of Oz"
+    alt_title: "The Wizard of Oz (1939)"
+    orig_title: "The Wizard of Oz"
+    sort_title: "Wizard of Oz"
+    url_poster: https://theposterdb.com/api/assets/331912
+
+  "Snow White and the Seven Dwarfs":
+    year: 1938
+    title: "Snow White and the Seven Dwarfs"
+    alt_title: "Snow White and the Seven Dwarfs (1938)"
+    orig_title: "Snow White and the Seven Dwarfs"
+    sort_title: "Snow White and the Seven Dwarfs"
+    url_poster: https://theposterdb.com/api/assets/328184
+
+  "All Quiet on the Western Front"
+    year: 1930
+    title: "All Quiet on the Western Front"
+    alt_title: "All Quiet on the Western Front (1930)"
+    orig_title: "All Quiet on the Western Front"
+    sort_title: "All Quiet on the Western Front"
+    url_poster: https://theposterdb.com/api/assets/340143
+
+  "Mutiny on the Bounty"
+    year: 1936
+    title: "Mutiny on the Bounty"
+    alt_title: "Mutiny on the Bounty (1936)"
+    orig_ttle: "Mutiny on the Bounty"
+    sort_title: "Mutiny on the Bounty"
+    url_poster: https://theposterdb.com/api/assets/402266

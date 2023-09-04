@@ -44,6 +44,7 @@ collections:
                     num: "P",
                     mdblist_user: "g4zz0l1",
                     mdblist_list: "the-criterion-collection"
+                    mdblist_extra_1: "https://mdblist.com/lists/madepidemic1/the-criterion-collection"
                     }
 
   "Criterion: Random":
@@ -84,7 +85,7 @@ collections:
       all:
         collection: "Criterion: All"
       sort_by: random
-      limit: 250
+      limit: 100
 
 
   "Criterion: Top Rated":
