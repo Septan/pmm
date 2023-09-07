@@ -400,7 +400,7 @@ metadata:
     title: "The Jungle Book"
     alt_title: "The Jungle Book (1967)"
     orig_title: "The Jungle Book"
-    sort_ttile: "The Jungle Book"
+    sort_ttile: "Jungle Book"
     url_poster: https://theposterdb.com/api/assets/396176
 
   "The Jungle Book 2":
@@ -608,7 +608,7 @@ metadata:
     title: "The Lion King II: Simba's Pride"
     alt_title: "The Lion King II: Simba's Pride (1998)"
     orig_title: "The Lion King II: Simba's Pride"
-    sort_title: "The Lion King II: Simba's Pride"
+    sort_title: "Lion King II: Simba's Pride"
     url_poster: https://theposterdb.com/api/assets/396212
 
   "The Lion King 1½":
@@ -896,7 +896,7 @@ metadata:
     title: "A Goofy Movie"
     alt_title: "A Goofy Movie (1995)"
     orig_title: "A Goofy Movie"
-    sort_title: "A Goofy Movie"
+    sort_title: "Goofy Movie"
     url_poster: https://theposterdb.com/api/assets/397498
 
   "An Extremely Goofy Movie":
@@ -904,7 +904,7 @@ metadata:
     title: "An Extremely Goofy Movie"
     alt_title: "An Extremely Goofy Movie (2000)"
     orig_title: "An Extremely Goofy Movie"
-    sort_title: "An Extremely Goofy Movie"
+    sort_title: "Extremely Goofy Movie"
     url_poster: https://theposterdb.com/api/assets/397499
 
   "Tinker Bell":
