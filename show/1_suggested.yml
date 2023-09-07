@@ -70,7 +70,7 @@ collections:
       sort_by: random
       limit: 250
 
-  "Trending TV shows":
+  "Trending":
     summary: TV shows trending across the internet
     url_poster: https://images2.imgbox.com/ee/c6/sGdBToVv_o.png
     schedule: daily
@@ -83,7 +83,7 @@ collections:
       time_period: daily
       limit: 25
 
-  "Popular TV shows":
+  "Popular":
     summary: Popular TV shows across the internet
     url_poster: https://images2.imgbox.com/55/ba/Z1GU6NcR_o.png
     visible_library: true
@@ -96,7 +96,7 @@ collections:
                     }
     limit: 100
 
-  "Top Rated TV shows":
+  "Top Rated":
     summary: Top rated TV shows across the internet
     url_poster: https://images2.imgbox.com/0c/63/FiXfE8HU_o.png
     schedule: daily

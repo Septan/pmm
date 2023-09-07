@@ -71,7 +71,7 @@ collections:
       sort_by: random
       limit: 250
 
-  "Trending Movies":
+  "Trending":
     summary: Movies trending across the internet
     url_poster: https://images2.imgbox.com/ee/c6/sGdBToVv_o.png
     schedule: daily
@@ -86,7 +86,7 @@ collections:
       countries: us, gb, ie, ca, au, nz
       limit: 50
 
-  "Popular Movies":
+  "Popular":
     summary: Popular movies across the internet
     url_poster: https://images2.imgbox.com/55/ba/Z1GU6NcR_o.png
     visible_library: true
@@ -99,7 +99,7 @@ collections:
                     }
     limit: 100
 
-  "Top Rated Movies":
+  "Top Rated":
     summary: Top rated movies across the internet
     url_poster: https://images2.imgbox.com/0c/63/FiXfE8HU_o.png
     schedule: daily
