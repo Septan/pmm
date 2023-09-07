@@ -6,6 +6,7 @@ templates:
     sync_mode: sync
     collection_mode: hide
     label.sync: REPLEXHERO
+    item_label.sync: REPLEXHERO
     visible_home: false
     visible_shared: false
     visible_library: false
