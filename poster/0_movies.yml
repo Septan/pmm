@@ -1086,7 +1086,225 @@ metadata:
   "DuckTales: The Movie - Treasure of the Lost Lamp":
     year: 1990
     title: "DuckTales: The Movie - Treasure of the Lost Lamp"
-    alt_title: "DuckTales: The Movie - Treasure of the Lost Lamp"
+    alt_title: "DuckTales: The Movie - Treasure of the Lost Lamp (1990)"
     orig_title: "DuckTales: The Movie - Treasure of the Lost Lamp"
     sort_title: "DuckTales: The Movie - Treasure of the Lost Lamp"
     url_poster: https://theposterdb.com/api/assets/397470
+
+  "The Lion Guard: Return of the Roar":
+    year: 2015
+    title: "The Lion Guard: Return of the Roar"
+    alt_title: "The Lion Guard: Return of the Roar (2015)"
+    orig_title: "The Lion Guard: Return of the Roar"
+    sort_title: "Lion Guard: Return of the Roar"
+    url_poster: https://theposterdb.com/api/assets/397482
+
+  "The Lion Guard: Unleash the Power":
+    year: 2016
+    title: "The Lion Guard: Unleash the Power"
+    alt_title: "The Lion Guard: Unleash the Power (2016)"
+    orig_title: "The Lion Guard: Unleash the Power"
+    sort_title: "Lion Guard: Unleash the Power"
+    url_poster: https://theposterdb.com/api/assets/397483
+
+  "The Lion Guard: Life In The Pride Lands":
+    year: 2017
+    title: "The Lion Guard: Life In The Pride Lands"
+    alt_title: "The Lion Guard: Life In The Pride Lands (2017)"
+    orig_title: "The Lion Guard: Life In The Pride Lands"
+    sort_title: "Lion Guard: Life In The Pride Lands"
+    url_poster: https://theposterdb.com/api/assets/397484
+
+  "The Lion Guard: The Rise of Scar":
+    year: 2017
+    title: "The Lion Guard: The Rise of Scar"
+    alt_title: "The Lion Guard: The Rise of Scar (2017)"
+    orig_title: "The Lion Guard: The Rise of Scar"
+    sort_title: "The Lion Guard: The Rise of Scar"
+    url_poster: https://theposterdb.com/api/assets/397485
+
+  "Mickey's Once Upon a Christmas":
+    year: 1999
+    title: "Mickey's Once Upon a Christmas"
+    alt_title: "Mickey's Once Upon a Christmas (1999)"
+    orig_title: "Mickey's Once Upon a Christmas"
+    sort_title: "Mickey's Once Upon a Christmas"
+    url_poster: https://theposterdb.com/api/assets/397502
+
+  "Mickey's Twice Upon a Christmas":
+    year: 2004
+    title: "Mickey's Twice Upon a Christmas"
+    alt_title: "Mickey's Twice Upon a Christmas (2004)"
+    orig_title: "Mickey's Twice Upon a Christmas"
+    sort_title: "Mickey's Twice Upon a Christmas"
+    url_poster: https://theposterdb.com/api/assets/397503
+
+  "Mickey's Magical Christmas: Snowed in at the House of Mouse":
+    year: 2001
+    title: "Mickey's Magical Christmas: Snowed in at the House of Mouse"
+    alt_title: "Mickey's Magical Christmas: Snowed in at the House of Mouse (2001)"
+    orig_title: "Mickey's Magical Christmas: Snowed in at the House of Mouse"
+    sort_title: "Mickey's Magical Christmas: Snowed in at the House of Mouse"
+    url_poster: https://theposterdb.com/api/assets/397506
+
+  "Mickey's House of Villains":
+    year: 2002
+    title: "Mickey's House of Villains"
+    alt_title: "Mickey's House of Villains (2002)"
+    orig_title: "Mickey's House of Villains"
+    sort_title: "Mickey's House of Villains"
+    url_poster: https://theposterdb.com/api/assets/397510
+
+  "Mickey, Donald, Goofy: The Three Musketeers":
+    year: 2004
+    title: "Mickey, Donald, Goofy: The Three Musketeers"
+    alt_title: "Mickey, Donald, Goofy: The Three Musketeers (2004)"
+    orig_title: "Mickey, Donald, Goofy: The Three Musketeers"
+    sort_title: "Mickey, Donald, Goofy: The Three Musketeers"
+    url_poster: https://theposterdb.com/api/assets/397512
+
+  "The Nightmare Before Christmas":
+    year: 1993
+    title: "The Nightmare Before Christmas"
+    alt_title: "The Nightmare Before Christmas (1993)"
+    orig_title: "The Nightmare Before Christmas"
+    sort_title: "Nightmare Before Christmas"
+    url_poster: https://theposterdb.com/api/assets/397527
+
+  "Wish":
+    year: 2023
+    title: "Wish"
+    alt_title: "Wish (2023)"
+    orig_title: "Wish"
+    sort_title: "Wish"
+    url_poster: https://theposterdb.com/api/assets/397529
+
+  "The Reluctant Dragon":
+    year: 1941
+    title: "The Reluctant Dragon"
+    alt_title: "The Reluctant Dragon (1941)"
+    orig_title: "The Reluctant Dragon"
+    sort_title: "Reluctant Dragon"
+    url_poster: https://theposterdb.com/api/assets/397533
+
+  "Victory Through Air Power":
+    year: 1943
+    title: "Victory Through Air Power"
+    alt_title: "Victory Through Air Power (1943)"
+    orig_title: "Victory Through Air Power"
+    sort_title: "Victory Through Air Power"
+    url_poster: https://theposterdb.com/api/assets/397534
+
+  "Song of the South":
+    year: 1946
+    title: "Song of the South"
+    alt_title: "Song of the South (1946)"
+    orig_title: "Song of the South"
+    sort_title: "Song of the South"
+    url_poster: https://theposterdb.com/api/assets/397537
+
+  "So Dear to My Heart":
+    year: 1948
+    title: "So Dear to My Heart"
+    alt_title: "So Dear to My Heart (1948)"
+    orig_title: "So Dear to My Heart"
+    sort_title: "So Dear to My Heart"
+    url_poster: https://theposterdb.com/api/assets/397538
+
+  "Bedknobs and Broomsticks":
+    year: 1971
+    title: "Bedknobs and Broomsticks"
+    alt_title: "Bedknobs and Broomsticks (1971)"
+    orig_title: "Bedknobs and Broomsticks"
+    sort_title: "Bedknobs and Broomsticks"
+    url_poster: https://theposterdb.com/api/assets/397552
+
+  "James and the Giant Peach":
+    year: 1996
+    title: "James and the Giant Peach"
+    alt_title: "James and the Giant Peach (1996)"
+    orig_title: "James and the Giant Peach"
+    sort_title: "James and the Giant Peach"
+    url_poster: https://theposterdb.com/api/assets/397567
+
+  "Doug's 1st Movie":
+    year: 1999
+    title: "Doug's 1st Movie"
+    alt_title: "Doug's 1st Movie (1999)"
+    orig_title: "Doug's 1st Movie"
+    sort_title: "Doug's 1st Movie"
+    url_poster: https://theposterdb.com/api/assets/397583
+
+  "Teacher's Pet":
+    year: 2004
+    title: "Teacher's Pet"
+    alt_title: "Teacher's Pet (2004)"
+    orig_title: "Teacher's Pet"
+    sort_title: "Teacher's Pet"
+    url_poster: https://theposterdb.com/api/assets/397598
+
+  "Valiant":
+    year: 2005
+    title: "Valiant"
+    alt_title: "Valiant (2005)"
+    orig_title: "Valiant"
+    sort_title: "Valiant"
+    url_poster: https://theposterdb.com/api/assets/397600
+
+  "The Wild":
+    year: 2006
+    title: "The Wild"
+    alt_title: "The Wild (2006)"
+    orig_title: "The Wild"
+    sort_title: "The Wild"
+    url_poster: https://theposterdb.com/api/assets/397607
+
+  "A Christmas Carol":
+    year: 2009
+    title: "A Christmas Carol"
+    alt_title: "A Christmas Carol (2009)"
+    orig_title: "A Christmas Carol"
+    sort_title: "Christmas Carol"
+    url_poster: https://theposterdb.com/api/assets/397609
+
+  "Mars Needs Moms":
+    year: 2011
+    title: "Mars Needs Moms"
+    alt_title: "Mars Needs Moms (2011)"
+    orig_title: "Mars Needs Moms"
+    sort_title: "Mars Needs Moms"
+    url_poster: https://theposterdb.com/api/assets/397616
+
+  "Frankenweenie":
+    year: 2012
+    title: "Frankenweenie"
+    alt_title: "Frankenweenie (2012)"
+    orig_title: "Frankenweenie"
+    sort_title: "Frankenweenie"
+    url_poster: https://theposterdb.com/api/assets/397617
+
+  "Strange Magic":
+    year: 2015
+    title: "Strange Magic"
+    alt_title: "Strange Magic (2015)"
+    orig_title: "Strange Magic"
+    sort_title: "Strange Magic"
+    url_poster: https://theposterdb.com/api/assets/397619
+
+  "The Ice Age Adventures of Buck Wild":
+    year: 2022
+    title: "The Ice Age Adventures of Buck Wild"
+    alt_title: "The Ice Age Adventures of Buck Wild (2022)"
+    orig_title: "The Ice Age Adventures of Buck Wild"
+    sort_title: "Ice Age Adventures of Buck Wild"
+    url_poster: https://theposterdb.com/api/assets/399014
+
+    #################### In Association with Marvel ####################
+
+  "Howard The Duck":
+    year: 1986
+    title: "Howard The Duck"
+    alt_title: "Howard The Duck (1986)"
+    orig_title: "Howard The Duck"
+    sort_title: "Howard The Duck"
+    url_poster: https://theposterdb.com/api/assets/405340
