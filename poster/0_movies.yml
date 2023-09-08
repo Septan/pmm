@@ -39,8 +39,6 @@ metadata:
     sort_title: "Sons of the Desert"
     url_poster: https://theposterdb.com/api/assets/142173
 
-#################### End of Top 30s ####################
-
   "It's a Wonderful Life":
     year: 1946
     title: "It's a Wonderful Life"
@@ -48,8 +46,6 @@ metadata:
     orig_title: "It's a Wonderful Life"
     sort_title: "It's a Wonderful Life"
     url_poster: https://theposterdb.com/api/assets/300761
-
-#################### Walt Disney Animation Studios ####################
 
   "Snow White and the Seven Dwarfs":
     year: 1938
@@ -1299,8 +1295,6 @@ metadata:
     sort_title: "Ice Age Adventures of Buck Wild"
     url_poster: https://theposterdb.com/api/assets/399014
 
-    #################### In Association with Marvel ####################
-
   "Howard The Duck":
     year: 1986
     title: "Howard The Duck"
@@ -1308,3 +1302,931 @@ metadata:
     orig_title: "Howard The Duck"
     sort_title: "Howard The Duck"
     url_poster: https://theposterdb.com/api/assets/405340
+
+  "Hulk":
+    year: 2003
+    title: "Hulk"
+    alt_title: "Hulk (2003)"
+    orig_title: "Hulk"
+    sort_title: "Hulk"
+    url_poster: https://theposterdb.com/api/assets/405341
+
+  "Morbius":
+    year: 2022
+    title: "Morbius"
+    alt_title: "Morbius (2022)"
+    orig_title: "Morbius"
+    sort_title: "Morbius"
+    url_poster: https://theposterdb.com/api/assets/405342
+
+  "Blade":
+    year: 1998
+    title: "Blade"
+    alt_title: "Blade (1998)"
+    orig_title: "Blade"
+    sort_title: "Blade"
+    url_poster: https://theposterdb.com/api/assets/404504
+
+  "Blade: Trinity":
+    year: 2004
+    title: "Blade: Trinity"
+    alt_title: "Blade: Trinity (2004)"
+    orig_title: "Blade: Trinity"
+    sort_title: "Blade: Trinity"
+    url_poster: https://theposterdb.com/api/assets/404506
+
+  "Blade II":
+    year: 2002
+    title: "Blade II"
+    alt_title: "Blade II (2002)"
+    orig_title: "Blade II"
+    sort_title: "Blade II"
+    url_poster: https://theposterdb.com/api/assets/404505
+
+  "X-Men":
+    year: 2000
+    title: "X-Men"
+    alt_title: "X-Men (2000)"
+    orig_title: "X-Men"
+    sort_title: "X-Men"
+    url_poster: https://theposterdb.com/api/assets/404530
+
+  "X2":
+    year: 2003
+    title: "X2"
+    alt_title: "X2 (2003)"
+    orig_title: "X2"
+    sort_title: "X2"
+    url_poster: https://theposterdb.com/api/assets/404531
+
+  "X-Men: The Last Stand":
+    year: 2006
+    title: "X-Men: The Last Stand"
+    alt_title: "X-Men: The Last Stand (2006)"
+    orig_title: "X-Men: The Last Stand"
+    sort_title: "X-Men: The Last Stand"
+    url_poster: https://theposterdb.com/api/assets/404532
+
+  "X-Men: First Class":
+    year: 2011
+    title: "X-Men: First Class"
+    alt_title: "X-Men: First Class (2011)"
+    orig_title: "X-Men: First Class"
+    sort_title: "X-Men: First Class"
+    url_poster: https://theposterdb.com/api/assets/404533
+
+  "X-Men: Days of Future Past":
+    year: 2014
+    title: "X-Men: Days of Future Past"
+    alt_title: "X-Men: Days of Future Past (2014)"
+    orig_title: "X-Men: Days of Future Past"
+    sort_title: "X-Men: Days of Future Past"
+    url_poster: https://theposterdb.com/api/assets/404534
+
+  "X-Men: Apocalypse":
+    year: 2016
+    title: "X-Men: Apocalypse"
+    alt_title: "X-Men: Apocalypse"
+    orig_title: "X-Men: Apocalypse (2016)"
+    sort_title: "X-Men: Apocalypse"
+    url_poster: https://theposterdb.com/api/assets/404535
+
+  "Dark Phoenix":
+    year: 2019
+    title: "Dark Phoenix"
+    alt_title: "Dark Phoenix (2019)"
+    orig_title: "Dark Phoenix"
+    sort_title: "Dark Phoenix"
+    url_poster: https://theposterdb.com/api/assets/404536
+
+  "The New Mutants":
+    year: 2020
+    title: "The New Mutants"
+    alt_title: "The New Mutants (2020)"
+    orig_title: "The New Mutants"
+    sort_title: "New Mutants"
+    url_poster: https://theposterdb.com/api/assets/404537
+
+  "Spider-Man":
+    year: 2002
+    title: "Spider-Man"
+    alt_title: "Spider-Man (2002)"
+    orig_title: "Spider-Man"
+    sort_title: "Spider-Man"
+    url_poster: https://theposterdb.com/api/assets/404549
+
+  "Spider-Man 2":
+    year: 2004
+    title: "Spider-Man 2"
+    alt_title: "Spider-Man 2 (2004)"
+    orig_title: "Spider-Man 2"
+    sort_title: "Spider-Man 2"
+    url_poster: https://theposterdb.com/api/assets/404550
+
+  "Spider-Man 3":
+    year: 2007
+    title: "Spider-Man 3"
+    alt_title: "Spider-Man 3 (2007)"
+    orig_title: "Spider-Man 3"
+    sort_title: "Spider-Man 3"
+    url_poster: https://theposterdb.com/api/assets/404551
+
+  "Daredevil":
+    year: 2003
+    title: "Daredevil"
+    alt_title: "Daredevil (2003)"
+    orig_title: "Daredevil"
+    sort_title: "Daredevil"
+    url_poster: https://theposterdb.com/api/assets/404570
+
+  "Elektra":
+    year: 2005
+    title: "Elektra"
+    alt_tilte: "Elektra (2005)"
+    orig_title: "Elektra"
+    sort_title: "Elektra"
+    url_poster: https://theposterdb.com/api/assets/404571
+
+  "The Punisher":
+    year: 1989
+    title: "The Punisher"
+    alt_title: "The Punisher (1989)"
+    orig_title: "The Punisher"
+    sort_title: "Punisher"
+    url_poster: https://theposterdb.com/api/assets/404593
+
+  "The Punisher":
+    year: 2004
+    title: "The Punisher"
+    alt_title: "The Punisher"
+    orig_title: "The Punisher"
+    sort_title: "Punisher"
+    url_poster: https://theposterdb.com/api/assets/404594
+
+  "Punisher: War Zone":
+    year: 2008
+    title: "Punisher: War Zone"
+    alt_title: "Punisher: War Zone (2008)"
+    orig_title: "Punisher: War Zone"
+    sort_title: "Punisher: War Zone"
+    url_poster: https://theposterdb.com/api/assets/404595
+
+  "The Punisher: Dirty Laundry":
+    year: 2012
+    title: "The Punisher: Dirty Laundry"
+    alt_title: "The Punisher: Dirty Laundry (2012)"
+    orig_title: "The Punisher: Dirty Laundry"
+    sort_title: "Punisher: Dirty Laundry"
+    url_poster: https://theposterdb.com/api/assets/404596
+
+  "Fantastic Four":
+    year: 2005
+    title: "Fantastic Four"
+    alt_title: "Fantastic Four (2005)"
+    orig_title: "Fantastic Four"
+    sort_title: "Fantastic Four"
+    url_poster: https://theposterdb.com/api/assets/404625
+
+  "Fantastic Four: Rise of the Silver Surfer":
+    year: 2007
+    title: "Fantastic Four: Rise of the Silver Surfer"
+    alt_title: "Fantastic Four: Rise of the Silver Surfer (2007)"
+    orig_title: "Fantastic Four: Rise of the Silver Surfer"
+    sort_title: "Fantastic Four: Rise of the Silver Surfer"
+    url_poster: https://theposterdb.com/api/assets/404626
+
+  "Fantastic Four":
+    year: 2015
+    title: "Fantastic Four"
+    alt_title: "Fantastic Four (2015)"
+    orig_title: "Fantastic Four"
+    sort_title: "Fantastic Four"
+    url_poster: https://theposterdb.com/api/assets/404627
+
+  "Ghost Rider":
+    year: 2007
+    title: "Ghost Rider"
+    alt_title: "Ghost Rider (2007)"
+    orig_title: "Ghost Rider"
+    sort_title: "Ghost Rider"
+    url_poster: https://theposterdb.com/api/assets/404650
+
+  "Ghost Rider: Spirit of Vengeance":
+    year: 2011
+    title: "Ghost Rider: Spirit of Vengeance"
+    alt_title: "Ghost Rider: Spirit of Vengeance (2011)"
+    orig_title: "Ghost Rider: Spirit of Vengeance"
+    sort_title: "Ghost Rider: Spirit of Vengeance"
+    url_poster: https://theposterdb.com/api/assets/404651
+
+  "X-Men Origins: Wolverine":
+    year: 2009
+    title: "X-Men Origins: Wolverine"
+    alt_title: "X-Men Origins: Wolverine (2009)"
+    orig_title: "X-Men Origins: Wolverine"
+    sort_title: "X-Men Origins: Wolverine"
+    url_poster: https://theposterdb.com/api/assets/404779
+
+  "The Wolverine":
+    year: 2013
+    title: "The Wolverine"
+    alt_title: "The Wolverine (2013)"
+    orig_title: "The Wolverine"
+    sort_title: "Wolverine"
+    url_poster: https://theposterdb.com/api/assets/404780
+
+  "Logan":
+    year: 2017
+    title: "Logan"
+    alt_title: "Logan (2017)"
+    orig_title: "Logan"
+    sort_title: "Logan"
+    url_poster: https://theposterdb.com/api/assets/404781
+
+  "The Amazing Spider-Man":
+    year: 2012
+    title: "The Amazing Spider-Man"
+    alt_title: "The Amazing Spider-Man (2012)"
+    orig_title: "The Amazing Spider-Man"
+    sort_title: "Amazing Spider-Man"
+    url_poster: https://theposterdb.com/api/assets/405071
+
+  "The Amazing Spider-Man 2":
+    year: 2014
+    title: "The Amazing Spider-Man 2"
+    alt_title: "The Amazing Spider-Man 2 (2014)"
+    orig_title: "The Amazing Spider-Man 2"
+    sort_title: "The Amazing Spider-Man 2"
+    url_poster: https://theposterdb.com/api/assets/405072
+
+  "Deadpool":
+    year: 2016
+    title: "Deadpool"
+    alt_title: "Deadpool (2016)"
+    orig_title: "Deadpool"
+    sort_title: "Deadpool"
+    url_poster: https://theposterdb.com/api/assets/405084
+
+  "Deadpool: No Good Deed":
+    year: 2017
+    title: "Deadpool: No Good Deed"
+    alt_title: "Deadpool: No Good Deed (2017)"
+    orig_title: "Deadpool: No Good Deed"
+    sort_title: "Deadpool: No Good Deed"
+    url_poster: https://theposterdb.com/api/assets/405085
+
+  "Deadpool 2":
+    year: 2018
+    title: "Deadpool 2"
+    alt_title: "Deadpool 2 (2018)"
+    orig_title: "Deadpool 2"
+    sort_title: "Deadpool 2"
+    url_poster: https://theposterdb.com/api/assets/405086
+
+  "Once Upon a Deadpool":
+    year: 2018
+    title: "Once Upon a Deadpool"
+    alt_title: "Once Upon a Deadpool (2018)"
+    orig_title: "Once Upon a Deadpool"
+    sort_title: "Once Upon a Deadpool"
+    url_poster: https://theposterdb.com/api/assets/405087
+
+  "Deadpool 3":
+    year: 2024
+    title: "Deadpool 3"
+    alt_title: "Deadpool 3 (2024)"
+    orig_title: "Deadpool 3"
+    sort_title: "Deadpool 3"
+    url_poster: https://theposterdb.com/api/assets/405088
+
+  "Venom":
+    year: 2018
+    title: "Venom"
+    alt_title: "Venom (2018)"
+    orig_title: "Venom"
+    sort_title: "Venom"
+    url_poster: https://theposterdb.com/api/assets/405111
+  
+  "Venom: Let There Be Carnage":
+    year: 2021
+    title: "Venom: Let There Be Carnage"
+    alt_title: "Venom: Let There Be Carnage (2021)"
+    orig_title: "Venom: Let There Be Carnage"
+    sort_title: "Venom: Let There Be Carnage"
+    url_poster: https://theposterdb.com/api/assets/405112
+
+  "Men in Black":
+    year: 1997
+    title: "Men in Black"
+    alt_title: "Men in Black (1997)"
+    orig_title: "Men in Black"
+    sort_title: "Men in Black"
+    url_poster: https://theposterdb.com/api/assets/405652
+
+  "Men in Black II":
+    year: 2002
+    title: "Men in Black II"
+    alt_title: "Men in Black II (2002)"
+    orig_title: "Men in Black II"
+    sort_title: "Men in Black II"
+    url_poster: https://theposterdb.com/api/assets/405653
+
+  "Men in Black 3":
+    year: 2012
+    title: "Men in Black 3"
+    alt_title: "Men in Black 3 (2012)"
+    orig_title: "Men in Black 3"
+    sort_title: "Men in Black 3"
+    url_poster: https://theposterdb.com/api/assets/405654
+
+  "Men in Black: International":
+    year: 2019
+    title: "Men in Black: International"
+    alt_title: "Men in Black: International (2019)"
+    orig_title: "Men in Black: International"
+    sort_title: "Men in Black: International"
+    url_poster: https://theposterdb.com/api/assets/405655
+
+  "Kick-Ass":
+    year: 2010
+    title: "Kick-Ass"
+    alt_title: "Kick-Ass (2010)"
+    orig_title: "Kick-Ass"
+    sort_title: "Kick-Ass"
+    url_poster: https://theposterdb.com/api/assets/405657
+
+  "Kick-Ass 2":
+    year: 2013
+    title: "Kick-Ass 2"
+    alt_title: "Kick-Ass 2 (2013)"
+    orig_title: "Kick-Ass 2"
+    sort_title: "Kick-Ass 2"
+    url_poster: https://theposterdb.com/api/assets/405658
+
+  "Kingsman: The Secret Service":
+    year: 2014
+    title: "Kingsman: The Secret Service"
+    alt_title: "Kingsman: The Secret Service (2014)"
+    orig_title: "Kingsman: The Secret Service"
+    sort_title: "Kingsman: The Secret Service"
+    url_poster: https://theposterdb.com/api/assets/405670
+
+  "Kingsman: The Golden Circle":
+    year: 2017
+    title: "Kingsman: The Golden Circle"
+    alt_title: "Kingsman: The Golden Circle (2017)"
+    orig_title: "Kingsman: The Golden Circle"
+    sort_title: "Kingsman: The Golden Circle"
+    url_poster: https://theposterdb.com/api/assets/405671
+
+  "The King's Man":
+    year: 2021
+    title: "The King's Man"
+    alt_title: "The King's Man (2021)"
+    orig_title: "The King's Man"
+    sort_title: "King's Man"
+    url_poster: https://theposterdb.com/api/assets/405672
+
+  "Madame Web":
+    year: 2024
+    title: "Madame Web"
+    alt_title: "Madame Web (2024)"
+    orig_title: "Madame Web"
+    sort_title: "Madame Web"
+    url_poster: https://theposterdb.com/api/assets/405677
+
+  "Kraven the Hunter":
+    year: 2024
+    title: "Kraven the Hunter"
+    alt_title: "Kraven the Hunter (2024)"
+    orig_title: "Kraven the Hunter"
+    sort_title: "Kraven the Hunter"
+    url_poster: https://theposterdb.com/api/assets/405682
+
+  "Red Sonja":
+    year: 1985
+    title: "Red Sonja"
+    alt_title: "Red Sonja (1985)"
+    orig_title: "Red Sonja"
+    sort_title: "Red Sonja"
+    url_poster: https://theposterdb.com/api/assets/406124
+
+  "Red Sonja: Queen of Plagues":
+    year: 2016
+    title: "Red Sonja: Queen of Plagues"
+    alt_title: "Red Sonja: Queen of Plagues"
+    orig_title: "Red Sonja: Queen of Plagues"
+    sort_title: "Red Sonja: Queen of Plagues"
+    url_poster: https://theposterdb.com/api/assets/406143
+
+  "Dr. Strange":
+    year: 1978
+    title: "Dr. Strange"
+    alt_title: "Dr. Strange (1978)"
+    orig_title: "Dr. Strange"
+    sort_title: "Dr. Strange"
+    url_poster: https://theposterdb.com/api/assets/406198
+
+  "Spider-Man":
+    year: 1978
+    title: "Spider-Man"
+    alt_title: "Spider-Man (1978)"
+    orig_title: "Spider-Man"
+    sort_title: "Spider-Man"
+    url_poster: https://theposterdb.com/api/assets/406199
+
+  "LEGO Marvel Super Heros: Maximum Overload":
+    year: 2013
+    title: "LEGO Marvel Super Heros: Maximum Overload"
+    alt_title: "LEGO Marvel Super Heros: Maximum Overload (2013)"
+    orig_title: "LEGO Marvel Super Heros: Maximum Overload"
+    sort_title: "LEGO Marvel Super Heros: Maximum Overload"
+    url_poster: https://theposterdb.com/api/assets/399281
+
+  "LEGO Marvel Super Heros: Avengers Reassembled!":
+    year: 2015
+    title: "LEGO Marvel Super Heros: Avengers Reassembled!"
+    alt_title: "LEGO Marvel Super Heros: Avengers Reassembled! (2015)"
+    orig_title: "LEGO Marvel Super Heros: Avengers Reassembled!"
+    sort_title: "LEGO Marvel Super Heros: Avengers Reassembled!"
+    url_poster: https://theposterdb.com/api/assets/399282
+
+  "LEGO Marvel Super Heros: Guardians of the Galaxy - The Thanos Threat":
+    year: 2017
+    title: "LEGO Marvel Super Heros: Guardians of the Galaxy - The Thanos Threat"
+    alt_title: "LEGO Marvel Super Heros: Guardians of the Galaxy - The Thanos Threat (2017)"
+    orig_title: "LEGO Marvel Super Heros: Guardians of the Galaxy - The Thanos Threat"
+    sort_title: "LEGO Marvel Super Heros: Guardians of the Galaxy - The Thanos Threat"
+    url_poster: https://theposterdb.com/api/assets/399283
+
+  "LEGO Marvel Super Heros: Black Panther - Trouble in Wakanda":
+    year: 2018
+    title: "LEGO Marvel Super Heros: Black Panther - Trouble in Wakanda"
+    alt_title: "LEGO Marvel Super Heros: Black Panther - Trouble in Wakanda (2018)"
+    orig_title: "LEGO Marvel Super Heros: Black Panther - Trouble in Wakanda"
+    sort_title: "LEGO Marvel Super Heros: Black Panther - Trouble in Wakanda"
+    url_poster: https://theposterdb.com/api/assets/399284
+
+  "LEGO Marvel Spider-Man: Vexed by Venom":
+    year: 2019
+    title: "LEGO Marvel Spider-Man: Vexed by Venom"
+    alt_title: "LEGO Marvel Spider-Man: Vexed by Venom (2019)"
+    orig_title: "LEGO Marvel Spider-Man: Vexed by Venom"
+    sort_title: "LEGO Marvel Spider-Man: Vexed by Venom"
+    url_poster: https://theposterdb.com/api/assets/399285
+
+  "Lego Marvel Avengers: Climate Conundrum":
+    year: 2020
+    title: "Lego Marvel Avengers: Climate Conundrum"
+    alt_title: "Lego Marvel Avengers: Climate Conundrum (2020)"
+    orig_title: "Lego Marvel Avengers: Climate Conundrum"
+    sort_title: "Lego Marvel Avengers: Climate Conundrum"
+    url_poster: https://theposterdb.com/api/assets/399286
+
+  "LEGO Marvel Avengers: Loki in Training":
+    year: 2021
+    title: "LEGO Marvel Avengers: Loki in Training"
+    alt_title: "LEGO Marvel Avengers: Loki in Training (2021)"
+    orig_title: "LEGO Marvel Avengers: Loki in Training"
+    sort_title: "LEGO Marvel Avengers: Loki in Training"
+    url_poster: https://theposterdb.com/api/assets/399287
+
+  "LEGO Marvel Avengers: Time Twisted":
+    year: 2022
+    title: "LEGO Marvel Avengers: Time Twisted"
+    alt_title: "LEGO Marvel Avengers: Time Twisted (2022)"
+    orig_title: "LEGO Marvel Avengers: Time Twisted"
+    sort_title: "LEGO Marvel Avengers: Time Twisted"
+    url_poster: https://theposterdb.com/api/assets/399288
+
+  "Spider-Man: Into the Spider-Verse":
+    year: 2018
+    title: "Spider-Man: Into the Spider-Verse"
+    alt_title: "Spider-Man: Into the Spider-Verse (2018)"
+    orig_title: "Spider-Man: Into the Spider-Verse"
+    sort_title: "Spider-Man: Into the Spider-Verse"
+    url_poster: https://theposterdb.com/api/assets/398335
+
+  "Spider-Ham: Caught in a Ham":
+    year: 2019
+    title: "Spider-Ham: Caught in a Ham"
+    alt_title: "Spider-Ham: Caught in a Ham (2019)"
+    orig_title: "Spider-Ham: Caught in a Ham"
+    sort_title: "Spider-Ham: Caught in a Ham"
+    url_poster: https://theposterdb.com/api/assets/398336
+
+  "Spider-Man: Across the Spider-Verse":
+    year: 2023
+    title: "Spider-Man: Across the Spider-Verse"
+    alt_title: "Spider-Man: Across the Spider-Verse (2023)"
+    orig_title: "Spider-Man: Across the Spider-Verse"
+    sort_title: "Spider-Man: Across the Spider-Verse"
+    url_poster: https://theposterdb.com/api/assets/398337
+
+  "Arthur Christmas":
+    year: 2011
+    title: "Arthur Christmas"
+    alt_title: "Arthur Christmas (2011)"
+    orig_title: "Arthur Christmas"
+    sort_title: "Arthur Christmas"
+    url_poster: https://theposterdb.com/api/assets/398730
+
+  "The Pirates! in an Adventure with Scientists!":
+    year: 2012
+    title: "The Pirates! in an Adventure with Scientists!"
+    alt_title: "The Pirates! in an Adventure with Scientists! (2012)"
+    orig_title: "The Pirates! in an Adventure with Scientists!"
+    sort_title: "Pirates! in an Adventure with Scientists!"
+    url_poster: https://theposterdb.com/api/assets/398731
+
+  "The Emoji Movie":
+    year: 2017
+    title: "The Emoji Movie"
+    alt_title: "The Emoji Movie (2017)"
+    orig_title: "The Emoji Movie"
+    sort_title: "Emoji Movie"
+    url_poster: https://theposterdb.com/api/assets/398732
+
+  "The Star":
+    year: 2017
+    title: "The Star"
+    alt_title: "The Star (2017)"
+    orig_title: "The Star"
+    sort_title: "Star"
+    url_poster: https://theposterdb.com/api/assets/398733
+
+  "Wish Dragon":
+    year: 2021
+    title: "Wish Dragon"
+    alt_title: "Wish Dragon (2021)"
+    orig_title: "Wish Dragon"
+    sort_title: "Wish Dragon"
+    url_poster: https://theposterdb.com/api/assets/398734
+
+  "The Mitchells vs. the Machines":
+    year: 2021
+    title: "The Mitchells vs. the Machines"
+    alt_title: "The Mitchells vs. the Machines (2021)"
+    orig_title: "The Mitchells vs. the Machines"
+    sort_title: "Mitchells vs. the Machines"
+    url_poster: https://theposterdb.com/api/assets/398735
+
+  "Vivo":
+    year: 2021
+    title: "Vivo"
+    alt_title: "Vivo (2021)"
+    orig_title: "Vivo"
+    sort_title: "Vivo"
+    url_poster: https://theposterdb.com/api/assets/398736
+
+  "Cloudy with a Chance of Meatballs":
+    year: 2009
+    title: "Cloudy with a Chance of Meatballs"
+    alt_title: "Cloudy with a Chance of Meatballs (2009)"
+    orig_title: "Cloudy with a Chance of Meatballs"
+    sort_title: "Cloudy with a Chance of Meatballs"
+    url_poster: https://theposterdb.com/api/assets/398283
+
+  "Cloudy with a Chance of Meatballs 2":
+    year: 2013
+    title: "Cloudy with a Chance of Meatballs 2"
+    alt_title: "Cloudy with a Chance of Meatballs 2 (2013)"
+    orig_title: "Cloudy with a Chance of Meatballs 2"
+    sort_title: "Cloudy with a Chance of Meatballs 2"
+    url_poster: https://theposterdb.com/api/assets/398284
+
+  "Goosebumps":
+    year: 2015
+    title: "Goosebumps"
+    alt_title: "Goosebumps (2015)"
+    orig_title: "Goosebumps"
+    sort_title: "Goosebumps"
+    url_poster: https://theposterdb.com/api/assets/398296
+
+  "Goosebumps 2: Haunted Halloween":
+    year: 2018
+    title: "Goosebumps 2: Haunted Halloween"
+    alt_title: "Goosebumps 2: Haunted Halloween (2018)"
+    orig_title: "Goosebumps 2: Haunted Halloween"
+    sort_title: "Goosebumps 2: Haunted Halloween"
+    url_poster: https://theposterdb.com/api/assets/398297
+
+  "Hotel Transylvania":
+    year: 2012
+    title: "Hotel Transylvania"
+    alt_title: "Hotel Transylvania (2012)"
+    orig_title: "Hotel Transylvania"
+    sort_title: "Hotel Transylvania"
+    url_poster: https://theposterdb.com/api/assets/398312
+
+  "Hotel Transylvania 2":
+    year: 2015
+    title: "Hotel Transylvania 2"
+    alt_title: "Hotel Transylvania 2 (2015)"
+    orig_title: "Hotel Transylvania 2"
+    sort_title: "Hotel Transylvania 2"
+    url_poster: https://theposterdb.com/api/assets/398313
+    
+  "Puppy!":
+    year: 2017
+    title: "Puppy!"
+    alt_title: "Puppy! (2017)"
+    orig_title: "Puppy!"
+    sort_title: "Puppy!"
+    url_poster: https://theposterdb.com/api/assets/398314
+
+  "Hotel Transylvania 3: Summer Vacation":
+    year: 2018
+    title: "Hotel Transylvania 3: Summer Vacation"
+    alt_title: "Hotel Transylvania 3: Summer Vacation (2018)"
+    orig_title: "Hotel Transylvania 3: Summer Vacation"
+    sort_title: "Hotel Transylvania 3: Summer Vacation"
+    url_poster: https://theposterdb.com/api/assets/398315
+
+  "Monster Pets: A Hotel Transylvania Short":
+    year: 2021
+    title: "Monster Pets: A Hotel Transylvania Short"
+    alt_title: "Monster Pets: A Hotel Transylvania Short (2021)"
+    orig_title: "Monster Pets: A Hotel Transylvania Short"
+    sort_title: "Monster Pets: A Hotel Transylvania Short"
+    url_poster: https://theposterdb.com/api/assets/398316
+
+  "Hotel Transylvania: Transformania":
+    year: 2022
+    title: "Hotel Transylvania: Transformania"
+    alt_title: "Hotel Transylvania: Transformania (2022)"
+    orig_title: "Hotel Transylvania: Transformania"
+    sort_title: "Hotel Transylvania: Transformania"
+    url_poster: https://theposterdb.com/api/assets/398317
+
+  "Open Season":
+    year: 2006
+    title: "Open Season"
+    alt_title: "Open Season (2006)"
+    orig_title: "Open Season"
+    sort_title: "Open Season"
+    url_poster: https://theposterdb.com/api/assets/398322
+
+  "Open Season 2":
+    year: 2008
+    title: "Open Season 2"
+    alt_title: "Open Season 2 (2008)"
+    orig_title: "Open Season 2"
+    sort_title: "Open Season 2"
+    url_poster: https://theposterdb.com/api/assets/398323
+
+  "Open Season 3":
+    year: 2010
+    title: "Open Season 3"
+    alt_title: "Open Season 3 (2010)"
+    orig_title: "Open Season 3"
+    sort_title: "Open Season 3"
+    url_poster: https://theposterdb.com/api/assets/398324
+
+  "Open Season: Scared Silly":
+    year: 2015
+    title: "Open Season: Scared Silly"
+    alt_title: "Open Season: Scared Silly (2015)"
+    orig_title: "Open Season: Scared Silly"
+    sort_title: "Open Season: Scared Silly"
+    url_poster: https://theposterdb.com/api/assets/398325
+
+  "Peter Rabbit":
+    year: 2018
+    title: "Peter Rabbit"
+    alt_title: "Peter Rabbit (2018)"
+    orig_title: "Peter Rabbit"
+    sort_title: "Peter Rabbit"
+    url_poster: https://theposterdb.com/api/assets/398331
+
+  "Flopsy Turvy":
+    year: 2018
+    title: "Flopsy Turvy"
+    alt_title: "Flopsy Turvy (2018)"
+    orig_title: "Flopsy Turvy"
+    sort_title: "Flopsy Turvy"
+    url_poster: https://theposterdb.com/api/assets/398332
+
+  "Peter Rabbit 2: The Runaway":
+    year: 2021
+    title: "Peter Rabbit 2: The Runaway"
+    alt_title: "Peter Rabbit 2: The Runaway (2021)"
+    orig_title: "Peter Rabbit 2: The Runaway"
+    sort_title: "Peter Rabbit 2: The Runaway"
+    url_poster: https://theposterdb.com/api/assets/398333
+
+  "Surf's Up":
+    year: 2007
+    title: "Surf's Up"
+    alt_title: "Surf's Up (2007)"
+    orig_title: "Surf's Up"
+    sort_title: "Surf's Up"
+    url_poster: https://theposterdb.com/api/assets/398399
+
+  "Surf's Up 2: WaveMania":
+    year: 2017
+    title: "Surf's Up 2: WaveMania"
+    alt_title: "Surf's Up 2: WaveMania (2017)"
+    orig_title: "Surf's Up 2: WaveMania"
+    sort_title: "Surf's Up 2: WaveMania"
+    url_poster: https://theposterdb.com/api/assets/398400
+
+  "The Angry Birds Movie":
+    year: 2016
+    title: "The Angry Birds Movie"
+    alt_title: "The Angry Birds Movie (2016)"
+    orig_title: "The Angry Birds Movie"
+    sort_title: "Angry Birds Movie"
+    url_poster: https://theposterdb.com/api/assets/398410
+
+  "The Angry Birds Movie 2":
+    year: 2019
+    title: "The Angry Birds Movie 2"
+    alt_title: "The Angry Birds Movie 2 (2019)"
+    orig_title: "The Angry Birds Movie 2"
+    sort_title: "Angry Birds Movie 2"
+    url_poster: https://theposterdb.com/api/assets/398411
+
+  "The Smurfs":
+    year: 2011
+    title: "The Smurfs"
+    alt_title: "The Smurfs (2011)"
+    orig_title: "The Smurfs"
+    sort_title: "Smurfs"
+    url_poster: https://theposterdb.com/api/assets/398695
+
+  "The Smurfs: A Christmas Carol":
+    year: 2011
+    title: "The Smurfs: A Christmas Carol"
+    alt_title: "The Smurfs: A Christmas Carol (2011)"
+    orig_title: "The Smurfs: A Christmas Carol"
+    sort_title: "Smurfs: A Christmas Carol"
+    url_poster: https://theposterdb.com/api/assets/398696
+
+  "The Smurfs 2":
+    year: 2013
+    title: "The Smurfs 2"
+    alt_title: "The Smurfs 2 (2013)"
+    orig_title: "The Smurfs 2"
+    sort_title: "Smurfs 2"
+    url_poster: https://theposterdb.com/api/assets/398697
+
+  "The Smufs: The Legend of Smurfy Hollow":
+    year: 2013
+    title: "The Smufs: The Legend of Smurfy Hollow"
+    alt_title: "The Smufs: The Legend of Smurfy Hollow (2013)"
+    orig_title: "The Smufs: The Legend of Smurfy Hollow"
+    sort_title: "Smufs: The Legend of Smurfy Hollow"
+    url_poster: https://theposterdb.com/api/assets/398698
+
+  "Smurfs: The Lost Village":
+    year: 2017
+    title: "Smurfs: The Lost Village"
+    alt_title: "Smurfs: The Lost Village (2017)"
+    orig_title: "Smurfs: The Lost Village"
+    sort_title: "Smurfs: The Lost Village"
+    url_poster: https://theposterdb.com/api/assets/398699
+
+  "Creature Comforts":
+    year: 1989
+    title: "Creature Comforts"
+    alt_title: "Creature Comforts (1989)"
+    orig_title: "Creature Comforts"
+    sort_title: "Creature Comforts"
+    url_poster: https://theposterdb.com/api/assets/398268
+
+  "Early Man":
+    year: 2018
+    title: "Early Man"
+    alt_title: "Early Man (2018)"
+    orig_title: "Early Man"
+    sort_title: "Early Man"
+    url_poster: https://theposterdb.com/api/assets/398269
+
+  "Robin Robin":
+    year: 2021
+    title: "Robin Robin"
+    alt_title: "Robin Robin (2021)"
+    orig_title: "Robin Robin"
+    sort_title: "Robin Robin"
+    url_poster: https://theposterdb.com/api/assets/398270
+
+  "A Grand Day Out":
+    year: 1990
+    title: "A Grand Day Out"
+    alt_title: "A Grand Day Out (1990)"
+    orig_title: "A Grand Day Out"
+    sort_title: "Grand Day Out"
+    url_poster: https://theposterdb.com/api/assets/398226
+
+  "The Wrong Trousers":
+    year: 1993
+    title: "The Wrong Trousers"
+    alt_title: "The Wrong Trousers (1993)"
+    orig_title: "The Wrong Trousers"
+    sort_title: "Wrong Trousers"
+    url_poster: https://theposterdb.com/api/assets/398227
+
+  "A Close Shave":
+    year: 1995
+    title: "A Close Shave"
+    alt_title: "A Close Shave (1995)"
+    orig_title: "A Close Shave"
+    sort_title: "Close Shave"
+    url_poster: https://theposterdb.com/api/assets/398228
+
+  "The Incredible Adventures of Wallace & Gromit":
+    year: 2001
+    title: "The Incredible Adventures of Wallace & Gromit"
+    alt_title: "The Incredible Adventures of Wallace & Gromit (2001)"
+    orig_title: "The Incredible Adventures of Wallace & Gromit"
+    sort_title: "The Incredible Adventures of Wallace & Gromit"
+    url_poster: https://theposterdb.com/api/assets/398229
+
+  "Wallace & Gromit's Cracking Contraptions":
+    year: 2002
+    title: "Wallace & Gromit's Cracking Contraptions"
+    alt_title: "Wallace & Gromit's Cracking Contraptions (2002)"
+    orig_title: "Wallace & Gromit's Cracking Contraptions"
+    sort_title: "Wallace & Gromit's Cracking Contraptions"
+    url_poster: https://theposterdb.com/api/assets/398230
+
+  "Wallace & Gromit: The Curse of the Were-Rabbit":
+    year: 2005
+    title: "Wallace & Gromit: The Curse of the Were-Rabbit"
+    alt_title: "Wallace & Gromit: The Curse of the Were-Rabbit (2005)"
+    orig_title: "Wallace & Gromit: The Curse of the Were-Rabbit"
+    sort_title: "Wallace & Gromit: The Curse of the Were-Rabbit"
+    url_poster: https://theposterdb.com/api/assets/398231
+
+  "A Matter of Loaf and Death":
+    year: 2008
+    title: "A Matter of Loaf and Death"
+    alt_title: "A Matter of Loaf and Death (2008)"
+    orig_title: "A Matter of Loaf and Death"
+    sort_title: "Matter of Loaf and Death"
+    url_poster: https://theposterdb.com/api/assets/398232
+
+  "Wallace & Gromit's World of Invention":
+    year: 2010
+    title: "Wallace & Gromit's World of Invention"
+    alt_title: "Wallace & Gromit's World of Invention (2010)"
+    orig_title: "Wallace & Gromit's World of Invention"
+    sort_title: "Wallace & Gromit's World of Invention"
+    url_poster: https://theposterdb.com/api/assets/398233
+
+  "Shaun the Sheep Movie":
+    year: 2015
+    title: "Shaun the Sheep Movie"
+    alt_title: "Shaun the Sheep Movie (2015)"
+    orig_title: "Shaun the Sheep Movie"
+    sort_title: "Shaun the Sheep Movie"
+    url_poster: https://theposterdb.com/api/assets/398243
+
+  "Shaun the Sheep: The Farmer's Llamas":
+    year: 2015
+    title: "Shaun the Sheep: The Farmer's Llamas"
+    alt_title: "Shaun the Sheep: The Farmer's Llamas (2015)"
+    orig_title: "Shaun the Sheep: The Farmer's Llamas"
+    sort_title: "Shaun the Sheep: The Farmer's Llamas"
+    url_poster: https://theposterdb.com/api/assets/398244
+
+  "A Shaun the Sheep Movie: Farmageddon":
+    year: 2019
+    title: "A Shaun the Sheep Movie: Farmageddon"
+    alt_title: "A Shaun the Sheep Movie: Farmageddon (2019)"
+    orig_title: "A Shaun the Sheep Movie: Farmageddon"
+    sort_title: "A Shaun the Sheep Movie: Farmageddon"
+    url_poster: https://theposterdb.com/api/assets/398245
+
+  "Shaun the Sheep: The Flight Before Christmas":
+    year: 2021
+    title: "Shaun the Sheep: The Flight Before Christmas"
+    alt_title: "Shaun the Sheep: The Flight Before Christmas (2021)"
+    orig_title: "Shaun the Sheep: The Flight Before Christmas"
+    sort_title: "Shaun the Sheep: The Flight Before Christmas"
+    url_poster: https://theposterdb.com/api/assets/398241
+
+  "Chicken Run":
+    year: 2000
+    title: "Chicken Run"
+    alt_title: "Chicken Run (2000)"
+    orig_title: "Chicken Run"
+    sort_title: "Chicken Run"
+    url_poster: https://theposterdb.com/api/assets/398256
+
+  "Chicken Run: Dawn of the Nugget":
+    year: 2023
+    title: "Chicken Run: Dawn of the Nugget"
+    alt_title: "Chicken Run: Dawn of the Nugget (2023)"
+    orig_title: "Chicken Run: Dawn of the Nugget"
+    sort_title: "Chicken Run: Dawn of the Nugget"
+    url_poster: https://theposterdb.com/api/assets/398257
+
+  "Flushed Away":
+    year: 2006
+    title: "Flushed Away"
+    alt_title: "Flushed Away (2006)"
+    orig_title: "Flushed Away"
+    sort_title: "Flushed Away"
+    url_poster: https://theposterdb.com/api/assets/397938
