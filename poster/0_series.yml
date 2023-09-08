@@ -176,3 +176,54 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/394774
         10:
             url_poster: https://theposterdb.com/api/assets/394775
+
+  "South Park":
+    year: 1997
+    title: "South Park"
+    alt_title: "South Park (1997)"
+    orig_title: "South Park"
+    sort_title: "South Park"
+    url_poster: https://theposterdb.com/api/assets/389835
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/389836
+        1:
+            url_poster: https://theposterdb.com/api/assets/389837
+        2:
+            url_poster: https://theposterdb.com/api/assets/389838
+        3:
+            url_poster: https://theposterdb.com/api/assets/389839
+        4:
+            url_poster: https://theposterdb.com/api/assets/389840
+        5:
+            url_poster: https://theposterdb.com/api/assets/389841
+        6:
+            url_poster: https://theposterdb.com/api/assets/389842
+        7:
+            url_poster: https://theposterdb.com/api/assets/389843
+        8:
+            url_poster: https://theposterdb.com/api/assets/389844
+        9:
+            url_poster: https://theposterdb.com/api/assets/389845
+        10:
+            url_poster: https://theposterdb.com/api/assets/389847
+        11:
+            url_poster: https://theposterdb.com/api/assets/389837
+        12:
+            url_poster: https://theposterdb.com/api/assets/389848
+        13:
+            url_poster: https://theposterdb.com/api/assets/389849
+        14:
+            url_poster: https://theposterdb.com/api/assets/389850
+        15:
+            url_poster: https://theposterdb.com/api/assets/389851
+        16:
+            url_poster: https://theposterdb.com/api/assets/389852
+        17:
+            url_poster: https://theposterdb.com/api/assets/389853
+        18:
+            url_poster: https://theposterdb.com/api/assets/389854
+        19:
+            url_poster: https://theposterdb.com/api/assets/389855
+        20:
+            url_poster: https://theposterdb.com/api/assets/389856
