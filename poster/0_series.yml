@@ -1,0 +1,178 @@
+metadata:
+  "The Wheel of Time":
+    year: 2021
+    title: "The Wheel of Time"
+    alt_title: "The Wheel of Time (2021)"
+    orig_title: "The Wheel of Time"
+    sort_title: "Wheel of Time"
+    url_poster: https://theposterdb.com/api/assets/308573
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/308574
+        1:
+            url_poster: https://theposterdb.com/api/assets/308575
+
+  "The Big Bang Theory":
+    year: 2006
+    title: "The Big Bang Theory"
+    alt_title: "The Big Bang Theory (2006)"
+    orig_title: "The Big Bang Theory"
+    sort_title: "Big Bang Theory"
+    url_poster: https://theposterdb.com/api/assets/394449
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/394450
+        1:
+            url_poster: https://theposterdb.com/api/assets/394451
+        2:
+            url_poster: https://theposterdb.com/api/assets/394452
+        3:
+            url_poster: https://theposterdb.com/api/assets/394453
+        4:
+            url_poster: https://theposterdb.com/api/assets/394454
+        5:
+            url_poster: https://theposterdb.com/api/assets/394455
+        6:
+            url_poster: https://theposterdb.com/api/assets/394456
+        7:
+            url_poster: https://theposterdb.com/api/assets/394457
+        8:
+            url_poster: https://theposterdb.com/api/assets/394458
+        9:
+            url_poster: https://theposterdb.com/api/assets/394459
+        10:
+            url_poster: https://theposterdb.com/api/assets/394460
+        11:
+            url_poster: https://theposterdb.com/api/assets/394461
+        12:
+            url_poster: https://theposterdb.com/api/assets/394462
+
+  "The Rookie":
+    year: 2018
+    title: "The Rookie"
+    alt_title: "The Rookie (2018)"
+    orig_title: "The Rookie"
+    sort_title: "Rookie"
+    url_poster: https://theposterdb.com/api/assets/342472
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/342473
+        2:
+            url_poster: https://theposterdb.com/api/assets/342474
+        3:
+            url_poster: https://theposterdb.com/api/assets/342475
+        4:
+            url_poster: https://theposterdb.com/api/assets/342476
+        5:
+            url_poster: https://theposterdb.com/api/assets/342477
+
+  "Ahsoka":
+    year: 2023
+    title: "Ahsoka"
+    alt_title: "Ahsoka (2023)"
+    orig_title: "Ahsoka"
+    sort_title: "Ahsoka"
+    url_poster: https://theposterdb.com/api/assets/403281
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/403282
+
+  "Game of Thrones":
+    year: 2011
+    title: "Game of Thrones"
+    alt_title: "Game of Thrones (2011)"
+    orig_title: "Game of Thrones"
+    sort_title: "Game of Thrones"
+    url_poster: https://theposterdb.com/api/assets/393101
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/393102
+        1:
+            url_poster: https://theposterdb.com/api/assets/393103
+        2:
+            url_poster: https://theposterdb.com/api/assets/393104
+        3:
+            url_poster: https://theposterdb.com/api/assets/393105
+        4:
+            url_poster: https://theposterdb.com/api/assets/393106
+        5:
+            url_poster: https://theposterdb.com/api/assets/393107
+        6:
+            url_poster: https://theposterdb.com/api/assets/393108
+        7:
+            url_poster: https://theposterdb.com/api/assets/393109
+        8:
+            url_poster: https://theposterdb.com/api/assets/393110
+
+  "What We Do in the Shadows":
+    year: 2019
+    title: "What We Do in the Shadows"
+    alt_title: "What We Do in the Shadows (2019)"
+    orig_title: "What We Do in the Shadows"
+    sort_title: "What We Do in the Shadows"
+    url_poster: https://theposterdb.com/api/assets/404891
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/404892
+        1:
+            url_poster: https://theposterdb.com/api/assets/404893
+        2:
+            url_poster: https://theposterdb.com/api/assets/404894
+        3:
+            url_poster: https://theposterdb.com/api/assets/404895
+        4:
+            url_poster: https://theposterdb.com/api/assets/404896
+        5:
+            url_poster: https://theposterdb.com/api/assets/404897
+
+  "Breaking Bad":
+    year: 2008
+    title: "Breaking Bad"
+    alt_title: "Breaking Bad (2008)"
+    orig_title: "Breaking Bad"
+    sort_title: "Breaking Bad"
+    url_poster: https://theposterdb.com/api/assets/392546
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/392547
+        1:
+            url_poster: https://theposterdb.com/api/assets/392548
+        2:
+            url_poster: https://theposterdb.com/api/assets/392549
+        3:
+            url_poster: https://theposterdb.com/api/assets/392550
+        4:
+            url_poster: https://theposterdb.com/api/assets/392551
+        5:
+            url_poster: https://theposterdb.com/api/assets/392552
+
+  "Friends":
+    year: 1994
+    title: "Friends"
+    alt_title: "Friends (1994)"
+    orig_title: "Friends"
+    sort_title: "Friends"
+    url_poster: https://theposterdb.com/api/assets/394764
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/394765
+        1:
+            url_poster: https://theposterdb.com/api/assets/394766
+        2:
+            url_poster: https://theposterdb.com/api/assets/394767
+        3:
+            url_poster: https://theposterdb.com/api/assets/394768
+        4:
+            url_poster: https://theposterdb.com/api/assets/394769
+        5:
+            url_poster: https://theposterdb.com/api/assets/394770
+        6:
+            url_poster: https://theposterdb.com/api/assets/394771
+        7:
+            url_poster: https://theposterdb.com/api/assets/394772
+        8:
+            url_poster: https://theposterdb.com/api/assets/394773
+        9:
+            url_poster: https://theposterdb.com/api/assets/394774
+        10:
+            url_poster: https://theposterdb.com/api/assets/394775
