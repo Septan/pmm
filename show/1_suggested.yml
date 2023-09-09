@@ -55,7 +55,7 @@ templates:
       limit: 200
 
 collections:
-  "Random TV shows":
+  "Random TV Shows":
     summary: Random selection of TV shows
     url_poster: https://images2.imgbox.com/7c/7f/Zx202214_o.png
     visible_library: true
@@ -70,7 +70,7 @@ collections:
       sort_by: random
       limit: 250
 
-  "Trending":
+  "Trending TV Shows":
     summary: TV shows trending across the internet
     url_poster: https://images2.imgbox.com/ee/c6/sGdBToVv_o.png
     schedule: daily
@@ -83,7 +83,7 @@ collections:
       time_period: daily
       limit: 25
 
-  "Popular":
+  "Popular TV Shows":
     summary: Popular TV shows across the internet
     url_poster: https://images2.imgbox.com/55/ba/Z1GU6NcR_o.png
     visible_library: true
@@ -96,7 +96,7 @@ collections:
                     }
     limit: 100
 
-  "Top Rated":
+  "Top Rated TV Shows":
     summary: Top rated TV shows across the internet
     url_poster: https://images2.imgbox.com/0c/63/FiXfE8HU_o.png
     schedule: daily
