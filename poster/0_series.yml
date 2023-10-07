@@ -444,3 +444,68 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/411064/download?performed_by=HelixPhoenix
         3:
             url_poster: https://theposterdb.com/api/assets/411065/download?performed_by=HelixPhoenix
+
+  "Based on a True Story":
+    year: 2023
+    title: "Based on a True Story"
+    alt_title: "Based on a True Story (2023)"
+    orig_title: "Based on a True Story"
+    sort_title: "Based on a True Story"
+    url_poster: https://theposterdb.com/api/assets/412696/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/412697
+
+  "Batwoman":
+    year: 2019
+    title: "Batwoman"
+    alt_title: "Batwoman (2019)"
+    orig_title: "Batwoman"
+    sort_title: "Batwoman"
+    url_poster: https://theposterdb.com/api/assets/386749/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/386750
+        2:  
+            url_poster: https://theposterdb.com/api/assets/386751
+        3:
+            url_poster: https://theposterdb.com/api/assets/386752
+
+  "Mike Judge's Beavis and Butt-Head":
+    year: 2022
+    title: "Mike Judge's Beavis and Butt-Head"
+    alt_title: "Mike Judge's Beavis and Butt-Head (2022)"
+    orig_title: "Mike Judge's Beavis and Butt-Head"
+    sort_title: "Mike Judge's Beavis and Butt-Head"
+    url_poster: https://theposterdb.com/api/assets/394917/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/394918
+        2:  
+            url_poster: https://theposterdb.com/api/assets/394919
+
+  "Bel-Air":
+    year: 2022
+    title: "Bel-Air"
+    alt_title: "Bel-Air (2022)"
+    orig_title: "Bel-Air"
+    sort_title: "Bel-Air"
+    url_poster: https://theposterdb.com/api/assets/377063/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/377064
+        2:  
+            url_poster: https://theposterdb.com/api/assets/377065
+
+  "Below Deck Down Under":
+    year: 2022
+    title: "Below Deck Down Under"
+    alt_title: "Below Deck Down Under (2022)"
+    orig_title: "Below Deck Down Under"
+    sort_title: "Below Deck Down Under"
+    url_poster: https://theposterdb.com/api/assets/413766/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/413767
+        2:  
+            url_poster: https://theposterdb.com/api/assets/413768
