@@ -437,13 +437,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/411061/
     seasons:
         0:
-            url_poster: https://theposterdb.com/api/assets/411062/download?performed_by=HelixPhoenix
+            url_poster: https://theposterdb.com/api/assets/411062
         1:
-            url_poster: https://theposterdb.com/api/assets/411063/download?performed_by=HelixPhoenix
+            url_poster: https://theposterdb.com/api/assets/411063
         2:
-            url_poster: https://theposterdb.com/api/assets/411064/download?performed_by=HelixPhoenix
+            url_poster: https://theposterdb.com/api/assets/411064
         3:
-            url_poster: https://theposterdb.com/api/assets/411065/download?performed_by=HelixPhoenix
+            url_poster: https://theposterdb.com/api/assets/411065
 
   "Based on a True Story":
     year: 2023
@@ -509,3 +509,257 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/413767
         2:  
             url_poster: https://theposterdb.com/api/assets/413768
+
+  "Twisted Metal":
+    year: 2023
+    title: "Twisted Metal"
+    alt_title: "Twisted Metal (2023)"
+    orig_title: "Twisted Metal"
+    sort_title: "TWisted Metal"
+    url_poster: https://theposterdb.com/api/assets/390246/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/390247
+  
+  "Big Mouth":
+    year: 2017
+    title: "Big Mouth"
+    alt_title: "Big Mouth (2017)"
+    orig_title: "Big Mouth"
+    sort_title: "Big Mouth"
+    url_poster: https://theposterdb.com/api/assets/423750/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/423751
+        1:
+            url_poster: https://theposterdb.com/api/assets/423752
+        2:
+            url_poster: https://theposterdb.com/api/assets/423753
+        3:
+            url_poster: https://theposterdb.com/api/assets/423754
+        4:
+            url_poster: https://theposterdb.com/api/assets/423755
+        5:
+            url_poster: https://theposterdb.com/api/assets/423756
+        6:
+            url_poster: https://theposterdb.com/api/assets/423757
+        7:
+            url_poster: https://theposterdb.com/api/assets/423758
+
+  "Friday the 13th: The Series":
+    year: 1987
+    title: "Friday the 13th: The Series"
+    alt_title: "Friday the 13th: The Series (1987)"
+    orig_title: "Friday the 13th: The Series"
+    sort_title: "Friday the 13th: The Series"
+    url_poster: https://theposterdb.com/api/assets/423679/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/423680
+        1:
+            url_poster: https://theposterdb.com/api/assets/423681
+        2:
+            url_poster: https://theposterdb.com/api/assets/423682
+        3:
+            url_poster: https://theposterdb.com/api/assets/423683
+
+  "The Mummy: The Animated Series":
+    # DIIIVOY
+    year: 2001
+    title: "The Mummy: The Animated Series"
+    alt_title: "The Mummy: The Animated Series (2001)"
+    orig_title: "The Mummy: The Animated Series"
+    sort_title: "Mummy: The Animated Series"
+    url_poster: https://theposterdb.com/api/assets/423679/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/423680
+        1:
+            url_poster: https://theposterdb.com/api/assets/423681
+
+  "Babylon 5":
+    year: 1993
+    title: "Babylon 5"
+    alt_title: "Babylon 5 (1993)"
+    orig_title: "Babylon 5"
+    sort_title: "Babylon 5"
+    url_poster: https://theposterdb.com/api/assets/423588/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/423589
+        1:
+            url_poster: https://theposterdb.com/api/assets/423590
+        2:
+            url_poster: https://theposterdb.com/api/assets/423591
+        3:
+            url_poster: https://theposterdb.com/api/assets/423592
+        4:
+            url_poster: https://theposterdb.com/api/assets/423593
+        5:
+            url_poster: https://theposterdb.com/api/assets/423594
+
+  "The Old Man":
+    year: 2022
+    title: "The Old Man"
+    alt_title: "The Old Man (2022)"
+    orig_title: "The Old Man"
+    sort_title: "Old Man"
+    url_poster: https://theposterdb.com/api/assets/423571/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/423572
+
+  "From":
+    year: 2022
+    title: "From"
+    alt_title: "From (2022)"
+    orig_title: "From"
+    sort_title: "From"
+    url_poster: https://theposterdb.com/api/assets/423494/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/423495
+        2:
+            url_poster: https://theposterdb.com/api/assets/423496
+
+  "Bosch: Legacy":
+    year: 2022
+    title: "Bosch: Legacy"
+    alt_title: "Bosch: Legacy (2022)"
+    orig_title: "Bosch: Legacy"
+    sort_title: "Bosch: Legacy"
+    url_poster: https://theposterdb.com/api/assets/422776/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/422777
+        2:
+            url_poster: https://theposterdb.com/api/assets/422778
+
+  "Jurassic World: Camp Cretaceous":
+    year: 2020
+    title: "Jurassic World: Camp Cretaceous"
+    alt_title: "Jurassic World: Camp Cretaceous (2020)"
+    orig_title: "Jurassic World: Camp Cretaceous"
+    sort_title: "Jurassic World: Camp Cretaceous"
+    url_poster: https://theposterdb.com/api/assets/422768/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/422769
+        2:
+            url_poster: https://theposterdb.com/api/assets/422770
+        3:
+            url_poster: https://theposterdb.com/api/assets/422771
+        4:
+            url_poster: https://theposterdb.com/api/assets/422772
+        5:
+            url_poster: https://theposterdb.com/api/assets/422773
+
+  "Rick and Morty":
+    year: 2013
+    title: "Rick and Morty"
+    alt_title: "Rick and Morty (2013)"
+    orig_title: "Rick and Morty"
+    sort_title: "Rick and Morty"
+    url_poster: https://theposterdb.com/api/assets/421575/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/421576/
+        1:
+            url_poster: https://theposterdb.com/api/assets/421577/
+        2:
+            url_poster: https://theposterdb.com/api/assets/421578/
+        3:
+            url_poster: https://theposterdb.com/api/assets/421579/
+        4:
+            url_poster: https://theposterdb.com/api/assets/421580/
+        5:
+            url_poster: https://theposterdb.com/api/assets/421581/
+        6:
+            url_poster: https://theposterdb.com/api/assets/421582/
+        7:
+            url_poster: https://theposterdb.com/api/assets/421583/
+
+  "Teen Titans":
+    year: 2003
+    title: "Teen Titans"
+    alt_title: "Teen Titans (2003)"
+    orig_title: "Teen Titans"
+    sort_title: "Teen Titans"
+    url_poster: https://theposterdb.com/api/assets/421350/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/421351/
+        1:
+            url_poster: https://theposterdb.com/api/assets/421352/
+        2:
+            url_poster: https://theposterdb.com/api/assets/421353/
+        3:
+            url_poster: https://theposterdb.com/api/assets/421354/
+        4:
+            url_poster: https://theposterdb.com/api/assets/421355/
+        5:
+            url_poster: https://theposterdb.com/api/assets/421356/
+
+  "Pantheon":
+    year: 2022
+    title: "Pantheon"
+    alt_title: "Pantheon (2022)"
+    orig_title: "Pantheon"
+    sort_title: "Pantheon"
+    url_poster: https://theposterdb.com/api/assets/421067/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/421068/
+        2:
+            url_poster: https://theposterdb.com/api/assets/421069/
+
+  "The 100":
+    year: 2014
+    title: "The 100"
+    alt_title: "The 100 (2014)"
+    orig_title: "The 100"
+    sort_title: "100"
+    url_poster: https://theposterdb.com/api/assets/412020/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/412021/
+        1:
+            url_poster: https://theposterdb.com/api/assets/412022/
+        2:  
+            url_poster: https://theposterdb.com/api/assets/412023/
+        3:
+            url_poster: https://theposterdb.com/api/assets/412024/
+        4:  
+            url_poster: https://theposterdb.com/api/assets/412025/
+        5:
+            url_poster: https://theposterdb.com/api/assets/412026/
+        6:
+            url_poster: https://theposterdb.com/api/assets/412027/
+        7:
+            url_poster: https://theposterdb.com/api/assets/412028/
+
+  "1883":
+    year: 2021
+    title: "1883"
+    alt_title: "1883 (2021)"
+    orig_title: "1883"
+    sort_title: "1883"
+    url_poster: https://theposterdb.com/api/assets/306792/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/306793/
+        1:
+            url_poster: https://theposterdb.com/api/assets/306794/
+
+  "1899 (2022)":
+    year: 2022
+    title: "1899 (2022)"
+    alt_title: "1899 (2022)"
+    orig_title: "1899 (2022)"
+    sort_title: "1899"
+    url_poster: https://theposterdb.com/api/assets/412007/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/412008/
+        1:
+            url_poster: https://theposterdb.com/api/assets/412009/
