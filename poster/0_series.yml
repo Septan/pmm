@@ -763,3 +763,343 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/412008/
         1:
             url_poster: https://theposterdb.com/api/assets/412009/
+
+  "Amazing Stories (2020)":
+    year: 2020
+    title: "Amazing Stories (2020)"
+    alt_title: "Amazing Stories (2020)"
+    orig_title: "Amazing Stories (2020)"
+    sort_title: "Amazing Stories (2020)"
+    url_poster: https://theposterdb.com/api/assets/411041/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/411042/
+
+  "American Dad!":
+    year: 2005
+    title: "American Dad!"
+    alt_title: "American Dad! (2005)"
+    orig_title: "American Dad!"
+    sort_title: "American Dad!"
+    url_poster: https://theposterdb.com/api/assets/419553/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/419554/
+        1:
+            url_poster: https://theposterdb.com/api/assets/419555/
+        2:  
+            url_poster: https://theposterdb.com/api/assets/419556/
+        3:
+            url_poster: https://theposterdb.com/api/assets/419557/
+        4:  
+            url_poster: https://theposterdb.com/api/assets/419558/
+        5:
+            url_poster: https://theposterdb.com/api/assets/419559/
+        6:
+            url_poster: https://theposterdb.com/api/assets/419560/
+        7:
+            url_poster: https://theposterdb.com/api/assets/419561/
+        8:
+            url_poster: https://theposterdb.com/api/assets/419562/
+        9:
+            url_poster: https://theposterdb.com/api/assets/419563/
+        10:
+            url_poster: https://theposterdb.com/api/assets/419564/
+        11:
+            url_poster: https://theposterdb.com/api/assets/419565/
+        12:
+            url_poster: https://theposterdb.com/api/assets/419566/
+        13:
+            url_poster: https://theposterdb.com/api/assets/419567/
+        14:
+            url_poster: https://theposterdb.com/api/assets/419568/
+        15:
+            url_poster: https://theposterdb.com/api/assets/419569/
+        16:
+            url_poster: https://theposterdb.com/api/assets/419570/
+        17:
+            url_poster: https://theposterdb.com/api/assets/419571/
+        18:
+            url_poster: https://theposterdb.com/api/assets/419572/
+        19:
+            url_poster: https://theposterdb.com/api/assets/419573/
+        20:
+            url_poster: https://theposterdb.com/api/assets/419574/
+
+  "Nancy Drew":
+    year: 2019
+    title: "Nancy Drew"
+    alt_title: "Nancy Drew (2019)"
+    orig_title: "Nancy Drew"
+    sort_title: "Nancy Drew"
+    url_poster: https://theposterdb.com/api/assets/420649/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/420650/
+        2:
+            url_poster: https://theposterdb.com/api/assets/420651/
+        3:
+            url_poster: https://theposterdb.com/api/assets/420652/
+        4:
+            url_poster: https://theposterdb.com/api/assets/420653/
+
+  "SMILF":
+    year: 2017
+    title: "SMILF"
+    alt_title: "SMILF (2017)"
+    orig_title: "SMILF"
+    sort_title: "SMILF"
+    url_poster: https://theposterdb.com/api/assets/420609/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/420610/
+        2:
+            url_poster: https://theposterdb.com/api/assets/420611/
+
+  "Creepshow":
+    year: 2019
+    title: "Creepshow"
+    alt_title: "Creepshow (2019)"
+    orig_title: "Creepshow"
+    sort_title: "Creepshow"
+    url_poster: https://theposterdb.com/api/assets/410582/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/410583/
+        1:
+            url_poster: https://theposterdb.com/api/assets/410584/
+        2:
+            url_poster: https://theposterdb.com/api/assets/410585/
+        3:
+            url_poster: https://theposterdb.com/api/assets/410586/
+        4:
+            url_poster: https://theposterdb.com/api/assets/420589/
+
+  "The Transformers":
+    year: 1984
+    title: "The Transformers"
+    alt_title: "The Transformers (1984)"
+    orig_title: "The Transformers"
+    sort_title: "Transformers"
+    url_poster: https://theposterdb.com/api/assets/419856/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/419857/
+        1:
+            url_poster: https://theposterdb.com/api/assets/419858/
+        2:
+            url_poster: https://theposterdb.com/api/assets/419859/
+        3:
+            url_poster: https://theposterdb.com/api/assets/419860/
+        4:
+            url_poster: https://theposterdb.com/api/assets/419861/
+
+  "The Simpsons":
+    year: 1989
+    title: "The Simpsons"
+    alt_title: "The Simpsons (1989)"
+    orig_title: "The Simpsons"
+    sort_title: "Simpsons"
+    url_poster: https://theposterdb.com/api/assets/419473/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/419474/
+        1:
+            url_poster: https://theposterdb.com/api/assets/419475/
+        2:
+            url_poster: https://theposterdb.com/api/assets/419476/
+        3:
+            url_poster: https://theposterdb.com/api/assets/419477/
+        4:
+            url_poster: https://theposterdb.com/api/assets/419478/
+        5:
+            url_poster: https://theposterdb.com/api/assets/419479/
+        6:
+            url_poster: https://theposterdb.com/api/assets/419480/
+        7:
+            url_poster: https://theposterdb.com/api/assets/419481/
+        8:
+            url_poster: https://theposterdb.com/api/assets/419482/
+        9:
+            url_poster: https://theposterdb.com/api/assets/419483/
+        10:
+            url_poster: https://theposterdb.com/api/assets/419484/
+        11:
+            url_poster: https://theposterdb.com/api/assets/419485/
+        12:
+            url_poster: https://theposterdb.com/api/assets/419486/
+        13:
+            url_poster: https://theposterdb.com/api/assets/419487/
+        14:
+            url_poster: https://theposterdb.com/api/assets/419488/
+        15:
+            url_poster: https://theposterdb.com/api/assets/419489/
+        16:
+            url_poster: https://theposterdb.com/api/assets/419490/
+        17:
+            url_poster: https://theposterdb.com/api/assets/419491/
+        18:
+            url_poster: https://theposterdb.com/api/assets/419492/
+        19:
+            url_poster: https://theposterdb.com/api/assets/419493/
+        20:
+            url_poster: https://theposterdb.com/api/assets/419494/
+        21:
+            url_poster: https://theposterdb.com/api/assets/419495/
+        22:
+            url_poster: https://theposterdb.com/api/assets/419496/
+        23:
+            url_poster: https://theposterdb.com/api/assets/419497/
+        24:
+            url_poster: https://theposterdb.com/api/assets/419498/
+        25:
+            url_poster: https://theposterdb.com/api/assets/419499/
+        26:
+            url_poster: https://theposterdb.com/api/assets/419500/
+        27:
+            url_poster: https://theposterdb.com/api/assets/419501/
+        28:
+            url_poster: https://theposterdb.com/api/assets/419502/
+        29:
+            url_poster: https://theposterdb.com/api/assets/419503/
+        30:
+            url_poster: https://theposterdb.com/api/assets/419504/
+        31:
+            url_poster: https://theposterdb.com/api/assets/419505/
+        32:
+            url_poster: https://theposterdb.com/api/assets/419506/
+        33:
+            url_poster: https://theposterdb.com/api/assets/419507/
+        34:
+            url_poster: https://theposterdb.com/api/assets/419508/
+        35:
+            url_poster: https://theposterdb.com/api/assets/419509/
+
+  "Bob's Burgers":
+    year: 2011
+    title: "Bob's Burgers"
+    alt_title: "Bob's Burgers (2011)"
+    orig_title: "Bob's Burgers"
+    sort_title: "Bob's Burgers"
+    url_poster: https://theposterdb.com/api/assets/419428/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/419429/
+        1:
+            url_poster: https://theposterdb.com/api/assets/419430/
+        2:
+            url_poster: https://theposterdb.com/api/assets/419431/
+        3:
+            url_poster: https://theposterdb.com/api/assets/419432/
+        4:
+            url_poster: https://theposterdb.com/api/assets/419433/
+        5:
+            url_poster: https://theposterdb.com/api/assets/419434/
+        6:
+            url_poster: https://theposterdb.com/api/assets/419435/
+        7:
+            url_poster: https://theposterdb.com/api/assets/419436/
+        8:
+            url_poster: https://theposterdb.com/api/assets/419437/
+        9:
+            url_poster: https://theposterdb.com/api/assets/419438/
+        10:
+            url_poster: https://theposterdb.com/api/assets/419439/
+        11:
+            url_poster: https://theposterdb.com/api/assets/419440/
+        12:
+            url_poster: https://theposterdb.com/api/assets/419441/
+        13:
+            url_poster: https://theposterdb.com/api/assets/419442/
+        14:
+            url_poster: https://theposterdb.com/api/assets/419443/
+
+  "The Umbrella Academy":
+    year: 2019
+    title: "The Umbrella Academy"
+    alt_title: "The Umbrella Academy (2019)"
+    orig_title: "The Umbrella Academy"
+    sort_title: "Umbrella Academy"
+    url_poster: https://theposterdb.com/api/assets/419348/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/419349/
+        1:
+            url_poster: https://theposterdb.com/api/assets/419350/
+        2:
+            url_poster: https://theposterdb.com/api/assets/419351/
+        3:
+            url_poster: https://theposterdb.com/api/assets/419352/
+        4:
+            url_poster: https://theposterdb.com/api/assets/419353/
+
+  "Gen V":
+    year: 2023
+    title: "Gen V"
+    alt_title: "Gen V (2023)"
+    orig_title: "Gen V"
+    sort_title: "Gen V"
+    url_poster: https://theposterdb.com/api/assets/419157/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/419158/
+        1:
+            url_poster: https://theposterdb.com/api/assets/419159/
+
+  "The Mighty Ducks: Game Changers":
+    year: 2021
+    title: "The Mighty Ducks: Game Changers"
+    alt_title: "The Mighty Ducks: Game Changers (2021)"
+    orig_title: "The Mighty Ducks: Game Changers"
+    sort_title: "Mighty Ducks: Game Changers"
+    url_poster: https://theposterdb.com/api/assets/418949/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/418950/
+        2:
+            url_poster: https://theposterdb.com/api/assets/418951/
+
+  "Skull Island":
+    year: 2023
+    title: "Skull Island"
+    alt_title: "Skull Island (2023)"
+    orig_title: "Skull Island"
+    sort_title: "Skull Island"
+    url_poster: https://theposterdb.com/api/assets/418900/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/418901/
+
+  "Tacoma FD":
+    year: 2019
+    title: "Tacoma FD"
+    alt_title: "Tacoma FD (2019)"
+    orig_title: "Tacoma FD"
+    sort_title: "Tacoma FD"
+    url_poster: https://theposterdb.com/api/assets/418193/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/418194/
+        1:
+            url_poster: https://theposterdb.com/api/assets/418195/
+        2:
+            url_poster: https://theposterdb.com/api/assets/418196/
+        3:
+            url_poster: https://theposterdb.com/api/assets/418197/
+        4:
+            url_poster: https://theposterdb.com/api/assets/418198/
+
+  "Chucky":
+    year: 2021
+    title: "Chucky"
+    alt_title: "Chucky (2021)"
+    orig_title: "Chucky"
+    sort_title: "Chucky"
+    url_poster: https://theposterdb.com/api/assets/417617/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/417618/
+        2:
+            url_poster: https://theposterdb.com/api/assets/417619/
+        3:
+            url_poster: https://theposterdb.com/api/assets/417620/
