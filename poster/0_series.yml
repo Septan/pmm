@@ -1215,3 +1215,16 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/417336/
         22:
             url_poster: https://theposterdb.com/api/assets/417337/
+
+  "NCIS: Hawai'i":
+    year: 2021
+    title: "NCIS: Hawai'i"
+    alt_title: "NCIS: Hawai'i (2021)"
+    orig_title: "NCIS: Hawai'i"
+    sort_title: "NCIS: Hawai'i"
+    url_poster: https://theposterdb.com/api/assets/417201/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/417202/
+        2:
+            url_poster: https://theposterdb.com/api/assets/417203/
