@@ -38,6 +38,7 @@ templates:
 collections:
   "Oscar Winners":
     summary: "A collection of Oscar Winners"
+    url_poster: https://images2.imgbox.com/f4/58/WAEn1rcV_o.png
     schedule: weekly(monday)
     template: {
                     name: imdb,
@@ -50,6 +51,7 @@ collections:
 
   "Oscar Nominees":
     summary: "A collection of Oscar Nominees"
+    url_poster: https://images2.imgbox.com/3f/5f/AXGYUbln_o.png
     schedule: weekly(monday)
     template: {
                     name: imdb,
@@ -62,6 +64,7 @@ collections:
 
   "Golden Globes Winners":
     summary: "A collection of Golden Globes Winners"
+    url_poster: https://images2.imgbox.com/23/e3/TkWylF6A_o.png
     schedule: weekly(monday)
     template: {
                     name: imdb,
@@ -74,6 +77,7 @@ collections:
 
   "Golden Globes Nominees":
     summary: "A collection of Golden Globes Nominees"
+    url_poster: https://images2.imgbox.com/13/74/nd8fYiUc_o.png
     schedule: weekly(monday)
     template: {
                     name: imdb,
@@ -86,6 +90,7 @@ collections:
 
   "BAFTA Winners":
     summary: "A collection of BAFTA Winners"
+    url_poster: https://images2.imgbox.com/79/ff/4MRsBHIK_o.png
     schedule: weekly(monday)
     template: {
                     name: letterboxd,
@@ -98,6 +103,7 @@ collections:
 
   "Berlinale Winners":
     summary: "A collection of Berlinale Winners"
+    url_poster: https://images2.imgbox.com/1a/65/gZ2HUyxW_o.png
     schedule: weekly(monday)
     template: {
                     name: letterboxd,
@@ -110,6 +116,7 @@ collections:
 
   "Cannes Film Festival Winners":
     summary: "A collection of Cannes Film Festival Winners"
+    url_poster: https://images2.imgbox.com/88/64/NHp2QVtQ_o.png
     schedule: weekly(monday)
     template: {
                     name: letterboxd,
@@ -122,6 +129,7 @@ collections:
 
   "European Film Award Winners":
     summary: "A collection of European Film Award Winners"
+    url_poster: https://images2.imgbox.com/58/c0/XGH02NHu_o.png
     schedule: weekly(monday)
     template: {
                     name: letterboxd,
@@ -134,6 +142,7 @@ collections:
 
   "Sundance Winners":
     summary: "A collection of Sundance Winners"
+    url_poster: https://images2.imgbox.com/b9/56/lNw0w8z0_o.png
     schedule: weekly(monday)
     template: {
                     name: letterboxd,
@@ -146,6 +155,7 @@ collections:
 
   "Venice Film Festival Winners":
     summary: "A collection of Venice Film Festival Winners"
+    url_poster: https://images2.imgbox.com/90/b6/48X2s6yL_o.png
     schedule: weekly(monday)
     template: {
                     name: letterboxd,
