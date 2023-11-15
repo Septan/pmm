@@ -1228,3 +1228,31 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/417202/
         2:
             url_poster: https://theposterdb.com/api/assets/417203/
+
+  "The Sandman":
+    year: 2022
+    title: "The Sandman"
+    alt_title: "The Sandman (2022)"
+    orig_title: "The Sandman"
+    sort_title: "Sandman"
+    url_poster: https://theposterdb.com/api/assets/430271/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/430272/
+        1:
+            url_poster: https://theposterdb.com/api/assets/430273/
+    
+  "Pennyworth: THe Origin of Batman's Butler":
+    year: 2019
+    title: "Pennyworth: THe Origin of Batman's Butler"
+    alt_title: "Pennyworth: THe Origin of Batman's Butler (2019)"
+    orig_title: "Pennyworth: THe Origin of Batman's Butler"
+    sort_title: "Pennyworth: THe Origin of Batman's Butler"
+    url_poster: https://theposterdb.com/api/assets/430009/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/430010/
+        2:
+            url_poster: https://theposterdb.com/api/assets/430011/
+        3:
+            url_poster: https://theposterdb.com/api/assets/430012/
