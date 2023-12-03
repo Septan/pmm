@@ -1,105 +1,198 @@
 metadata:
-  "A.I. Rising": #deArt
+  "A.I. Rising":
     year: 2019
     title: "A.I. Rising"
     sort_title: "A.I. Rising"
     match:
       mapping_id: 505914
     url_poster: https://theposterdb.com/api/assets/172352/
-    # IDs: imdb://tt5215088, tmdb://505914, tvdb://
+    # IDs: imdb://tt5215088, tmdb://505914, tvdb://12812
 
-  "Abominable": #zarduasselfrau
+  "Abominable":
     year: 2019
     title: "Abominable"
     sort_title: "Abominable"
+    match:
+      mapping_id: 431580
     url_poster: https://theposterdb.com/api/assets/397946/
+    # IDs: imdb://tt6324278, tmdb://431580, tvdb://12176
 
-  "About Fate": #kealaha_king
+  "About Fate":
     year: 2022
     title: "About Fate"
     sort_title: "About Fate"
+    match:
+      mapping_id: 828613
     url_poster: https://theposterdb.com/api/assets/282222/
+    # IDs: imdb://tt14456350, tmdb://828613, tvdb://199393
 
-  "About My Father": #Amishman
+  "About My Father":
     year: 2023
     title: "About My Father"
     sort_title: "About My Father"
+    match:
+      mapping_id: 829051
     url_poster: https://theposterdb.com/api/assets/374262/
+    # IDs: imdb://tt8373206, tmdb://829051, tvdb://345094
 
-  "Absolutely Anything": #SuperMario
+  "Absolutely Anything":
     year: 2015
     title: "Absolutely Anything"
     sort_title: "Absolutely Anything"
+    match:
+      mapping_id: 86828
     url_poster: https://theposterdb.com/api/assets/174094/
+    # IDs: imdb://tt1727770, tmdb://86828, tvdb://4499
 
-  "Acceleration": #SkinnySkelly
+  "Acceleration":
     year: 2019
     title: "Acceleration"
     sort_title: "Acceleration"
+    match:
+      mapping_id: 646150
     url_poster: https://theposterdb.com/api/assets/31315/
+    # IDs: imdb://tt9534808, tmdb://646150, tvdb://143275
 
   "Accident Man": #deArt
     year: 2018
     title: "Accident Man"
     sort_title: "Accident Man"
+    match:
+      mapping_id: 455236
     url_poster: https://theposterdb.com/api/assets/382409/
+    # IDs: imdb://tt6237612, tmdb://455236, tvdb://1394
 
-  "Accident Man: Hitman's Holiday": #deArt
+  "Accident Man: Hitman's Holiday":
     year: 2022
     title: "Accident Man: Hitman's Holiday"
     sort_title: "Accident Man: Hitman's Holiday"
+    match:
+      mapping_id: 879444
     url_poster: https://theposterdb.com/api/assets/382410/
+    # IDs: imdb://tt9669176, tmdb://879444, tvdb://340896
 
-  "The Accountant": #zarduhasselfrau "Old Format"
+  "The Accountant":
     year: 2016
     title: "The Accountant"
     sort_title: "Accountant"
+    match:
+      mapping_id: 302946
     url_poster: https://theposterdb.com/api/assets/341317/
+    # IDs: imdb://tt2140479, tmdb://302946, tvdb://940
 
-  "Ace Ventura: Pet Detective": #zarduhasselfrau "Old Format"
+  "Ace Ventura: Pet Detective":
     year: 1994
     title: "Ace Ventura: Pet Detective"
     sort_title: "Ace Ventura: Pet Detective"
+    match:
+      mapping_id: 3049
     url_poster: https://theposterdb.com/api/assets/346705/
+    # IDs: imdb://tt0109040, tmdb://3049, tvdb://2007
 
-  "Ace Ventura: Pet Detective Jr.": #zarduhasselfrau "Old Format"
+  "Ace Ventura: Pet Detective Jr.":
     year: 2009
     title: "Ace Ventura: Pet Detective Jr."
     sort_title: "Ace Ventura: Pet Detective Jr."
+    match:
+      mapping_id: 15338
     url_poster: https://theposterdb.com/api/assets/346707/
+    # IDs: imdb://tt0844029, tmdb://15338, tvdb://8841
 
-  "Ace Ventura: When Nature Calls": #zarduhasselfrau "Old Format"
+  "Ace Ventura: When Nature Calls":
     year: 1995
     title: "Ace Ventura: When Nature Calls"
     sort_title: "Ace Ventura: When Nature Calls"
+    match:
+      mapping_id: 9273
     url_poster: https://theposterdb.com/api/assets/346706/
+    # IDs: imdb://tt0112281, tmdb://9273, tvdb://1072
 
-  "Across the Universe": #dm247
+  "Across the Universe":
     year: 2007
     title: "Across the Universe"
     sort_title: "Across the Universe"
+    match:
+      mapping_id: 4688
     url_poster: https://theposterdb.com/api/assets/348626/
+    # IDs: imdb://tt0445922, tmdb://4688, tvdb://7587
   
-  "Action Point": #xMrRocknRollx
+  "Action Point":
     year: 2018
     title: "Action Point"
     sort_title: "Action Point"
+    match:
+      mapping_id: 454283
     url_poster: https://theposterdb.com/api/assets/180014/
+    # IDs: imdb://tt6495770, tmdb://454283, tvdb://2300
 
-  "Acts of Violence": #zarduhasselfrau "Old Format"
+  "Acts of Violence":
     year: 2018
     title: "Acts of Violence"
     sort_title: "Acts of Violence"
+    match:
+      mapping_id: 479040
     url_poster: https://theposterdb.com/api/assets/317486/
+    # IDs: imdb://tt6684714, tmdb://479040, tvdb://1632
 
-  "Ad Astra": #zarduhasselfrau "Old Format"
+  "Ad Astra":
     year: 2019
     title: "Ad Astra"
     sort_title: "Ad Astra"
+    match:
+      mapping_id: 419704
     url_poster: https://theposterdb.com/api/assets/297580/
+    # IDs: imdb://tt2935510, tmdb://419704, tvdb://9229
   
-  "The Adam Project": #zarduhasselfrau "Old Format"
+  "The Adam Project":
     year: 2022
     title: "The Adam Project"
     sort_title: "Adam Project"
+    match:
+      mapping_id: 696806
     url_poster: https://theposterdb.com/api/assets/337695/
+    # IDs: imdb://tt2463208, tmdb://696806, tvdb://147304
+
+  "Adaptation.":
+    year: 2002
+    title: "Adaptation."
+    sort_title: "Adaptation."
+    match:
+      mapping_id: 2757
+    url_poster: https://theposterdb.com/api/assets/329748/
+    # IDs: imdb://tt0268126, tmdb://2757, tvdb://3432
+
+  "The Addams Family":
+    year: 1991
+    title: "The Addams Family"
+    sort_title: "Addams Family"
+    match:
+      mapping_id: 2907
+    url_poster: https://theposterdb.com/api/assets/412406/
+    # IDs: imdb://tt0101272, tmdb://2907, tvdb://2475
+
+  "The Addams Family":
+    year: 2019
+    title: "The Addams Family"
+    sort_title: "Addams Family"
+    match:
+      mapping_id: 481084
+    url_poster: https://theposterdb.com/api/assets/412411/
+    # IDs: imdb://tt1620981, tmdb://481084, tvdb://63187
+
+  "The Addams Family 2":
+    year: 2021
+    title: "The Addams Family 2"
+    sort_title: "Addams Family 2"
+    match:
+      mapping_id: 639721
+    url_poster: https://theposterdb.com/api/assets/412412/
+    # IDs: imdb://tt11125620, tmdb://639721, tvdb://136672
+
+  "Addams Family Values":
+    year: 1993
+    title: "Addams Family Values"
+    sort_title: "Addams Family Values"
+    match:
+      mapping_id: 2758
+    url_poster: https://theposterdb.com/api/assets/412407/
+    # IDs: imdb://tt0106220, tmdb://2758, tvdb://2074
