@@ -3,7 +3,10 @@ metadata:
     year: 2019
     title: "A.I. Rising"
     sort_title: "A.I. Rising"
+    match:
+      mapping_id: 505914
     url_poster: https://theposterdb.com/api/assets/172352/
+    # IDs: imdb://tt5215088, tmdb://505914, tvdb://
 
   "Abominable": #zarduasselfrau
     year: 2019
