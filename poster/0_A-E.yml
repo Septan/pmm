@@ -196,3 +196,49 @@ metadata:
       mapping_id: 2758
     url_poster: https://theposterdb.com/api/assets/412407/
     # IDs: imdb://tt0106220, tmdb://2758, tvdb://2074
+
+  "Adventures in Babysitting":
+    year: 1987
+    title: "Adventures in Babysitting"
+    sort_title: "Adventures in Babysitting"
+    match:
+      mapping_id: 14367
+    url_poster: https://theposterdb.com/api/assets/314414/
+    # IDs: imdb://tt0092513, tmdb://14367, tvdb://3038
+  
+  "The Adventures of Buckaroo Banzai Across the 8th Dimension":
+    year: 1984
+    title: "The Adventures of Buckaroo Banzai Across the 8th Dimension"
+    sort_title: "Adventures of Buckaroo Banzai Across the 8th Dimension"
+    match:
+      mapping_id: 11379
+    url_poster: https://theposterdb.com/api/assets/50066/
+    # IDs: imdb://tt0086856, tmdb://11379, tvdb://3468
+
+  "The Adventures of Ichabod and Mr. Toad":
+    year: 1950
+    title: "The Adventures of Ichabod and Mr. Toad"
+    sort_title: "Adventures of Ichabod and Mr. Toad"
+    match:
+      mapping_id: 13465
+    url_poster: https://theposterdb.com/api/assets/436781/
+    # IDs: imdb://tt0041094, tmdb://13465, tvdb://3446
+
+  "The Adventures of Sharkboy and Lavagirl 3-D":
+    year: 2005
+    title: "The Adventures of Sharkboy and Lavagirl 3-D"
+    sort_title: "Adventures of Sharkboy and Lavagirl 3-D"
+    match:
+      mapping_id: 14199
+    url_poster: https://theposterdb.com/api/assets/345896/
+    # IDs: imdb://tt0424774, tmdb://14199, tvdb://3113
+
+  "The Aeronauts":
+    year: 2019
+    title: "The Aeronauts"
+    sort_title: "Aeronauts"
+    match:
+      mapping_id: 514921
+    url_poster: https://theposterdb.com/api/assets/283752/
+    # IDs: imdb://tt6141246, tmdb://514921, tvdb://17351
+

@@ -2,8 +2,6 @@ metadata:
   "The Wheel of Time":
     year: 2021
     title: "The Wheel of Time"
-    alt_title: "The Wheel of Time (2021)"
-    orig_title: "The Wheel of Time"
     sort_title: "Wheel of Time"
     url_poster: https://theposterdb.com/api/assets/308573
     seasons:
@@ -15,8 +13,6 @@ metadata:
   "The Big Bang Theory":
     year: 2006
     title: "The Big Bang Theory"
-    alt_title: "The Big Bang Theory (2006)"
-    orig_title: "The Big Bang Theory"
     sort_title: "Big Bang Theory"
     url_poster: https://theposterdb.com/api/assets/394449
     seasons:
@@ -50,8 +46,6 @@ metadata:
   "The Rookie":
     year: 2018
     title: "The Rookie"
-    alt_title: "The Rookie (2018)"
-    orig_title: "The Rookie"
     sort_title: "Rookie"
     url_poster: https://theposterdb.com/api/assets/342472
     seasons:
@@ -69,8 +63,6 @@ metadata:
   "Ahsoka":
     year: 2023
     title: "Ahsoka"
-    alt_title: "Ahsoka (2023)"
-    orig_title: "Ahsoka"
     sort_title: "Ahsoka"
     url_poster: https://theposterdb.com/api/assets/403281
     seasons:
@@ -80,8 +72,6 @@ metadata:
   "Game of Thrones":
     year: 2011
     title: "Game of Thrones"
-    alt_title: "Game of Thrones (2011)"
-    orig_title: "Game of Thrones"
     sort_title: "Game of Thrones"
     url_poster: https://theposterdb.com/api/assets/393101
     seasons:
@@ -107,8 +97,6 @@ metadata:
   "What We Do in the Shadows":
     year: 2019
     title: "What We Do in the Shadows"
-    alt_title: "What We Do in the Shadows (2019)"
-    orig_title: "What We Do in the Shadows"
     sort_title: "What We Do in the Shadows"
     url_poster: https://theposterdb.com/api/assets/404891
     seasons:
@@ -128,8 +116,6 @@ metadata:
   "Breaking Bad":
     year: 2008
     title: "Breaking Bad"
-    alt_title: "Breaking Bad (2008)"
-    orig_title: "Breaking Bad"
     sort_title: "Breaking Bad"
     url_poster: https://theposterdb.com/api/assets/392546
     seasons:
@@ -149,8 +135,6 @@ metadata:
   "Friends":
     year: 1994
     title: "Friends"
-    alt_title: "Friends (1994)"
-    orig_title: "Friends"
     sort_title: "Friends"
     url_poster: https://theposterdb.com/api/assets/394764
     seasons:
@@ -180,8 +164,6 @@ metadata:
   "South Park":
     year: 1997
     title: "South Park"
-    alt_title: "South Park (1997)"
-    orig_title: "South Park"
     sort_title: "South Park"
     url_poster: https://theposterdb.com/api/assets/389835
     seasons:
@@ -243,8 +225,6 @@ metadata:
   "1899":
     year: 2022
     title: "1899"
-    alt_title: "1899 (2022)"
-    orig_title: "1899"
     sort_title: "1899"
     url_poster: https://theposterdb.com/api/assets/412007/
     seasons:
@@ -256,8 +236,6 @@ metadata:
   "Adventure Time":
     year: 2010
     title: "Adventure Time"
-    alt_title: "Adventure Time (2010)"
-    orig_title: "Adventure Time"
     sort_title: "Adventure Time"
     url_poster: https://theposterdb.com/api/assets/382741/
     seasons:
@@ -287,8 +265,6 @@ metadata:
   "Adventure Time: Fionna and Cake":
     year: 2023
     title: "Adventure Time: Fionna and Cake"
-    alt_title: "Adventure Time: Fionna and Cake (2023)"
-    orig_title: "Adventure Time: Fionna and Cake"
     sort_title: "Adventure Time: Fionna and Cake"
     url_poster: https://theposterdb.com/api/assets/403927/
     seasons:
@@ -298,8 +274,6 @@ metadata:
   "American Horror Stories":
     year: 2021
     title: "American Horror Stories"
-    alt_title: "American Horror Stories (2021)"
-    orig_title: "American Horror Stories"
     sort_title: "American Horror Stories"
     url_poster: https://theposterdb.com/api/assets/411866/
     seasons:
@@ -315,8 +289,6 @@ metadata:
   "Andor":
     year: 2022
     title: "Andor"
-    alt_title: "Andor (2022)"
-    orig_title: "Andor"
     sort_title: "Andor"
     url_poster: https://theposterdb.com/api/assets/403307/
     seasons:
@@ -328,8 +300,6 @@ metadata:
   "Angel":
     year: 1999
     title: "Angel"
-    alt_title: "Angel (1999)"
-    orig_title: "Angel"
     sort_title: "Angel"
     url_poster: https://theposterdb.com/api/assets/412682/
     seasons:
@@ -349,8 +319,6 @@ metadata:
   "Animal Control":
     year: 2023
     title: "Animal Control"
-    alt_title: "Animal Control (2023)"
-    orig_title: "Animal Control"
     sort_title: "Animal Control"
     url_poster: https://theposterdb.com/api/assets/321062/
     seasons:
@@ -360,8 +328,6 @@ metadata:
   "Anne Rice's Mayfair Witches":
     year: 2023
     title: "Anne Rice's Mayfair Witches"
-    alt_title: "Anne Rice's Mayfair Witches (2023)"
-    orig_title: "Anne Rice's Mayfair Witches"
     sort_title: "Anne Rice's Mayfair Witches"
     url_poster: https://theposterdb.com/api/assets/412557/
     seasons:
@@ -371,8 +337,6 @@ metadata:
   "Aqua Teen Hunger Force":
     year: 2000
     title: "Aqua Teen Hunger Force"
-    alt_title: "Aqua Teen Hunger Force (2000)"
-    orig_title: "Aqua Teen Hunger Force"
     sort_title: "Aqua Teen Hunger Force"
     url_poster: https://theposterdb.com/api/assets/306871/
     seasons:
@@ -404,8 +368,6 @@ metadata:
   "Arrow":
     year: 2012
     title: "Arrow"
-    alt_title: "Arrow (2012)"
-    orig_title: "Arrow"
     sort_title: "Arrow"
     url_poster: https://theposterdb.com/api/assets/386692/
     seasons:
@@ -431,8 +393,6 @@ metadata:
   "Ash vs Evil Dead":
     year: 2015
     title: "Ash vs Evil Dead"
-    alt_title: "Ash vs Evil Dead (2015)"
-    orig_title: "Ash vs Evil Dead"
     sort_title: "Ash vs Evil Dead"
     url_poster: https://theposterdb.com/api/assets/411061/
     seasons:
@@ -1103,25 +1063,6 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/417619/
         3:
             url_poster: https://theposterdb.com/api/assets/417620/
-
-  "The Man From U.N.C.L.E.":
-    year: 1964
-    title: "The Man From U.N.C.L.E."
-    alt_title: "The Man From U.N.C.L.E. (1964)"
-    orig_title: "The Man From U.N.C.L.E."
-    sort_title: "Man From U.N.C.L.E."
-    url_poster: https://theposterdb.com/api/assets/417600/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/417601/
-        1:
-            url_poster: https://theposterdb.com/api/assets/417602/
-        2:
-            url_poster: https://theposterdb.com/api/assets/417603/
-        3:
-            url_poster: https://theposterdb.com/api/assets/417604/
-        4:
-            url_poster: https://theposterdb.com/api/assets/417605/
 
   "The Man From U.N.C.L.E.":
     year: 1964

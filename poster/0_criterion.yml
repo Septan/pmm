@@ -286,3 +286,12 @@ metadata:
     orig_title: "Ace in the Hole"
     sort_title: "Ace in the Hole"
     url_poster: https://images2.imgbox.com/2c/c7/6jpYbedX_o.png
+
+  "The Adventures of Baron Munchausen"
+    year: 1989
+    title: "The Adventures of Baron Munchausen"
+    sort_title: "The Adventures of Baron Munchausen"
+    match:
+      mapping_id: 14506
+    url_poster: https://theposterdb.com/api/assets/322811/
+    # IDs: imdb://tt0096764, tmdb://14506, tvdb://4672
