@@ -1,0 +1,9 @@
+metadata:
+  "The Addams Family":
+    year: 2019
+    title: "The Addams Family"
+    sort_title: "Addams Family"
+    match:
+      mapping_id: 481084
+    url_poster: https://theposterdb.com/api/assets/412411/
+    # IDs: imdb://tt1620981, tmdb://481084, tvdb://63187

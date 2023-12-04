@@ -82,7 +82,7 @@ collections:
                     num: 9,
                     holiday: "Christmas",
                     }
-    letterboxd_list: https://letterboxd.com/0xf5e3/list/theme-christmas/
+    letterboxd_list: https://letterboxd.com/ediblehedgehog/list/theme-christmas/
     imdb_list:
       - https://www.imdb.com/list/ls000096828
       - https://www.imdb.com/list/ls097394442

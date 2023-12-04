@@ -170,15 +170,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/412406/
     # IDs: imdb://tt0101272, tmdb://2907, tvdb://2475
 
-  "The Addams Family":
-    year: 2019
-    title: "The Addams Family"
-    sort_title: "Addams Family"
-    match:
-      mapping_id: 481084
-    url_poster: https://theposterdb.com/api/assets/412411/
-    # IDs: imdb://tt1620981, tmdb://481084, tvdb://63187
-
   "The Addams Family 2":
     year: 2021
     title: "The Addams Family 2"
@@ -242,3 +233,20 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/283752/
     # IDs: imdb://tt6141246, tmdb://514921, tvdb://17351
 
+  "African Diary":
+    year: 1945
+    title: "African Diary"
+    sort_title: "African Diary"
+    match:
+      mapping_id: 66818
+    url_poster: https://theposterdb.com/api/assets/154531/
+    # IDs: imdb://tt0037500, tmdb://66818, tvdb://40755
+
+  "After":
+    year: 2019
+    title: "After"
+    sort_title: "After"
+    match:
+      mapping_id: 
+    url_poster: https://theposterdb.com/api/assets/402795/
+    # IDs: imdb://tt0037500, tmdb://66818, tvdb://40755
