@@ -13,6 +13,18 @@ templates:
     delete_not_scheduled: false
     cache_builders: 4
 
+  plex_added:
+    sort_title: "+1_<<num>>_<<collection_name>>"
+    sync_mode: sync
+    collection_mode: hide
+    label.sync: Criterion
+    item_label.sync: Criterion
+    visible_home: false
+    visible_shared: false
+    visible_library: false
+    delete_not_scheduled: false
+    cache_builders: 4
+
   mdblist:
     optional:
       - mdblist_extra_1
