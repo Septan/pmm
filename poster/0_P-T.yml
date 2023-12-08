@@ -1,0 +1,18 @@
+metadata:
+  "Suicide Squad":
+    year: 2016
+    title: "Suicide Squad"
+    sort_title: "Suicide Squad"
+    match:
+      mapping_id: 297761
+    url_poster: https://theposterdb.com/api/assets/440353/
+    # IDs: imdb://tt1386697, tmdb://297761, tvdb://746
+
+  "The Suicide Squad"
+    year: 2021
+    title: "The Suicide Squad"
+    sort_title: "Suicide Squad"
+    match:
+      mapping_id: 436969
+    url_poster: https://theposterdb.com/api/assets/440355/
+    # IDs: imdb://tt6334354, tmdb://436969, tvdb://13333

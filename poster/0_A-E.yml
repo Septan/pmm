@@ -8,6 +8,42 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/172352/
     # IDs: imdb://tt5215088, tmdb://505914, tvdb://12812
 
+  "Abandoned":
+    year: 2010
+    title: "Abandoned"
+    sort_title: "Abandoned"
+    match:
+      mapping_id: 
+    url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "Abduction":
+    year: 2019
+    title: "Abduction"
+    sort_title: "Abduction"
+    match:
+      mapping_id: 
+    url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "Abe Lincoln in Illinois":
+    year: 1940
+    title: "Abe Lincoln in Illinois"
+    sort_title: "Abe Lincoln in Illinois"
+    match:
+      mapping_id: 
+    url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "Abigail":
+    year: 2019
+    title: "Abigail"
+    sort_title: "Abigail"
+    match:
+      mapping_id: 
+    url_poster: 
+    # IDs: imdb://, tmdb://, tvdb:// 
+
   "Abominable":
     year: 2019
     title: "Abominable"
@@ -35,6 +71,24 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/374262/
     # IDs: imdb://tt8373206, tmdb://829051, tvdb://345094
 
+  "About Scout":
+    year: 2016
+    title: "About Scout"
+    sort_title: "About Scout"
+    match:
+      mapping_id: 
+    url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "Above the Shadows":
+    year: 2019
+    title: "Above the Shadows"
+    sort_title: "Above the Shadows"
+    match:
+      mapping_id: 
+    url_poster: 
+    # IDs imdb://, tmdb://, tvdb://
+
   "Absolutely Anything":
     year: 2015
     title: "Absolutely Anything"
@@ -53,7 +107,16 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/31315/
     # IDs: imdb://tt9534808, tmdb://646150, tvdb://143275
 
-  "Accident Man": #deArt
+  "Accident":
+    year: 2017
+    title: "Accident"
+    sort_title: "Accident"
+    match:
+      mapping_id: 
+    url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "Accident Man":
     year: 2018
     title: "Accident Man"
     sort_title: "Accident Man"
@@ -106,6 +169,24 @@ metadata:
       mapping_id: 9273
     url_poster: https://theposterdb.com/api/assets/346706/
     # IDs: imdb://tt0112281, tmdb://9273, tvdb://1072
+
+  "Acrimony":
+    year: 2018
+    title: "Acrimony"
+    sort_title: "Acrimony"
+    match:
+      mapping_id: 
+    url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "Across the Hall"
+    year: 2009
+    title: "Across the Hall"
+    sort_title: "Across the Hall"
+    match:
+      mapping_id: 
+    url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
 
   "Across the Universe":
     year: 2007
@@ -247,6 +328,51 @@ metadata:
     title: "After"
     sort_title: "After"
     match:
-      mapping_id: 
+      mapping_id: 537915
     url_poster: https://theposterdb.com/api/assets/402795/
-    # IDs: imdb://tt0037500, tmdb://66818, tvdb://40755
+    # IDs: imdb://tt4126476, tmdb://537915, tvdb://12084
+
+  "After Ever Happy":
+    year: 2022
+    title: "After Ever Happy"
+    sort_title: "After Ever Happy"
+    match:
+      mapping_id: 744276
+    url_poster: https://theposterdb.com/api/assets/402798/
+    # IDs: imdb://tt13070038, tmdb://744276, tvdb://140102
+
+  "After Everything":
+    year: 2023
+    title: "After Everything"
+    sort_title: "After Everything"
+    match:
+      mapping_id: 820525
+    url_poster: https://theposterdb.com/api/assets/402799/
+    # IDs: imdb://tt15334488, tmdb://820525, tvdb://342823
+
+  "After Hours":
+    year: 1985
+    title: "After Hours"
+    sort_title: "After Hours"
+    match:
+      mapping_id: 
+    url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "Birds of Prey":
+    year: 2020
+    title: "Birds of Prey"
+    sort_title: "Birds of Prey"
+    match:
+      mapping_id: 495764
+    url_poster: https://theposterdb.com/api/assets/440354/
+    # IDs: imdb://tt7713068, tmdb://495764, tvdb://43390
+
+  "Batman v Superman: Dawn of Justice":
+    year: 2016
+    title: "Batman v Superman: Dawn of Justice"
+    sort_title: "Batman v Superman: Dawn of Justice"
+    match:
+      mapping_id: 209112
+    url_poster: https://theposterdb.com/api/assets/440337/
+    # IDs: imdb://tt2975590, tmdb://209112, tvdb://158

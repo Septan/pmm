@@ -48,8 +48,8 @@ collections:
     template: {
                     name: mdblist,
                     num: "K",
-                    mdblist_user: "archivist",
-                    mdblist_list: "collection-standup"
+                    mdblist_user: "XanderRogue",
+                    mdblist_list: "stand-up-comedy"
                     }
 
   "Stand-up: Random":
