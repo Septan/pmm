@@ -8,40 +8,40 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/172352/
     # IDs: imdb://tt5215088, tmdb://505914, tvdb://12812
 
-  "Abandoned":
-    year: 2010
-    title: "Abandoned"
-    sort_title: "Abandoned"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Abandoned":
+  #   year: 2010
+  #   title: "Abandoned"
+  #   sort_title: "Abandoned"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
-  "Abduction":
-    year: 2019
-    title: "Abduction"
-    sort_title: "Abduction"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Abduction":
+  #   year: 2019
+  #   title: "Abduction"
+  #   sort_title: "Abduction"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
-  "Abe Lincoln in Illinois":
-    year: 1940
-    title: "Abe Lincoln in Illinois"
-    sort_title: "Abe Lincoln in Illinois"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Abe Lincoln in Illinois":
+  #   year: 1940
+  #   title: "Abe Lincoln in Illinois"
+  #   sort_title: "Abe Lincoln in Illinois"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
-  "Abigail":
-    year: 2019
-    title: "Abigail"
-    sort_title: "Abigail"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Abigail":
+  #   year: 2019
+  #   title: "Abigail"
+  #   sort_title: "Abigail"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb:// 
 
   "Abominable":
@@ -71,22 +71,22 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/374262/
     # IDs: imdb://tt8373206, tmdb://829051, tvdb://345094
 
-  "About Scout":
-    year: 2016
-    title: "About Scout"
-    sort_title: "About Scout"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "About Scout":
+  #   year: 2016
+  #   title: "About Scout"
+  #   sort_title: "About Scout"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
-  "Above the Shadows":
-    year: 2019
-    title: "Above the Shadows"
-    sort_title: "Above the Shadows"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Above the Shadows":
+  #   year: 2019
+  #   title: "Above the Shadows"
+  #   sort_title: "Above the Shadows"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs imdb://, tmdb://, tvdb://
 
   "Absolutely Anything":
@@ -107,13 +107,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/31315/
     # IDs: imdb://tt9534808, tmdb://646150, tvdb://143275
 
-  "Accident":
-    year: 2017
-    title: "Accident"
-    sort_title: "Accident"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Accident":
+  #   year: 2017
+  #   title: "Accident"
+  #   sort_title: "Accident"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
   "Accident Man":
@@ -170,22 +170,22 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/346706/
     # IDs: imdb://tt0112281, tmdb://9273, tvdb://1072
 
-  "Acrimony":
-    year: 2018
-    title: "Acrimony"
-    sort_title: "Acrimony"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Acrimony":
+  #   year: 2018
+  #   title: "Acrimony"
+  #   sort_title: "Acrimony"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
-  "Across the Hall"
-    year: 2009
-    title: "Across the Hall"
-    sort_title: "Across the Hall"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Across the Hall"
+  #   year: 2009
+  #   title: "Across the Hall"
+  #   sort_title: "Across the Hall"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
   "Across the Universe":
@@ -206,13 +206,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/180014/
     # IDs: imdb://tt6495770, tmdb://454283, tvdb://2300
 
-  "An Actor Prepares":
-    year: 2018
-    title: "An Actor Prepares"
-    sort_title: "An Actor Prepares"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "An Actor Prepares":
+  #   year: 2018
+  #   title: "An Actor Prepares"
+  #   sort_title: "An Actor Prepares"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
   "Acts of Violence":
@@ -242,13 +242,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/337695/
     # IDs: imdb://tt2463208, tmdb://696806, tvdb://147304
 
-  "Adam Resurrected":
-    year: 2008
-    title: "Adam Resurrected"
-    sort_title: "Adam Resurrected"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Adam Resurrected":
+  #   year: 2008
+  #   title: "Adam Resurrected"
+  #   sort_title: "Adam Resurrected"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
   "Adaptation.":
@@ -287,31 +287,31 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/412407/
     # IDs: imdb://tt0106220, tmdb://2758, tvdb://2074
 
-  "The Admiral was a Lady":
-    year: 1950
-    title: "The Admiral was a Lady"
-    sort_title: "The Admiral was a Lady"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "The Admiral was a Lady":
+  #   year: 1950
+  #   title: "The Admiral was a Lady"
+  #   sort_title: "The Admiral was a Lady"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
-  "Adopt a Highway":
-    year: 2019
-    title: "Adopt a Highway"
-    sort_title: "Adopt a Highway"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Adopt a Highway":
+  #   year: 2019
+  #   title: "Adopt a Highway"
+  #   sort_title: "Adopt a Highway"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
-  "Adrift":
-    year: 2018
-    title: "Adrift"
-    sort_title: "Adrift"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Adrift":
+  #   year: 2018
+  #   title: "Adrift"
+  #   sort_title: "Adrift"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
   "Adventures in Babysitting":
@@ -323,22 +323,22 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/314414/
     # IDs: imdb://tt0092513, tmdb://14367, tvdb://3038
 
-  "Adventures of a Plumber's Mate":
-    year: 1978
-    title: "Adventures of a Plumber's Mate"
-    sort_title: "Adventures of a Plumber's Mate"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Adventures of a Plumber's Mate":
+  #   year: 1978
+  #   title: "Adventures of a Plumber's Mate"
+  #   sort_title: "Adventures of a Plumber's Mate"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
  
-  "Adventures of a Taxi Driver":
-    year: 1976
-    title: "Adventures of a Taxi Driver"
-    sort_title: "Adventures of a Taxi Driver"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "Adventures of a Taxi Driver":
+  #   year: 1976
+  #   title: "Adventures of a Taxi Driver"
+  #   sort_title: "Adventures of a Taxi Driver"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
   "The Adventures of Buckaroo Banzai Across the 8th Dimension":
@@ -350,13 +350,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/50066/
     # IDs: imdb://tt0086856, tmdb://11379, tvdb://3468
 
-  "The Adventures of Huckleberry Finn":
-    year: 1955
-    title: "The Adventures of Huckleberry Finn"
-    sort_title: "The Adventures of Huckleberry Finn"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "The Adventures of Huckleberry Finn":
+  #   year: 1955
+  #   title: "The Adventures of Huckleberry Finn"
+  #   sort_title: "The Adventures of Huckleberry Finn"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
   "The Adventures of Ichabod and Mr. Toad":
@@ -377,6 +377,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/345896/
     # IDs: imdb://tt0424774, tmdb://14199, tvdb://3113
 
+  # "The Advocate":
+  #   year: 1994
+  #   title: "The Advocate"
+  #   sort_title: "The Advocate"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
   "The Aeronauts":
     year: 2019
     title: "The Aeronauts"
@@ -385,6 +394,33 @@ metadata:
       mapping_id: 514921
     url_poster: https://theposterdb.com/api/assets/283752/
     # IDs: imdb://tt6141246, tmdb://514921, tvdb://17351
+
+  # "Affair in Monte Carlo":
+  #   year: 1953
+  #   title: "Affair in Monte Carlo"
+  #   sort_title: "Affair in Monte Carlo"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "Affairs of the Art":
+  #   year: 2021
+  #   title: "Affairs of the Art"
+  #   sort_title: "Affairs of the Art"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "Africa Screams":
+    year: 1949
+    title: "Africa Screams"
+    sort_title: "Africa Screams"
+    match:
+      mapping_id: 20278
+    url_poster: https://theposterdb.com/api/assets/158251/
+    # IDs: imdb://tt0041098, tmdb://20278, tvdb://44985
 
   "African Diary":
     year: 1945
@@ -404,6 +440,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/402795/
     # IDs: imdb://tt4126476, tmdb://537915, tvdb://12084
 
+  "After Death":
+    year: 1990
+    tilte: "After Death"
+    sort_title: "After Death"
+    match:
+      mapping_id: 5796
+    url_poster: https://theposterdb.com/api/assets/418821/
+    # IDs: imdb://tt0094620, tmdb://5796, tvdb://16352
+
   "After Ever Happy":
     year: 2022
     title: "After Ever Happy"
@@ -422,13 +467,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/402799/
     # IDs: imdb://tt15334488, tmdb://820525, tvdb://342823
 
-  "After Hours":
-    year: 1985
-    title: "After Hours"
-    sort_title: "After Hours"
-    match:
-      mapping_id: 
-    url_poster: 
+  # "After Hours":
+  #   year: 1985
+  #   title: "After Hours"
+  #   sort_title: "After Hours"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
   "Birds of Prey":
