@@ -467,6 +467,105 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/402799/
     # IDs: imdb://tt15334488, tmdb://820525, tvdb://342823
 
+  # "The After Party":
+  #   year: 2018
+  #   title: "The After Party"
+  #   sort_title: "The After Party"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+  
+  # "After the Wedding":
+  #   year: 2019
+  #   title: "After the Wedding"
+  #   sort_title: "After the Wedding"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "After We Collided":
+    year: 2020
+    title: "After We Collided"
+    sort_title: "After We Collided"
+    match:
+      mapping_id: 613504
+    url_poster: https://theposterdb.com/api/assets/402796/
+    # IDs: imdb://tt10362466, tmdb://613504, tvdb://123143
+
+  "After We Fell":
+    year: 2021
+    title: "After We Fell"
+    sort_title: "After We Fell"
+    match:
+      mapping_id: 744275
+    url_poster: https://theposterdb.com/api/assets/402797/
+    # IDs: imdb://tt13069986, tmdb://744275, tvdb://140101
+
+  "The Aftermath":
+    year: 2019
+    title: "The Aftermath"
+    sort_title: "The Aftermath"
+    match:
+      mapping_id: 433502
+    url_poster: https://theposterdb.com/api/assets/156608/
+    # IDs: imdb://tt5977276, tmdb://433502, tvdb://202
+  
+  "Aftersun":
+    year: 2022
+    title: "Aftersun"
+    sort_title: "Aftersun"
+    match:
+      mapping_id: 965150
+    url_poster: https://theposterdb.com/api/assets/390406/
+    # IDs: imdb://tt19770238, tmdb://965150, tvdb://339759
+
+  # "Against the Ice":
+  #   year: 2022
+  #   title: "Against the Ice"
+  #   sort_title: "Against the Ice"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "The Age of Reason":
+  #   year: 2015
+  #   title: "The Age of Reason"
+  #   sort_title: "The Age of Reason"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "Agenda: Payback":
+  #   year: 2018
+  #   title: "Agenda: Payback"
+  #   sort_title: "Agenda: Payback"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "Agent Game":
+  #   year: 2022
+  #   title: "Agent Game"
+  #   sort_title: "Agent Game"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "The Agony and the Ecstasy":
+    year: 1965
+    title: "The Agony and the Ecstasy"
+    sort_title: "The Agony and the Ecstasy"
+    match:
+      mapping_id: 36815
+    url_poster: https://theposterdb.com/api/assets/323723/
+    # IDs: imdb://tt0058886, tmdb://36815, tvdb://23411
+
   "Birds of Prey":
     year: 2020
     title: "Birds of Prey"
