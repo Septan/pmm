@@ -293,5 +293,14 @@ metadata:
     sort_title: "The Adventures of Baron Munchausen"
     match:
       mapping_id: 14506
-    url_poster: https://theposterdb.com/api/assets/322811/
+    url_poster: https://images2.imgbox.com/5c/cb/pzs9cIv4_o.jpg
     # IDs: imdb://tt0096764, tmdb://14506, tvdb://4672
+
+  "After Hours":
+    year: 1985
+    title: "After Hours"
+    sort_title: "After Hours"
+    match:
+      mapping_id: 10843
+    url_poster: https://images2.imgbox.com/3b/ad/Njn01Jdf_o.jpg
+    # IDs: imdb://tt0088680, tmdb://10843, tvdb://2572
