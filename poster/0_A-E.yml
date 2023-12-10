@@ -467,15 +467,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/402799/
     # IDs: imdb://tt15334488, tmdb://820525, tvdb://342823
 
-  # "After Hours":
-  #   year: 1985
-  #   title: "After Hours"
-  #   sort_title: "After Hours"
-  #   match:
-  #     mapping_id: 
-  #   url_poster: 
-    # IDs: imdb://, tmdb://, tvdb://
-
   "Birds of Prey":
     year: 2020
     title: "Birds of Prey"
