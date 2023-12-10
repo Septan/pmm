@@ -2,8 +2,9 @@ metadata:
   "The Wheel of Time":
     year: 2021
     title: "The Wheel of Time"
-    sort_title: "Wheel of Time"
     url_poster: https://theposterdb.com/api/assets/308573
+    match:
+      mapping_id: 
     seasons:
         0:
             url_poster: https://theposterdb.com/api/assets/308574
