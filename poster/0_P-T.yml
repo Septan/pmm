@@ -8,7 +8,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/440353/
     # IDs: imdb://tt1386697, tmdb://297761, tvdb://746
 
-  "The Suicide Squad"
+  "The Suicide Squad":
     year: 2021
     title: "The Suicide Squad"
     sort_title: "Suicide Squad"
