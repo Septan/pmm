@@ -94,22 +94,6 @@ metadata:
     orig_title: "Melody Time"
     sort_title: "Melody Time"
     url_poster: https://theposterdb.com/api/assets/396270
-
-  "The Adventures of Ichabod and Mr. Toad":
-    year: 1949
-    title: "The Adventures of Ichabod and Mr. Toad"
-    alt_title: "The Adventures of Ichabod and Mr. Toad (1949)"
-    orig_title: "The Adventures of Ichabod and Mr. Toad"
-    sort_title: "The Adventures of Ichabod and Mr. Toad"
-    url_poster: https://theposterdb.com/api/assets/396271
-
-  "Alice in Wonderland":
-    year: 1951
-    title: "Alice in Wonderland"
-    alt_title: "Alice in Wonderland (1951)"
-    orig_title: "Alice in Wonderland"
-    sort_title: "Alice in Wonderland"
-    url_poster: https://theposterdb.com/api/assets/396272
   
   "Sleeping Beauty":
     year: 1959
@@ -566,30 +550,6 @@ metadata:
     orig_title: "Belle's Magical World"
     sort_title: "Belle's Magical World"
     url_poster: https://theposterdb.com/api/assets/396205
-
-  "Aladdin":
-    year: 1992
-    title: "Aladdin"
-    alt_title: "Aladdin (1992)"
-    orig_title: "Aladdin"
-    sort_title: "Aladdin"
-    url_poster: https://theposterdb.com/api/assets/396207
-
-  "The Return of Jafar":
-    year: 1994
-    title: "The Return of Jafar"
-    alt_title: "The Return of Jafar (1994)"
-    orig_title: "The Return of Jafar"
-    sort_title: "Return of Jafar"
-    url_poster: https://theposterdb.com/api/assets/396208
-
-  "Aladdin and the King of Thieves":
-    year: 1996
-    title: "Aladdin and the King of Thieves"
-    alt_title: "Aladdin and the King of Thieves (1996)"
-    orig_title: "Aladdin and the King of Thieves"
-    sort_title: "Aladdin and the King of Thieves"
-    url_poster: https://theposterdb.com/api/assets/396209
 
   "The Lion King":
     year: 1994
