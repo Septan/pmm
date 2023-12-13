@@ -143,14 +143,6 @@ metadata:
     sort_title: "'High Sigh'"
     url_poster: https://images2.imgbox.com/63/05/Lq4fZpz9_o.png
 
-  "Aguirre, the Wrath of God":
-    year: 1974
-    title: "Aguirre, the Wrath of God"
-    alt_title: "Aguirre, the Wrath of God (1974)"
-    orig_title: "Aguirre, the Wrath of God"
-    sort_title: "Aguirre, the Wrath of God"
-    url_poster: https://images2.imgbox.com/91/69/rvY0dwCG_o.png
-
   "The Apartment":
     year: 1960
     title: "The Apartment"
@@ -279,14 +271,6 @@ metadata:
     sort_title: "Rebecca"
     url_poster: https://theposterdb.com/api/assets/15816
 
-  "Ace in the Hole":
-    year: 1951
-    title: "Ace in the Hole"
-    alt_title: "Ace in the Hole (1951)"
-    orig_title: "Ace in the Hole"
-    sort_title: "Ace in the Hole"
-    url_poster: https://images2.imgbox.com/2c/c7/6jpYbedX_o.png
-
   "The Adventures of Baron Munchausen":
     year: 1989
     title: "The Adventures of Baron Munchausen"
@@ -295,12 +279,3 @@ metadata:
       mapping_id: 14506
     url_poster: https://images2.imgbox.com/5c/cb/pzs9cIv4_o.jpg
     # IDs: imdb://tt0096764, tmdb://14506, tvdb://4672
-
-  "After Hours":
-    year: 1985
-    title: "After Hours"
-    sort_title: "After Hours"
-    match:
-      mapping_id: 10843
-    url_poster: https://images2.imgbox.com/3b/ad/Njn01Jdf_o.jpg
-    # IDs: imdb://tt0088680, tmdb://10843, tvdb://2572
