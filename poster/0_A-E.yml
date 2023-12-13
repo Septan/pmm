@@ -728,6 +728,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/157484/
     # IDs: imdb://tt0016585, tmdb://40846, tvdb://49460
 
+  "Alice in Wonderland":
+    year: 1951
+    title: "Alice in Wonderland"
+    sort_title: "Alice in Wonderland"
+    match:
+      mapping_id: 12092
+    url_poster: https://theposterdb.com/api/assets/436782/
+    # IDs: imdb://tt0043274, tmdb://12092, tvdb://925
+
   "The Agony and the Ecstasy":
     year: 1965
     title: "The Agony and the Ecstasy"
