@@ -1025,6 +1025,96 @@ metadata:
   # url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
+  "All Quiet on the Western Front":
+    year: 1930
+    title: "All Quiet on the Western Front"
+    sort_title: "All Quiet on the Western Front"
+    match:
+      mapping_id: 143
+    url_poster: https://images2.imgbox.com/8a/de/jGcZQGYE_o.png
+    # IDs: imdb://tt0020629, tmdb://143, tvdb://4136
+
+  # "All Saints":
+  #   year: 2017
+  #   title: "All Saints"
+  #   sort_title: "All Saints"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "All Summers End":
+  #   year: 2018
+  #   title: "All Summers End"
+  #   sort_title: "All Summers End"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "All the Bright Places":
+  #   year: 2020
+  #   title: "All the Bright Places"
+  #   sort_title: "All the Bright Places"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "All the King's Men":
+  #   year: 1949
+  #   title: "All the King's Men"
+  #   sort_title: "All the King's Men"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "All the Money in the World":
+  #   year: 2017
+  #   title: "All the Money in the World"
+  #   sort_title: "All the Money in the World"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "All the Old Knives":
+  #   year: 2022
+  #   title: "All the Old Knives"
+  #   sort_title: "All the Old Knives"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "All Together":
+    year: 1942
+    title: "All Together"
+    sort_title: "All Together"
+    match:
+      mapping_id: 64595
+    url_poster: https://theposterdb.com/api/assets/17997/
+    # IDs: imdb://tt0167760, tmdb://64595, tvdb://42014
+
+  # "All Together Now":
+  #   year: 2020
+  #   title: "All Together Now"
+  #   sort_title: "All Together Now"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+  
+  "All Wet":
+    year: 1927
+    title: "All Wet"
+    sort_title: "All Wet"
+    match:
+      mapping_id: 190910
+    url_poster: https://theposterdb.com/api/assets/157491/
+    # IDs: imdb://tt0017618, tmdb://190910, tvdb://104484
+
   "The Agony and the Ecstasy":
     year: 1965
     title: "The Agony and the Ecstasy"
