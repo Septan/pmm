@@ -665,15 +665,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/436909/
     # IDs: imdb://tt0103639, tmdb://812, tvdb://285
 
-  "Aladdin":
-    year: 2019
-    title: "Aladdin"
-    sort_title: "Aladdin"
-    match:
-      mapping_id: 420817
-    url_poster: https://theposterdb.com/api/assets/436912/
-    # IDs: imdb://tt6139732, tmdb://420817, tvdb://6792
-
   "Aladdin 2: The Return of Jafar":
     year: 1994
     title: "Aladdin 2: The Return of Jafar"
