@@ -917,6 +917,114 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/403730/
     # IDs: imdb://tt0090605, tmdb://679, tvdb://654
 
+  # "Alita: Battle Angel":
+  #   year: 2019
+  #   title: "Alita: Battle Angel"
+  #   sort_title: "Alita: Battle Angel"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "All About Eve":
+    year: 1950
+    title: "All About Eve"
+    sort_title: "All About Eve"
+    match:
+      mapping_id: 705
+    url_poster: https://images2.imgbox.com/53/af/shl8qi0l_o.jpg
+    # IDs: imdb://tt0042192, tmdb://705, tvdb://3105
+  
+  "All About My Mother":
+    year: 1999
+    title: "All About My Mother"
+    sort_title: "All About My Mother"
+    match:
+      mapping_id: 99
+    url_poster: https://theposterdb.com/api/assets/57855/
+    # IDs: imdb://tt0185125, tmdb://99, tvdb://7418
+
+  "All About Nina":
+    year: 2018
+    title: "All About Nina"
+    sort_title: "All About Nina"
+    match:
+      mapping_id: 483435
+    url_poster: https://theposterdb.com/api/assets/419630/
+    # IDs: imdb://tt7542576, tmdb://483435, tvdb://7889
+
+  # "All About the Money":
+  #   year: 2017
+  #   title: "All About the Money"
+  #   sort_title: "All About the Money"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "An All Dogs Christmas Carol":
+    year: 1998
+    title: "An All Dogs Christmas Carol"
+    sort_title: "An All Dogs Christmas Carol"
+    match:
+      mapping_id: 51985
+    url_poster: https://theposterdb.com/api/assets/420444/
+    # IDs: imdb://tt0166960, tmdb://51985, tvdb://11187
+
+  "All Dogs Go to Heaven":
+    year: 1989
+    title: "All Dogs Go to Heaven"
+    sort_title: "All Dogs Go to Heaven"
+    match:
+      mapping_id: 11497
+    url_poster: https://theposterdb.com/api/assets/420442/
+    # IDs: imdb://tt0096787, tmdb://11497, tvdb://3245
+
+  "All Dogs Go to Heaven 2":
+    year: 1996
+    title: "All Dogs Go to Heaven 2"
+    sort_title: "All Dogs Go to Heaven 2"
+    match:
+      mapping_id: 19042
+    url_poster: https://theposterdb.com/api/assets/420443/
+    # IDs: imdb://tt0115509, tmdb://19042, tvdb://4985
+
+  # "All I Want for Christmas Is You":
+  #   year: 2017
+  #   title: "All I Want for Christmas Is You"
+  #   sort_title: "All I Want for Christmas Is You"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "All in a Nutshell":
+    year: 1949
+    title: "All in a Nutshell"
+    sort_title: "All in a Nutshell"
+    match:
+      mapping_id: 49077
+    url_poster: https://theposterdb.com/api/assets/203514/
+    # IDs: imdb://tt0041112, tmdb://49077, tvdb://28483 
+
+  # "All Is Lost":
+  #   year: 2013
+  #   title: "All Is Lost"
+  #   sort_title: "All Is Lost"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "All Is True":
+  #   year: 2019
+  #   title: "All Is True"
+  #   sort_title: "All Is True"
+  #   match:
+  #     mapping_id: 
+  # url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
   "The Agony and the Ecstasy":
     year: 1965
     title: "The Agony and the Ecstasy"
