@@ -1,12 +1,21 @@
 metadata:
+  # "A.I. Artificial Intelligence":
+  #   year: 2001
+  #   title: "A.I. Artificial Intelligence"
+  #   sort_title: "A.I. Artificial Intelligence"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
   # "A.I. Rising":
   #   year: 2019
   #   title: "A.I. Rising"
   #   sort_title: "A.I. Rising"
   #   match:
-  #     mapping_id: 505914
+  #     mapping_id: 
   #   url_poster: 
-    # IDs: imdb://tt5215088, tmdb://505914, tvdb://12812
+    # IDs: imdb://, tmdb://, tvdb://
 
   # "Abandoned":
   #   year: 2010
@@ -143,6 +152,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/341317/
     # IDs: imdb://tt2140479, tmdb://302946, tvdb://940
 
+  "Ace in the Hole":
+    year: 1951
+    title: "Ace in the Hole"
+    sort_title: "Ace in the Hole"
+    match:
+      mapping_id: 25364
+    url_poster: https://theposterdb.com/api/assets/138334/
+    # IDs: imdb://tt0043338, tmdb://25364, tvdb://8067
+
   "Ace Ventura: Pet Detective":
     year: 1994
     title: "Ace Ventura: Pet Detective"
@@ -179,7 +197,7 @@ metadata:
   #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
-  # "Across the Hall"
+  # "Across the Hall":
   #   year: 2009
   #   title: "Across the Hall"
   #   sort_title: "Across the Hall"
@@ -193,9 +211,18 @@ metadata:
   #   title: "Across the Universe"
   #   sort_title: "Across the Universe"
   #   match:
-  #     mapping_id: 4688
+  #     mapping_id: 
   #   url_poster: 
-    # IDs: imdb://tt0445922, tmdb://4688, tvdb://7587
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "Act of Vengeance":
+  #   year: 1974
+  #   title: "Act of Vengeance"
+  #   sort_title: "Act of Vengeance"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
   
   # "Action Point":
   #   year: 2018
@@ -467,6 +494,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/402799/
     # IDs: imdb://tt15334488, tmdb://820525, tvdb://342823
 
+  "After Hours":
+    year: 1985
+    title: "After Hours"
+    sort_title: "After Hours"
+    match:
+      mapping_id: 10843
+    url_poster: https://images2.imgbox.com/3b/ad/Njn01Jdf_o.jpg
+    # IDs: imdb://tt0088680, tmdb://10843, tvdb://2572
+
   # "The After Party":
   #   year: 2018
   #   title: "The After Party"
@@ -556,6 +592,15 @@ metadata:
   #     mapping_id: 
   #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
+
+  "Aguirre, the Wrath of God":
+    year: 1974
+    title: "Aguirre, the Wrath of God"
+    sort_title: "Aguirre, the Wrath of God"
+    match:
+      mapping_id: 2000
+    url_poster: https://images2.imgbox.com/91/69/rvY0dwCG_o.png
+    # IDs: imdb://tt0068182, tmdb://2000, tvdb://3977
 
   # "Ainbo":
   #   year: 2021
@@ -736,6 +781,141 @@ metadata:
       mapping_id: 12092
     url_poster: https://theposterdb.com/api/assets/436782/
     # IDs: imdb://tt0043274, tmdb://12092, tvdb://925
+
+  # "Alice in Wonderland or What's a Nice Kid Like You Doing in a Place Like This?":
+  #   year: 1966
+  #   title: "Alice in Wonderland or What's a Nice Kid Like You Doing in a Place Like This?"
+  #   sort_title: "Alice in Wonderland or What's a Nice Kid Like You Doing in a Place Like This?"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "Alice the Whaler":
+    year: 1927
+    title: "Alice the Whaler"
+    sort_title: "Alice the Whaler"
+    match:
+      mapping_id: 41111
+    url_poster: https://theposterdb.com/api/assets/14750/
+    # IDs: imdb://tt0017609, tmdb://41111, tvdb://
+
+  # "Alice, Darling":
+  #   year: 2023
+  #   title: "Alice, Darling"
+  #   sort_title: "Alice, Darling"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  # "Alice, Sweet Alice":
+  #   year: 1976
+  #   title: "Alice, Sweet Alice"
+  #   sort_title: "Alice, Sweet Alice"
+  #   match:
+  #     mapping_id: 
+  #   url_poster: 
+    # IDs: imdb://, tmdb://, tvdb://
+
+  "Alice's Balloon Race":
+    year: 1926
+    title: "Alice's Balloon Race"
+    sort_title: "Alice's Balloon Race"
+    match:
+      mapping_id: 40781
+    url_poster: https://theposterdb.com/api/assets/157483/
+    # IDs: imdb://tt0016589, tmdb://40781, tvdb://
+
+  "Alice's Egg Plant":
+    year: 1925
+    title: "Alice's Egg Plant"
+    sort_title: "Alice's Egg Plant"
+    match:
+      mapping_id: 35819
+    url_poster: https://theposterdb.com/api/assets/14751/
+    # IDs: imdb://tt0015563, tmdb://35819, tvdb://102664
+
+  "Alice's Mysterious Mystery":
+    year: 1926
+    title: "Alice's Mysterious Mystery"
+    sort_title: "Alice's Mysterious Mystery"
+    match:
+      mapping_id: 40788
+    url_poster: https://theposterdb.com/api/assets/14752/
+    # IDs: imdb://tt0016593, tmdb://40788, tvdb://
+
+  # "Alice's Restaurant":
+  #   year: 1969
+  #   title: "Alice's Restaurant"
+  #   sort_title: "Alice's Restaurant"
+  #   match:
+  #     mapping_id: 5638
+  #   url_poster: 
+    # IDs: imdb://tt0064002, tmdb://5638, tvdb://23102
+  
+  "Alice's Wild West Show":
+    year: 1924
+    title: "Alice's Wild West Show"
+    sort_title: "Alice's Wild West Show"
+    match:
+      mapping_id: 151428
+    url_poster: https://theposterdb.com/api/assets/14753/
+    # IDs: imdb://tt0014665, tmdb://151428, tvdb://101407
+
+  "Alice's Wonderland":
+    year: 1923
+    title: "Alice's Wonderland"
+    sort_title: "Alice's Wonderland"
+    match:
+      mapping_id: 146730
+    url_poster: https://theposterdb.com/api/assets/388625/
+    # IDs: imdb://tt0013823, tmdb://146730, tvdb://31264
+
+  "Alien":
+    year: 1979
+    title: "Alien"
+    sort_title: "Alien"
+    match:
+      mapping_id: 348
+    url_poster: https://theposterdb.com/api/assets/403729/
+    # IDs: imdb://tt0078748, tmdb://348, tvdb://264
+
+  "Alien: Covenant":
+    year: 2017
+    title: "Alien: Covenant"
+    sort_title: "Alien: Covenant"
+    match:
+      mapping_id: 126889
+    url_poster: https://theposterdb.com/api/assets/403762/
+    # IDs: imdb://tt2316204, tmdb://126889, tvdb://199
+
+  "Alien: Resurrection":
+    year: 1997
+    title: "Alien: Resurrection"
+    sort_title: "Alien: Resurrection"
+    match:
+      mapping_id: 8078
+    url_poster: https://theposterdb.com/api/assets/403732/
+    # IDs: imdb://tt0118583, tmdb://8078, tvdb://784
+
+  "Alien³":
+    year: 1992
+    title: "Alien³"
+    sort_title: "Alien³"
+    match:
+      mapping_id: 8077
+    url_poster: https://theposterdb.com/api/assets/403731/
+    # IDs: imdb://tt0103644, tmdb://8077, tvdb://670
+
+  "Aliens":
+    year: 1986
+    title: "Aliens"
+    sort_title: "Aliens"
+    match:
+      mapping_id: 679
+    url_poster: https://theposterdb.com/api/assets/403730/
+    # IDs: imdb://tt0090605, tmdb://679, tvdb://654
 
   "The Agony and the Ecstasy":
     year: 1965
