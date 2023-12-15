@@ -1,4 +1,220 @@
 metadata:
+#   "2 Broke Girls (2011)":
+#     year: 2011
+#     title: "2 Broke Girls"
+#     url_poster: 
+#     match:
+#       mapping_id: 248741
+#     # IDs: imdb://tt1845307, tmdb://39340, tvdb://248741
+#     # tpdb: https://theposterdb.com/posters/14451
+#     seasons:
+#         1:
+#             url_poster:
+#         2:
+#             url_poster:
+#         3:
+#             url_poster:
+#         4:
+#             url_poster:
+#         5:
+#             url_poster:
+#         6:
+#             url_poster:
+
+#   "9-1-1: Lone Star (2020)":
+#     year: 2020
+#     title: "9-1-1: Lone Star"
+#     url_poster: 
+#     match:
+#       mapping_id: 364080
+#     # IDs: imdb://tt10323338, tmdb://89393, tvdb://364080
+#     # tpdb: https://theposterdb.com/posters/53577
+#     seasons:
+#         1:
+#             url_poster:
+#         2:
+#             url_poster:
+#         3:
+#             url_poster:
+#         4:
+#             url_poster:
+
+#   "13 Nights of Elvira (2014)":
+#     year: 2014
+#     title: "13 Nights of Elvira"
+#     url_poster: 
+#     match:
+#       mapping_id: 291105
+#     # IDs: imdb://tt4126382, tmdb://204121, tvdb://291105
+#     # tpdb: https://theposterdb.com/posters/1606234
+#     seasons:
+#         1:
+#             url_poster:
+
+#   "20/20 (1978)":
+#     year: 1978
+#     title: "20/20"
+#     url_poster: 
+#     match:
+#       mapping_id: 72289
+#     # IDs: imdb://tt0124932, tmdb://2035, tvdb://72289
+#     # tpdb: https://theposterdb.com/posters/250496
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "50 States of Fright (2020)":
+#     year: 2020
+#     title: "50 States of Fright"
+#     url_poster: 
+#     match:
+#       mapping_id: 370444
+#     # IDs: imdb://tt9104072, tmdb://94251, tvdb://370444
+#     # tpdb: https://theposterdb.com/posters/176706
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+
+#   "61st Street (2022)":
+#     year: 2022
+#     title: "61st Street"
+#     url_poster: 
+#     match:
+#       mapping_id: 372178
+#     # IDs: imdb://tt9810248, tmdb://98657, tvdb://372178
+#     # tpdb: https://theposterdb.com/posters/930034
+#     seasons:
+#         1:
+#             url_poster:
+#         2:
+#             url_poster: 
+
+  "The 100 (2014)":
+    year: 2014
+    title: "The 100"
+    url_poster: https://theposterdb.com/api/assets/412020/
+    match:
+      mapping_id: 268592
+    # IDs: imdb://tt2661044, tmdb://48866, tvdb://268592
+    # tpdb: https://theposterdb.com/posters/11401
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/412021/
+        1:
+            url_poster: https://theposterdb.com/api/assets/412022/
+        2:  
+            url_poster: https://theposterdb.com/api/assets/412023/
+        3:
+            url_poster: https://theposterdb.com/api/assets/412024/
+        4:  
+            url_poster: https://theposterdb.com/api/assets/412025/
+        5:
+            url_poster: https://theposterdb.com/api/assets/412026/
+        6:
+            url_poster: https://theposterdb.com/api/assets/412027/
+        7:
+            url_poster: https://theposterdb.com/api/assets/412028/
+
+#   "1000 Ways to Die (2008)":
+#     year: 2008
+#     title: "1000 Ways to Die"
+#     url_poster: 
+#     match:
+#       mapping_id: 82083
+#     # IDs: imdb://tt1105711, tmdb://15826, tvdb://82083
+#     # tpdb: https://theposterdb.com/posters/97227
+#     seasons:
+#         1:
+#             url_poster:
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster:
+#         4:
+#             url_poster: 
+
+  "1883 (2021)":
+    year: 2021
+    title: "1883"
+    url_poster: https://theposterdb.com/api/assets/436747/
+    match:
+      mapping_id: 396390
+    # IDs: imdb://tt13991232, tmdb://118357, tvdb://396390
+    # tpdb: https://theposterdb.com/posters/1058095
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/436748/
+        1:
+            url_poster: https://theposterdb.com/api/assets/436749/
+
+  "1899 (2022)":
+    year: 2022
+    title: "1899"
+    url_poster: https://theposterdb.com/api/assets/412007/
+    match:
+      mapping_id: 384429
+    # IDs: imdb://, tmdb://, tvdb://384429
+    # tpdb: https://theposterdb.com/posters/1142655
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/412008
+        1:
+            url_poster: https://theposterdb.com/api/assets/412009
+
+#   "Abbott Elementary (2021)":
+#     year: 2021
+#     title: "Abbott Elementary"
+#     url_poster: 
+#     match:
+#       mapping_id: 402910
+#     # IDs: imdb://tt14218830, tmdb://125935, tvdb://402910
+#     # tpdb: https://theposterdb.com/posters/1270352
+#     seasons:
+#         1:
+#             url_poster:
+#         2:
+#             url_poster: 
+
+#   "According to Jim (2001)":
+#     year: 2001
+#     title: "According to Jim"
+#     url_poster: 
+#     match:
+#       mapping_id: 75926
+#     # IDs: imdb://tt0285351, tmdb://1739, tvdb://75926
+#     # tpdb: https://theposterdb.com/posters/35072
+#     seasons:
+#         1:
+#             url_poster:
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster:
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster:
+#         6:
+#             url_poster: 
+#         7:
+#             url_poster:
+#         8:
+#             url_poster: 
+
+#   "The Act (2019)":
+#     year: 2019
+#     title: "The Act"
+#     url_poster: 
+#     match:
+#       mapping_id: 354765
+#     # IDs: imdb://tt8682948, tmdb://82883, tvdb://354765
+#     # tpdb: https://theposterdb.com/posters/87521
+#     seasons:
+#         1:
+#             url_poster: 
+
   "The Wheel of Time":
     year: 2021
     title: "The Wheel of Time"
@@ -222,17 +438,6 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/389861
         26:
             url_poster: https://theposterdb.com/api/assets/389862
-  
-  "1899":
-    year: 2022
-    title: "1899"
-    sort_title: "1899"
-    url_poster: https://theposterdb.com/api/assets/412007/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/412008
-        1:
-            url_poster: https://theposterdb.com/api/assets/412009
 
   "Adventure Time":
     year: 2010
@@ -673,44 +878,6 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/421068/
         2:
             url_poster: https://theposterdb.com/api/assets/421069/
-
-  "The 100":
-    year: 2014
-    title: "The 100"
-    alt_title: "The 100 (2014)"
-    orig_title: "The 100"
-    sort_title: "100"
-    url_poster: https://theposterdb.com/api/assets/412020/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/412021/
-        1:
-            url_poster: https://theposterdb.com/api/assets/412022/
-        2:  
-            url_poster: https://theposterdb.com/api/assets/412023/
-        3:
-            url_poster: https://theposterdb.com/api/assets/412024/
-        4:  
-            url_poster: https://theposterdb.com/api/assets/412025/
-        5:
-            url_poster: https://theposterdb.com/api/assets/412026/
-        6:
-            url_poster: https://theposterdb.com/api/assets/412027/
-        7:
-            url_poster: https://theposterdb.com/api/assets/412028/
-
-  "1883":
-    year: 2021
-    title: "1883"
-    alt_title: "1883 (2021)"
-    orig_title: "1883"
-    sort_title: "1883"
-    url_poster: https://theposterdb.com/api/assets/306792/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/306793/
-        1:
-            url_poster: https://theposterdb.com/api/assets/306794/
 
   "1899 (2022)":
     year: 2022
