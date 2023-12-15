@@ -296,6 +296,14 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/412406/
     # IDs: imdb://tt0101272, tmdb://2907, tvdb://2475
 
+  "The Addams Family (2019)":
+    year: 2019
+    title: "The Addams Family"
+    match:
+      mapping_id: 481084
+    url_poster: https://theposterdb.com/api/assets/412411/
+    # IDs: imdb://tt1620981, tmdb://481084, tvdb://63187
+
   "The Addams Family 2":
     year: 2021
     title: "The Addams Family 2"
@@ -664,6 +672,14 @@ metadata:
       mapping_id: 812
     url_poster: https://theposterdb.com/api/assets/436909/
     # IDs: imdb://tt0103639, tmdb://812, tvdb://285
+
+  "Aladdin (2019)":
+    year: 2019
+    title: "Aladdin"
+    match:
+      mapping_id: 420817
+    url_poster: https://theposterdb.com/api/assets/436912/
+    # IDs: imdb://tt6139732, tmdb://420817, tvdb://6792
 
   "Aladdin 2: The Return of Jafar":
     year: 1994
@@ -1268,10 +1284,10 @@ metadata:
   #   url_poster: 
     # IDs: imdb://, tmdb://, tvdb://
 
-  # "":
-  #   year: 1994
-  #   title: ""
-  #   sort_title: ""
+  # "Amadeus":
+  #   year: 1984
+  #   title: "Amadeus"
+  #   sort_title: "Amadeus"
   #   match:
   #     mapping_id: 
   #   url_poster: 
