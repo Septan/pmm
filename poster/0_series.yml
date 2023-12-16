@@ -215,6 +215,118 @@ metadata:
 #         1:
 #             url_poster: 
 
+  "Ahsoka (2023)":
+    year: 2023
+    title: "Ahsoka"
+    url_poster: https://theposterdb.com/api/assets/440621/
+    match:
+      mapping_id: 393187
+    # IDs: imdb://tt13622776, tmdb://114461, tvdb://393187
+    # tpdb: https://theposterdb.com/posters/914226
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/440622/
+
+#   "All of Us Are Dead (2022)":
+#     year: 2022
+#     title: "All of Us Are Dead"
+#     url_poster: 
+#     match:
+#       mapping_id: 382142
+#     # IDs: imdb://tt14169960, tmdb://99966, tvdb://382142
+#     # tpdb: https://theposterdb.com/posters/800527
+#     seasons:
+#         1:
+#            url_poster: 
+
+  "Amazing Stories (2020)":
+    year: 2020
+    title: "Amazing Stories"
+    url_poster: https://theposterdb.com/api/assets/411041/
+    match:
+      mapping_id: 368120
+    # IDs: imdb://tt5165368, tmdb://98178, tvdb://368120
+    # tpdb: https://theposterdb.com/posters/255842
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/411042/
+  
+  "America's Got Talent (2006)":
+    year: 2006
+    title: "America's Got Talent"
+    url_poster: https://theposterdb.com/api/assets/376918/
+    match:
+      mapping_id: 79490
+    # IDs: imdb://tt0759364, tmdb://4551, tvdb://79490
+    # tpdb: https://theposterdb.com/posters/11724
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/376920/
+        1:
+            url_poster: https://theposterdb.com/api/assets/376921/
+        2:
+            url_poster: https://theposterdb.com/api/assets/376922/
+        3:
+            url_poster: https://theposterdb.com/api/assets/376923/
+        4:
+            url_poster: https://theposterdb.com/api/assets/376924/
+        5:
+            url_poster: https://theposterdb.com/api/assets/376925/
+        6:
+            url_poster: https://theposterdb.com/api/assets/376926/
+        7:
+            url_poster: https://theposterdb.com/api/assets/376927/
+        8:
+            url_poster: https://theposterdb.com/api/assets/376928/
+        9:
+            url_poster: https://theposterdb.com/api/assets/376929/
+        10:
+            url_poster: https://theposterdb.com/api/assets/376930/
+        11:
+            url_poster: https://theposterdb.com/api/assets/376931/
+        12:
+            url_poster: https://theposterdb.com/api/assets/376932/
+        13:
+            url_poster: https://theposterdb.com/api/assets/376933/
+        14:
+            url_poster: https://theposterdb.com/api/assets/376934/
+        15:
+            url_poster: https://theposterdb.com/api/assets/376935/
+        16:
+            url_poster: https://theposterdb.com/api/assets/376936/
+        17:
+            url_poster: https://theposterdb.com/api/assets/376937/
+        18:
+            url_poster: https://theposterdb.com/api/assets/376938/
+
+  "America's Got Talent: The Champions (2019)":
+    year: 2019
+    title: "America's Got Talent: The Champions"
+    url_poster: https://theposterdb.com/api/assets/380148/
+    match:
+      mapping_id: 353433
+    # IDs: imdb://tt8510328, tmdb://158354, tvdb://353433
+    # tpdb: https://theposterdb.com/posters/118984
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/380149/
+
+#   "American Crime Story (2016)":
+#     year: 2016
+#     title: "American Crime Story"
+#     url_poster: 
+#     match:
+#       mapping_id: 289108
+#     # IDs: imdb://tt2788432, tmdb://64513, tvdb://289108
+#     # tpdb: https://theposterdb.com/posters/1107
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+
   "Monarch: Legacy of Monsters (2023)":
     year: 2023
     title: "Monarch: Legacy of Monsters"
@@ -288,15 +400,6 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/342476
         5:
             url_poster: https://theposterdb.com/api/assets/342477
-
-  "Ahsoka":
-    year: 2023
-    title: "Ahsoka"
-    sort_title: "Ahsoka"
-    url_poster: https://theposterdb.com/api/assets/403281
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/403282
 
   "Game of Thrones":
     year: 2011
@@ -903,17 +1006,6 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/412008/
         1:
             url_poster: https://theposterdb.com/api/assets/412009/
-
-  "Amazing Stories (2020)":
-    year: 2020
-    title: "Amazing Stories (2020)"
-    alt_title: "Amazing Stories (2020)"
-    orig_title: "Amazing Stories (2020)"
-    sort_title: "Amazing Stories (2020)"
-    url_poster: https://theposterdb.com/api/assets/411041/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/411042/
 
   "American Dad!":
     year: 2005
