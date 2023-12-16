@@ -220,8 +220,8 @@ metadata:
     title: "Monarch: Legacy of Monsters"
     url_poster: https://theposterdb.com/api/assets/442414/
     match:
-      mapping_id: 
-    # IDs: imdb://, tmdb://, tvdb://
+      mapping_id: 422598
+    # IDs: imdb://tt17220216, tmdb://202411, tvdb://422598
     # tpdb: https://theposterdb.com/posters/1586564
     seasons:
         1:
