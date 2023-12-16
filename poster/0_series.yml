@@ -994,19 +994,6 @@ metadata:
         2:
             url_poster: https://theposterdb.com/api/assets/421069/
 
-  "1899 (2022)":
-    year: 2022
-    title: "1899 (2022)"
-    alt_title: "1899 (2022)"
-    orig_title: "1899 (2022)"
-    sort_title: "1899"
-    url_poster: https://theposterdb.com/api/assets/412007/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/412008/
-        1:
-            url_poster: https://theposterdb.com/api/assets/412009/
-
   "American Dad!":
     year: 2005
     title: "American Dad!"
