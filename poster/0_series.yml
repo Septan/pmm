@@ -215,6 +215,18 @@ metadata:
 #         1:
 #             url_poster: 
 
+  "Monarch: Legacy of Monsters (2023)":
+    year: 2023
+    title: "Monarch: Legacy of Monsters"
+    url_poster: https://theposterdb.com/api/assets/442414/
+    match:
+      mapping_id: 
+    # IDs: imdb://, tmdb://, tvdb://
+    # tpdb: https://theposterdb.com/posters/1586564
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/442415/
+
   "The Wheel of Time":
     year: 2021
     title: "The Wheel of Time"
