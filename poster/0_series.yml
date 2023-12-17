@@ -327,35 +327,402 @@ metadata:
 #         3:
 #             url_poster: 
 
-  "Monarch: Legacy of Monsters (2023)":
-    year: 2023
-    title: "Monarch: Legacy of Monsters"
-    url_poster: https://theposterdb.com/api/assets/442414/
+#   "American Gigolo (2022)":
+#     year: 2022
+#     title: "American Gigolo"
+#     url_poster: 
+#     match:
+#       mapping_id: 404938
+#     # IDs: imdb://tt4257262, tmdb://127585, tvdb://404938
+#     # tpdb: https://theposterdb.com/posters/1325203
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "American Gladiators (1989)":
+    year: 1989
+    title: "American Gladiators"
+    url_poster: https://theposterdb.com/api/assets/249977/
     match:
-      mapping_id: 422598
-    # IDs: imdb://tt17220216, tmdb://202411, tvdb://422598
-    # tpdb: https://theposterdb.com/posters/1586564
+      mapping_id: 71483
+    # IDs: imdb://tt0096532, tmdb://6582, tvdb://71483
+    # tpdb: https://theposterdb.com/posters/18554
     seasons:
         1:
-            url_poster: https://theposterdb.com/api/assets/442415/
+            url_poster: https://theposterdb.com/api/assets/249978/
+        2:
+            url_poster: https://theposterdb.com/api/assets/249979/
+        3:
+            url_poster: https://theposterdb.com/api/assets/249980/
+        4:
+            url_poster: https://theposterdb.com/api/assets/249981/
+        5:
+            url_poster: https://theposterdb.com/api/assets/249982/
+        6:
+            url_poster: https://theposterdb.com/api/assets/249983/
+        7:
+            url_poster: https://theposterdb.com/api/assets/249984/
 
-  "The Wheel of Time":
+  "American Horror Stories (2021)":
     year: 2021
-    title: "The Wheel of Time"
-    url_poster: https://theposterdb.com/api/assets/308573
+    title: "American Horror Stories"
+    url_poster: https://theposterdb.com/api/assets/411866/
     match:
-      mapping_id: 
+      mapping_id: 382187
+    # IDs: imdb://tt12306692, tmdb://113036, tvdb://382187
+    # tpdb: https://theposterdb.com/posters/789179
     seasons:
         0:
-            url_poster: https://theposterdb.com/api/assets/308574
+            url_poster: https://theposterdb.com/api/assets/411867
         1:
-            url_poster: https://theposterdb.com/api/assets/308575
+            url_poster: https://theposterdb.com/api/assets/411868
+        2:
+            url_poster: https://theposterdb.com/api/assets/411869
+        3:
+            url_poster: https://theposterdb.com/api/assets/411870
+  
+#   "American Vandal (2017)":
+#     year: 2017
+#     title: "American Vandal"
+#     url_poster: 
+#     match:
+#       mapping_id: 332828
+#     # IDs: imdb://tt6877772, tmdb://73126, tvdb://332828
+#     # tpdb: https://theposterdb.com/posters/1102
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
 
-  "The Big Bang Theory":
+  "Andor (2022)":
+    year: 2022
+    title: "Andor"
+    url_poster: https://theposterdb.com/api/assets/440629/
+    match:
+      mapping_id: 393189
+    # IDs: imdb://tt9253284, tmdb://83867, tvdb://393189
+    # tpdb: https://theposterdb.com/posters/194
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/440630/
+        1:
+            url_poster: https://theposterdb.com/api/assets/440631/
+
+  "Angel (1999)":
+    year: 1999
+    title: "Angel"
+    url_poster: https://theposterdb.com/api/assets/412682/
+    match:
+      mapping_id: 71035
+    # IDs: imdb://tt0162065, tmdb://2426, tvdb://71035
+    # tpdb: https://theposterdb.com/posters/29237
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/412683
+        1:
+            url_poster: https://theposterdb.com/api/assets/412684
+        2:
+            url_poster: https://theposterdb.com/api/assets/412685
+        3:
+            url_poster: https://theposterdb.com/api/assets/412686
+        4:
+            url_poster: https://theposterdb.com/api/assets/412687
+        5:
+            url_poster: https://theposterdb.com/api/assets/412688
+
+  "Animal Control (2023)":
+    year: 2023
+    title: "Animal Control"
+    url_poster: https://theposterdb.com/api/assets/321062/
+    match:
+      mapping_id: 423022
+    # IDs: imdb://tt21376524, tmdb://214162, tvdb://423022
+    # tpdb: https://theposterdb.com/posters/1711028
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/321063
+
+  "Anne Rice's Mayfair Witches (2023)":
+    year: 2023
+    title: "Anne Rice's Mayfair Witches"
+    url_poster: https://theposterdb.com/api/assets/412557/
+    match:
+      mapping_id: 413074
+    # IDs: imdb://tt15428778, tmdb://207863, tvdb://413074
+    # tpdb: https://theposterdb.com/posters/1644722
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/412558
+            
+#   "Archive 81 (2022)":
+#     year: 2022
+#     title: "Archive 81"
+#     url_poster: 
+#     match:
+#       mapping_id: 390936
+#     # IDs: imdb://tt13365348, tmdb://112314, tvdb://390936
+#     # tpdb: https://theposterdb.com/posters/752446
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "The Ark (2023)":
+    year: 2023
+    title: "The Ark"
+    url_poster: https://theposterdb.com/api/assets/411043/
+    match:
+      mapping_id: 415089
+    # IDs: imdb://tt17371078, tmdb://47663, tvdb://415089
+    # tpdb: https://theposterdb.com/posters/102436
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/411044/
+
+#   "Around the World in 80 Days (2021)":
+#     year: 2021
+#     title: "Around the World in 80 Days"
+#     url_poster: 
+#     match:
+#       mapping_id: 388899
+#     # IDs: imdb://tt9174578, tmdb://96228, tvdb://388899
+#     # tpdb: https://theposterdb.com/posters/220275
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "Arrow (2012)":
+    year: 2012
+    title: "Arrow"
+    url_poster: https://theposterdb.com/api/assets/426945/
+    match:
+      mapping_id: 257655
+    # IDs: imdb://tt2193021, tmdb://1412, tvdb://257655
+    # tpdb: https://theposterdb.com/posters/3608
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/426946/
+        1:
+            url_poster: https://theposterdb.com/api/assets/426947/
+        2:
+            url_poster: https://theposterdb.com/api/assets/426948/
+        3:
+            url_poster: https://theposterdb.com/api/assets/426949/
+        4:
+            url_poster: https://theposterdb.com/api/assets/426950/
+        5:
+            url_poster: https://theposterdb.com/api/assets/426951/
+        6:
+            url_poster: https://theposterdb.com/api/assets/426952/
+        7:
+            url_poster: https://theposterdb.com/api/assets/426953/
+        8:
+            url_poster: https://theposterdb.com/api/assets/426954/
+
+  "Ash vs Evil Dead (2015)":
+    year: 2015
+    title: "Ash vs Evil Dead"
+    url_poster: https://theposterdb.com/api/assets/411061/
+    match:
+      mapping_id: 296295
+    # IDs: imdb://tt4189022, tmdb://62264, tvdb://296295
+    # tpdb: https://theposterdb.com/posters/110
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/411062/
+        1:
+            url_poster: https://theposterdb.com/api/assets/411063/
+        2:
+            url_poster: https://theposterdb.com/api/assets/411064/
+        3:
+            url_poster: https://theposterdb.com/api/assets/411065/
+
+#   "B Positive (2020)":
+#     year: 2020
+#     title: "B Positive"
+#     url_poster: 
+#     match:
+#       mapping_id: 382089
+#     # IDs: imdb://tt11839500, tmdb://104714, tvdb://382089
+#     # tpdb: https://theposterdb.com/posters/742379
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+
+#   "The Baby (2022)":
+#     year: 2022
+#     title: "The Baby"
+#     url_poster: 
+#     match:
+#       mapping_id: 393566
+#     # IDs: imdb://tt12879632, tmdb://115915, tvdb://393566
+#     # tpdb: https://theposterdb.com/posters/987164
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "Babylon 5 (1993)":
+    year: 1993
+    title: "Babylon 5"
+    url_poster: https://theposterdb.com/api/assets/423588/
+    match:
+      mapping_id: 70726
+    # IDs: imdb://tt0105946, tmdb://3137, tvdb://70726
+    # tpdb: https://theposterdb.com/posters/49009
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/423589
+        1:
+            url_poster: https://theposterdb.com/api/assets/423590
+        2:
+            url_poster: https://theposterdb.com/api/assets/423591
+        3:
+            url_poster: https://theposterdb.com/api/assets/423592
+        4:
+            url_poster: https://theposterdb.com/api/assets/423593
+        5:
+            url_poster: https://theposterdb.com/api/assets/423594
+
+#   "Barry (2018)":
+#     year: 2018
+#     title: "Barry"
+#     url_poster: 
+#     match:
+#       mapping_id: 333072
+#     # IDs: imdb://tt5348176, tmdb://73107, tvdb://333072
+#     # tpdb: https://theposterdb.com/posters/43066
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster:
+#         4:
+#             url_poster: 
+
+  "Based on a True Story (2023)":
+    year: 2023
+    title: "Based on a True Story"
+    url_poster: https://theposterdb.com/api/assets/412696/
+    match:
+      mapping_id: 418934
+    # IDs: imdb://tt19500224, tmdb://197373, tvdb://418934
+    # tpdb: https://theposterdb.com/posters/1559577
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/412697/
+
+  "BattleBots (2015)":
+    year: 2015
+    title: "BattleBots"
+    url_poster: https://theposterdb.com/api/assets/434778/
+    match:
+      mapping_id: 294206
+    # IDs: imdb://tt4816364, tmdb://62959, tvdb://294206
+    # tpdb: https://theposterdb.com/posters/86322
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/434779/
+        1:
+            url_poster: https://theposterdb.com/api/assets/434780/
+        2:
+            url_poster: https://theposterdb.com/api/assets/434781/
+        3:
+            url_poster: https://theposterdb.com/api/assets/434782/
+        4:
+            url_poster: https://theposterdb.com/api/assets/434783/
+        5:
+            url_poster: https://theposterdb.com/api/assets/434784/
+        6:
+            url_poster: https://theposterdb.com/api/assets/434785/
+        7:
+            url_poster: https://theposterdb.com/api/assets/434786/
+        8:
+            url_poster: https://theposterdb.com/api/assets/434787/
+        9:
+            url_poster: https://theposterdb.com/api/assets/434788/
+
+  "Batwoman (2019)":
+    year: 2019
+    title: "Batwoman"
+    url_poster: https://theposterdb.com/api/assets/427086/
+    match:
+      mapping_id: 361315
+    # IDs: imdb://tt8712204, tmdb://89247, tvdb://361315
+    # tpdb: https://theposterdb.com/posters/51630
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/427087/
+        2:
+            url_poster: https://theposterdb.com/api/assets/427088/
+        3:
+            url_poster: https://theposterdb.com/api/assets/427089/
+
+  "The Bear (2022)":
+    year: 2022
+    title: "The Bear"
+    url_poster: https://theposterdb.com/api/assets/439860/
+    match:
+      mapping_id: 403294
+    # IDs: imdb://tt14452776, tmdb://136315, tvdb://403294
+    # tpdb: https://theposterdb.com/posters/1566908
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/439861/
+        2:
+            url_poster: https://theposterdb.com/api/assets/439862/
+
+#   "The Beatles: Get Back (2021)":
+#     year: 2021
+#     title: "The Beatles: Get Back"
+#     url_poster: 
+#     match:
+#       mapping_id: 405144
+#     # IDs: imdb://tt9735318, tmdb://128876, tvdb://405144
+#     # tpdb: https://theposterdb.com/posters/1323765
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "Bel-Air (2022)":
+    year: 2022
+    title: "Bel-Air"
+    url_poster: https://theposterdb.com/api/assets/377063/
+    match:
+      mapping_id: 388151
+    # IDs: imdb://tt12878838, tmdb://107365, tvdb://388151
+    # tpdb: https://theposterdb.com/posters/770211
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/377064
+        2:  
+            url_poster: https://theposterdb.com/api/assets/377065
+
+  "Below Deck Down Under (2022)":
+    year: 2022
+    title: "Below Deck Down Under"
+    url_poster: https://theposterdb.com/api/assets/413766/
+    match:
+      mapping_id: 402811
+    # IDs: imdb://tt14721554, tmdb://125506, tvdb://402811
+    # tpdb: https://theposterdb.com/posters/1267781
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/413767
+        2:  
+            url_poster: https://theposterdb.com/api/assets/413768
+
+  "The Big Bang Theory (2006)":
     year: 2006
     title: "The Big Bang Theory"
-    sort_title: "Big Bang Theory"
     url_poster: https://theposterdb.com/api/assets/394449
+    match:
+      mapping_id: 80379
+    # IDs: imdb://tt0898266, tmdb://1418, tvdb://80379
+    # tpdb: https://theposterdb.com/posters/6481
     seasons:
         0:
             url_poster: https://theposterdb.com/api/assets/394450
@@ -383,6 +750,188 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/394461
         12:
             url_poster: https://theposterdb.com/api/assets/394462
+
+#   "Big Sky (2020)":
+#     year: 2020
+#     title: "Big Sky"
+#     url_poster: 
+#     match:
+#       mapping_id: 378023
+#     # IDs: imdb://tt11794642, tmdb://100010, tvdb://378023
+#     # tpdb: https://theposterdb.com/posters/769913
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+
+#   "Bill Nye the Science Guy (1993)":
+#     year: 1993
+#     title: "Bill Nye the Science Guy"
+#     url_poster: 
+#     match:
+#       mapping_id: 78494
+#     # IDs: imdb://tt0173528, tmdb://3483, tvdb://78494
+#     # tpdb: https://theposterdb.com/posters/16681
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+
+  "Billions (2016)":
+    year: 2016
+    title: "Billions"
+    url_poster: https://theposterdb.com/api/assets/408470/
+    match:
+      mapping_id: 279536
+    # IDs: imdb://tt4270492, tmdb://62852, tvdb://279536
+    # tpdb: https://theposterdb.com/posters/16688
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/408471/
+        1:
+            url_poster: https://theposterdb.com/api/assets/408472/
+        2:
+            url_poster: https://theposterdb.com/api/assets/408473/
+        3:
+            url_poster: https://theposterdb.com/api/assets/408474/
+        4:
+            url_poster: https://theposterdb.com/api/assets/408475/
+        5:
+            url_poster: https://theposterdb.com/api/assets/408476/
+        6:
+            url_poster: https://theposterdb.com/api/assets/408477/
+        7:
+            url_poster: https://theposterdb.com/api/assets/408478/
+
+#   "Billy the Kid (2022)":
+#     year: 2022
+#     title: "Billy the Kid"
+#     url_poster: 
+#     match:
+#       mapping_id: 402256
+#     # IDs: imdb://tt14586544, tmdb://138971, tvdb://402256
+#     # tpdb: https://theposterdb.com/posters/1442590
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+
+#   "Black Bird (2022)":
+#     year: 2022
+#     title: "Black Bird"
+#     url_poster: 
+#     match:
+#       mapping_id: 401998
+#     # IDs: imdb://tt4301160, tmdb://155537, tvdb://401998
+#     # tpdb: https://theposterdb.com/posters/1489913
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "Black Lightning (2018)":
+    year: 2018
+    title: "Black Lightning"
+    url_poster: https://theposterdb.com/api/assets/427040/
+    match:
+      mapping_id: 332525
+    # IDs: imdb://tt6045840, tmdb://71663, tvdb://332525
+    # tpdb: https://theposterdb.com/posters/2622
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/427041/
+        2:
+            url_poster: https://theposterdb.com/api/assets/427042/
+        3:
+            url_poster: https://theposterdb.com/api/assets/427043/
+        4:
+            url_poster: https://theposterdb.com/api/assets/427044/
+
+#   "Black Summer (2019)":
+#     year: 2019
+#     title: "Black Summer"
+#     url_poster: 
+#     match:
+#       mapping_id: 350587
+#     # IDs: imdb://tt8923854, tmdb://88052, tvdb://350587
+#     # tpdb: https://theposterdb.com/posters/38843
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+
+#   "Blockbuster (2022)":
+#     year: 2022
+#     title: "Blockbuster"
+#     url_poster: 
+#     match:
+#       mapping_id: 414551
+#     # IDs: imdb://tt16124614, tmdb://201874, tvdb://414551
+#     # tpdb: https://theposterdb.com/posters/1582682
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "Blood & Treasure (2019)":
+    year: 2019
+    title: "Blood & Treasure"
+    url_poster: https://theposterdb.com/api/assets/412044/
+    match:
+      mapping_id: 361585
+    # IDs: imdb://tt7712598, tmdb://88118, tvdb://361585
+    # tpdb: https://theposterdb.com/posters/58994
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/412045/
+        2:
+            url_poster: https://theposterdb.com/api/assets/412046/
+
+#   "Blue Planet II (2017)":
+#     year: 2017
+#     title: "Blue Planet II"
+#     url_poster: 
+#     match:
+#       mapping_id: 330942
+#     # IDs: imdb://tt6769208, tmdb://74313, tvdb://330942
+#     # tpdb: https://theposterdb.com/posters/29914
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "Monarch: Legacy of Monsters (2023)":
+    year: 2023
+    title: "Monarch: Legacy of Monsters"
+    url_poster: https://theposterdb.com/api/assets/442414/
+    match:
+      mapping_id: 422598
+    # IDs: imdb://tt17220216, tmdb://202411, tvdb://422598
+    # tpdb: https://theposterdb.com/posters/1586564
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/442415/
+
+  "The Wheel of Time":
+    year: 2021
+    title: "The Wheel of Time"
+    url_poster: https://theposterdb.com/api/assets/308573
+    match:
+      mapping_id: 
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/308574
+        1:
+            url_poster: https://theposterdb.com/api/assets/308575
 
   "The Rookie":
     year: 2018
@@ -592,69 +1141,6 @@ metadata:
         1:
             url_poster: https://theposterdb.com/api/assets/403928
 
-  "American Horror Stories":
-    year: 2021
-    title: "American Horror Stories"
-    sort_title: "American Horror Stories"
-    url_poster: https://theposterdb.com/api/assets/411866/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/411867
-        1:
-            url_poster: https://theposterdb.com/api/assets/411868
-        2:
-            url_poster: https://theposterdb.com/api/assets/411869
-        3:
-            url_poster: https://theposterdb.com/api/assets/411870
-
-  "Andor":
-    year: 2022
-    title: "Andor"
-    sort_title: "Andor"
-    url_poster: https://theposterdb.com/api/assets/403307/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/403308
-        1:
-            url_poster: https://theposterdb.com/api/assets/403309
-
-  "Angel":
-    year: 1999
-    title: "Angel"
-    sort_title: "Angel"
-    url_poster: https://theposterdb.com/api/assets/412682/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/412683
-        1:
-            url_poster: https://theposterdb.com/api/assets/412684
-        2:
-            url_poster: https://theposterdb.com/api/assets/412685
-        3:
-            url_poster: https://theposterdb.com/api/assets/412686
-        4:
-            url_poster: https://theposterdb.com/api/assets/412687
-        5:
-            url_poster: https://theposterdb.com/api/assets/412688
-
-  "Animal Control":
-    year: 2023
-    title: "Animal Control"
-    sort_title: "Animal Control"
-    url_poster: https://theposterdb.com/api/assets/321062/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/321063
-
-  "Anne Rice's Mayfair Witches":
-    year: 2023
-    title: "Anne Rice's Mayfair Witches"
-    sort_title: "Anne Rice's Mayfair Witches"
-    url_poster: https://theposterdb.com/api/assets/412557/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/412558
-
   "Aqua Teen Hunger Force":
     year: 2000
     title: "Aqua Teen Hunger Force"
@@ -686,72 +1172,6 @@ metadata:
         11:
             url_poster: https://theposterdb.com/api/assets/306883
 
-  "Arrow":
-    year: 2012
-    title: "Arrow"
-    sort_title: "Arrow"
-    url_poster: https://theposterdb.com/api/assets/386692/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/386693
-        1:
-            url_poster: https://theposterdb.com/api/assets/386694
-        2:
-            url_poster: https://theposterdb.com/api/assets/386695
-        3:
-            url_poster: https://theposterdb.com/api/assets/386696
-        4:
-            url_poster: https://theposterdb.com/api/assets/386697
-        5:
-            url_poster: https://theposterdb.com/api/assets/386698
-        6:
-            url_poster: https://theposterdb.com/api/assets/386699
-        7:
-            url_poster: https://theposterdb.com/api/assets/386700
-        8:
-            url_poster: https://theposterdb.com/api/assets/386701
-
-  "Ash vs Evil Dead":
-    year: 2015
-    title: "Ash vs Evil Dead"
-    sort_title: "Ash vs Evil Dead"
-    url_poster: https://theposterdb.com/api/assets/411061/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/411062
-        1:
-            url_poster: https://theposterdb.com/api/assets/411063
-        2:
-            url_poster: https://theposterdb.com/api/assets/411064
-        3:
-            url_poster: https://theposterdb.com/api/assets/411065
-
-  "Based on a True Story":
-    year: 2023
-    title: "Based on a True Story"
-    alt_title: "Based on a True Story (2023)"
-    orig_title: "Based on a True Story"
-    sort_title: "Based on a True Story"
-    url_poster: https://theposterdb.com/api/assets/412696/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/412697
-
-  "Batwoman":
-    year: 2019
-    title: "Batwoman"
-    alt_title: "Batwoman (2019)"
-    orig_title: "Batwoman"
-    sort_title: "Batwoman"
-    url_poster: https://theposterdb.com/api/assets/386749/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/386750
-        2:  
-            url_poster: https://theposterdb.com/api/assets/386751
-        3:
-            url_poster: https://theposterdb.com/api/assets/386752
-
   "Mike Judge's Beavis and Butt-Head":
     year: 2022
     title: "Mike Judge's Beavis and Butt-Head"
@@ -764,32 +1184,6 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/394918
         2:  
             url_poster: https://theposterdb.com/api/assets/394919
-
-  "Bel-Air":
-    year: 2022
-    title: "Bel-Air"
-    alt_title: "Bel-Air (2022)"
-    orig_title: "Bel-Air"
-    sort_title: "Bel-Air"
-    url_poster: https://theposterdb.com/api/assets/377063/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/377064
-        2:  
-            url_poster: https://theposterdb.com/api/assets/377065
-
-  "Below Deck Down Under":
-    year: 2022
-    title: "Below Deck Down Under"
-    alt_title: "Below Deck Down Under (2022)"
-    orig_title: "Below Deck Down Under"
-    sort_title: "Below Deck Down Under"
-    url_poster: https://theposterdb.com/api/assets/413766/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/413767
-        2:  
-            url_poster: https://theposterdb.com/api/assets/413768
 
   "Twisted Metal":
     year: 2023
@@ -857,27 +1251,6 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/423680
         1:
             url_poster: https://theposterdb.com/api/assets/423681
-
-  "Babylon 5":
-    year: 1993
-    title: "Babylon 5"
-    alt_title: "Babylon 5 (1993)"
-    orig_title: "Babylon 5"
-    sort_title: "Babylon 5"
-    url_poster: https://theposterdb.com/api/assets/423588/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/423589
-        1:
-            url_poster: https://theposterdb.com/api/assets/423590
-        2:
-            url_poster: https://theposterdb.com/api/assets/423591
-        3:
-            url_poster: https://theposterdb.com/api/assets/423592
-        4:
-            url_poster: https://theposterdb.com/api/assets/423593
-        5:
-            url_poster: https://theposterdb.com/api/assets/423594
 
   "The Old Man":
     year: 2022
