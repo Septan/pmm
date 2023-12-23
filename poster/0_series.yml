@@ -899,7 +899,7 @@ metadata:
 
 #   "Blue Planet II (2017)":
 #     year: 2017
-#     title: "Blue Planet II"
+#     title: "Blue Planet II"153657
 #     url_poster: 
 #     match:
 #       mapping_id: 330942
@@ -907,6 +907,437 @@ metadata:
 #     # tpdb: https://theposterdb.com/posters/29914
 #     seasons:
 #         1:
+#             url_poster: 
+
+#   "BMF (2021)":
+#     year: 2021
+#     title: "BMF"
+#     url_poster: 
+#     match:
+#       mapping_id: 383658
+#     # IDs: imdb://tt3850598, tmdb://101591, tvdb://383658
+#     # tpdb: https://theposterdb.com/posters/722796
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+
+  "The Book of Boba Fett (2021)":
+    year: 2021
+    title: "The Book of Boba Fett"
+    url_poster: https://theposterdb.com/api/assets/440637/
+    match:
+      mapping_id: 393589
+    # IDs: imdb://tt13668894, tmdb://115036, tvdb://393589
+    # tpdb: https://theposterdb.com/posters/936797
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/440638/
+
+  "Bosch: Legacy (2022)":
+    year: 2022
+    title: "Bosch: Legacy"
+    url_poster: https://theposterdb.com/api/assets/422776/
+    match:
+      mapping_id: 414553
+    # IDs: imdb://tt14168162, tmdb://153657, tvdb://414553
+    # tpdb: https://theposterdb.com/posters/1469155
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/422777
+        2:
+            url_poster: https://theposterdb.com/api/assets/422778
+
+  "The Boys (2019)":
+    year: 2019
+    title: "The Boys"
+    url_poster: https://theposterdb.com/api/assets/434499/
+    match:
+      mapping_id: 355567
+    # IDs: imdb://tt1190634, tmdb://76479, tvdb://355567
+    # tpdb: https://theposterdb.com/posters/11210
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/434500/
+        1:
+            url_poster: https://theposterdb.com/api/assets/434501/
+        2:
+            url_poster: https://theposterdb.com/api/assets/434502/
+        3:
+            url_poster: https://theposterdb.com/api/assets/434503/
+        4:
+            url_poster: https://theposterdb.com/api/assets/434504/
+
+#   "Brand New Cherry Flavor (2021)":
+#     year: 2021
+#     title: "Brand New Cherry Flavor"
+#     url_poster: 
+#     match:
+#       mapping_id: 372316
+#     # IDs: imdb://tt11343600, tmdb://129418, tvdb://372316
+#     # tpdb: https://theposterdb.com/posters/1332513
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "La Brea (2021)":
+#     year: 2021
+#     title: "La Brea"
+#     url_poster: 
+#     match:
+#       mapping_id: 395029
+#     # IDs: imdb://tt11640018, tmdb://128839, tvdb://395029
+#     # tpdb: https://theposterdb.com/posters/1352913
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+
+  "Breaking Bad (2008)":
+    year: 2008
+    title: "Breaking Bad"
+    url_poster: https://theposterdb.com/api/assets/392546
+    match:
+      mapping_id: 
+    # IDs: imdb://, tmdb://, tvdb://
+    # tpdb: https://theposterdb.com/posters/7793
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/392547
+        1:
+            url_poster: https://theposterdb.com/api/assets/392548
+        2:
+            url_poster: https://theposterdb.com/api/assets/392549
+        3:
+            url_poster: https://theposterdb.com/api/assets/392550
+        4:
+            url_poster: https://theposterdb.com/api/assets/392551
+        5:
+            url_poster: https://theposterdb.com/api/assets/392552
+
+#   "Briarpatch (2020)":
+#     year: 2020
+#     title: "Briarpatch"
+#     url_poster: 
+#     match:
+#       mapping_id: 359608
+#     # IDs: imdb://tt8289758, tmdb://86164, tvdb://359608
+#     # tpdb: https://theposterdb.com/posters/263476
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Britain's Got Talent (2007)":
+#     year: 2007
+#     title: "Britain's Got Talent"
+#     url_poster: 
+#     match:
+#       mapping_id: 80727
+#     # IDs: imdb://tt1034201, tmdb://11370, tvdb://80727
+#     # tpdb: https://theposterdb.com/posters/80872
+#     seasons:
+#         0:  
+#             url_poster:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+#         7:
+#             url_poster: 
+#         8:
+#             url_poster: 
+#         9:
+#             url_poster:
+#         10:
+#             url_poster: 
+#         11:
+#             url_poster: 
+#         12:
+#             url_poster: 
+#         13:
+#             url_poster: 
+#         14:
+#             url_poster: 
+#         15:
+#             url_poster: 
+#         16:
+#             url_poster: 
+
+#   "Britain's Got Talent: The Champions (2019)":
+#     year: 2019
+#     title: "Britain's Got Talent: The Champions"
+#     url_poster: 
+#     match:
+#       mapping_id: 367908
+#     # IDs: imdb://tt10426684, tmdb://92972, tvdb://367908
+#     # tpdb: https://theposterdb.com/posters/154057
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "Buddy Games (2023)":
+    year: 2023
+    title: "Buddy Games"
+    url_poster: https://theposterdb.com/api/assets/412752/
+    match:
+      mapping_id: 437502
+    # IDs: imdb://tt27497202, tmdb://234767, tvdb://437502
+    # tpdb: https://theposterdb.com/posters/1947598
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/412753/
+
+#   "Bullsh*t the Gameshow (2022)":
+#     year: 2022
+#     title: "Bullsh*t the Gameshow"
+#     url_poster: 
+#     match:
+#       mapping_id: 418333
+#     # IDs: imdb://tt16912298, tmdb://195927, tvdb://418333
+#     # tpdb: https://theposterdb.com/posters/1556058
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Burgers, Brew & 'Que (2015)":
+#     year: 2015
+#     title: "Burgers, Brew & 'Que"
+#     url_poster: 
+#     match:
+#       mapping_id: 298289
+#     # IDs: imdb://tt4730064, tmdb://63705, tvdb://298289
+#     # tpdb: https://theposterdb.com/posters/85544
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+
+#   "Cagney & Lacey (1981)":
+#     year: 1981
+#     title: "Cagney & Lacey"
+#     url_poster: 
+#     match:
+#       mapping_id: 77501
+#     # IDs: imdb://tt0083395, tmdb://4223, tvdb://77501
+#     # tpdb: https://theposterdb.com/posters/155020
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+#         7:
+#             url_poster: 
+
+#   "The Carol Burnett Show (1967)":
+#     year: 1967
+#     title: "The Carol Burnett Show"
+#     url_poster: 
+#     match:
+#       mapping_id: 70657
+#     # IDs: imdb://tt0061240, tmdb://1027, tvdb://70657
+#     # tpdb: https://theposterdb.com/posters/92888
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+#         7:
+#             url_poster: 
+#         8:
+#             url_poster:
+#         9:
+#             url_poster: 
+#         8:
+#             url_poster:
+#         9:
+#             url_poster: 
+#         10:
+#             url_poster:
+#         11:
+#             url_poster: 
+
+
+#   "Carol's Second Act (2019)":
+#     year: 2019
+#     title: "Carol's Second Act"
+#     url_poster: 
+#     match:
+#       mapping_id: 364075
+#     # IDs: imdb://tt9140108, tmdb://92462, tvdb://364075
+#     # tpdb: https://theposterdb.com/posters/147520
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "Castle (2009)":
+    year: 2009
+    title: "Castle"
+    url_poster: https://theposterdb.com/api/assets/394561/
+    match:
+      mapping_id: 83462
+    # IDs: imdb://tt1219024, tmdb://1419, tvdb://83462
+    # tpdb: https://theposterdb.com/posters/6695
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/394562/
+        2:
+            url_poster: https://theposterdb.com/api/assets/394563/
+        3:
+            url_poster: https://theposterdb.com/api/assets/394564/
+        4:
+            url_poster: https://theposterdb.com/api/assets/394565/
+        5:
+            url_poster: https://theposterdb.com/api/assets/394566/
+        6:
+            url_poster: https://theposterdb.com/api/assets/394567/
+        7:
+            url_poster: https://theposterdb.com/api/assets/394568/
+        8:
+            url_poster: https://theposterdb.com/api/assets/394569/
+
+  "Castle Rock (2018)":
+    year: 2018
+    title: "Castle Rock"
+    url_poster: https://theposterdb.com/api/assets/410591/
+    match:
+      mapping_id: 331600
+    # IDs: imdb://tt6548228, tmdb://71116, tvdb://331600
+    # tpdb: https://theposterdb.com/posters/6696
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/410592/
+        1:
+            url_poster: https://theposterdb.com/api/assets/410593/
+        2:
+            url_poster: https://theposterdb.com/api/assets/410594/
+
+#   "The Challenge (1998)":
+#     year: 1998
+#     title: "The Challenge"
+#     url_poster: 
+#     match:
+#       mapping_id: 70870
+#     # IDs: imdb://tt0176095, tmdb://62, tvdb://70870
+#     # tpdb: https://theposterdb.com/posters/12639
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+#         7:
+#             url_poster: 
+#         8:
+#             url_poster: 
+#         9:
+#             url_poster: 
+#         10:
+#             url_poster: 
+#         11:
+#             url_poster: 
+#         12:
+#             url_poster: 
+#         13:
+#             url_poster: 
+#         14:
+#             url_poster: 
+#         15:
+#             url_poster: 
+#         16:
+#             url_poster: 
+#         17:
+#             url_poster: 
+#         18:
+#             url_poster: 
+#         19:
+#             url_poster:
+#         20:
+#             url_poster: 
+#         21:
+#             url_poster: 
+#         22:
+#             url_poster: 
+#         23:
+#             url_poster: 
+#         24:
+#             url_poster: 
+#         25:
+#             url_poster: 
+#         26:
+#             url_poster: 
+#         27:
+#             url_poster: 
+#         28:
+#             url_poster: 
+#         29:
+#             url_poster:
+#         30:
+#             url_poster: 
+#         31:
+#             url_poster: 
+#         32:
+#             url_poster: 
+#         33:
+#             url_poster: 
+#         34:
+#             url_poster: 
+#         35:
+#             url_poster: 
+#         36:
+#             url_poster: 
+#         37:
+#             url_poster: 
+#         38:
+#             url_poster: 
+#         39:
 #             url_poster: 
 
   "Monarch: Legacy of Monsters (2023)":
@@ -993,25 +1424,6 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/404896
         5:
             url_poster: https://theposterdb.com/api/assets/404897
-
-  "Breaking Bad":
-    year: 2008
-    title: "Breaking Bad"
-    sort_title: "Breaking Bad"
-    url_poster: https://theposterdb.com/api/assets/392546
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/392547
-        1:
-            url_poster: https://theposterdb.com/api/assets/392548
-        2:
-            url_poster: https://theposterdb.com/api/assets/392549
-        3:
-            url_poster: https://theposterdb.com/api/assets/392550
-        4:
-            url_poster: https://theposterdb.com/api/assets/392551
-        5:
-            url_poster: https://theposterdb.com/api/assets/392552
 
   "Friends":
     year: 1994
@@ -1275,19 +1687,6 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/423495
         2:
             url_poster: https://theposterdb.com/api/assets/423496
-
-  "Bosch: Legacy":
-    year: 2022
-    title: "Bosch: Legacy"
-    alt_title: "Bosch: Legacy (2022)"
-    orig_title: "Bosch: Legacy"
-    sort_title: "Bosch: Legacy"
-    url_poster: https://theposterdb.com/api/assets/422776/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/422777
-        2:
-            url_poster: https://theposterdb.com/api/assets/422778
 
   "Jurassic World: Camp Cretaceous":
     year: 2020
