@@ -1340,6 +1340,176 @@ metadata:
 #         39:
 #             url_poster: 
 
+#   "The Changeling (2023)":
+#     year: 2023
+#     title: "The Changeling"
+#     url_poster: 
+#     match:
+#       mapping_id: 409143
+#     # IDs: imdb://tt8559532, tmdb://131992, tvdb://
+#     # tpdb: https://theposterdb.com/posters/1368430
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "Chapelwaite (2021)":
+    year: 2021
+    title: "Chapelwaite"
+    url_poster: https://theposterdb.com/api/assets/411176/
+    match:
+      mapping_id: 382426
+    # IDs: imdb://tt11525188, tmdb://126118, tvdb://382426
+    # tpdb: https://theposterdb.com/posters/1304499
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/411177/
+
+#   "Charmed (2018)":
+#     year: 2018
+#     title: "Charmed"
+#     url_poster: 
+#     match:
+#       mapping_id: 349317
+#     # IDs: imdb://tt6394324, tmdb://79611, tvdb://349317
+#     # tpdb: https://theposterdb.com/posters/42692
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+
+#   "Chernobyl (2019)":
+#     year: 2019
+#     title: "Chernobyl"
+#     url_poster: 
+#     match:
+#       mapping_id: 360893
+#     # IDs: imdb://tt7366338, tmdb://87108, tvdb://360893
+#     # tpdb: https://theposterdb.com/posters/26330
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+
+#   "Chicago P.D. (2014)":
+#     year: 2014
+#     title: "Chicago P.D."
+#     url_poster: 
+#     match:
+#       mapping_id: 269641
+#     # IDs: imdb://tt2805096, tmdb://58841, tvdb://269641
+#     # tpdb: https://theposterdb.com/posters/4394
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+#         7:
+#             url_poster: 
+#         8:
+#             url_poster: 
+#         9:
+#             url_poster: 
+#         10:
+#             url_poster: 
+
+  "Chilling Adventures of Sabrina (2018)":
+    year: 2018
+    title: "Chilling Adventures of Sabrina"
+    url_poster: https://theposterdb.com/api/assets/423763/
+    match:
+      mapping_id: 338947
+    # IDs: imdb://tt7569592, tmdb://79242, tvdb://338947
+    # tpdb: https://theposterdb.com/posters/66083
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/423764/
+        2:
+            url_poster: https://theposterdb.com/api/assets/423765/
+        3:
+            url_poster: https://theposterdb.com/api/assets/423766/
+        4:
+            url_poster: https://theposterdb.com/api/assets/423767/
+
+#   "CHiPs (1977)":
+#     year: 1977
+#     title: "CHiPs"
+#     url_poster: 
+#     match:
+#       mapping_id: 78270
+#     # IDs: imdb://tt0075488, tmdb://509, tvdb://78270
+#     # tpdb: https://theposterdb.com/posters/40124
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+
+#   "A Christmas Carol (2019)":
+#     year: 2019
+#     title: "A Christmas Carol"
+#     url_poster: 
+#     match:
+#       mapping_id: 371253
+#     # IDs: imdb://tt7686464, tmdb://656968, tvdb://371253
+#     # tpdb: https://theposterdb.com/posters/1041497
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "Chucky (2021)":
+    year: 2021
+    title: "Chucky"
+    url_poster: https://theposterdb.com/api/assets/417617/
+    match:
+      mapping_id: 349415
+    # IDs: imdb://tt8388390, tmdb://90462, tvdb://349415
+    # tpdb: https://theposterdb.com/posters/8727
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/417618/
+        2:
+            url_poster: https://theposterdb.com/api/assets/417619/
+        3:
+            url_poster: https://theposterdb.com/api/assets/417620/
+
+  "Citadel (2023)":
+    year: 2023
+    title: "Citadel"
+    url_poster: https://theposterdb.com/api/assets/412825/
+    match:
+      mapping_id: 393268
+    # IDs: imdb://tt9794044, tmdb://114922, tvdb://393268
+    # tpdb: https://theposterdb.com/posters/945498
+    seasons: 
+        1:
+            url_poster: https://theposterdb.com/api/assets/412826/
+#         2:
+#             url_poster: 
+
   "Monarch: Legacy of Monsters (2023)":
     year: 2023
     title: "Monarch: Legacy of Monsters"
@@ -2079,21 +2249,6 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/418197/
         4:
             url_poster: https://theposterdb.com/api/assets/418198/
-
-  "Chucky":
-    year: 2021
-    title: "Chucky"
-    alt_title: "Chucky (2021)"
-    orig_title: "Chucky"
-    sort_title: "Chucky"
-    url_poster: https://theposterdb.com/api/assets/417617/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/417618/
-        2:
-            url_poster: https://theposterdb.com/api/assets/417619/
-        3:
-            url_poster: https://theposterdb.com/api/assets/417620/
 
   "The Man From U.N.C.L.E.":
     year: 1964
