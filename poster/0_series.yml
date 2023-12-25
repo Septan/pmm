@@ -1510,6 +1510,460 @@ metadata:
 #         2:
 #             url_poster: 
 
+#   "Clarice (2021)":
+#     year: 2021
+#     title: "Clarice"
+#     url_poster: 
+#     match:
+#       mapping_id: 376395
+#     # IDs: imdb://tt2177268, tmdb://103302, tvdb://376395
+#     # tpdb: https://theposterdb.com/posters/970464
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Clark (2022)":
+#     year: 2022
+#     title: "Clark"
+#     url_poster: 
+#     match:
+#       mapping_id: 394447
+#     # IDs: imdb://tt12304420, tmdb://157008, tvdb://394447
+#     # tpdb: https://theposterdb.com/posters/1575388
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Clarkson's Farm (2021)":
+#     year: 2021
+#     title: "Clarkson's Farm"
+#     url_poster: 
+#     match:
+#       mapping_id: 378165
+#     # IDs: imdb://tt10541088, tmdb://117648, tvdb://378165
+#     # tpdb: https://theposterdb.com/posters/1271075
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+
+#   "Class of '09 (2023)":
+#     year: 2023
+#     title: "Class of '09"
+#     url_poster: 
+#     match:
+#       mapping_id: 405445
+#     # IDs: imdb://tt14903834, tmdb://127948, tvdb://405445
+#     # tpdb: https://theposterdb.com/posters/1316255
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Clickbait (2021)":
+#     year: 2021
+#     title: "Clickbait"
+#     url_poster: 
+#     match:
+#       mapping_id: 377026
+#     # IDs: imdb://tt10888878, tmdb://129495, tvdb://377026
+#     # tpdb: https://theposterdb.com/posters/1334266
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "Cobra Kai (2018)":
+    year: 2018
+    title: "Cobra Kai"
+    url_poster: https://theposterdb.com/api/assets/394608/
+    match:
+      mapping_id: 332858
+    # IDs: imdb://tt7221388, tmdb://77169, tvdb://332858
+    # tpdb: https://theposterdb.com/posters/17705
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/394609/
+        1:
+            url_poster: https://theposterdb.com/api/assets/394610/
+        2:
+            url_poster: https://theposterdb.com/api/assets/394611/
+        3:
+            url_poster: https://theposterdb.com/api/assets/394612/
+        4:
+            url_poster: https://theposterdb.com/api/assets/394613/
+        5:
+            url_poster: https://theposterdb.com/api/assets/394614/
+#         6:
+#             url_poster: 
+
+#   "Cold Blood (2008)":
+#     year: 2008
+#     title: "Cold Blood"
+#     url_poster: 
+#     match:
+#       mapping_id: 84953
+#     # IDs: imdb://tt1359465, tmdb://36829, tvdb://84953
+#     # tpdb: 
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+#         7:
+#             url_poster: 
+#         8:
+#             url_poster: 
+#         9:
+#             url_poster: 
+
+#   "Comedy Central Stand-Up Presents… (2017)":
+#     year: 2017
+#     title: "Comedy Central Stand-Up Presents…"
+#     url_poster: 
+#     match:
+#       mapping_id: 259073
+#     # IDs: imdb://tt2148200, tmdb://73943, tvdb://259073
+#     # tpdb: 
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+#         7:
+#             url_poster: 
+#         8:
+#             url_poster: 
+
+  "The Continental (2023)":
+    year: 2023
+    title: "The Continental"
+    url_poster: https://theposterdb.com/api/assets/413188/
+    match:
+      mapping_id: 414734
+    # IDs: imdb://tt6486762, tmdb://72710, tvdb://414734
+    # tpdb: https://theposterdb.com/posters/244662
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/413189/
+
+#   "Conversations with Friends (2022)":
+#     year: 2022
+#     title: "Conversations with Friends"
+#     url_poster: 
+#     match:
+#       mapping_id: 384554
+#     # IDs: imdb://tt11997646, tmdb://99747, tvdb://384554
+#     # tpdb: https://theposterdb.com/posters/753301
+#     seasons:
+#         0:
+#             url_poster: 
+
+#   "Cooked With Cannabis (2020)":
+#     year: 2020
+#     title: "Cooked With Cannabis"
+#     url_poster: 
+#     match:
+#       mapping_id: 379831
+#     # IDs: imdb://tt12176398, tmdb://102246, tvdb://379831
+#     # tpdb: https://theposterdb.com/posters/776212
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "The Cosby Show (1984)":
+#     year: 1984
+#     title: "The Cosby Show"
+#     url_poster: 
+#     match:
+#       mapping_id: 76772
+#     # IDs: imdb://tt0086687, tmdb://1759, tvdb://76772
+#     # tpdb: https://theposterdb.com/posters/16676
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+#         7:
+#             url_poster: 
+#         8:
+#             url_poster: 
+
+  "Creepshow (2019)":
+    year: 2019
+    title: "Creepshow"
+    url_poster: https://theposterdb.com/api/assets/410582/
+    match:
+      mapping_id: 364865
+    # IDs: imdb://tt8762206, tmdb://86686, tvdb://364865
+    # tpdb: https://theposterdb.com/posters/15166
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/410583/
+        1:
+            url_poster: https://theposterdb.com/api/assets/410584/
+        2:
+            url_poster: https://theposterdb.com/api/assets/410585/
+        3:
+            url_poster: https://theposterdb.com/api/assets/410586/
+        4:
+            url_poster: https://theposterdb.com/api/assets/420589/
+
+#   "Cruel Summer (2021)":
+#     year: 2021
+#     title: "Cruel Summer"
+#     url_poster: 
+#     match:
+#       mapping_id: 382556
+#     # IDs: imdb://tt11083696, tmdb://98201, tvdb://382556
+#     # tpdb: https://theposterdb.com/posters/254925
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+
+  "CSI: Vegas (2021)":
+    year: 2021
+    title: "CSI: Vegas"
+    url_poster: https://theposterdb.com/api/assets/408642/
+    match:
+      mapping_id: 400248
+    # IDs: imdb://tt12887536, tmdb://122194, tvdb://400248
+    # tpdb: https://theposterdb.com/posters/1135436
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/408643/
+        2:
+            url_poster: https://theposterdb.com/api/assets/408644/
+
+#   "Cupcake Wars (2010)":
+#     year: 2010
+#     title: "Cupcake Wars"
+#     url_poster: 
+#     match:
+#       mapping_id: 169981
+#     # IDs: imdb://tt1517749, tmdb://32994, tvdb://169981
+#     # tpdb: https://theposterdb.com/posters/1266
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+#         7:
+#             url_poster: 
+#         8:
+#             url_poster: 
+#         9:
+#             url_poster: 
+
+#   "Cursed (2020)":
+#     year: 2020
+#     title: "Cursed"
+#     url_poster: 
+#     match:
+#       mapping_id: 369950
+#     # IDs: imdb://tt8210856, tmdb://83125, tvdb://369950
+#     # tpdb: https://theposterdb.com/posters/108152
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Dahmer - Monster: The Jeffrey Dahmer Story (2022)":
+#     year: 2022
+#     title: "Dahmer - Monster: The Jeffrey Dahmer Story"
+#     url_poster: 
+#     match:
+#       mapping_id: 389492
+#     # IDs: imdb://tt13207736, tmdb://113988, tvdb://389492
+#     # tpdb: https://theposterdb.com/posters/880131
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+
+  "Dan Brown's The Lost Symbol (2021)":
+    year: 2021
+    title: "Dan Brown's The Lost Symbol"
+    url_poster: https://theposterdb.com/api/assets/432984/
+    match:
+      mapping_id: 365190
+    # IDs: imdb://tt10478054, tmdb://120452, tvdb://365190
+    # tpdb: https://theposterdb.com/posters/1117064
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/432985/
+
+#   "Dance Monsters (2022)":
+#     year: 2022
+#     title: "Dance Monsters"
+#     url_poster: 
+#     match:
+#       mapping_id: 427845
+#     # IDs: imdb://tt15292892, tmdb://214668, tvdb://427845
+#     # tpdb: https://theposterdb.com/posters/1716631
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Dark (2017)":
+#     year: 2017
+#     title: "Dark"
+#     url_poster: 
+#     match:
+#       mapping_id: 334824
+#     # IDs: imdb://tt5753856, tmdb://70523, tvdb://334824
+#     # tpdb: https://theposterdb.com/posters/9710
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+
+  "Dark Matter (2015)":
+    year: 2015
+    title: "Dark Matter"
+    url_poster: https://theposterdb.com/api/assets/412982/
+    match:
+      mapping_id: 292174
+    # IDs: imdb://tt4159076, tmdb://62425, tvdb://292174
+    # tpdb: https://theposterdb.com/posters/9712
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/412983/
+        1:
+            url_poster: https://theposterdb.com/api/assets/412984/
+        2:
+            url_poster: https://theposterdb.com/api/assets/412985/
+        3:
+            url_poster: https://theposterdb.com/api/assets/412986/
+
+  "Dark Winds (2022)":
+    year: 2022
+    title: "Dark Winds"
+    url_poster: https://theposterdb.com/api/assets/389410/
+    match:
+      mapping_id: 406179
+    # IDs: imdb://tt15017118, tmdb://128904, tvdb://406179
+    # tpdb: https://theposterdb.com/posters/1378288
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/389411/
+        2:
+            url_poster: https://theposterdb.com/api/assets/389412/
+
+#   "Dave's World (1993)":
+#     year: 1993
+#     title: "Dave's World"
+#     url_poster: 
+#     match:
+#       mapping_id: 71854
+#     # IDs: imdb://tt0105982, tmdb://10463, tvdb://71854
+#     # tpdb: https://theposterdb.com/posters/85599
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+
+#   "Day of the Dead (2021)":
+#     year: 2021
+#     title: "Day of the Dead"
+#     url_poster: 
+#     match:
+#       mapping_id: 377836
+#     # IDs: imdb://tt12052892, tmdb://129897, tvdb://377836
+#     # tpdb: https://theposterdb.com/posters/1339634
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Daybreak (2019)":
+#     year: 2019
+#     title: "Daybreak"
+#     url_poster: 
+#     match:
+#       mapping_id: 354735
+#     # IDs: imdb://tt8755226, tmdb://83478, tvdb://354735
+#     # tpdb: https://theposterdb.com/posters/164669
+#     seasons:
+#         1:
+#             url_poster: 
+
+  "DC's Legends of Tomorrow (2016)":
+    year: 2016
+    title: "DC's Legends of Tomorrow"
+    url_poster: https://theposterdb.com/api/assets/426983/
+    match:
+      mapping_id: 295760
+    # IDs: imdb://tt4532368, tmdb://62643, tvdb://295760
+    # tpdb: https://theposterdb.com/posters/5393
+    seasons:
+        # 0:
+        #     url_poster: https://theposterdb.com/api/assets/426984/
+        1:
+            url_poster: https://theposterdb.com/api/assets/426985/
+        2:
+            url_poster: https://theposterdb.com/api/assets/426986/
+        3:
+            url_poster: https://theposterdb.com/api/assets/426987/
+        4:
+            url_poster: https://theposterdb.com/api/assets/426988/
+        5:
+            url_poster: https://theposterdb.com/api/assets/426989/
+        6:
+            url_poster: https://theposterdb.com/api/assets/426990/
+        7:
+            url_poster: https://theposterdb.com/api/assets/426991/
+
   "Monarch: Legacy of Monsters (2023)":
     year: 2023
     title: "Monarch: Legacy of Monsters"
@@ -2016,25 +2470,6 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/420610/
         2:
             url_poster: https://theposterdb.com/api/assets/420611/
-
-  "Creepshow":
-    year: 2019
-    title: "Creepshow"
-    alt_title: "Creepshow (2019)"
-    orig_title: "Creepshow"
-    sort_title: "Creepshow"
-    url_poster: https://theposterdb.com/api/assets/410582/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/410583/
-        1:
-            url_poster: https://theposterdb.com/api/assets/410584/
-        2:
-            url_poster: https://theposterdb.com/api/assets/410585/
-        3:
-            url_poster: https://theposterdb.com/api/assets/410586/
-        4:
-            url_poster: https://theposterdb.com/api/assets/420589/
 
   "The Transformers":
     year: 1984
