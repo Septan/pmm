@@ -1866,6 +1866,20 @@ metadata:
 #         1:
 #             url_poster: 
 
+  "The Dark Crystal: Age of Resistance (2019)":
+    year: 2019
+    title: "The Dark Crystal: Age of Resistance"
+    url_poster: https://theposterdb.com/api/assets/444541/
+    match:
+      mapping_id: 361549
+    # IDs: imdb://tt6905542, tmdb://71809, tvdb://361549
+    # tpdb: https://theposterdb.com/posters/10676
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/444542/
+        1:
+            url_poster: https://theposterdb.com/api/assets/444543/
+
 #   "Dark (2017)":
 #     year: 2017
 #     title: "Dark"
@@ -1934,17 +1948,17 @@ metadata:
 #         4:
 #             url_poster: 
 
-#   "Day of the Dead (2021)":
-#     year: 2021
-#     title: "Day of the Dead"
-#     url_poster: 
-#     match:
-#       mapping_id: 377836
-#     # IDs: imdb://tt12052892, tmdb://129897, tvdb://377836
-#     # tpdb: https://theposterdb.com/posters/1339634
-#     seasons:
-#         1:
-#             url_poster: 
+  "Day of the Dead (2021)":
+    year: 2021
+    title: "Day of the Dead"
+    url_poster: https://theposterdb.com/api/assets/447094/
+    match:
+      mapping_id: 377836
+    # IDs: imdb://tt12052892, tmdb://129897, tvdb://377836
+    # tpdb: https://theposterdb.com/posters/1339634
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/447095/
 
 #   "Daybreak (2019)":
 #     year: 2019

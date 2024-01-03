@@ -38,6 +38,22 @@ metadata:
         1:
             url_poster: https://theposterdb.com/api/assets/423681
 
+  "Night Court (2023)":
+    year: 2023
+    title: "Night Court"
+    url_poster: https://theposterdb.com/api/assets/446779/
+    match:
+      mapping_id: 410477
+    # IDs: imdb://tt13798316, tmdb://202101, tvdb://410477
+    # tpdb: https://theposterdb.com/posters/1584208
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/446780/
+        1:
+            url_poster: https://theposterdb.com/api/assets/446781/
+        2:
+            url_poster: https://theposterdb.com/api/assets/446782/
+
   "The Old Man":
     year: 2022
     title: "The Old Man"

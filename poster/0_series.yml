@@ -93,17 +93,6 @@ metadata:
         2:
             url_poster: https://theposterdb.com/api/assets/418951/
 
-  "Skull Island":
-    year: 2023
-    title: "Skull Island"
-    alt_title: "Skull Island (2023)"
-    orig_title: "Skull Island"
-    sort_title: "Skull Island"
-    url_poster: https://theposterdb.com/api/assets/418900/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/418901/
-
   "Tacoma FD":
     year: 2019
     title: "Tacoma FD"

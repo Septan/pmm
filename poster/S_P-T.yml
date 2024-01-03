@@ -1,11 +1,26 @@
 metadata:
-  "Rick and Morty":
+  "Reacher (2022)":
+    year: 2022
+    title: "Reacher"
+    url_poster: https://theposterdb.com/api/assets/443523/download?performed_by=HelixPhoenix
+    match:
+      mapping_id: 366924
+    # IDs: imdb://tt9288030, tmdb://108978, tvdb://366924
+    # tpdb: https://theposterdb.com/posters/738342
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/443524/download?performed_by=HelixPhoenix
+        2:
+            url_poster: https://theposterdb.com/api/assets/443525/download?performed_by=HelixPhoenix
+
+  "Rick and Morty (2013)":
     year: 2013
     title: "Rick and Morty"
-    alt_title: "Rick and Morty (2013)"
-    orig_title: "Rick and Morty"
-    sort_title: "Rick and Morty"
     url_poster: https://theposterdb.com/api/assets/421575/
+    match:
+      mapping_id: 275274
+    # IDs: imdb://tt2861424, tmdb://60625, tvdb://275274
+    # tpdb: https://theposterdb.com/posters/25384
     seasons:
         0:
             url_poster: https://theposterdb.com/api/assets/421576/
@@ -24,11 +39,14 @@ metadata:
         7:
             url_poster: https://theposterdb.com/api/assets/421583/
 
-  "The Rookie":
+  "The Rookie (2018)":
     year: 2018
     title: "The Rookie"
-    sort_title: "Rookie"
     url_poster: https://theposterdb.com/api/assets/342472
+    match:
+      mapping_id: 350665
+    # IDs: imdb://tt7587890, tmdb://79744, tvdb://350665
+    # tpdb: https://theposterdb.com/posters/30711
     seasons:
         1:
             url_poster: https://theposterdb.com/api/assets/342473
@@ -41,13 +59,14 @@ metadata:
         5:
             url_poster: https://theposterdb.com/api/assets/342477
   
-  "The Simpsons":
+  "The Simpsons (1989)":
     year: 1989
     title: "The Simpsons"
-    alt_title: "The Simpsons (1989)"
-    orig_title: "The Simpsons"
-    sort_title: "Simpsons"
     url_poster: https://theposterdb.com/api/assets/419473/
+    match:
+      mapping_id: 71663
+    # IDs: imdb://tt0096697, tmdb://456, tvdb://71663
+    # tpdb: https://theposterdb.com/posters/5746
     seasons:
         0:
             url_poster: https://theposterdb.com/api/assets/419474/
@@ -122,11 +141,26 @@ metadata:
         35:
             url_poster: https://theposterdb.com/api/assets/419509/
 
-  "South Park":
+  "Skull Island (2023)":
+    year: 2023
+    title: "Skull Island"
+    url_poster: https://theposterdb.com/api/assets/418900/
+    match:
+      mapping_id: 421104
+    # IDs: imdb://tt13929756, tmdb://117678, tvdb://421104
+    # tpdb: https://theposterdb.com/posters/1037832
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/418901/
+
+  "South Park (1997)":
     year: 1997
     title: "South Park"
-    sort_title: "South Park"
     url_poster: https://theposterdb.com/api/assets/389835
+    match:
+      mapping_id: 75897
+    # IDs: imdb://tt0121955, tmdb://2190, tvdb://75897
+    # tpdb: https://theposterdb.com/posters/17714
     seasons:
         0:
             url_poster: https://theposterdb.com/api/assets/389836
@@ -183,13 +217,14 @@ metadata:
         26:
             url_poster: https://theposterdb.com/api/assets/389862
   
-  "Teen Titans":
+  "Teen Titans (2003)":
     year: 2003
     title: "Teen Titans"
-    alt_title: "Teen Titans (2003)"
-    orig_title: "Teen Titans"
-    sort_title: "Teen Titans"
     url_poster: https://theposterdb.com/api/assets/421350/
+    match:
+      mapping_id: 71503
+    # IDs: imdb://tt0343314, tmdb://604, tvdb://71503
+    # tpdb: https://theposterdb.com/posters/12859
     seasons:
         0:
             url_poster: https://theposterdb.com/api/assets/421351/
@@ -204,13 +239,14 @@ metadata:
         5:
             url_poster: https://theposterdb.com/api/assets/421356/
 
-  "Twisted Metal":
+  "Twisted Metal (2023)":
     year: 2023
     title: "Twisted Metal"
-    alt_title: "Twisted Metal (2023)"
-    orig_title: "Twisted Metal"
-    sort_title: "TWisted Metal"
     url_poster: https://theposterdb.com/api/assets/390246/
+    match:
+      mapping_id: 366532
+    # IDs: imdb://tt14261112, tmdb://133748, tvdb://366532
+    # tpdb: https://theposterdb.com/posters/1392025
     seasons:
         1:
             url_poster: https://theposterdb.com/api/assets/390247
