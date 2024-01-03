@@ -1,0 +1,63 @@
+metadata:
+  "Mike Judge's Beavis and Butt-Head":
+    year: 2022
+    title: "Mike Judge's Beavis and Butt-Head"
+    alt_title: "Mike Judge's Beavis and Butt-Head (2022)"
+    orig_title: "Mike Judge's Beavis and Butt-Head"
+    sort_title: "Mike Judge's Beavis and Butt-Head"
+    url_poster: https://theposterdb.com/api/assets/394917/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/394918
+        2:  
+            url_poster: https://theposterdb.com/api/assets/394919
+
+  "Monarch: Legacy of Monsters (2023)":
+    year: 2023
+    title: "Monarch: Legacy of Monsters"
+    url_poster: https://theposterdb.com/api/assets/442414/
+    match:
+      mapping_id: 422598
+    # IDs: imdb://tt17220216, tmdb://202411, tvdb://422598
+    # tpdb: https://theposterdb.com/posters/1586564
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/442415/
+
+  "The Mummy: The Animated Series":
+    # DIIIVOY
+    year: 2001
+    title: "The Mummy: The Animated Series"
+    alt_title: "The Mummy: The Animated Series (2001)"
+    orig_title: "The Mummy: The Animated Series"
+    sort_title: "Mummy: The Animated Series"
+    url_poster: https://theposterdb.com/api/assets/423679/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/423680
+        1:
+            url_poster: https://theposterdb.com/api/assets/423681
+
+  "The Old Man":
+    year: 2022
+    title: "The Old Man"
+    alt_title: "The Old Man (2022)"
+    orig_title: "The Old Man"
+    sort_title: "Old Man"
+    url_poster: https://theposterdb.com/api/assets/423571/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/423572
+
+  "Pantheon":
+    year: 2022
+    title: "Pantheon"
+    alt_title: "Pantheon (2022)"
+    orig_title: "Pantheon"
+    sort_title: "Pantheon"
+    url_poster: https://theposterdb.com/api/assets/421067/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/421068/
+        2:
+            url_poster: https://theposterdb.com/api/assets/421069/

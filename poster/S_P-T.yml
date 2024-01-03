@@ -1,0 +1,216 @@
+metadata:
+  "Rick and Morty":
+    year: 2013
+    title: "Rick and Morty"
+    alt_title: "Rick and Morty (2013)"
+    orig_title: "Rick and Morty"
+    sort_title: "Rick and Morty"
+    url_poster: https://theposterdb.com/api/assets/421575/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/421576/
+        1:
+            url_poster: https://theposterdb.com/api/assets/421577/
+        2:
+            url_poster: https://theposterdb.com/api/assets/421578/
+        3:
+            url_poster: https://theposterdb.com/api/assets/421579/
+        4:
+            url_poster: https://theposterdb.com/api/assets/421580/
+        5:
+            url_poster: https://theposterdb.com/api/assets/421581/
+        6:
+            url_poster: https://theposterdb.com/api/assets/421582/
+        7:
+            url_poster: https://theposterdb.com/api/assets/421583/
+
+  "The Rookie":
+    year: 2018
+    title: "The Rookie"
+    sort_title: "Rookie"
+    url_poster: https://theposterdb.com/api/assets/342472
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/342473
+        2:
+            url_poster: https://theposterdb.com/api/assets/342474
+        3:
+            url_poster: https://theposterdb.com/api/assets/342475
+        4:
+            url_poster: https://theposterdb.com/api/assets/342476
+        5:
+            url_poster: https://theposterdb.com/api/assets/342477
+  
+  "The Simpsons":
+    year: 1989
+    title: "The Simpsons"
+    alt_title: "The Simpsons (1989)"
+    orig_title: "The Simpsons"
+    sort_title: "Simpsons"
+    url_poster: https://theposterdb.com/api/assets/419473/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/419474/
+        1:
+            url_poster: https://theposterdb.com/api/assets/419475/
+        2:
+            url_poster: https://theposterdb.com/api/assets/419476/
+        3:
+            url_poster: https://theposterdb.com/api/assets/419477/
+        4:
+            url_poster: https://theposterdb.com/api/assets/419478/
+        5:
+            url_poster: https://theposterdb.com/api/assets/419479/
+        6:
+            url_poster: https://theposterdb.com/api/assets/419480/
+        7:
+            url_poster: https://theposterdb.com/api/assets/419481/
+        8:
+            url_poster: https://theposterdb.com/api/assets/419482/
+        9:
+            url_poster: https://theposterdb.com/api/assets/419483/
+        10:
+            url_poster: https://theposterdb.com/api/assets/419484/
+        11:
+            url_poster: https://theposterdb.com/api/assets/419485/
+        12:
+            url_poster: https://theposterdb.com/api/assets/419486/
+        13:
+            url_poster: https://theposterdb.com/api/assets/419487/
+        14:
+            url_poster: https://theposterdb.com/api/assets/419488/
+        15:
+            url_poster: https://theposterdb.com/api/assets/419489/
+        16:
+            url_poster: https://theposterdb.com/api/assets/419490/
+        17:
+            url_poster: https://theposterdb.com/api/assets/419491/
+        18:
+            url_poster: https://theposterdb.com/api/assets/419492/
+        19:
+            url_poster: https://theposterdb.com/api/assets/419493/
+        20:
+            url_poster: https://theposterdb.com/api/assets/419494/
+        21:
+            url_poster: https://theposterdb.com/api/assets/419495/
+        22:
+            url_poster: https://theposterdb.com/api/assets/419496/
+        23:
+            url_poster: https://theposterdb.com/api/assets/419497/
+        24:
+            url_poster: https://theposterdb.com/api/assets/419498/
+        25:
+            url_poster: https://theposterdb.com/api/assets/419499/
+        26:
+            url_poster: https://theposterdb.com/api/assets/419500/
+        27:
+            url_poster: https://theposterdb.com/api/assets/419501/
+        28:
+            url_poster: https://theposterdb.com/api/assets/419502/
+        29:
+            url_poster: https://theposterdb.com/api/assets/419503/
+        30:
+            url_poster: https://theposterdb.com/api/assets/419504/
+        31:
+            url_poster: https://theposterdb.com/api/assets/419505/
+        32:
+            url_poster: https://theposterdb.com/api/assets/419506/
+        33:
+            url_poster: https://theposterdb.com/api/assets/419507/
+        34:
+            url_poster: https://theposterdb.com/api/assets/419508/
+        35:
+            url_poster: https://theposterdb.com/api/assets/419509/
+
+  "South Park":
+    year: 1997
+    title: "South Park"
+    sort_title: "South Park"
+    url_poster: https://theposterdb.com/api/assets/389835
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/389836
+        1:
+            url_poster: https://theposterdb.com/api/assets/389837
+        2:
+            url_poster: https://theposterdb.com/api/assets/389838
+        3:
+            url_poster: https://theposterdb.com/api/assets/389839
+        4:
+            url_poster: https://theposterdb.com/api/assets/389840
+        5:
+            url_poster: https://theposterdb.com/api/assets/389841
+        6:
+            url_poster: https://theposterdb.com/api/assets/389842
+        7:
+            url_poster: https://theposterdb.com/api/assets/389843
+        8:
+            url_poster: https://theposterdb.com/api/assets/389844
+        9:
+            url_poster: https://theposterdb.com/api/assets/389845
+        10:
+            url_poster: https://theposterdb.com/api/assets/389847
+        11:
+            url_poster: https://theposterdb.com/api/assets/389837
+        12:
+            url_poster: https://theposterdb.com/api/assets/389848
+        13:
+            url_poster: https://theposterdb.com/api/assets/389849
+        14:
+            url_poster: https://theposterdb.com/api/assets/389850
+        15:
+            url_poster: https://theposterdb.com/api/assets/389851
+        16:
+            url_poster: https://theposterdb.com/api/assets/389852
+        17:
+            url_poster: https://theposterdb.com/api/assets/389853
+        18:
+            url_poster: https://theposterdb.com/api/assets/389854
+        19:
+            url_poster: https://theposterdb.com/api/assets/389855
+        20:
+            url_poster: https://theposterdb.com/api/assets/389856
+        21:
+            url_poster: https://theposterdb.com/api/assets/389857
+        22:
+            url_poster: https://theposterdb.com/api/assets/389858
+        23:
+            url_poster: https://theposterdb.com/api/assets/389859
+        24:
+            url_poster: https://theposterdb.com/api/assets/389860
+        25:
+            url_poster: https://theposterdb.com/api/assets/389861
+        26:
+            url_poster: https://theposterdb.com/api/assets/389862
+  
+  "Teen Titans":
+    year: 2003
+    title: "Teen Titans"
+    alt_title: "Teen Titans (2003)"
+    orig_title: "Teen Titans"
+    sort_title: "Teen Titans"
+    url_poster: https://theposterdb.com/api/assets/421350/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/421351/
+        1:
+            url_poster: https://theposterdb.com/api/assets/421352/
+        2:
+            url_poster: https://theposterdb.com/api/assets/421353/
+        3:
+            url_poster: https://theposterdb.com/api/assets/421354/
+        4:
+            url_poster: https://theposterdb.com/api/assets/421355/
+        5:
+            url_poster: https://theposterdb.com/api/assets/421356/
+
+  "Twisted Metal":
+    year: 2023
+    title: "Twisted Metal"
+    alt_title: "Twisted Metal (2023)"
+    orig_title: "Twisted Metal"
+    sort_title: "TWisted Metal"
+    url_poster: https://theposterdb.com/api/assets/390246/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/390247

@@ -1,0 +1,172 @@
+metadata:
+  "Family Guy":
+    year: 1999
+    title: "Family Guy"
+    alt_title: "Family Guy (1999)"
+    orig_title: "Family Guy"
+    sort_title: "Family Guy"
+    url_poster: https://theposterdb.com/api/assets/417313/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/417314/
+        1:
+            url_poster: https://theposterdb.com/api/assets/417315/
+        2:
+            url_poster: https://theposterdb.com/api/assets/417316/
+        3:
+            url_poster: https://theposterdb.com/api/assets/417317/
+        4:
+            url_poster: https://theposterdb.com/api/assets/417319/
+        5:
+            url_poster: https://theposterdb.com/api/assets/417320/
+        6:
+            url_poster: https://theposterdb.com/api/assets/417321/
+        7:
+            url_poster: https://theposterdb.com/api/assets/417322/
+        8:
+            url_poster: https://theposterdb.com/api/assets/417323/
+        9:
+            url_poster: https://theposterdb.com/api/assets/417324/
+        10:
+            url_poster: https://theposterdb.com/api/assets/417325/
+        11:
+            url_poster: https://theposterdb.com/api/assets/417326/
+        12:
+            url_poster: https://theposterdb.com/api/assets/417327/
+        13:
+            url_poster: https://theposterdb.com/api/assets/417328/
+        14:
+            url_poster: https://theposterdb.com/api/assets/417329/
+        15:
+            url_poster: https://theposterdb.com/api/assets/417330/
+        16:
+            url_poster: https://theposterdb.com/api/assets/417331/
+        17:
+            url_poster: https://theposterdb.com/api/assets/417332/
+        18:
+            url_poster: https://theposterdb.com/api/assets/417333/
+        19:
+            url_poster: https://theposterdb.com/api/assets/417334/
+        20:
+            url_poster: https://theposterdb.com/api/assets/417335/
+        21:
+            url_poster: https://theposterdb.com/api/assets/417336/
+        22:
+            url_poster: https://theposterdb.com/api/assets/417337/
+
+  "Friday the 13th: The Series":
+    year: 1987
+    title: "Friday the 13th: The Series"
+    alt_title: "Friday the 13th: The Series (1987)"
+    orig_title: "Friday the 13th: The Series"
+    sort_title: "Friday the 13th: The Series"
+    url_poster: https://theposterdb.com/api/assets/423679/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/423680
+        1:
+            url_poster: https://theposterdb.com/api/assets/423681
+        2:
+            url_poster: https://theposterdb.com/api/assets/423682
+        3:
+            url_poster: https://theposterdb.com/api/assets/423683
+
+  "Friends":
+    year: 1994
+    title: "Friends"
+    sort_title: "Friends"
+    url_poster: https://theposterdb.com/api/assets/394764
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/394765
+        1:
+            url_poster: https://theposterdb.com/api/assets/394766
+        2:
+            url_poster: https://theposterdb.com/api/assets/394767
+        3:
+            url_poster: https://theposterdb.com/api/assets/394768
+        4:
+            url_poster: https://theposterdb.com/api/assets/394769
+        5:
+            url_poster: https://theposterdb.com/api/assets/394770
+        6:
+            url_poster: https://theposterdb.com/api/assets/394771
+        7:
+            url_poster: https://theposterdb.com/api/assets/394772
+        8:
+            url_poster: https://theposterdb.com/api/assets/394773
+        9:
+            url_poster: https://theposterdb.com/api/assets/394774
+        10:
+            url_poster: https://theposterdb.com/api/assets/394775
+
+  "From":
+    year: 2022
+    title: "From"
+    alt_title: "From (2022)"
+    orig_title: "From"
+    sort_title: "From"
+    url_poster: https://theposterdb.com/api/assets/423494/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/423495
+        2:
+            url_poster: https://theposterdb.com/api/assets/423496
+
+  "Game of Thrones":
+    year: 2011
+    title: "Game of Thrones"
+    sort_title: "Game of Thrones"
+    url_poster: https://theposterdb.com/api/assets/393101
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/393102
+        1:
+            url_poster: https://theposterdb.com/api/assets/393103
+        2:
+            url_poster: https://theposterdb.com/api/assets/393104
+        3:
+            url_poster: https://theposterdb.com/api/assets/393105
+        4:
+            url_poster: https://theposterdb.com/api/assets/393106
+        5:
+            url_poster: https://theposterdb.com/api/assets/393107
+        6:
+            url_poster: https://theposterdb.com/api/assets/393108
+        7:
+            url_poster: https://theposterdb.com/api/assets/393109
+        8:
+            url_poster: https://theposterdb.com/api/assets/393110
+
+  "Hawkeye (2021)":
+    year: 2021
+    title: "Hawkeye"
+    url_poster: https://theposterdb.com/api/assets/449576/
+    match:
+      mapping_id: 367146
+  # IDs: imdb://tt10160804, tmdb://88329, tvdb://367146
+  # tpdb: https://theposterdb.com/posters/1499
+  seasons:
+      0:
+          url_poster: https://theposterdb.com/api/assets/449577/
+      1:
+          url_poster: https://theposterdb.com/api/assets/449578/
+
+  "Jurassic World: Camp Cretaceous":
+    year: 2020
+    title: "Jurassic World: Camp Cretaceous"
+    alt_title: "Jurassic World: Camp Cretaceous (2020)"
+    orig_title: "Jurassic World: Camp Cretaceous"
+    sort_title: "Jurassic World: Camp Cretaceous"
+    url_poster: https://theposterdb.com/api/assets/422768/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/422769
+        2:
+            url_poster: https://theposterdb.com/api/assets/422770
+        3:
+            url_poster: https://theposterdb.com/api/assets/422771
+        4:
+            url_poster: https://theposterdb.com/api/assets/422772
+        5:
+            url_poster: https://theposterdb.com/api/assets/422773

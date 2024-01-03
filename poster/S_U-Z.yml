@@ -1,0 +1,31 @@
+metadata:
+  "What We Do in the Shadows":
+    year: 2019
+    title: "What We Do in the Shadows"
+    sort_title: "What We Do in the Shadows"
+    url_poster: https://theposterdb.com/api/assets/404891
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/404892
+        1:
+            url_poster: https://theposterdb.com/api/assets/404893
+        2:
+            url_poster: https://theposterdb.com/api/assets/404894
+        3:
+            url_poster: https://theposterdb.com/api/assets/404895
+        4:
+            url_poster: https://theposterdb.com/api/assets/404896
+        5:
+            url_poster: https://theposterdb.com/api/assets/404897
+            
+  "The Wheel of Time":
+    year: 2021
+    title: "The Wheel of Time"
+    url_poster: https://theposterdb.com/api/assets/308573
+    match:
+      mapping_id: 
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/308574
+        1:
+            url_poster: https://theposterdb.com/api/assets/308575
