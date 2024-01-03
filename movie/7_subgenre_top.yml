@@ -2,6 +2,46 @@
 
 templates:
   sub_genre:
+    cache_builders: 6
+    collection_mode: hide
+#    collection_order: critic_rating.desc
+    delete_not_scheduled: false
+    limit: 250
+    sort_title: "+7_<<collection_name>>"
+    sync_mode: sync
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    imdb_search:
+      genre.any: <<genre.any>>
+      genre: <<genre>>
+      keyword.any: <<keyword.any>>
+      keyword: <<keyword>>
+      language: <<language>>
+      limit: 1000
+      rating.gte: <<rating.gte>>
+      sort_by: rating.desc
+      type: <<type>>
+      votes.gte: <<votes.gte>>
+    imdb_list:
+      - <<imdb_extra_1>>
+      - <<imdb_extra_2>>
+      - <<imdb_extra_3>>
+      - <<imdb_extra_4>>
+      - <<imdb_extra_5>>
+    letterboxd_list:
+      - https://letterboxd.com/ediblehedgehog/list/<<letterboxd_list>>/by/rating/
+      - <<letterboxd_extra_1>>
+      - <<letterboxd_extra_2>>
+      - <<letterboxd_extra_3>>
+      - <<letterboxd_extra_4>>
+      - <<letterboxd_extra_5>>
+    trakt_list:
+      - <<trakt_extra_1>>
+      - <<trakt_extra_2>>
+      - <<trakt_extra_3>>
+      - <<trakt_extra_4>>
+      - <<trakt_extra_5>>
     optional:
       - imdb_extra_1
       - imdb_extra_2
@@ -13,30 +53,15 @@ templates:
       - letterboxd_extra_3
       - letterboxd_extra_4
       - letterboxd_extra_5
-    sort_title: "+7 Rated: <<collection_name>>"
-    limit: 200
-    sync_mode: sync
-    collection_order: critic_rating.desc
-    collection_mode: hide
-    visible_home: false
-    visible_shared: false
-    visible_library: false
-    delete_not_scheduled: false
-    cache_builders: 6
-    imdb_list:
-      - https://www.imdb.com/search/title/?title_type=<<title_type>>&user_rating=<<user_rating>>&votes=<<votes>>&keywords=<<keywords>>&genres=<<genres>>&languages=<<languages>>&sort=user_rating,desc
-      - <<imdb_extra_1>>
-      - <<imdb_extra_2>>
-      - <<imdb_extra_3>>
-      - <<imdb_extra_4>>
-      - <<imdb_extra_5>>
-    letterboxd_list:
-      - https://letterboxd.com/ediblehedgehog/list/<<letterboxd_list>>/
-      - <<letterboxd_extra_1>>
-      - <<letterboxd_extra_2>>
-      - <<letterboxd_extra_3>>
-      - <<letterboxd_extra_4>>
-      - <<letterboxd_extra_5>>
+      - trakt_extra_1
+      - trakt_extra_2
+      - trakt_extra_3
+      - trakt_extra_4
+      - trakt_extra_5
+      - genre
+      - genre.any
+      - keyword
+      - keyword.any
 
 collections:
   "Top Rated in Absurdism":
@@ -46,10 +71,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "absurdism",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-absurdism"
                     }
@@ -61,10 +85,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "alien,alien-invasion",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-aliens"
                     }
@@ -76,10 +99,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "alternate-history",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-alternate-history"
                     }
@@ -91,10 +113,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "anti-hero,superhero",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-anti-hero"
                     }
@@ -106,10 +127,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "apocalypse,end-of-the-world",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-apocalypse"
                     }
@@ -121,10 +141,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "artificial-intelligence",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-artificial-intelligence"
                     }
@@ -136,10 +155,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "assassination-attempt",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-assassins"
                     }
@@ -151,10 +169,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "betrayal",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-betrayal"
                     }
@@ -166,10 +183,10 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "black-comedy",
-                    genres: "comedy",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    genre: "comedy",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-black-comedy"
                     }
@@ -181,13 +198,12 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "boxing",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-boxing",
-                    imdb_extra_1: "https://www.imdb.com/search/title/?title_type=feature,tv_movie&user_rating=2.0,10.0&num_votes=100,&keywords=boxing-champion&languages=en&sort=user_rating,desc"
+                    imdb_extra_1: "https://www.imdb.com/search/keyword/?title_type=movie,tv_movie&user_rating=2.0,10.0&num_votes=100,&keywords=boxing-champion&languages=en&sort=user_rating,desc"
                     }
 
   "Top Rated in Bugs":
@@ -197,10 +213,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "giant-insect",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-bugs",
                     }
@@ -212,10 +227,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "cannibalism,cannibal",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-cannibalism"
                     }
@@ -227,10 +241,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "caper",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5,0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-caper"
                     }
@@ -242,10 +255,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "chick-flick",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5,0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-chick-flick",
                     letterboxd_extra_1: "https://letterboxd.com/akookieforyou/list/chick-flicks/",
@@ -259,10 +271,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "based-on-comic",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-comics"
                     }
@@ -274,10 +285,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "coming-of-age,friendship,teenage-boy,teenage-girl",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-coming-of-age"
                     }
@@ -289,10 +299,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "con-artist,con-man",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-con-artists"
                     }
@@ -304,10 +313,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "detective,police-car,police-detective,police-officer,police-station,police",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-cop"
                     }
@@ -319,10 +327,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "costume-drama",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-costume-drama"
                     }
@@ -334,10 +341,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "courtroom,judge,lawyer",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-courtroom"
                     }
@@ -349,10 +355,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "cyberpunk,future",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-cyberpunk"
                     }
@@ -364,10 +369,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "dark-fantasy",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-dark-fantasy"
                     }
@@ -379,10 +383,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "detective,police-detective",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-detective"
                     }
@@ -394,10 +397,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "disaster,disaster-film",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-disaster"
                     }
@@ -409,10 +411,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "dragon",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "3.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 3,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-dragons"
                     }
@@ -424,10 +425,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "dystopia",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-dystopian"
                     }
@@ -439,10 +439,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "epic",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-epics"
                     }
@@ -454,10 +453,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "espionage",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-espionage"
                     }
@@ -469,10 +467,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "experimental-film",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "3.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 3,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-experimental"
                     }
@@ -484,10 +481,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "based-on-fairy-tale",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-fairytale"
                     }
@@ -499,10 +495,10 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "found-footage",
-                    genres: "horror",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    genre: "horror",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-found-footage"
                     }
@@ -514,10 +510,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "fugitive,on-the-run",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-fugitives"
                     }
@@ -529,10 +524,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "gangster",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-gangster"
                     }
@@ -544,10 +538,10 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "ghost",
-                    genres: "horror",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    genre: "horror",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-ghosts"
                     }
@@ -559,10 +553,10 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "gothic",
-                    genres: "horror",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    genre: "horror",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-gothic"
                     }
@@ -574,10 +568,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "broken-heart",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "1.0,10.0",
-                    votes: "10,",
+                    type: "movie,tv_movie",
+                    rating.gte: 1,
+                    votes.gte: 10,
                     languages: "en",
                     letterboxd_list: "theme-heartbreak"
                     }
@@ -589,10 +582,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "heist,robbery",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-heists"
                     }
@@ -604,10 +596,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "historical-event",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-historical-event"
                     }
@@ -619,13 +610,12 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "hostage-situation",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-hostage",
-                    imdb_extra_1: "https://www.imdb.com/search/title/?title_type=feature,tv_movie&user_rating=5.0,10.0&num_votes=10000,&keywords=hostage,kidnapping&languages=en&sort=user_rating,desc"
+                    imdb_extra_1: "https://www.imdb.com/search/keyword/?title_type=movie,tv_movie&user_rating=5.0,10.0&num_votes=1000,&keywords=hostage,kidnapping&languages=en&sort=user_rating,desc"
                     }
 
   "Top Rated in Hustle":
@@ -635,10 +625,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "hustler,gambling",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-hustle"
                     }
@@ -650,10 +639,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "martial-artist,martial-arts-master,martial-arts",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-martial-arts",
                     imdb_extra_1: "https://www.imdb.com/list/ls000099643",
@@ -669,10 +657,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "medical",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-medical"
                     }
@@ -684,10 +671,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "medieval-times",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-medieval"
                     }
@@ -699,10 +685,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "melodrama",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-melodrama"
                     }
@@ -714,10 +699,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "military,soldier",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-military"
                     }
@@ -729,16 +713,14 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "mindbender",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-mindfuck",
                     imdb_extra_1: "https://www.imdb.com/list/ls066069214",
-                    }
-    trakt_list:
-     - https://trakt.tv/users/hdlists/lists/mindfuck-movies
+                    trakt_extra_1: https://trakt.tv/users/hdlists/lists/mindfuck-movies
+                }
 
   "Top Rated in Mockumentary":
     summary: "Top rated movies in Mockumentary"
@@ -747,10 +729,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "mockumentary,fake-documentary",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-mockumentary",
                     imdb_extra_1: "https://www.imdb.com/list/ls027069047"
@@ -763,10 +744,10 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "creature,monster,creature-feature",
-                    genres: "horror",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    genre: "horror",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-monsters"
                     }
@@ -778,10 +759,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "mythology",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-mythology"
                     }
@@ -793,10 +773,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "naval-battle",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-naval"
                     }
@@ -808,10 +787,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "ninja",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-ninjas"
                     }
@@ -823,10 +801,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "based-on-book,based-on-novel",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-novel"
                     }
@@ -838,10 +815,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "occult",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-occult"
                     }
@@ -853,15 +829,13 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "outer-space,space-travel",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-outer-space",
-                    }
-    trakt_list:
-     - https://trakt.tv/users/hdlists/lists/outer-space-space-exploration-movies
+                    trakt_extra_1: https://trakt.tv/users/hdlists/lists/outer-space-space-exploration-movies
+                }
 
   "Top Rated in Outlaw":
     summary: "Top rated movies in Outlaw"
@@ -870,10 +844,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "outlaw",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-outlaw"
                     }
@@ -885,10 +858,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "pandemic",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-pandemic"
                     }
@@ -900,10 +872,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "paranormal-phenomenon",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-paranormal"
                     }
@@ -915,10 +886,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "period-drama",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-period-drama"
                     }
@@ -930,15 +900,13 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "philosophy",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-philosophical",
-                    }
-    trakt_list:
-     - https://trakt.tv/users/rizreflects/lists/philosophical
+                    trakt_extra_1: https://trakt.tv/users/rizreflects/lists/philosophical
+                }
 
   "Top Rated in Political":
     summary: "Top rated movies in Political"
@@ -947,10 +915,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "politics,politician",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-political"
                     }
@@ -962,10 +929,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "post-apocalypse",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-post-apocalyptic"
                     }
@@ -977,10 +943,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "prehistoric-times",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-prehistoric",
                     letterboxd_extra_1: "https://letterboxd.com/mikkelhh/list/before-civilization-prehistoric-films/"
@@ -993,10 +958,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "prison,prisoner,prison-guard",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-prison"
                     }
@@ -1008,13 +972,11 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "psychedelic",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-psychedelic"
-                    # imdb_extra_1: "https://www.imdb.com/list/ls085976350/?st_dt=&mode=detail&keywords=psychedelic&sort=user_rating,desc"
                     }
 
   "Top Rated in Psychological":
@@ -1024,10 +986,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "psychological",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-psychological"
                     }
@@ -1039,10 +1000,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "faith,religion,prayer",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-religous"
                     }
@@ -1054,10 +1014,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "remake",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5,0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-remake",
                     letterboxd_extra_1: "https://letterboxd.com/l_shelby/list/remakes/"
@@ -1070,10 +1029,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "revenge-plot",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "3.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 3,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-revenge"
                     }
@@ -1085,10 +1043,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "giant-robot",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "3.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 3,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-robots"
                     }
@@ -1099,11 +1056,10 @@ collections:
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
-                    keywords: "",
-                    genres: "romance,comedy",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    genre: "romance,comedy",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-romantic-comedy"
                     }
@@ -1117,11 +1073,10 @@ collections:
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
-                    keywords: "",
-                    genres: "romance,drama",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    genre: "romance,drama",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-romantic-drama"
                     }
@@ -1136,10 +1091,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "samurai,sword-fight",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-samurai",
                     letterboxd_extra_1: "https://letterboxd.com/jhcrotinger/list/samurai/"
@@ -1152,10 +1106,10 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "satire",
-                    genres: "comedy",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    genre: "comedy",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-satire"
                     }
@@ -1167,10 +1121,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "serial-killer,murder",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-serial-killers"
                     }
@@ -1182,10 +1135,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "slasher",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-slasher",
                     imdb_extra_1: "https://www.imdb.com/list/ls053988992",
@@ -1201,10 +1153,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "space-opera",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-space-opera"
                     }
@@ -1216,10 +1167,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "spaghetti-western",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "1.0,10.0",
-                    votes: "10,",
+                    type: "movie,tv_movie",
+                    rating.gte: 1,
+                    votes.gte: 10,
                     languages: "en",
                     letterboxd_list: "theme-spaghetti-western"
                     }
@@ -1231,10 +1181,10 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "splatter",
-                    genres: "horror",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "1000,",
+                    genre: "horror",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-splatter"
                     }
@@ -1246,10 +1196,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "steampunk",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-steampunk"
                     }
@@ -1261,10 +1210,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "stoner,marijuana",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "1.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 1,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-stoner"
                     }
@@ -1276,10 +1224,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "stop-motion",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5,0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-stop-motion",
                     letterboxd_extra_1: "https://letterboxd.com/savage_/list/stop-motion/"
@@ -1292,10 +1239,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "superhero",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-superhero"
                     }
@@ -1307,10 +1253,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "supernatural-power",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-supernatural"
                     }
@@ -1322,10 +1267,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "surrealism",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-surrealism"
                     }
@@ -1337,15 +1281,13 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "survival,survivor",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-survival",
-                    }
-    trakt_list:
-     - https://trakt.tv/users/rizreflects/lists/survival
+                    trakt_extra_1: https://trakt.tv/users/rizreflects/lists/survival
+                }
 
   "Top Rated in Swashbuckler":
     summary: "Top rated movies in Swashbuckler"
@@ -1354,10 +1296,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "swashbuckler",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-swashbuckler"
                     }
@@ -1369,10 +1310,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "sword-and-sandal",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "3.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 3,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-sword-sandal",
                     imdb_extra_1: "https://www.imdb.com/list/ls043130664"
@@ -1385,10 +1325,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "sword-and-sorcery",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "3.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 3,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-sword-sorcery",
                     imdb_extra_1: "https://www.imdb.com/list/ls022909805"
@@ -1401,10 +1340,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "time-travel",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-time-travel",
                     }
@@ -1418,10 +1356,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "treasure-hunt",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
                     letterboxd_list: "theme-treasure-hunt",
                     }
@@ -1433,16 +1370,14 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "based-on-true-story",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-true-story",
-                    }
-    trakt_list:
-     - https://trakt.tv/users/hdlists/lists/based-on-or-inspired-by-a-true-story
-     - https://trakt.tv/users/rizreflects/lists/true-story-based
+                    trakt_extra_1: https://trakt.tv/users/hdlists/lists/based-on-or-inspired-by-a-true-story,
+                    trakt_extra_2: https://trakt.tv/users/rizreflects/lists/true-story-based
+                }
 
   "Top Rated in Urban Fantasy":
     summary: "Top rated movies in Urban Fantasy"
@@ -1451,10 +1386,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "urban-fantasy",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-urban-fantasy"
                     }
@@ -1466,10 +1400,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "utopia",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-utopian",
                     imdb_extra_1: "https://www.imdb.com/list/ls041227401"
@@ -1482,10 +1415,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "vampire",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-vampires"
                     }
@@ -1497,10 +1429,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "based-on-video-game",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-video-game"
                     }
@@ -1511,14 +1442,13 @@ collections:
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
-                    keywords: "werewolf",
-                    genres: "horror",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    keywords: "werewolf,werewolves",
+                    genre: "horror",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-werewolves",
-                    imdb_extra_1: "https://www.imdb.com/search/title/?title_type=feature,tv_movie&user_rating=5.0,10.0&num_votes=1000,&keywords=werewolf&genres=Fantasy&languages=en&sort=user_rating,desc"
                     }
 
   "Top Rated in Whodunit?":
@@ -1528,16 +1458,15 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "whodunit",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "2.0,10.0",
-                    votes: "100,",
+                    type: "movie,tv_movie",
+                    rating.gte: 2,
+                    votes.gte: 100,
                     languages: "en",
-                    # letterboxd_list: "theme-whodunit",
-                    letterboxd_extra_1: "https://letterboxd.com/sublevel4/list/whodunit/",
-                    letterboxd_extra_2: "https://letterboxd.com/ceejay1/list/whodunit/",
-                    letterboxd_extra_3: "https://letterboxd.com/michaelw463/list/whodunit/",
-                    letterboxd_extra_4: "https://letterboxd.com/empw/list/whodunit/"
+                    letterboxd_list: "theme-whodunit",
+                    # letterboxd_extra_1: "https://letterboxd.com/sublevel4/list/whodunit/",
+                    # letterboxd_extra_2: "https://letterboxd.com/ceejay1/list/whodunit/",
+                    # letterboxd_extra_3: "https://letterboxd.com/michaelw463/list/whodunit/",
+                    # letterboxd_extra_4: "https://letterboxd.com/empw/list/whodunit/"
                     }
 
   "Top Rated in Wizardry & Witchcraft":
@@ -1546,14 +1475,12 @@ collections:
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
-                    keywords: "wizard",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    keywords: "witch,wizard",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-wizardry-witchcraft",
-                    imdb_extra_1: "https://www.imdb.com/search/title/?title_type=feature,tv_movie&user_rating=5.0,10.0&num_votes=1000,&keywords=witch&languages=en&sort=user_rating,desc"
                     }
 
   "Top Rated in World War":
@@ -1562,14 +1489,12 @@ collections:
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
-                    keywords: "world-war-one",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "1000,",
+                    keywords: "world-war-one,world-war-two",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-world-war",
-                    imdb_extra_1: "https://www.imdb.com/search/title/?title_type=feature,tv_movie&user_rating=5.0,10.0&num_votes=1000,&keywords=world-war-two&languages=en&sort=user_rating,desc"
                     }
 
   "Top Rated in Zombies":
@@ -1579,10 +1504,9 @@ collections:
     template: {
                     name: sub_genre,
                     keywords: "zombie",
-                    genres: "",
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
+                    type: "movie,tv_movie",
+                    rating.gte: 5,
+                    votes.gte: 1000,
                     languages: "en",
                     letterboxd_list: "theme-zombie"
                     }
