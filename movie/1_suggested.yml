@@ -2,58 +2,86 @@
 
 templates:
   plex:
+    cache_builders: 4
+    collection_mode: hide
+    delete_not_scheduled: false
     sort_title: "+1_<<num>>_<<collection_name>>"
     sync_mode: sync
-    collection_mode: hide
-    label.sync: REPLEXHERO
-    item_label.sync: REPLEXHERO
     visible_home: false
-    visible_shared: false
     visible_library: false
-    delete_not_scheduled: false
-    cache_builders: 4
+    visible_shared: false
 
   trakt:
+    cache_builders: 4
+    collection_mode: hide
+    delete_not_scheduled: false
     sort_title: "+1_<<num>>_<<collection_name>>"
     sync_mode: sync
-    collection_order: custom
-    collection_mode: hide
-    label.sync: REPLEXHERO
     visible_home: false
-    visible_shared: false
     visible_library: false
-    delete_not_scheduled: false
-    cache_builders: 4
+    visible_shared: false
+    trakt_list:
+      - <<trakt_list_extra_01>>
+      - <<trakt_list_extra_02>>
+      - <<trakt_list_extra_03>>
+      - <<trakt_list_extra_04>>
+      - <<trakt_list_extra_05>>
+      - <<trakt_list_extra_06>>
+      - <<trakt_list_extra_07>>
+      - <<trakt_list_extra_08>>
+      - <<trakt_list_extra_09>>
+      - <<trakt_list_extra_10>>
+      - <<trakt_list_extra_11>>
+      - <<trakt_list_extra_12>>
+      - <<trakt_list_extra_13>>
+      - <<trakt_list_extra_14>>
+      - <<trakt_list_extra_15>>
+      - <<trakt_list_extra_16>>
+      - <<trakt_list_extra_17>>
+      - <<trakt_list_extra_18>>
+      - <<trakt_list_extra_19>>
+      - <<trakt_list_extra_20>>
+    optional:
+      - trakt_list_extra_01
+      - trakt_list_extra_02
+      - trakt_list_extra_03
+      - trakt_list_extra_04
+      - trakt_list_extra_05
+      - trakt_list_extra_06
+      - trakt_list_extra_07
+      - trakt_list_extra_08
+      - trakt_list_extra_09
+      - trakt_list_extra_10
+      - trakt_list_extra_11
+      - trakt_list_extra_12
+      - trakt_list_extra_13
+      - trakt_list_extra_14
+      - trakt_list_extra_15
+      - trakt_list_extra_16
+      - trakt_list_extra_17
+      - trakt_list_extra_18
+      - trakt_list_extra_19
+      - trakt_list_extra_20
 
-  imdb_popular:
+  mdblist:
+    cache_builders: 6
+    collection_mode: hide
+    collection_order: custom
+    delete_not_scheduled: false
     sort_title: "+1_<<num>>_<<collection_name>>"
     sync_mode: sync
-    collection_order: custom
-    collection_mode: hide
-    label.sync: REPLEXHERO
     visible_home: false
-    visible_shared: false
     visible_library: false
-    delete_not_scheduled: false
-    cache_builders: 4
-    imdb_list:
-      url: https://www.imdb.com/search/title/?title_type=<<title_type>>&languages=<<languages>>&sort=moviemeter,asc
-      limit: 200
-
-  imdb_top:
-    sort_title: "+1_<<num>>_<<collection_name>>"
-    sync_mode: sync
-    collection_order: custom
-    collection_mode: hide
-    label.sync: REPLEXHERO
-    visible_home: false
     visible_shared: false
-    visible_library: false
-    delete_not_scheduled: false
-    cache_builders: 4
-    imdb_list:
-      url: https://www.imdb.com/search/title/?title_type=<<title_type>>&user_rating=<<user_rating>>&num_votes=<<votes>>,&languages=<<languages>>&sort=user_rating,desc&count=250
-      limit: 300
+    mdblist_list:
+      sort_by: <<mdblist_sort>>
+      url: https://mdblist.com/lists/<<mdblist_user>>/<<mdblist_list>>/
+    optional:
+      - mdblist_extra_1
+      - mdblist_extra_2
+      - mdblist_extra_3
+      - mdblist_extra_4
+      - mdblist_extra_5
 
 collections:
   "Random Movies":
@@ -67,24 +95,62 @@ collections:
                     }
     smart_filter:
       all:
-        rating.gte: 4
+        critc_rating.gte: 4
       sort_by: random
       limit: 250
 
+  "Recently Added Movies":
+    summary: "Recently added movies"
+    visible_home: true
+    visiable_shared: true
+    visible_library: true
+    template: {
+                    name: plex,
+                    num: 1
+                }
+    smart_filter:
+      any:
+        audio_language: English, english, Spanish, spanish
+      sort_by: added.desc
+      limit: 200
+
+  "Recently Released Movies":
+    summary: "Recently added movies"
+    visible_library: true
+    template: {
+                    name: plex,
+                    num: 1
+                }
+    smart_filter:
+      any:
+        audio_language: English, english, Spanish, spanish
+      sort_by: release.desc
+      limit: 200
+      
+  "Suggested Movies":
+    collection_order: random
+    summary: "Based on watched and favourited movies"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_suggested/suggested_suggested.png
+    template: {
+                    name: trakt,
+                    num: 2
+                }
+    trakt_userlist:
+      - userlist: recommendations
+        user: me
+        
   "Trending Movies":
-    summary: Movies trending across the internet
+    summary: "Movies trending across the internet"
     url_poster: https://images2.imgbox.com/ee/c6/sGdBToVv_o.png
     schedule: daily
     template: {
-                    name: trakt,
-                    num: 1
-                    }
-    trakt_chart:
-      chart: trending
-      time_period: daily
-      languages: en
-      countries: us, gb, ie, ca, au, nz
-      limit: 50
+                    name: mdblist,
+                    num: 2,
+                    mdblist_user: "archivist",
+                    mdblist_list: "movie-trending",
+                    mdblist_sort: "rank.desc"
+                }
+    limit: 100
 
   "Popular Movies":
     summary: Popular movies across the internet
@@ -92,30 +158,31 @@ collections:
     visible_library: true
     schedule: daily
     template: {
-                    name: imdb_popular,
-                    num: 2,
-                    title_type: "feature",
-                    languages: "en",
-                    }
-    limit: 100
+                    name: mdblist,
+                    num: 3,
+                    mdblist_user: "archivist",
+                    mdblist_list: "movie-popular",
+                    mdblist_sort: "imdbpopular.desc"
+                }
+    limit: 250
 
   "Top Rated Movies":
     summary: Top rated movies across the internet
     url_poster: https://images2.imgbox.com/0c/63/FiXfE8HU_o.png
     schedule: daily
     template: {
-                    name: imdb_top,
+                    name: mdblist,
                     num: 3,
-                    title_type: "feature,tv_movie",
-                    user_rating: "5.0,10.0",
-                    votes: "10000,",
-                    languages: "en"
-                    }
-    limit: 200
+                    mdblist_user: "archivist",
+                    mdblist_list: "movie-top-rated",
+                    mdblist_sort: "imdbrating.desc"
+                }
+    limit: 500
 
   "Most Watched Daily":
     summary: Movies trending across the internet
     url_poster: https://images2.imgbox.com/cc/22/dzvWyJsq_o.png
+    collection_order: custom
     schedule: daily
     template: {
                     name: trakt,
@@ -124,13 +191,14 @@ collections:
     trakt_chart:
       chart: watched
       time_period: daily
-      languages: en
+      languages: en, es
       countries: us, gb, ie, ca, au, nz
       limit: 50
 
   "Most Watched Weekly":
     summary: Movies trending across the internet
     url_poster: https://images2.imgbox.com/07/a7/PWLNejJY_o.png
+    collection_order: custom
     schedule: daily
     template: {
                     name: trakt,
@@ -139,13 +207,14 @@ collections:
     trakt_chart:
       chart: watched
       time_period: weekly
-      languages: en
+      languages: en, es
       countries: us, gb, ie, ca, au, nz
       limit: 50
 
   "Most Watched Monthly":
     summary: Movies trending across the internet
     url_poster: https://images2.imgbox.com/c2/61/RlIeTpf8_o.png
+    collection_order: custom
     schedule: weekly(sunday)
     template: {
                     name: trakt,
@@ -154,13 +223,14 @@ collections:
     trakt_chart:
       chart: watched
       time_period: monthly
-      languages: en
+      languages: en, es
       countries: us, gb, ie, ca, au, nz
       limit: 75
 
   "Most Watched Yearly":
     summary: Movies trending across the internet
     url_poster: https://images2.imgbox.com/a5/aa/CVhylnXG_o.png
+    collection_order: custom
     schedule: weekly(sunday)
     template: {
                     name: trakt,
@@ -169,6 +239,6 @@ collections:
     trakt_chart:
       chart: watched
       time_period: yearly
-      languages: en
+      languages: en, es
       countries: us, gb, ie, ca, au, nz
       limit: 100
