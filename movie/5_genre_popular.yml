@@ -2,204 +2,207 @@
 
 templates:
   popular:
-    sort_title: "+5: <<collection_name>>"
-    limit: 130
-    sync_mode: sync
-    collection_order: custom
-    collection_mode: hide
-    visible_home: false
-    visible_shared: false
-    visible_library: false
-    delete_not_scheduled: false
     cache_builders: 6
-    imdb_list:
-      url: https://www.imdb.com/search/title/?title_type=<<title_type>>&genres=<<genres>>&languages=<<languages>>&sort=moviemeter,asc
-      limit: 250
+    collection_mode: hide
+    collection_order: custom
+    delete_not_scheduled: false
+    limit: 250
+    sort_title: "+5: <<collection_name>>"
+    sync_mode: sync
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    imdb_search:
+      genre: <<genre>>
+      language: <<language>>
+      limit: 500
+      popularity.gte: <<popularity.gte>>
+      sort_by: popularity.asc
+      type: <<type>>
 
 collections:
   "Popular in Action":
     summary: "Popular movies in Action"
     url_poster: https://images2.imgbox.com/88/a7/u2lPRZBa_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "action",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "action",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Adventure":
     summary: "Popular movies in Adventure"
     url_poster: https://images2.imgbox.com/62/4f/ikh2up5m_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "adventure",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "adventure",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Animation":
     summary: "Popular movies in Animation"
     url_poster: https://images2.imgbox.com/dc/01/kZMRB1ck_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "animation",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "animation",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Biography":
     summary: "Popular movies in Biography"
     url_poster: https://images2.imgbox.com/f3/85/WzSpkYzE_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "biography",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "biography",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Comedy":
     summary: "Popular movies in Comedy"
     url_poster: https://images2.imgbox.com/86/9c/Czwboh2j_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "comedy",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "comedy",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Crime":
     summary: "Popular movies in Crime"
     url_poster: https://images2.imgbox.com/43/95/I4sdDt9z_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "crime",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "crime",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Drama":
     summary: "Popular movies in Drama"
     url_poster: https://images2.imgbox.com/3a/88/rTwkiTUh_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "drama",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "drama",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Family":
     summary: "Popular movies in Family"
     url_poster: https://images2.imgbox.com/18/31/ugIUzK9n_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "family",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "family",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Fantasy":
     summary: "Popular movies in Fantasy"
     url_poster: https://images2.imgbox.com/ae/71/IuyxAInh_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "fantasy",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "fantasy",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in History":
     summary: "Popular movies in History"
     url_poster: https://images2.imgbox.com/2b/64/JAyAGgxb_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "history",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "history",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Horror":
     summary: "Popular movies in Horror"
     url_poster: https://images2.imgbox.com/3a/57/pPgBdN3y_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "horror",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "horror",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Music":
     summary: "Popular movies in Music"
     url_poster: https://images2.imgbox.com/a7/64/Fzl9fF36_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "music",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "music",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Musicals":
     summary: "Popular movies in Musicals"
     url_poster: https://images2.imgbox.com/ab/24/OCyAJwlk_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "musical",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "musical",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Mystery":
     summary: "Popular movies in Mystery"
     url_poster: https://images2.imgbox.com/dc/f0/g1aJBoHZ_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "mystery",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "mystery",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Romance":
     summary: "Popular movies in Romance"
     url_poster: https://images2.imgbox.com/33/91/h91gnIoJ_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "romance",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "romance",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Sci-Fi":
     summary: "Popular movies in Sci-Fi"
     url_poster: https://images2.imgbox.com/ea/60/XhHF1iyn_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "sci-fi",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "sci-fi",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Shorts":
     summary: "Popular movies in Shorts"
     url_poster: https://images2.imgbox.com/e3/34/8hV5Ezf6_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "short",
+                    genre: "short",
                     title_type: "short_film",
                     languages: "en",
                     }
@@ -207,32 +210,32 @@ collections:
   "Popular in Thriller":
     summary: "Popular movies in Thriller"
     url_poster: https://images2.imgbox.com/3b/9e/OxQMkeAf_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "thriller",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "thriller",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in War":
     summary: "Popular movies in War"
     url_poster: https://images2.imgbox.com/8d/0e/eTvLQNP7_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "war",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "war",
+                    popularity.gte: 5,
                     languages: "en",
                     }
 
   "Popular in Western":
     summary: "Popular movies in Western"
     url_poster: https://images2.imgbox.com/60/5e/ZQa1dSds_o.png
-    schedule: daily
     template: {
                     name: popular,
-                    genres: "western",
-                    title_type: "feature,tv_movie",
+                    type: "movie,tv_movie",
+                    genre: "western",
+                    popularity.gte: 5,
                     languages: "en",
                     }
