@@ -1964,6 +1964,356 @@ metadata:
         7:
             url_poster: https://theposterdb.com/api/assets/426991/
 
+#   "Deadly Class (2018)":
+#     year: 2018
+#     title: "Deadly Class"
+#     url_poster: 
+#     match:
+#       mapping_id: 353717
+#     # IDs: imdb://tt5924572, tmdb://75663, tvdb://353717
+#     # tpdb: https://theposterdb.com/posters/42014
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Dear Edward (2023)":
+#     year: 2023
+#     title: "Dear Edward"
+#     url_poster: 
+#     match:
+#       mapping_id: 415585
+#     # IDs: imdb://tt17543896, tmdb://156820, tvdb://415585
+#     # tpdb: https://theposterdb.com/posters/1511702
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Debris (2021)":
+#     year: 2021
+#     title: "Debris"
+#     url_poster: 
+#     match:
+#       mapping_id: 383491
+#     # IDs: imdb://tt11640020, tmdb://106159, tvdb://383491
+#     # tpdb: https://theposterdb.com/posters/1070702
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Deputy (2020)":
+#     year: 2020
+#     title: "Deputy"
+#     url_poster: 
+#     match:
+#       mapping_id: 354265
+#     # IDs: imdb://tt8873996, tmdb://89498, tvdb://354265
+#     # tpdb: https://theposterdb.com/posters/186909
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "The Devil's Plan (2023)":
+#     year: 2023
+#     title: "The Devil's Plan"
+#     url_poster: 
+#     match:
+#       mapping_id: 433304
+#     # IDs: imdb://tt27995115, tmdb://214582, tvdb://433304
+#     # tpdb: https://theposterdb.com/posters/1718792
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Devs (2020)":
+#     year: 2020
+#     title: "Devs"
+#     url_poster: 
+#     match:
+#       mapping_id: 364149
+#     # IDs: imdb://tt8134186, tmdb://81349, tvdb://364149
+#     # tpdb: https://theposterdb.com/posters/260690
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+
+  "Dexter (2006)":
+    year: 2006
+    title: "Dexter"
+    url_poster: https://theposterdb.com/api/assets/394648/
+    match:
+      mapping_id: 79349
+    # IDs: imdb://tt0773262, tmdb://1405, tvdb://79349
+    # tpdb: https://theposterdb.com/posters/29686
+    seasons:
+        # 0:
+        #     url_poster: https://theposterdb.com/api/assets/394649/
+        1:
+            url_poster: https://theposterdb.com/api/assets/394650/
+        2:
+            url_poster: https://theposterdb.com/api/assets/394651/
+        3:
+            url_poster: https://theposterdb.com/api/assets/394652/
+        4:
+            url_poster: https://theposterdb.com/api/assets/394653/
+        5:
+            url_poster: https://theposterdb.com/api/assets/394654/
+        6:
+            url_poster: https://theposterdb.com/api/assets/394655/
+        7:
+            url_poster: https://theposterdb.com/api/assets/394656/
+        8:
+            url_poster: https://theposterdb.com/api/assets/394657/
+
+  "Dexter: New Blood (2021)":
+    year: 2021
+    title: "Dexter: New Blood"
+    url_poster: https://theposterdb.com/api/assets/394660/
+    match:
+      mapping_id: 412366
+    # IDs: imdb://tt14164730, tmdb://131927, tvdb://412366
+    # tpdb: https://theposterdb.com/posters/1367347
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/394661/
+
+#   "Dickinson (2019)":
+#     year: 2019
+#     title: ""
+#     url_poster: 
+#     match:
+#       mapping_id: 361566
+#     # IDs: imdb://tt8518136, tmdb://89901, tvdb://361566
+#     # tpdb: https://theposterdb.com/posters/181735
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+
+  "Die Hart (2020)":
+    year: 2020
+    title: "Die Hart"
+    url_poster: https://theposterdb.com/api/assets/420191/
+    match:
+      mapping_id: 377298
+    # IDs: imdb://tt10726424, tmdb://99072, tvdb://377298
+    # tpdb: https://theposterdb.com/posters/284879
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/420192/
+        2:
+            url_poster: https://theposterdb.com/api/assets/420193/
+
+#   "Diners, Drive-ins and Dives (2006)":
+#     year: 2006
+#     title: "Diners, Drive-ins and Dives"
+#     url_poster: 
+#     match:
+#       mapping_id: 82918
+#     # IDs: imdb://tt1020913, tmdb://4086, tvdb://82918
+#     # tpdb: https://theposterdb.com/posters/15668
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+#         4:
+#             url_poster: 
+#         5:
+#             url_poster: 
+#         6:
+#             url_poster: 
+#         7:
+#             url_poster: 
+#         8:
+#             url_poster: 
+#         9:
+#             url_poster: 
+#         10:
+#             url_poster: 
+#         11:
+#             url_poster: 
+#         12:
+#             url_poster: 
+#         13:
+#             url_poster: 
+#         14:
+#             url_poster: 
+#         15:
+#             url_poster: 
+#         16:
+#             url_poster: 
+#         17:
+#             url_poster: 
+#         18:
+#             url_poster: 
+#         19:
+#             url_poster: 
+#         20:
+#             url_poster: 
+#         21:
+#             url_poster: 
+#         22:
+#             url_poster: 
+#         23:
+#             url_poster: 
+#         24:
+#             url_poster: 
+#         25:
+#             url_poster: 
+#         26:
+#             url_poster: 
+#         27:
+#             url_poster: 
+#         28:
+#             url_poster: 
+#         29:
+#             url_poster: 
+#         30:
+#             url_poster: 
+#         31:
+#             url_poster: 
+#         32:
+#             url_poster: 
+#         33:
+#             url_poster: 
+#         34:
+#             url_poster: 
+#         35:
+#             url_poster: 
+#         36:
+#             url_poster: 
+#         37:
+#             url_poster: 
+#         38:
+#             url_poster: 
+#         39:
+#             url_poster: 
+#         40:
+#             url_poster: 
+#         41:
+#             url_poster: 
+#         42:
+#             url_poster: 
+#         43:
+#             url_poster: 
+#         44:
+#             url_poster: 
+#         45:
+#             url_poster: 
+#         46:
+#             url_poster: 
+
+#   "Dinner at Tiffani's (2014)":
+#     year: 2014
+#     title: "Dinner at Tiffani's"
+#     url_poster: 
+#     match:
+#       mapping_id: 292240
+#     # IDs: imdb://tt3551980, tmdb://66268, tvdb://292240
+#     # tpdb: https://theposterdb.com/posters/192053
+#     seasons:
+#         0:
+#             url_poster: 
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+#         3:
+#             url_poster: 
+
+#   "Disney Gallery: The Book of Boba Fett (2022)":
+#     year: 2022
+#     title: "Disney Gallery: The Book of Boba Fett"
+#     url_poster: 
+#     match:
+#       mapping_id: 419714
+#     # IDs: imdb://tt19881256, tmdb://198109, tvdb://419714
+#     # tpdb: https://theposterdb.com/posters/1566616
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "DMZ (2022)":
+#     year: 2022
+#     title: "DMZ"
+#     url_poster: 
+#     match:
+#       mapping_id: 414938
+#     # IDs: imdb://tt11057226, tmdb://113566, tvdb://414938
+#     # tpdb: https://theposterdb.com/posters/842514
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Dollface (2019)":
+#     year: 2019
+#     title: "Dollface"
+#     url_poster: 
+#     match:
+#       mapping_id: 367553
+#     # IDs: imdb://tt7661046, tmdb://84584, tvdb://367553
+#     # tpdb: https://theposterdb.com/posters/199752
+#     seasons:
+#         1:
+#             url_poster: 
+#         2:
+#             url_poster: 
+
+#   "Don't (2020)":
+#     year: 2020
+#     title: "Don't"
+#     url_poster: 
+#     match:
+#       mapping_id: 381494
+#     # IDs: imdb://tt10150154, tmdb://92254, tvdb://381494
+#     # tpdb: https://theposterdb.com/posters/243289
+#     seasons:
+#         1:
+#             url_poster: 
+
+#   "Don't F**k with Cats: Hunting an Internet Killer (2019)":
+#     year: 2019
+#     title: "Don't F**k with Cats: Hunting an Internet Killer"
+#     url_poster: 
+#     match:
+#       mapping_id: 372566
+#     # IDs: imdb://tt11318602, tmdb://96129, tvdb://372566
+#     # tpdb: https://theposterdb.com/posters/219130
+#     seasons:
+#         0:
+#             url_poster: 
+
+  "Doom Patrol (2019)":
+    year: 2019
+    title: "Doom Patrol"
+    url_poster: https://theposterdb.com/api/assets/429714/
+    match:
+      mapping_id: 355622
+    # IDs: imdb://tt8416494, tmdb://79501, tvdb://355622
+    # tpdb: https://theposterdb.com/posters/10282
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/429715/
+        1:
+            url_poster: https://theposterdb.com/api/assets/429716/
+        2:
+            url_poster: https://theposterdb.com/api/assets/429717/
+        3:
+            url_poster: https://theposterdb.com/api/assets/429718/
+        4:
+            url_poster: https://theposterdb.com/api/assets/429719/
+
   "Monarch: Legacy of Monsters (2023)":
     year: 2023
     title: "Monarch: Legacy of Monsters"
