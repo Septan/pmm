@@ -1,11 +1,52 @@
 metadata:
-  "Mike Judge's Beavis and Butt-Head":
+  "Marvel's Hit-Monkey (2021)":
+    year: 2021
+    title: "Marvel's Hit-Monkey"
+    url_poster: https://theposterdb.com/api/assets/440305/
+    match:
+      mapping_id: 361835
+    # IDs: imdb://tt9811316, tmdb://133903, tvdb://361835
+    # tpdb: https://theposterdb.com/posters/1392234
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/440306/
+
+  "Marvel's Moon Girl and Devil Dinosaur (2023)":
+    year: 2023
+    title: Marvel's Moon Girl and Devil Dinosaur""
+    url_poster: https://theposterdb.com/api/assets/440307/
+    match:
+      mapping_id: 415084
+    # IDs: imdb://tt8041658, tmdb://92788, tvdb://415084
+    # tpdb: https://theposterdb.com/posters/97232
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/440308/
+   
+  "Marvel Studios: Legends (2021)":
+    year: 2021
+    title: "Marvel Studios: Legends"
+    url_poster: https://theposterdb.com/api/assets/440312/
+    match:
+      mapping_id: 393438
+    # IDs: imdb://tt13650480, tmdb://114695, tvdb://393438
+    # tpdb: https://theposterdb.com/posters/927962
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/440313/
+        1:
+            url_poster: https://theposterdb.com/api/assets/440314/
+        2:
+            url_poster: https://theposterdb.com/api/assets/440314/
+
+  "Mike Judge's Beavis and Butt-Head (2022)":
     year: 2022
     title: "Mike Judge's Beavis and Butt-Head"
-    alt_title: "Mike Judge's Beavis and Butt-Head (2022)"
-    orig_title: "Mike Judge's Beavis and Butt-Head"
-    sort_title: "Mike Judge's Beavis and Butt-Head"
     url_poster: https://theposterdb.com/api/assets/394917/
+    match:
+      mapping_id: 422373
+    # IDs: imdb://tt20859904, tmdb://203489, tvdb://422373
+    # tpdb: https://theposterdb.com/posters/1600385
     seasons:
         1:
             url_poster: https://theposterdb.com/api/assets/394918
@@ -23,20 +64,40 @@ metadata:
     seasons:
         1:
             url_poster: https://theposterdb.com/api/assets/442415/
-
-  "The Mummy: The Animated Series":
-    # DIIIVOY
-    year: 2001
-    title: "The Mummy: The Animated Series"
-    alt_title: "The Mummy: The Animated Series (2001)"
-    orig_title: "The Mummy: The Animated Series"
-    sort_title: "Mummy: The Animated Series"
-    url_poster: https://theposterdb.com/api/assets/423679/
+  
+  "Mr. Robot (2015)":
+    year: 2015
+    title: "Mr. Robot"
+    url_poster: https://theposterdb.com/api/assets/439911/
+    match:
+      mapping_id: 289590
+    # IDs: imdb://tt4158110, tmdb://62560, tvdb://289590
+    # tpdb: https://theposterdb.com/posters/26344
     seasons:
         0:
-            url_poster: https://theposterdb.com/api/assets/423680
+            url_poster: https://theposterdb.com/api/assets/439912/
         1:
-            url_poster: https://theposterdb.com/api/assets/423681
+            url_poster: https://theposterdb.com/api/assets/439913/
+        2:
+            url_poster: https://theposterdb.com/api/assets/439914/
+        3:
+            url_poster: https://theposterdb.com/api/assets/439915/
+        4:
+            url_poster: https://theposterdb.com/api/assets/439916/
+
+  "The Mummy: The Animated Series (2001)":
+    year: 2001
+    title: "The Mummy: The Animated Series"
+    url_poster: https://theposterdb.com/api/assets/400044/
+    match:
+      mapping_id: 76197
+    # IDs: imdb://tt0281471, tmdb://5595, tvdb://76197
+    # tpdb: https://theposterdb.com/posters/5254
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/400045/
+        1:
+            url_poster: https://theposterdb.com/api/assets/400046/
 
   "Night Court (2023)":
     year: 2023
@@ -54,23 +115,25 @@ metadata:
         2:
             url_poster: https://theposterdb.com/api/assets/446782/
 
-  "The Old Man":
+  "The Old Man (2022)":
     year: 2022
     title: "The Old Man"
-    alt_title: "The Old Man (2022)"
-    orig_title: "The Old Man"
-    sort_title: "Old Man"
     url_poster: https://theposterdb.com/api/assets/423571/
+    match:
+      mapping_id: 367392
+    # IDs: imdb://tt5645432, tmdb://111800, tvdb://367392
+    # tpdb: https://theposterdb.com/posters/800017
     seasons:
         1:
             url_poster: https://theposterdb.com/api/assets/423572
 
-  "Pantheon":
+  "Pantheon (2022)":
     year: 2022
     title: "Pantheon"
-    alt_title: "Pantheon (2022)"
-    orig_title: "Pantheon"
-    sort_title: "Pantheon"
+    match:
+      mapping_id: 417208
+    # IDs: imdb://tt11680642, tmdb://195339, tvdb://417208
+    # tpdb: https://theposterdb.com/posters/1658151
     url_poster: https://theposterdb.com/api/assets/421067/
     seasons:
         1:

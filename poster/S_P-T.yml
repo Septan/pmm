@@ -1,4 +1,18 @@
 metadata:
+  "Peacemaker (2022)":
+    year: 2022
+    title: "Peacemaker"
+    url_poster: https://theposterdb.com/api/assets/440410/
+    match:
+      mapping_id: 391153
+    # IDs: imdb://tt13146488, tmdb://110492, tvdb://391153
+    # tpdb: https://theposterdb.com/posters/788154
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/440411/
+        1:
+            url_poster: https://theposterdb.com/api/assets/440412/
+
   "Reacher (2022)":
     year: 2022
     title: "Reacher"

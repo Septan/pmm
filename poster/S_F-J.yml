@@ -1,11 +1,12 @@
 metadata:
-  "Family Guy":
+  "Family Guy (1999)":
     year: 1999
     title: "Family Guy"
-    alt_title: "Family Guy (1999)"
-    orig_title: "Family Guy"
-    sort_title: "Family Guy"
     url_poster: https://theposterdb.com/api/assets/417313/
+    match:
+      mapping_id: 75978
+    # IDs: imdb://tt0182576, tmdb://1434, tvdb://75978
+    # tpdb: https://theposterdb.com/posters/15470
     seasons:
         0:
             url_poster: https://theposterdb.com/api/assets/417314/
@@ -54,13 +55,14 @@ metadata:
         22:
             url_poster: https://theposterdb.com/api/assets/417337/
 
-  "Friday the 13th: The Series":
+  "Friday the 13th: The Series (1987)":
     year: 1987
     title: "Friday the 13th: The Series"
-    alt_title: "Friday the 13th: The Series (1987)"
-    orig_title: "Friday the 13th: The Series"
-    sort_title: "Friday the 13th: The Series"
     url_poster: https://theposterdb.com/api/assets/423679/
+    match:
+      mapping_id: 73804
+    # IDs: imdb://tt0092357, tmdb://2263, tvdb://73804
+    # tpdb: https://theposterdb.com/posters/3496
     seasons:
         0:
             url_poster: https://theposterdb.com/api/assets/423680
@@ -71,11 +73,14 @@ metadata:
         3:
             url_poster: https://theposterdb.com/api/assets/423683
 
-  "Friends":
+  "Friends (1994)":
     year: 1994
     title: "Friends"
-    sort_title: "Friends"
     url_poster: https://theposterdb.com/api/assets/394764
+    match:
+      mapping_id: 79168
+    # IDs: imdb://tt0108778, tmdb://1668, tvdb://79168
+    # tpdb: https://theposterdb.com/posters/2791
     seasons:
         0:
             url_poster: https://theposterdb.com/api/assets/394765
@@ -100,24 +105,28 @@ metadata:
         10:
             url_poster: https://theposterdb.com/api/assets/394775
 
-  "From":
+  "From (2022)":
     year: 2022
     title: "From"
-    alt_title: "From (2022)"
-    orig_title: "From"
-    sort_title: "From"
     url_poster: https://theposterdb.com/api/assets/423494/
+    match:
+      mapping_id: 401003
+    # IDs: imdb://tt9813792, tmdb://124364, tvdb://401003
+    # tpdb: https://theposterdb.com/posters/1451968
     seasons:
         1:
             url_poster: https://theposterdb.com/api/assets/423495
         2:
             url_poster: https://theposterdb.com/api/assets/423496
 
-  "Game of Thrones":
+  "Game of Thrones (2011)":
     year: 2011
     title: "Game of Thrones"
-    sort_title: "Game of Thrones"
     url_poster: https://theposterdb.com/api/assets/393101
+    match:
+      mapping_id: 121361
+    # IDs: imdb://tt0944947, tmdb://1399, tvdb://121361
+    # tpdb: https://theposterdb.com/posters/678
     seasons:
         0:
             url_poster: https://theposterdb.com/api/assets/393102
@@ -138,27 +147,42 @@ metadata:
         8:
             url_poster: https://theposterdb.com/api/assets/393110
 
+  "The Gifted (2017)":
+    year: 2017
+    title: "The Gifted"
+    url_poster: https://theposterdb.com/api/assets/440294/
+    match:
+      mapping_id: 328552
+    # IDs: imdb://tt4396630, tmdb://69629, tvdb://328552
+    # tpdb: https://theposterdb.com/posters/135
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/440295/
+        2:
+            url_poster: https://theposterdb.com/api/assets/440296/
+
   "Hawkeye (2021)":
     year: 2021
     title: "Hawkeye"
     url_poster: https://theposterdb.com/api/assets/449576/
     match:
       mapping_id: 367146
-  # IDs: imdb://tt10160804, tmdb://88329, tvdb://367146
-  # tpdb: https://theposterdb.com/posters/1499
-  seasons:
-      0:
-          url_poster: https://theposterdb.com/api/assets/449577/
-      1:
-          url_poster: https://theposterdb.com/api/assets/449578/
+    # IDs: imdb://tt10160804, tmdb://88329, tvdb://367146
+    # tpdb: https://theposterdb.com/posters/1499
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/449577/
+        1:
+            url_poster: https://theposterdb.com/api/assets/449578/
 
-  "Jurassic World: Camp Cretaceous":
+  "Jurassic World: Camp Cretaceous (2020)":
     year: 2020
     title: "Jurassic World: Camp Cretaceous"
-    alt_title: "Jurassic World: Camp Cretaceous (2020)"
-    orig_title: "Jurassic World: Camp Cretaceous"
-    sort_title: "Jurassic World: Camp Cretaceous"
     url_poster: https://theposterdb.com/api/assets/422768/
+    match:
+      mapping_id: 365066
+    # IDs: imdb://tt10436228, tmdb://93741, tvdb://365066
+    # tpdb: https://theposterdb.com/posters/134847
     seasons:
         1:
             url_poster: https://theposterdb.com/api/assets/422769
