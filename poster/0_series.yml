@@ -1,38 +1,4 @@
 metadata:
-  "Teen Titans":
-    year: 2003
-    title: "Teen Titans"
-    alt_title: "Teen Titans (2003)"
-    orig_title: "Teen Titans"
-    sort_title: "Teen Titans"
-    url_poster: https://theposterdb.com/api/assets/421350/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/421351/
-        1:
-            url_poster: https://theposterdb.com/api/assets/421352/
-        2:
-            url_poster: https://theposterdb.com/api/assets/421353/
-        3:
-            url_poster: https://theposterdb.com/api/assets/421354/
-        4:
-            url_poster: https://theposterdb.com/api/assets/421355/
-        5:
-            url_poster: https://theposterdb.com/api/assets/421356/
-
-  "Pantheon":
-    year: 2022
-    title: "Pantheon"
-    alt_title: "Pantheon (2022)"
-    orig_title: "Pantheon"
-    sort_title: "Pantheon"
-    url_poster: https://theposterdb.com/api/assets/421067/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/421068/
-        2:
-            url_poster: https://theposterdb.com/api/assets/421069/
-
   "Nancy Drew":
     year: 2019
     title: "Nancy Drew"
