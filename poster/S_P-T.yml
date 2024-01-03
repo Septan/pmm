@@ -2,16 +2,16 @@ metadata:
   "Reacher (2022)":
     year: 2022
     title: "Reacher"
-    url_poster: https://theposterdb.com/api/assets/443523/download?performed_by=HelixPhoenix
+    url_poster: https://theposterdb.com/api/assets/443523/
     match:
       mapping_id: 366924
     # IDs: imdb://tt9288030, tmdb://108978, tvdb://366924
     # tpdb: https://theposterdb.com/posters/738342
     seasons:
         1:
-            url_poster: https://theposterdb.com/api/assets/443524/download?performed_by=HelixPhoenix
+            url_poster: https://theposterdb.com/api/assets/443524/
         2:
-            url_poster: https://theposterdb.com/api/assets/443525/download?performed_by=HelixPhoenix
+            url_poster: https://theposterdb.com/api/assets/443525/
 
   "Rick and Morty (2013)":
     year: 2013
@@ -216,6 +216,50 @@ metadata:
             url_poster: https://theposterdb.com/api/assets/389861
         26:
             url_poster: https://theposterdb.com/api/assets/389862
+ 
+  "Supergirl (2015)":
+    year: 2015
+    title: "Supergirl"
+    url_poster: https://theposterdb.com/api/assets/441305/
+    match:
+      mapping_id: 295759
+    # IDs: imdb://tt4016454, tmdb://62688, tvdb://295759
+    # tpdb: https://theposterdb.com/posters/5399
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/441306/
+        1:
+            url_poster: https://theposterdb.com/api/assets/441307/
+        2:
+            url_poster: https://theposterdb.com/api/assets/441308/
+        3:
+            url_poster: https://theposterdb.com/api/assets/441309/
+        4:
+            url_poster: https://theposterdb.com/api/assets/441310/
+        5:
+            url_poster: https://theposterdb.com/api/assets/441311/
+        6:
+            url_poster: https://theposterdb.com/api/assets/441312/
+  
+  "Superman & Lois (2021)":
+    year: 2021
+    title: "Superman & Lois"
+    url_poster: https://theposterdb.com/api/assets/441100/
+    match:
+      mapping_id: 375655
+    # IDs: imdb://tt11192306, tmdb://95057, tvdb://375655
+    # tpdb: https://theposterdb.com/posters/186363
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/441101/
+        1:
+            url_poster: https://theposterdb.com/api/assets/441102/
+        2:
+            url_poster: https://theposterdb.com/api/assets/441103/
+        3:
+            url_poster: https://theposterdb.com/api/assets/441104/
+        4:
+            url_poster: https://theposterdb.com/api/assets/441105/
   
   "Teen Titans (2003)":
     year: 2003

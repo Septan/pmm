@@ -450,30 +450,30 @@ metadata:
   "Arrow (2012)":
     year: 2012
     title: "Arrow"
-    url_poster: https://theposterdb.com/api/assets/426945/
+    url_poster: https://theposterdb.com/api/assets/441116/
     match:
       mapping_id: 257655
     # IDs: imdb://tt2193021, tmdb://1412, tvdb://257655
     # tpdb: https://theposterdb.com/posters/3608
     seasons:
         0:
-            url_poster: https://theposterdb.com/api/assets/426946/
+            url_poster: https://theposterdb.com/api/assets/441117/
         1:
-            url_poster: https://theposterdb.com/api/assets/426947/
+            url_poster: https://theposterdb.com/api/assets/441118/
         2:
-            url_poster: https://theposterdb.com/api/assets/426948/
+            url_poster: https://theposterdb.com/api/assets/441119/
         3:
-            url_poster: https://theposterdb.com/api/assets/426949/
+            url_poster: https://theposterdb.com/api/assets/441120/
         4:
-            url_poster: https://theposterdb.com/api/assets/426950/
+            url_poster: https://theposterdb.com/api/assets/441121/
         5:
-            url_poster: https://theposterdb.com/api/assets/426951/
+            url_poster: https://theposterdb.com/api/assets/441122/
         6:
-            url_poster: https://theposterdb.com/api/assets/426952/
+            url_poster: https://theposterdb.com/api/assets/441123/
         7:
-            url_poster: https://theposterdb.com/api/assets/426953/
+            url_poster: https://theposterdb.com/api/assets/441124/
         8:
-            url_poster: https://theposterdb.com/api/assets/426954/
+            url_poster: https://theposterdb.com/api/assets/441125/
 
   "Ash vs Evil Dead (2015)":
     year: 2015
