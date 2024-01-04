@@ -36,11 +36,11 @@ collections:
                     }
 
   "Top Rated of the 1940s":
-    summary: "Top rated movies of the 1940s"
-    url_poster: https://images2.imgbox.com/5e/c9/4SdoK0eP_o.png
+    summary: "Top rated TV shows of the 1940s"
+    url_poster: config/assets/3_decades_top/decades_top_1940s.png
     template: {
                     name: decade_top,
-                    num: "Y",
+                    num: "Z",
                     type: "tv_series,tv_mini_series,tv_special",
                     release.after: 1940-01-01,
                     release.before: 1949-12-31,
@@ -49,11 +49,11 @@ collections:
                     }
 
   "Top Rated of the 1950s":
-    summary: "Top rated movies of the 1950s"
-    url_poster: https://images2.imgbox.com/4b/ea/VGFomFYE_o.png
+    summary: "Top rated TV shows of the 1950s"
+    url_poster: config/assets/3_decades_top/decades_top_1950s.png
     template: {
                     name: decade_top,
-                    num: "X",
+                    num: "Y",
                     type: "tv_series,tv_mini_series,tv_special",
                     release.after: 1950-01-01,
                     release.before: 1959-12-31,
@@ -62,11 +62,11 @@ collections:
                     }
 
   "Top Rated of the 1960s":
-    summary: "Top rated movies of the 1960s"
-    url_poster: https://images2.imgbox.com/86/17/DiJAAecV_o.png
+    summary: "Top rated TV shows of the 1960s"
+    url_poster: config/assets/3_decades_top/decades_top_1960s.png
     template: {
                     name: decade_top,
-                    num: "W",
+                    num: "X",
                     type: "tv_series,tv_mini_series,tv_special",
                     release.after: 1960-01-01,
                     release.before: 1969-12-31,
@@ -75,11 +75,11 @@ collections:
                     }
 
   "Top Rated of the 1970s":
-    summary: "Top rated movies of the 1970s"
-    url_poster: https://images2.imgbox.com/79/ed/aHJ5afFU_o.png
+    summary: "Top rated TV shows of the 1970s"
+    url_poster: config/assets/3_decades_top/decades_top_1970s.png
     template: {
                     name: decade_top,
-                    num: "V",
+                    num: "W",
                     type: "tv_series,tv_mini_series,tv_special",
                     release.after: 1970-01-01,
                     release.before: 1979-12-31,
@@ -88,11 +88,11 @@ collections:
                     }
 
   "Top Rated of the 1980s":
-    summary: "Top rated movies of the 1980s"
-    url_poster: https://images2.imgbox.com/75/64/42CyHVA7_o.png
+    summary: "Top rated TV shows of the 1980s"
+    url_poster: config/assets/3_decades_top/decades_top_1980s.png
     template: {
                     name: decade_top,
-                    num: "U",
+                    num: "V",
                     type: "tv_series,tv_mini_series,tv_special",
                     release.after: 1980-01-01,
                     release.before: 1989-12-31,
@@ -101,11 +101,11 @@ collections:
                     }
 
   "Top Rated of the 1990s":
-    summary: "Top rated movies of the 1990s"
-    url_poster: https://images2.imgbox.com/87/14/PhAweINN_o.png
+    summary: "Top rated TV shows of the 1990s"
+    url_poster: config/assets/3_decades_top/decades_top_1990s.png
     template: {
                     name: decade_top,
-                    num: "T",
+                    num: "U",
                     type: "tv_series,tv_mini_series,tv_special",
                     release.after: 1990-01-01,
                     release.before: 1999-12-31,
@@ -114,11 +114,11 @@ collections:
                     }
 
   "Top Rated of the 2000s":
-    summary: "Top rated movies of the 2000s"
-    url_poster: https://images2.imgbox.com/c2/b7/KwIzYeF4_o.png
+    summary: "Top rated TV shows of the 2000s"
+    url_poster: config/assets/3_decades_top/decades_top_2000s.png
     template: {
                     name: decade_top,
-                    num: "S",
+                    num: "T",
                     type: "tv_series,tv_mini_series,tv_special",
                     release.after: 2000-01-01,
                     release.before: 2009-12-31,
@@ -127,11 +127,11 @@ collections:
                     }
 
   "Top Rated of the 2010s":
-    summary: "Top rated movies of the 2010s"
-    url_poster: https://images2.imgbox.com/a7/92/ngi1xucn_o.png
+    summary: "Top rated TV shows of the 2010s"
+    url_poster: config/assets/3_decades_top/decades_top_2010s.png
     template: {
                     name: decade_top,
-                    num: "R",
+                    num: "S",
                     type: "tv_series,tv_mini_series,tv_special",
                     release.after: 2010-01-01,
                     release.before: 2019-12-31,
@@ -140,11 +140,11 @@ collections:
                     }
 
   "Top Rated of the 2020s":
-    summary: "Top rated movies of the 2020s"
-    url_poster: https://images2.imgbox.com/92/06/ksMEWjYl_o.png
+    summary: "Top rated TV shows of the 2020s"
+    url_poster: config/assets/3_decades_top/decades_top_2020s.png
     template: {
                     name: decade_top,
-                    num: "P",
+                    num: "R",
                     type: "tv_series,tv_mini_series,tv_special",
                     release.after: 2020-01-01,
                     release.before: 2029-12-31,

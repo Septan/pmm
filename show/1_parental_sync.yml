@@ -26,7 +26,7 @@ templates:
 collections:
   "Parental: All":
     summary: "TV shows suitable for children"
-    url_poster: https://images2.imgbox.com/b6/4c/cr1aG040_o.png
+    url_poster: config/assets/1_parental/parental-all.png
     template: {
                     name: mdblist,
                     num: "A",

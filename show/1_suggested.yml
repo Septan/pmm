@@ -84,15 +84,15 @@ templates:
       - mdblist_extra_5
 
 collections:
-  "Random TV Shows":
-    summary: Random selection of TV shows
-    url_poster: https://images2.imgbox.com/7c/7f/Zx202214_o.png
+  "Random TV shows":
+    summary: "Random selection of TV shows"
+    url_poster: config/assets/1_suggested/suggested_random.png
     visible_library: true
     schedule: daily
     template: {
                     name: plex,
-                    num: 0,
-                    }
+                    num: 0
+                }
     smart_filter:
       all:
         year.gte: 1940
@@ -107,7 +107,7 @@ collections:
     visible_library: true
     template: {
                     name: plex,
-                    num: 1,
+                    num: 1
                 }
     smart_filter:
       any:
@@ -121,7 +121,7 @@ collections:
     visible_library: true
     template: {
                     name: plex,
-                    num: 1,
+                    num: 1
                 }
     smart_filter:
       any:
@@ -135,15 +135,17 @@ collections:
     url_poster: config/assets/1_suggested/suggested_suggested.png
     template: {
                     name: trakt,
-                    num: 2,
+                    num: 2
+#                    trakt_list_extra_01: "https://trakt.tv/users/########/lists/tv-recommendations-couchmoney-tv",
+#                    trakt_list_extra_02: "https://trakt.tv/users/########/lists/tv-based-on-recently-watched-couchmoney-tv"
                 }
     trakt_userlist:
       - userlist: recommendations
         user: me
 
-  "Trending TV Shows":
-    summary: TV shows trending across the internet
-    url_poster: https://images2.imgbox.com/ee/c6/sGdBToVv_o.png
+  "Trending TV shows":
+    summary: "TV shows trending across the internet"
+    url_poster: config/assets/1_suggested/suggested_trending.png
     schedule: daily
     template: {
                     name: mdblist,
@@ -151,12 +153,12 @@ collections:
                     mdblist_user: "archivist",
                     mdblist_list: "tv-trending",
                     mdblist_sort: "rank.desc"
-                    }
+                }
     limit: 50
 
-  "Popular TV Shows":
-    summary: Popular TV shows across the internet
-    url_poster: https://images2.imgbox.com/55/ba/Z1GU6NcR_o.png
+  "Popular TV shows":
+    summary: "Popular TV shows across the internet"
+    url_poster: config/assets/1_suggested/suggested_popular.png
     visible_library: true
     schedule: daily
     template: {
@@ -165,12 +167,12 @@ collections:
                     mdblist_user: "archivist",
                     mdblist_list: "tv-popular",
                     mdblist_sort: "imdbpopular.desc"
-                    }
+                }
     limit: 100
 
-  "Top Rated TV Shows":
-    summary: Top rated TV shows across the internet
-    url_poster: https://images2.imgbox.com/0c/63/FiXfE8HU_o.png
+  "Top Rated TV shows":
+    summary: "Top rated TV shows across the internet"
+    url_poster: config/assets/1_suggested/suggested_top-rated.png
     schedule: daily
     template: {
                     name: mdblist,
@@ -182,13 +184,14 @@ collections:
     limit: 500
 
   "Most Watched Daily":
-    summary: Daily most watched TV shows across the internet
-    url_poster: https://images2.imgbox.com/cc/22/dzvWyJsq_o.png
+    summary: "TV shows trending across the internet"
+    url_poster: config/assets/1_suggested/suggested_most-watched-daily.png
+    collection_order: custom
     schedule: daily
     template: {
                     name: trakt,
-                    num: 4,
-                    }
+                    num: 4
+                }
     trakt_chart:
       chart: watched
       time_period: daily
@@ -197,13 +200,14 @@ collections:
       limit: 50
 
   "Most Watched Weekly":
-    summary: Weekly most watched TV shows across the internet
-    url_poster: https://images2.imgbox.com/07/a7/PWLNejJY_o.png
+    summary: "TV shows trending across the internet"
+    url_poster: config/assets/1_suggested/suggested_most-watched-weekly.png
+    collection_order: custom
     schedule: daily
     template: {
                     name: trakt,
-                    num: 5,
-                    }
+                    num: 5
+                }
     trakt_chart:
       chart: watched
       time_period: weekly
@@ -212,13 +216,14 @@ collections:
       limit: 50
 
   "Most Watched Monthly":
-    summary: Monthly most watched TV shows across the internet
-    url_poster: https://images2.imgbox.com/c2/61/RlIeTpf8_o.png
+    summary: "TV shows trending across the internet"
+    url_poster: config/assets/1_suggested/suggested_most-watched-monthly.png
+    collection_order: custom
     schedule: weekly(sunday)
     template: {
                     name: trakt,
-                    num: 6,
-                    }
+                    num: 6
+                }
     trakt_chart:
       chart: watched
       time_period: monthly
@@ -227,13 +232,14 @@ collections:
       limit: 75
 
   "Most Watched Yearly":
-    summary: Yearly most watched TV shows across the internet
-    url_poster: https://images2.imgbox.com/a5/aa/CVhylnXG_o.png
+    summary: "TV shows trending across the internet"
+    url_poster: config/assets/1_suggested/suggested_most-watched-yearly.png
+    collection_order: custom
     schedule: weekly(sunday)
     template: {
                     name: trakt,
-                    num: 7,
-                    }
+                    num: 7
+                }
     trakt_chart:
       chart: watched
       time_period: yearly

@@ -1,7 +1,6 @@
 ## 2_year_top.yml
 
 templates:
-  year:
   year_top:
     cache_builders: 6
     collection_mode: hide
@@ -38,7 +37,7 @@ collections:
 
   "Top Rated of 2023":
     summary: "Top rated TV shows in 2023"
-    url_poster: https://images2.imgbox.com/91/53/LgP0wFIS_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2023.png
     template: {
                     name: year_top,
                     num: "M",
@@ -51,7 +50,7 @@ collections:
 
   "Top Rated of 2022":
     summary: "Top rated TV shows in 2022"
-    url_poster: https://images2.imgbox.com/c2/a8/CL6uWsYe_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2022.png
     template: {
                     name: year_top,
                     num: "N",
@@ -64,7 +63,7 @@ collections:
 
   "Top Rated of 2021":
     summary: "Top rated TV shows in 2021"
-    url_poster: https://images2.imgbox.com/21/05/eNBE7zoq_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2021.png
     template: {
                     name: year_top,
                     num: "O",
@@ -77,7 +76,7 @@ collections:
 
   "Top Rated of 2020":
     summary: "Top rated TV shows in 2020"
-    url_poster: https://images2.imgbox.com/51/25/cjsfwZas_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2020.png
     template: {
                     name: year_top,
                     num: "P",
@@ -90,7 +89,7 @@ collections:
 
   "Top Rated of 2019":
     summary: "Top rated TV shows in 2019"
-    url_poster: https://images2.imgbox.com/ae/6b/5frEL7AM_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2019.png
     template: {
                     name: year_top,
                     num: "Q",
@@ -103,7 +102,7 @@ collections:
 
   "Top Rated of 2018":
     summary: "Top rated TV shows in 2018"
-    url_poster: https://images2.imgbox.com/9d/7a/ykCdsDzB_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2018.png
     template: {
                     name: year_top,
                     num: "R",
@@ -116,7 +115,7 @@ collections:
 
   "Top Rated of 2017":
     summary: "Top rated TV shows in 2017"
-    url_poster: https://images2.imgbox.com/6d/46/y150IN1x_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2017.png
     template: {
                     name: year_top,
                     num: "S",
@@ -129,7 +128,7 @@ collections:
 
   "Top Rated of 2016":
     summary: "Top rated TV shows in 2016"
-    url_poster: https://images2.imgbox.com/c6/4f/pDsdeILe_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2016.png
     template: {
                     name: year_top,
                     num: "T",
@@ -142,7 +141,7 @@ collections:
 
   "Top Rated of 2015":
     summary: "Top rated TV shows in 2015"
-    url_poster: https://images2.imgbox.com/02/cb/4cbVD6IO_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2015.png
     template: {
                     name: year_top,
                     num: "U",
@@ -155,7 +154,7 @@ collections:
 
   "Top Rated of 2014":
     summary: "Top rated TV shows in 2014"
-    url_poster: https://images2.imgbox.com/b4/bf/WBpDm5AB_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2014.png
     template: {
                     name: year_top,
                     num: "V",
@@ -168,7 +167,7 @@ collections:
 
   "Top Rated of 2013":
     summary: "Top rated TV shows in 2013"
-    url_poster: https://images2.imgbox.com/2d/81/t55G3X82_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2013.png
     template: {
                     name: year_top,
                     num: "W",
@@ -181,7 +180,7 @@ collections:
 
   "Top Rated of 2012":
     summary: "Top rated TV shows in 2012"
-    url_poster: https://images2.imgbox.com/d3/3b/HWa6Q3Vk_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2012.png
     template: {
                     name: year_top,
                     num: "X",
@@ -194,7 +193,7 @@ collections:
 
   "Top Rated of 2011":
     summary: "Top rated TV shows in 2011"
-    url_poster: https://images2.imgbox.com/2e/2f/ciQZQnLo_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2011.png
     template: {
                     name: year_top,
                     num: "Y",
@@ -207,7 +206,7 @@ collections:
 
   "Top Rated of 2010":
     summary: "Top rated TV shows in 2010"
-    url_poster: https://images2.imgbox.com/03/77/oELxJqVY_o.png
+    url_poster: config/assets/2_year_top/year_top-rated_2010.png
     template: {
                     name: year_top,
                     num: "Z",
