@@ -36,7 +36,7 @@ templates:
 collections:
   "Oscar Nominees":
     summary: "A collection of Oscar Nominees"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_nominees_oscars.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/oscar_nominees.png
     template: {
                     name: award_nominee,
                     num: "A",
@@ -47,7 +47,7 @@ collections:
 
   "Oscar Winners":
     summary: "A collection of Oscar Winners"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_oscars.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/oscar_winners.png
     template: {
                     name: award_winner,
                     num: "B",
@@ -58,7 +58,7 @@ collections:
 
   "Golden Globes Nominees":
     summary: "A collection of Golden Globes Nominees"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_nominees_golden-globespng.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/golden_globes_nominees.png
     template: {
                     name: award_nominee,
                     num: "C",
@@ -69,7 +69,7 @@ collections:
 
   "Golden Globes Winners":
     summary: "A collection of Golden Globes Winners"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_golden_globes.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/golden_globes_winners.png
     template: {
                     name: award_winner,
                     num: "D",
@@ -80,7 +80,7 @@ collections:
 
   "BAFTA Winners":
     summary: "A collection of BAFTA Winners"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_bafta.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/bafta_winners.png
     template: {
                     name: award_winner,
                     num: "E",
@@ -91,7 +91,7 @@ collections:
 
   "Berlinale Winners":
     summary: "A collection of Berlinale Winners"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_berlinale.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/berlinale_winners.png
     template: {
                     name: award_winner,
                     num: "F",
@@ -102,7 +102,7 @@ collections:
 
   "Cannes Film Festival Winners":
     summary: "A collection of Cannes Film Festival Winners"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_cannes.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/cannes_film_festival_winners.png
     template: {
                     name: award_winner,
                     num: "G",
@@ -113,7 +113,7 @@ collections:
 
   "European Film Award Winners":
     summary: "A collection of European Film Award Winners"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_european-film.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/european_film_award_winners.png
     template: {
                     name: award_winner,
                     num: "H",
@@ -124,7 +124,7 @@ collections:
 
   "Sundance Winners":
     summary: "A collection of Sundance Winners"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_sundance.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/sundance_winners.png
     template: {
                     name: award_winner,
                     num: "I",
@@ -135,7 +135,7 @@ collections:
 
   "Venice Film Festival Winners":
     summary: "A collection of Venice Film Festival Winners"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_venice-film.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/venice_film_festival_winners.png
     template: {
                     name: award_winner,
                     num: "J",
@@ -146,7 +146,7 @@ collections:
 
   "Critic's Choice Winners":
     summary: "A collection of Critic's Choice Winners"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_critics-choice.png
+    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/
     template: {
                     name: award_winner,
                     num: "K",
@@ -157,7 +157,7 @@ collections:
 
   "Spirit Awards Winners":
     summary: "A collection of Spirit Awards Winners"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_spirit-awards.png
+    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/
     template: {
                     name: award_winner,
                     num: "L",
@@ -168,7 +168,7 @@ collections:
 
   "Razzie Winners":
     summary: "A collection of Razzie Winners"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_razzie.png
+    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/
     template: {
                     name: award_winner,
                     num: "M",

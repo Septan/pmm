@@ -23,7 +23,7 @@ templates:
 collections:
   "Popular in Action":
     summary: "Popular movies in Action"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_action.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-action.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -34,7 +34,7 @@ collections:
 
   "Popular in Adventure":
     summary: "Popular movies in Adventure"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_adventure.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-adventure.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -45,7 +45,7 @@ collections:
 
   "Popular in Animation":
     summary: "Popular movies in Animation"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_animation.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-animation.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -56,7 +56,7 @@ collections:
 
   "Popular in Biography":
     summary: "Popular movies in Biography"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_biography.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-biography.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -67,7 +67,7 @@ collections:
 
   "Popular in Comedy":
     summary: "Popular movies in Comedy"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_comedy.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-comedy.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -78,7 +78,7 @@ collections:
 
   "Popular in Crime":
     summary: "Popular movies in Crime"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_crime.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-crime.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -89,7 +89,7 @@ collections:
 
   "Popular in Drama":
     summary: "Popular movies in Drama"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_drama.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-drama.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -100,7 +100,7 @@ collections:
 
   "Popular in Family":
     summary: "Popular movies in Family"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_family.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-family.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -111,7 +111,7 @@ collections:
 
   "Popular in Fantasy":
     summary: "Popular movies in Fantasy"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_fantasy.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-fantasy.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -122,7 +122,7 @@ collections:
 
   "Popular in History":
     summary: "Popular movies in History"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_history.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-history.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -133,7 +133,7 @@ collections:
 
   "Popular in Horror":
     summary: "Popular movies in Horror"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_horror.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-horror.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -144,7 +144,7 @@ collections:
 
   "Popular in Music":
     summary: "Popular movies in Music"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_music.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-music.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -155,7 +155,7 @@ collections:
 
   "Popular in Musicals":
     summary: "Popular movies in Musicals"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_musicals.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-musicals.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -166,7 +166,7 @@ collections:
 
   "Popular in Mystery":
     summary: "Popular movies in Mystery"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_mystery.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-mystery.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -177,7 +177,7 @@ collections:
 
   "Popular in Romance":
     summary: "Popular movies in Romance"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_romance.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-romance.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -188,7 +188,7 @@ collections:
 
   "Popular in Sci-Fi":
     summary: "Popular movies in Sci-Fi"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_sci-fi.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-sci-fi.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -199,7 +199,7 @@ collections:
 
   "Popular in Shorts":
     summary: "Popular movies in Shorts"
-    url_poster: https://images2.imgbox.com/e3/34/8hV5Ezf6_o.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-shorts.png
     template: {
                     name: popular,
                     genre: "short",
@@ -209,7 +209,7 @@ collections:
 
   "Popular in Thriller":
     summary: "Popular movies in Thriller"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_thriller.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-thriller.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -220,7 +220,7 @@ collections:
 
   "Popular in War":
     summary: "Popular movies in War"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_war.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-war.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",
@@ -231,7 +231,7 @@ collections:
 
   "Popular in Western":
     summary: "Popular movies in Western"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/5_genre_popular/genre_popular_western.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-western.png
     template: {
                     name: popular,
                     type: "movie,tv_movie",

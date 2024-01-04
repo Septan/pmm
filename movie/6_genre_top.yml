@@ -24,7 +24,7 @@ templates:
 collections:
   "Top Rated in Action":
     summary: "Top rated movies in Action"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_action.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-action.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -36,7 +36,7 @@ collections:
 
   "Top Rated in Adventure":
     summary: "Top rated movies in Adventure"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_adventure.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-adventure.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -48,7 +48,7 @@ collections:
 
   "Top Rated in Animation":
     summary: "Top rated movies in Animation"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_animation.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-animation.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -60,7 +60,7 @@ collections:
 
   "Top Rated in Biography":
     summary: "Top rated movies in Biography"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_biography.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-biography.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -72,7 +72,7 @@ collections:
 
   "Top Rated in Comedy":
     summary: "Top rated movies in Comedy"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_comedy.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-comedy.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -84,7 +84,7 @@ collections:
 
   "Top Rated in Crime":
     summary: "Top rated movies in Crime"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_crime.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-crime.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -96,7 +96,7 @@ collections:
 
   "Top Rated in Drama":
     summary: "Top rated movies in Drama"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_drama.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-drama.png
     template: {
                     name: top,
                     genre: "drama",
@@ -108,7 +108,7 @@ collections:
 
   "Top Rated in Family":
     summary: "Top rated movies in Family"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_family.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-family.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -120,7 +120,7 @@ collections:
 
   "Top Rated in Fantasy":
     summary: "Top rated movies in Fantasy"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_fantasy.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-fantasy.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -132,7 +132,7 @@ collections:
 
   "Top Rated in History":
     summary: "Top rated movies in History"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_history.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-history.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -144,7 +144,7 @@ collections:
 
   "Top Rated in Horror":
     summary: "Top rated movies in Horror"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_horror.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-horror.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -156,7 +156,7 @@ collections:
 
   "Top Rated in Music":
     summary: "Top rated movies in Music"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_music.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-music.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -168,7 +168,7 @@ collections:
 
   "Top Rated in Musicals":
     summary: "Top rated movies in Musicals"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_musicals.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-musicals.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -180,7 +180,7 @@ collections:
 
   "Top Rated in Mystery":
     summary: "Top rated movies in Mystery"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_mystery.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-mystery.png
 
     template: {
                     name: top,
@@ -193,7 +193,7 @@ collections:
 
   "Top Rated in Romance":
     summary: "Top rated movies in Romance"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_romance.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-romance.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -205,7 +205,7 @@ collections:
 
   "Top Rated in Sci-Fi":
     summary: "Top rated movies in Sci-Fi"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_sci-fi.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-sci-fi.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -217,7 +217,7 @@ collections:
 
   "Top Rated in Shorts":
     summary: "Top rated movies in Shorts"
-    url_poster: https://images2.imgbox.com/2b/23/6YGTL8Y4_o.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-shorts.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -230,7 +230,7 @@ collections:
                     
   "Top Rated in Thriller":
     summary: "Top rated movies in Thriller"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_thriller.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-thriller.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -242,7 +242,7 @@ collections:
 
   "Top Rated in War":
     summary: "Top rated movies in War"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_war.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-war.png
     template: {
                     name: top,
                     type: "movie,tv_movie",
@@ -254,7 +254,7 @@ collections:
 
   "Top Rated in Western":
     summary: "Top rated movies in Western"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/6_genre_top/genre_top-rated_western.png
+    url_poster:https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-western.png
     template: {
                     name: top,
                     type: "movie,tv_movie",

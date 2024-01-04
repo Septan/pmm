@@ -14,7 +14,7 @@ templates:
 collections:
   "Documentaries: All":
     summary: "Documentaries"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_documentary/documentary_all.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesAll.png
     template: {
                     name: plex,
                     num: "F"
@@ -26,7 +26,7 @@ collections:
 
   "Documentaries: Random":
     summary: "Random documentaries"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_documentary/documentary_random.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesRandom.png
     template: {
                     name: plex,
                     num: "G"
@@ -39,7 +39,7 @@ collections:
 
   "Documentaries: Recently Released":
     summary: "Recently released documentaries"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_documentary/documentary_recently-released.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesRecentlyReleased.png
     template: {
                     name: plex,
                     num: "H"
@@ -52,7 +52,7 @@ collections:
 
   "Documentaries: Recently Added":
     summary: "Recently added documentaries"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_documentary/documentary_recently-added.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesRecentlyAdded.png
     visible_library: true
     template: {
                     name: plex,
@@ -66,7 +66,7 @@ collections:
 
   "Documentaries: Top Rated":
     summary: "Top rated documentaries"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_documentary/documentary_top-rated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesTopRated.png
     template: {
                     name: plex,
                     num: "J"
