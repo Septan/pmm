@@ -12,55 +12,10 @@ templates:
     delete_not_scheduled: false
     cache_builders: 4
 
-  plex_added:
-    sort_title: "+1_<<num>>_<<collection_name>>"
-    sync_mode: sync
-    collection_mode: hide
-    label.sync: Parental
-    item_label.sync: Parental
-    visible_home: false
-    visible_shared: false
-    visible_library: false
-    delete_not_scheduled: false
-    cache_builders: 4
-
-  mdblist:
-    optional:
-      - mdblist_extra_1
-      - mdblist_extra_2
-      - mdblist_extra_3
-      - mdblist_extra_4
-      - mdblist_extra_5
-    sort_title: "+1_<<num>>_<<collection_name>>"
-    sync_mode: sync
-    collection_mode: hide
-    label.sync: Parental
-    # item_label.sync: Parental # Enable on initial run
-    visible_home: false
-    visible_shared: false
-    visible_library: false
-    delete_not_scheduled: false
-    collection_order: alpha
-    cache_builders: 6
-    mdblist_list:
-      url: https://mdblist.com/lists/<<mdblist_user>>/<<mdblist_list>>/
-      sort_by: title.asc
-
 collections:
-  "Parental: All":
-    summary: "TV shows suitable for children"
-    url_poster: https://images2.imgbox.com/b6/4c/cr1aG040_o.png
-    template: {
-                    name: mdblist,
-                    num: "A",
-                    mdblist_user: "archivist",
-                    mdblist_list: "collection-parental"
-                    }
-
   "Parental: Random":
     summary: "Random TV shows suitable for children"
     url_poster: https://images2.imgbox.com/f6/b2/qAl6lj8d_o.png
-    schedule: daily
     template: {
                     name: plex,
                     num: "B"
