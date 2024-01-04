@@ -85,24 +85,25 @@ templates:
 
 collections:
   "Random Movies":
-    summary: Random selection of movies
-    url_poster: https://images2.imgbox.com/7c/7f/Zx202214_o.png
+    summary: "Random selection of movies"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_suggested/suggested_random.png
     visible_library: true
     schedule: daily
     template: {
                     name: plex,
                     num: 0
-                    }
+                }
     smart_filter:
       all:
-        critc_rating.gte: 4
+        critic_rating.gte: 4
       sort_by: random
       limit: 250
-
+      
   "Recently Added Movies":
     summary: "Recently added movies"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_suggested/suggested_recently-added.png
     visible_home: true
-    visiable_shared: true
+    visible_shared: true
     visible_library: true
     template: {
                     name: plex,
@@ -110,12 +111,13 @@ collections:
                 }
     smart_filter:
       any:
-        audio_language: English, english, Spanish, spanish
+        audio_language: English, english
       sort_by: added.desc
       limit: 200
 
   "Recently Released Movies":
     summary: "Recently added movies"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_suggested/suggested_recently-released.png
     visible_library: true
     template: {
                     name: plex,
@@ -123,7 +125,7 @@ collections:
                 }
     smart_filter:
       any:
-        audio_language: English, english, Spanish, spanish
+        audio_language: English, english
       sort_by: release.desc
       limit: 200
       
@@ -134,6 +136,8 @@ collections:
     template: {
                     name: trakt,
                     num: 2
+#                    trakt_list_extra_01: "https://trakt.tv/users/########/lists/movie-recommendations-couchmoney-tv",
+#                    trakt_list_extra_02: "https://trakt.tv/users/########/lists/movies-based-on-recently-watched-couchmoney-tv"
                 }
     trakt_userlist:
       - userlist: recommendations
@@ -141,7 +145,7 @@ collections:
         
   "Trending Movies":
     summary: "Movies trending across the internet"
-    url_poster: https://images2.imgbox.com/ee/c6/sGdBToVv_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_suggested/suggested_trending.png
     schedule: daily
     template: {
                     name: mdblist,
@@ -153,8 +157,8 @@ collections:
     limit: 100
 
   "Popular Movies":
-    summary: Popular movies across the internet
-    url_poster: https://images2.imgbox.com/55/ba/Z1GU6NcR_o.png
+    summary: "Popular movies across the internet"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_suggested/suggested_popular.png
     visible_library: true
     schedule: daily
     template: {
@@ -167,8 +171,8 @@ collections:
     limit: 250
 
   "Top Rated Movies":
-    summary: Top rated movies across the internet
-    url_poster: https://images2.imgbox.com/0c/63/FiXfE8HU_o.png
+    summary: "Top rated movies across the internet"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_suggested/suggested_top-rated.png
     schedule: daily
     template: {
                     name: mdblist,
@@ -180,65 +184,65 @@ collections:
     limit: 500
 
   "Most Watched Daily":
-    summary: Movies trending across the internet
-    url_poster: https://images2.imgbox.com/cc/22/dzvWyJsq_o.png
+    summary: "Movies trending across the internet"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_suggested/suggested_most-watched-daily.png
     collection_order: custom
     schedule: daily
     template: {
                     name: trakt,
                     num: 4
-                    }
+                }
     trakt_chart:
       chart: watched
       time_period: daily
-      languages: en, es
+      languages: en
       countries: us, gb, ie, ca, au, nz
       limit: 50
 
   "Most Watched Weekly":
-    summary: Movies trending across the internet
-    url_poster: https://images2.imgbox.com/07/a7/PWLNejJY_o.png
+    summary: "Movies trending across the internet"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_suggested/suggested_most-watched-weekly.png
     collection_order: custom
     schedule: daily
     template: {
                     name: trakt,
                     num: 5
-                    }
+                }
     trakt_chart:
       chart: watched
       time_period: weekly
-      languages: en, es
+      languages: en
       countries: us, gb, ie, ca, au, nz
       limit: 50
 
   "Most Watched Monthly":
-    summary: Movies trending across the internet
-    url_poster: https://images2.imgbox.com/c2/61/RlIeTpf8_o.png
+    summary: "Movies trending across the internet"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_suggested/suggested_most-watched-monthly.png
     collection_order: custom
     schedule: weekly(sunday)
     template: {
                     name: trakt,
                     num: 6
-                    }
+                }
     trakt_chart:
       chart: watched
       time_period: monthly
-      languages: en, es
+      languages: en
       countries: us, gb, ie, ca, au, nz
       limit: 75
 
   "Most Watched Yearly":
-    summary: Movies trending across the internet
-    url_poster: https://images2.imgbox.com/a5/aa/CVhylnXG_o.png
+    summary: "Movies trending across the internet"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_suggested/suggested_most-watched-yearly.png
     collection_order: custom
     schedule: weekly(sunday)
     template: {
                     name: trakt,
                     num: 7
-                    }
+                }
     trakt_chart:
       chart: watched
       time_period: yearly
-      languages: en, es
+      languages: en
       countries: us, gb, ie, ca, au, nz
       limit: 100

@@ -34,54 +34,53 @@ templates:
       type: <<type>>
 
 collections:
-  "Oscar Winners":
-    summary: "A collection of Oscar Winners"
-    url_poster: https://images2.imgbox.com/f4/58/WAEn1rcV_o.png
-    template: {
-                    name: award_winner,
-                    num: "A",
-                    type: "movie,tv_movie",
-                    event.winning: "oscar_picture,oscar_director",
-                    language: "en"
-                }
-
   "Oscar Nominees":
     summary: "A collection of Oscar Nominees"
-    url_poster: https://images2.imgbox.com/3f/5f/AXGYUbln_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_nominees_oscars.png
     template: {
                     name: award_nominee,
-                    num: "B",
+                    num: "A",
                     type: "movie,tv_movie",
                     event: "oscar_picture,oscar_director",
                     language: "en"
                 }
 
-  "Golden Globes Winners":
-    summary: "A collection of Golden Globes Winners"
-    url_poster: https://images2.imgbox.com/23/e3/TkWylF6A_o.png
+  "Oscar Winners":
+    summary: "A collection of Oscar Winners"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_oscars.png
     template: {
                     name: award_winner,
-                    num: "C",
+                    num: "B",
                     type: "movie,tv_movie",
-                    event.winning: "golden",
+                    event.winning: "oscar_picture,oscar_director",
                     language: "en"
                 }
 
   "Golden Globes Nominees":
     summary: "A collection of Golden Globes Nominees"
-    url_poster: https://images2.imgbox.com/13/74/nd8fYiUc_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_nominees_golden-globespng.png
     template: {
                     name: award_nominee,
-                    num: "D",
+                    num: "C",
                     type: "movie,tv_movie",
                     event: "golden",
                     language: "en"
                 }
 
+  "Golden Globes Winners":
+    summary: "A collection of Golden Globes Winners"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_golden_globes.png
+    template: {
+                    name: award_winner,
+                    num: "D",
+                    type: "movie,tv_movie",
+                    event.winning: "golden",
+                    language: "en"
+                }
+
   "BAFTA Winners":
     summary: "A collection of BAFTA Winners"
-    url_poster: https://images2.imgbox.com/79/ff/4MRsBHIK_o.png
-    schedule: weekly(monday)
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_bafta.png
     template: {
                     name: award_winner,
                     num: "E",
@@ -92,7 +91,7 @@ collections:
 
   "Berlinale Winners":
     summary: "A collection of Berlinale Winners"
-    url_poster: https://images2.imgbox.com/1a/65/gZ2HUyxW_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_berlinale.png
     template: {
                     name: award_winner,
                     num: "F",
@@ -103,7 +102,7 @@ collections:
 
   "Cannes Film Festival Winners":
     summary: "A collection of Cannes Film Festival Winners"
-    url_poster: https://images2.imgbox.com/88/64/NHp2QVtQ_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_cannes.png
     template: {
                     name: award_winner,
                     num: "G",
@@ -114,7 +113,7 @@ collections:
 
   "European Film Award Winners":
     summary: "A collection of European Film Award Winners"
-    url_poster: https://images2.imgbox.com/58/c0/XGH02NHu_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_european-film.png
     template: {
                     name: award_winner,
                     num: "H",
@@ -125,7 +124,7 @@ collections:
 
   "Sundance Winners":
     summary: "A collection of Sundance Winners"
-    url_poster: https://images2.imgbox.com/b9/56/lNw0w8z0_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_sundance.png
     template: {
                     name: award_winner,
                     num: "I",
@@ -136,7 +135,7 @@ collections:
 
   "Venice Film Festival Winners":
     summary: "A collection of Venice Film Festival Winners"
-    url_poster: https://images2.imgbox.com/90/b6/48X2s6yL_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_venice-film.png
     template: {
                     name: award_winner,
                     num: "J",
@@ -147,6 +146,7 @@ collections:
 
   "Critic's Choice Winners":
     summary: "A collection of Critic's Choice Winners"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_critics-choice.png
     template: {
                     name: award_winner,
                     num: "K",
@@ -157,6 +157,7 @@ collections:
 
   "Spirit Awards Winners":
     summary: "A collection of Spirit Awards Winners"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_spirit-awards.png
     template: {
                     name: award_winner,
                     num: "L",
@@ -167,6 +168,7 @@ collections:
 
   "Razzie Winners":
     summary: "A collection of Razzie Winners"
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_awards/awards_winners_razzie.png
     template: {
                     name: award_winner,
                     num: "M",

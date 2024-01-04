@@ -34,21 +34,21 @@ templates:
 collections:
   "Stand-up: All":
     summary: "Stand-up"
-    url_poster: https://images2.imgbox.com/04/f0/RM0zTp0P_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_standup/stand-up_all.png
     template: {
                     name: mdblist,
                     num: "K",
                     mdblist_user: "XanderRogue",
                     mdblist_list: "stand-up-comedy"
-                    }
+                }
 
   "Stand-up: Random":
     summary: "Random Stand-up"
-    url_poster: https://images2.imgbox.com/2a/57/JRxQLoUr_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_standup/stand-up_random.png
     template: {
                     name: plex,
                     num: "L"
-                    }
+                }
     smart_filter:
       all:
         collection: "Stand-up: All"
@@ -57,11 +57,11 @@ collections:
 
   "Stand-up: Recently Released":
     summary: "Recently released Stand-up"
-    url_poster: https://images2.imgbox.com/24/da/eJ9epiyC_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_standup/stand-up_recently-added.png
     template: {
                     name: plex,
                     num: "M"
-                    }
+                }
     smart_filter:
       all:
         collection: "Stand-up: All"
@@ -70,11 +70,11 @@ collections:
 
   "Stand-up: Recently Added":
     summary: "Recently added Stand-up"
-    url_poster: https://images2.imgbox.com/77/5f/v22tSniv_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_standup/stand-up_recently-released.png
     template: {
-                    name: plex_added,
+                    name: plex,
                     num: "N"
-                    }
+                }
     smart_filter:
       all:
         collection: "Stand-up: All"
@@ -83,11 +83,11 @@ collections:
 
   "Stand-up: Top Rated":
     summary: "Top rated Stand-up"
-    url_poster: https://images2.imgbox.com/dc/e9/t3Tr7ngi_o.png
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/1_standup/stand-up_top-rated.png
     template: {
                     name: plex,
                     num: "O"
-                    }
+                }
     smart_filter:
       all:
         collection: "Stand-up: All"
