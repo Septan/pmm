@@ -101,7 +101,7 @@ collections:
       
   "Recently Added Movies":
     summary: "Recently added movies"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_added_movies.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_added.png
     visible_home: true
     visible_shared: true
     visible_library: true
@@ -117,7 +117,7 @@ collections:
 
   "Recently Released Movies":
     summary: "Recently released movies"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_released_movies.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_released.png
     visible_library: true
     template: {
                     name: plex,
