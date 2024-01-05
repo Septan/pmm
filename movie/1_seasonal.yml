@@ -51,6 +51,7 @@ templates:
 
 collections:
   "💘 Valentine's Day Movies":
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/seasonal/valentines_day.png
     schedule: range(02/10-02/14)
     template: {
                     name: seasonal,
