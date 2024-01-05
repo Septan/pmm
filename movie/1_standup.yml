@@ -41,6 +41,9 @@ collections:
                     mdblist_user: "XanderRogue",
                     mdblist_list: "stand-up-comedy"
                 }
+    type: genre
+    exclude:
+      - Drama
 
   "Stand-up: Random":
     summary: "Random Stand-up"
