@@ -24,7 +24,7 @@ templates:
 collections:
   "Top Rated of the 1930s":
     summary: "Top rated movies of the 1930s"
-    url_poster: https://images2.imgbox.com/13/21/ouGDrOVt_o.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/decades/top-rated-1930s.png
     template: {
                     name: decade_top,
                     num: "Z",
@@ -37,7 +37,7 @@ collections:
 
   "Top Rated of the 1940s":
     summary: "Top rated TV shows of the 1940s"
-    url_poster: config/assets/3_decades_top/decades_top_1940s.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/decades/top-rated-1940s.png
     template: {
                     name: decade_top,
                     num: "Z",
@@ -50,7 +50,7 @@ collections:
 
   "Top Rated of the 1950s":
     summary: "Top rated TV shows of the 1950s"
-    url_poster: config/assets/3_decades_top/decades_top_1950s.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/decades/top-rated-1950s.png
     template: {
                     name: decade_top,
                     num: "Y",
@@ -63,7 +63,7 @@ collections:
 
   "Top Rated of the 1960s":
     summary: "Top rated TV shows of the 1960s"
-    url_poster: config/assets/3_decades_top/decades_top_1960s.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/decades/top-rated-1960s.png
     template: {
                     name: decade_top,
                     num: "X",
@@ -76,7 +76,7 @@ collections:
 
   "Top Rated of the 1970s":
     summary: "Top rated TV shows of the 1970s"
-    url_poster: config/assets/3_decades_top/decades_top_1970s.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/decades/top-rated-1970s.png
     template: {
                     name: decade_top,
                     num: "W",
@@ -89,7 +89,7 @@ collections:
 
   "Top Rated of the 1980s":
     summary: "Top rated TV shows of the 1980s"
-    url_poster: config/assets/3_decades_top/decades_top_1980s.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/decades/top-rated-1980s.png
     template: {
                     name: decade_top,
                     num: "V",
@@ -102,7 +102,7 @@ collections:
 
   "Top Rated of the 1990s":
     summary: "Top rated TV shows of the 1990s"
-    url_poster: config/assets/3_decades_top/decades_top_1990s.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/decades/top-rated-1990s.png
     template: {
                     name: decade_top,
                     num: "U",
@@ -115,7 +115,7 @@ collections:
 
   "Top Rated of the 2000s":
     summary: "Top rated TV shows of the 2000s"
-    url_poster: config/assets/3_decades_top/decades_top_2000s.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/decades/top-rated-2000s.png
     template: {
                     name: decade_top,
                     num: "T",
@@ -128,7 +128,7 @@ collections:
 
   "Top Rated of the 2010s":
     summary: "Top rated TV shows of the 2010s"
-    url_poster: config/assets/3_decades_top/decades_top_2010s.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/decades/top-rated-2010s.png
     template: {
                     name: decade_top,
                     num: "S",
@@ -141,7 +141,7 @@ collections:
 
   "Top Rated of the 2020s":
     summary: "Top rated TV shows of the 2020s"
-    url_poster: config/assets/3_decades_top/decades_top_2020s.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/decades/top-rated-2020s.png
     template: {
                     name: decade_top,
                     num: "R",

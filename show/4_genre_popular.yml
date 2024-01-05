@@ -23,7 +23,7 @@ templates:
 collections:
   "Popular in Action":
     summary: "Popular TV shows in Action"
-    url_poster: config/assets/5_genre_popular/genre_popular_action.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-action.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -34,7 +34,7 @@ collections:
 
   "Popular in Adventure":
     summary: "Popular TV shows in Adventure"
-    url_poster: config/assets/5_genre_popular/genre_popular_adventure.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-adventure.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -45,7 +45,7 @@ collections:
 
   "Popular in Animation":
     summary: "Popular TV shows in Animation"
-    url_poster: config/assets/5_genre_popular/genre_popular_animation.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-animation.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -56,7 +56,7 @@ collections:
 
   "Popular in Biography":
     summary: "Popular TV shows in Biography"
-    url_poster: config/assets/5_genre_popular/genre_popular_biography.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-biography.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -67,7 +67,7 @@ collections:
 
   "Popular in Comedy":
     summary: "Popular TV shows in Comedy"
-    url_poster: config/assets/5_genre_popular/genre_popular_comedy.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-comedy.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -78,7 +78,7 @@ collections:
 
   "Popular in Crime":
     summary: "Popular TV shows in Crime"
-    url_poster: config/assets/5_genre_popular/genre_popular_crime.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-crime.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -89,7 +89,7 @@ collections:
 
   "Popular in Drama":
     summary: "Popular TV shows in Drama"
-    url_poster: config/assets/5_genre_popular/genre_popular_drama.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-drama.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -100,7 +100,7 @@ collections:
 
   "Popular in Family":
     summary: "Popular TV shows in Family"
-    url_poster: config/assets/5_genre_popular/genre_popular_family.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-family.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -111,7 +111,7 @@ collections:
 
   "Popular in Fantasy":
     summary: "Popular TV shows in Fantasy"
-    url_poster: config/assets/5_genre_popular/genre_popular_fantasy.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-fantasy.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -122,7 +122,7 @@ collections:
 
   "Popular in History":
     summary: "Popular TV shows in History"
-    url_poster: config/assets/5_genre_popular/genre_popular_history.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-history.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -133,7 +133,7 @@ collections:
 
   "Popular in Horror":
     summary: "Popular TV shows in Horror"
-    url_poster: config/assets/5_genre_popular/genre_popular_horror.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-horror.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -144,7 +144,7 @@ collections:
 
   "Popular in Music":
     summary: "Popular TV shows in Music"
-    url_poster: config/assets/5_genre_popular/genre_popular_music.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-music.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -155,7 +155,7 @@ collections:
 
   "Popular in Musicals":
     summary: "Popular TV shows in Musicals"
-    url_poster: config/assets/5_genre_popular/genre_popular_musicals.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-musicals.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -166,7 +166,7 @@ collections:
 
   "Popular in Mystery":
     summary: "Popular TV shows in Mystery"
-    url_poster: config/assets/5_genre_popular/genre_popular_mystery.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-mystery.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -177,7 +177,7 @@ collections:
 
   "Popular in Romance":
     summary: "Popular TV shows in Romance"
-    url_poster: config/assets/5_genre_popular/genre_popular_romance.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-romance.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -188,7 +188,7 @@ collections:
 
   "Popular in Sci-Fi":
     summary: "Popular TV shows in Sci-Fi"
-    url_poster: config/assets/5_genre_popular/genre_popular_sci-fi.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-sci-fi.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -199,7 +199,7 @@ collections:
 
   "Popular in Shorts":
     summary: "Popular movies in Shorts"
-    url_poster: https://images2.imgbox.com/e3/34/8hV5Ezf6_o.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-shorts.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -210,7 +210,7 @@ collections:
                     
   "Popular in Thriller":
     summary: "Popular TV shows in Thriller"
-    url_poster: config/assets/5_genre_popular/genre_popular_thriller.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-thriller.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -221,7 +221,7 @@ collections:
 
   "Popular in War":
     summary: "Popular TV shows in War"
-    url_poster: config/assets/5_genre_popular/genre_popular_war.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-war.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
@@ -232,7 +232,7 @@ collections:
 
   "Popular in Western":
     summary: "Popular TV shows in Western"
-    url_poster: config/assets/5_genre_popular/genre_popular_western.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-western.png
     template: {
                     name: genre_popular,
                     type: "tv_series,tv_mini_series,tv_special",
