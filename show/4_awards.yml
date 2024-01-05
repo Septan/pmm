@@ -36,7 +36,7 @@ templates:
 collections:
   "Emmy Award Nominees":
     summary: "A collection of Emmy Award Nominees"
-    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/emmy_awards_nominees.png
     template: {
                     name: award_nominee,
                     num: "A",
@@ -47,7 +47,7 @@ collections:
 
   "Emmy Award Winners":
     summary: "A collection of Emmy Award Winners"
-    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/emmy_awards_winners.png
     template: {
                     name: award_winner,
                     num: "B",
@@ -91,7 +91,7 @@ collections:
 
   "Critic's Choice Winners":
     summary: "A collection of Critic's Choice Winners"
-    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/critics_choice_winners.png
     template: {
                     name: award_winner,
                     num: "K",

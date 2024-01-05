@@ -24,7 +24,7 @@ templates:
 collections:
   "Top Rated of 2024":
     summary: "Top rated TV shows in 2024"
-    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/year/top-rated-2024.png
     template: {
                     name: year_top,
                     num: "M",

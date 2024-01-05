@@ -101,7 +101,7 @@ collections:
       
   "Recently Added TV shows":
     summary: "Recently added TV shows"
-    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_added.png
     visible_home: true
     visible_shared: true
     visible_library: true
@@ -116,8 +116,8 @@ collections:
       limit: 200
 
   "Recently Released TV shows":
-    summary: "Recently added TV shows"
-    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/
+    summary: "Recently Released TV shows"
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_released.png
     visible_library: true
     template: {
                     name: plex,
@@ -132,7 +132,7 @@ collections:
   "Suggested TV shows":
     collection_order: random
     summary: "Based on watched and favourited TV shows"
-    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/suggested.png
     template: {
                     name: trakt,
                     num: 2
