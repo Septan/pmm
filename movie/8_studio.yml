@@ -22,7 +22,7 @@ templates:
 collections:
   "Criterion":
     summary: "A collection from Criterion"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_criterion-collection.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_criterion-collection.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -32,7 +32,7 @@ collections:
                 
   "Studio Ghibli":
     summary: "A collection from Studio Ghibli"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_studio-ghibli.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_studio-ghibli.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -42,7 +42,7 @@ collections:
 
   "Marvel Studios":
     summary: "A collection from Marvel Studios"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_marvel-studios.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_marvel-studios.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -52,7 +52,7 @@ collections:
                 
   "DC Entertainment":
     summary: "A collection from DC Entertainment"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_dc-entertainment.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_dc-entertainment.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -62,7 +62,7 @@ collections:
                 
   "Paramount Pictures":
     summary: "A collection from Paramount Pictures"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_paramount-pictures.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_paramount-pictures.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -72,7 +72,7 @@ collections:
                 
   "Warner Bros":
     summary: "A collection from Warner Bros"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_warner-bros.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_warner-bros.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -82,7 +82,7 @@ collections:
                 
   "Walt Disney":
     summary: "A collection from Walt Disney"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_walt-disney.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_walt-disney.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -92,7 +92,7 @@ collections:
                 
   "SONY":
     summary: "A collection from SONY"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_sony.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_sony.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -102,7 +102,7 @@ collections:
                 
   "MGM":
     summary: "A collection from MGM"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_mgm.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_mgm.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -112,7 +112,7 @@ collections:
                 
   "Twentieth Century Fox":
     summary: "A collection from Twentieth Century Fox"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_twentieth-century-fox.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_twentieth-century-fox.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -122,7 +122,7 @@ collections:
                 
   "Universal":
     summary: "A collection from Universal"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_universal.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_universal.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -132,7 +132,7 @@ collections:
                 
   "Columbia":
     summary: "A collection from Columbia"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_columbia.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_columbia.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -142,7 +142,7 @@ collections:
                 
   "United Artists":
     summary: "A collection from United Artists"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_united-artists.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_united-artists.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -152,7 +152,7 @@ collections:
                 
   "DreamWorks":
     summary: "A collection from DreamWorks"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_dreamworks.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_dreamworks.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -162,7 +162,7 @@ collections:
                 
   "Pixar":
     summary: "A collection from Pixar"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_pixar.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_pixar.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -172,7 +172,7 @@ collections:
                 
   "Touchstone":
     summary: "A collection from Touchstone"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_touchstone.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_touchstone.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -182,7 +182,7 @@ collections:
                 
   "Lionsgate":
     summary: "A collection from Lionsgate"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_lionsgate.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_lionsgate.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -192,7 +192,7 @@ collections:
                 
   "Lucasfilm":
     summary: "A collection from Lucasfilm"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_lucasfilm.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_lucasfilm.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
@@ -202,7 +202,7 @@ collections:
                 
   "Samuel Goldwyn Company":
     summary: "A collection from Samuel Goldwyn Company"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_samuel-goldwyn-company.png
+    # url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/4_studio/studio_samuel-goldwyn-company.png
     template: {
                     name: company,
                     type: "movie,tv_movie",
