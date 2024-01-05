@@ -86,7 +86,7 @@ templates:
 collections:
   "Random TV shows":
     summary: "Random selection of TV shows"
-    url_poster: config/assets/1_suggested/suggested_random.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/random.png
     visible_library: true
     schedule: daily
     template: {
@@ -101,7 +101,7 @@ collections:
       
   "Recently Added TV shows":
     summary: "Recently added TV shows"
-    url_poster: config/assets/1_suggested/suggested_recently-added.png
+    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/
     visible_home: true
     visible_shared: true
     visible_library: true
@@ -117,7 +117,7 @@ collections:
 
   "Recently Released TV shows":
     summary: "Recently added TV shows"
-    url_poster: config/assets/1_suggested/suggested_recently-released.png
+    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/
     visible_library: true
     template: {
                     name: plex,
@@ -132,7 +132,7 @@ collections:
   "Suggested TV shows":
     collection_order: random
     summary: "Based on watched and favourited TV shows"
-    url_poster: config/assets/1_suggested/suggested_suggested.png
+    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/
     template: {
                     name: trakt,
                     num: 2
@@ -145,7 +145,7 @@ collections:
 
   "Trending TV shows":
     summary: "TV shows trending across the internet"
-    url_poster: config/assets/1_suggested/suggested_trending.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/trending.png
     schedule: daily
     template: {
                     name: mdblist,
@@ -158,7 +158,7 @@ collections:
 
   "Popular TV shows":
     summary: "Popular TV shows across the internet"
-    url_poster: config/assets/1_suggested/suggested_popular.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/popular.png
     visible_library: true
     schedule: daily
     template: {
@@ -172,7 +172,7 @@ collections:
 
   "Top Rated TV shows":
     summary: "Top rated TV shows across the internet"
-    url_poster: config/assets/1_suggested/suggested_top-rated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/top_rated.png
     schedule: daily
     template: {
                     name: mdblist,
@@ -185,7 +185,7 @@ collections:
 
   "Most Watched Daily":
     summary: "TV shows trending across the internet"
-    url_poster: config/assets/1_suggested/suggested_most-watched-daily.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/daily.png
     collection_order: custom
     schedule: daily
     template: {
@@ -201,7 +201,7 @@ collections:
 
   "Most Watched Weekly":
     summary: "TV shows trending across the internet"
-    url_poster: config/assets/1_suggested/suggested_most-watched-weekly.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/weekly.png
     collection_order: custom
     schedule: daily
     template: {
@@ -217,7 +217,7 @@ collections:
 
   "Most Watched Monthly":
     summary: "TV shows trending across the internet"
-    url_poster: config/assets/1_suggested/suggested_most-watched-monthly.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/monthly.png
     collection_order: custom
     schedule: weekly(sunday)
     template: {
@@ -233,7 +233,7 @@ collections:
 
   "Most Watched Yearly":
     summary: "TV shows trending across the internet"
-    url_poster: config/assets/1_suggested/suggested_most-watched-yearly.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/yearly.png
     collection_order: custom
     schedule: weekly(sunday)
     template: {
