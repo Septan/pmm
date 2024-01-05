@@ -146,7 +146,7 @@ collections:
 
   "Critic's Choice Winners":
     summary: "A collection of Critic's Choice Winners"
-    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/critics_choice_winners.png
     template: {
                     name: award_winner,
                     num: "K",
@@ -157,7 +157,7 @@ collections:
 
   "Spirit Awards Winners":
     summary: "A collection of Spirit Awards Winners"
-    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/spirit_award_winners.png
     template: {
                     name: award_winner,
                     num: "L",
@@ -168,7 +168,7 @@ collections:
 
   "Razzie Winners":
     summary: "A collection of Razzie Winners"
-    # url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/razzie_winners.png
     template: {
                     name: award_winner,
                     num: "M",
