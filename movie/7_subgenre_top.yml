@@ -66,7 +66,7 @@ templates:
 collections:
   "Top Rated in Absurdism":
     summary: "Top rated movies in Absurdism"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_absurdism.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-absurdism.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -80,7 +80,7 @@ collections:
 
   "Top Rated in Aliens":
     summary: "Top rated movies in Aliens"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_aliens.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-aliens.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -94,7 +94,7 @@ collections:
 
   "Top Rated in Alternate History":
     summary: "Top rated movies in Alternate History"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_alternate-history.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-alternate-history.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -108,7 +108,7 @@ collections:
 
   "Top Rated in Anti-Hero":
     summary: "Top rated movies in Anti-Hero"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_anti-hero.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-anti-hero.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -122,7 +122,7 @@ collections:
 
   "Top Rated in Apocalypse":
     summary: "Top rated movies in Apocalypse"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_apocalypse.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-apocalypse.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -136,7 +136,7 @@ collections:
 
   "Top Rated in Artificial Intelligence":
     summary: "Top rated movies in Artificial Intelligence"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_artificial-intelligence.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-artificial-intelligence.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -150,7 +150,7 @@ collections:
 
   "Top Rated in Assassins":
     summary: "Top rated movies in Assassins"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_assassins.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-assassins.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -164,7 +164,7 @@ collections:
 
   "Top Rated in Betrayal":
     summary: "Top rated movies in Betrayal"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_betrayal.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-betrayal.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -178,7 +178,7 @@ collections:
 
   "Top Rated in Black Comedy":
     summary: "Top rated movies in Black Comedy"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_black-comedy.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-black-comedy.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -193,7 +193,7 @@ collections:
 
   "Top Rated in Boxing":
     summary: "Top rated movies in Boxing"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_boxing.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-boxing.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -208,7 +208,7 @@ collections:
 
   "Top Rated in Bugs":
     summary: "Top rated movies in Bugs"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_bugs.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-bugs.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -222,7 +222,7 @@ collections:
 
   "Top Rated in Cannibals":
     summary: "Top rated movies in Cannibals"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_cannibals.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-cannibals.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -236,7 +236,7 @@ collections:
 
   "Top Rated in Caper":
     summary: "Top rated movies in Caper"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_caper.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-caper.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -250,7 +250,7 @@ collections:
 
   "Top Rated in Chick-flick":
     summary: "Top rated movies in Chick-flick"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_chick-flick.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-chick-flick.png
     schedule: weekly(monday)
     template: {
                     name: sub_genre,
@@ -266,7 +266,7 @@ collections:
 
   "Top Rated in Comics":
     summary: "Top rated movies in Comics"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_comics.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-comics.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -280,7 +280,7 @@ collections:
 
   "Top Rated in Coming of Age":
     summary: "Top rated movies in Coming of Age"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_coming-of-age.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-coming-of-age.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -294,7 +294,7 @@ collections:
 
   "Top Rated in Con-Artists":
     summary: "Top rated movies in Con-Artists"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_con-artists.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-con-artists.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -308,7 +308,7 @@ collections:
 
   "Top Rated in Cop":
     summary: "Top rated movies in Cop"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_cop.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-cop.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -322,7 +322,7 @@ collections:
 
   "Top Rated in Costume Drama":
     summary: "Top rated movies in Costume Drama"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_costume-drama.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-costume-drama.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -336,7 +336,7 @@ collections:
 
   "Top Rated in Courtroom":
     summary: "Top rated movies in Courtroom"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_courtroom.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-courtroom.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -350,7 +350,7 @@ collections:
 
   "Top Rated in Cyberpunk":
     summary: "Top rated movies in Cyberpunk"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_cyberpunk.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-cyberpunk.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -364,7 +364,7 @@ collections:
 
   "Top Rated in Dark Fantasy":
     summary: "Top rated movies in Dark Fantasy"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_dark-fantasy.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-dark-fantasy.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -378,7 +378,7 @@ collections:
 
   "Top Rated in Detective":
     summary: "Top rated movies in Detective"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_detective.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-detective.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -392,7 +392,7 @@ collections:
 
   "Top Rated in Disaster":
     summary: "Top rated movies in Disaster"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_disaster.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-disaster.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -406,7 +406,7 @@ collections:
 
   "Top Rated in Dragons":
     summary: "Top rated movies in Dragons"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_dragons.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-dragons.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -420,7 +420,7 @@ collections:
 
   "Top Rated in Dystopian":
     summary: "Top rated movies in Dystopian"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_dystopian.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-dystopian.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -434,7 +434,7 @@ collections:
 
   "Top Rated in Epics":
     summary: "Top rated movies in Epics"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_epics.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-epics.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -448,7 +448,7 @@ collections:
 
   "Top Rated in Espionage":
     summary: "Top rated movies in Espionage"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_espionage.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre_top_espionage.png
     schedule: weekly(tuesday)
     template: {
                     name: sub_genre,
@@ -462,7 +462,7 @@ collections:
 
   "Top Rated in Experimental":
     summary: "Top rated movies in Experimental"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_experimental.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-experimental.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -476,7 +476,7 @@ collections:
 
   "Top Rated in Fairytales":
     summary: "Top rated movies in Fairytales"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_fairytales.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-fairytales.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -490,7 +490,7 @@ collections:
 
   "Top Rated in Found Footage":
     summary: "Top rated movies in Found Footage"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_found-footage.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-found-footage.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -505,7 +505,7 @@ collections:
 
   "Top Rated in Fugitives":
     summary: "Top rated movies in Fugitives"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_fugitives.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-fugitives.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -519,7 +519,7 @@ collections:
 
   "Top Rated in Gangster":
     summary: "Top rated movies in Gangster"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_gangster.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-gangsters.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -533,7 +533,7 @@ collections:
 
   "Top Rated in Ghosts":
     summary: "Top rated movies in Ghosts"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_ghosts.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-ghosts.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -548,7 +548,7 @@ collections:
 
   "Top Rated in Gothic":
     summary: "Top rated movies in Gothic"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_gothic.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-gothic.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -563,7 +563,7 @@ collections:
 
   "Top Rated in Heartbreak":
     summary: "Top rated movies in Heartbreak"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_heartbreak.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-heartbreak.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -577,7 +577,7 @@ collections:
 
   "Top Rated in Heists":
     summary: "Top rated movies in Heists"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_heists.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-heists.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -591,7 +591,7 @@ collections:
 
   "Top Rated in Historical Event":
     summary: "Top rated movies in Historical Event"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_historical-event.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-historical-event.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -605,7 +605,7 @@ collections:
 
   "Top Rated in Hostage":
     summary: "Top rated movies in Hostage"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_hostage.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-hostage.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -620,7 +620,7 @@ collections:
 
   "Top Rated in Hustle":
     summary: "Top rated movies in Hustle"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_hustle.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-hustle.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -634,7 +634,7 @@ collections:
 
   "Top Rated in Martial-Arts":
     summary: "Top rated movies in Martial-Arts"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_martial-arts.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-martial-arts.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -652,7 +652,7 @@ collections:
 
   "Top Rated in Medical":
     summary: "Top rated movies in Medical"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_medical.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-medical.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -666,7 +666,7 @@ collections:
 
   "Top Rated in Medieval":
     summary: "Top rated movies in Medieval"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_medieval.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-medieval.png
     schedule: weekly(wednesday)
     template: {
                     name: sub_genre,
@@ -680,7 +680,7 @@ collections:
 
   "Top Rated in Melodrama":
     summary: "Top rated movies in Melodrama"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_melodrama.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-melodrama.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -694,7 +694,7 @@ collections:
 
   "Top Rated in Military":
     summary: "Top rated movies in Military"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_military.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-military.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -708,7 +708,7 @@ collections:
 
   "Top Rated in Mindfuck":
     summary: "Top rated movies in Mindfuck"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_mindfuck.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-mindfuck.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -724,7 +724,7 @@ collections:
 
   "Top Rated in Mockumentary":
     summary: "Top rated movies in Mockumentary"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_mockumentary.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-mockumentary.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -739,7 +739,7 @@ collections:
 
   "Top Rated in Monsters":
     summary: "Top rated movies in Monsters"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_monsters.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-monsters.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -754,7 +754,7 @@ collections:
 
   "Top Rated in Mythology":
     summary: "Top rated movies in Mythology"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_mythology.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-mythology.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -768,7 +768,7 @@ collections:
 
   "Top Rated in Naval":
     summary: "Top rated movies in Naval"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_naval.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-naval.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -782,7 +782,7 @@ collections:
 
   "Top Rated in Ninjas":
     summary: "Top rated movies in Ninjas"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_ninjas.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-ninjas.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -796,7 +796,7 @@ collections:
 
   "Top Rated in Novel":
     summary: "Top rated movies in Novel"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_novel.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-novel.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -810,7 +810,7 @@ collections:
 
   "Top Rated in Occult":
     summary: "Top rated movies in Occult"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_occult.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-occult.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -824,7 +824,7 @@ collections:
 
   "Top Rated in Outerspace":
     summary: "Top rated movies in Outerspace"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_outerspace.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-outerspace.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -839,7 +839,7 @@ collections:
 
   "Top Rated in Outlaw":
     summary: "Top rated movies in Outlaw"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_outlaw.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-outlaw.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -853,7 +853,7 @@ collections:
 
   "Top Rated in Pandemic":
     summary: "Top rated movies in Pandemic"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_pandemic.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-pandemic.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -867,7 +867,7 @@ collections:
 
   "Top Rated in Paranormal":
     summary: "Top rated movies in Paranormal"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_paranormal.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-paranormal.png
     schedule: weekly(thursday)
     template: {
                     name: sub_genre,
@@ -881,7 +881,7 @@ collections:
 
   "Top Rated in Period Drama":
     summary: "Top rated movies in Period Drama"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_period-drama.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-period-drama.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -895,7 +895,7 @@ collections:
 
   "Top Rated in Philosophical":
     summary: "Top rated movies in Philosophical"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_philosophical.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-philosophical.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -910,7 +910,7 @@ collections:
 
   "Top Rated in Political":
     summary: "Top rated movies in Political"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_political.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-political.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -924,7 +924,7 @@ collections:
 
   "Top Rated in Post-Apocalyptic":
     summary: "Top rated movies in Post-Apocalyptic"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_post-apocalyptic.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-post-apocalyptic.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -938,7 +938,7 @@ collections:
 
   "Top Rated in Prehistoric":
     summary: "Top rated movies in Prehistoric"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_prehistoric.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-prehistoric.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -953,7 +953,7 @@ collections:
 
   "Top Rated in Prison":
     summary: "Top rated movies in Prison"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_prison.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-prison.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -967,7 +967,7 @@ collections:
 
   "Top Rated in Psychedelic":
     summary: "Top rated movies in Psychedelic"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_psychedelic.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-psychedlic.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -981,7 +981,7 @@ collections:
 
   "Top Rated in Psychological":
     summary: "Top rated movies in Psychological"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_psychological.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-psychological.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -995,7 +995,7 @@ collections:
 
   "Top Rated in Religion":
     summary: "Top rated movies in Religion"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_religion.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-religion.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -1009,7 +1009,7 @@ collections:
 
   "Top Rated in Remake":
     summary: "Top rated movies in Remake"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_remake.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-remake.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -1024,7 +1024,7 @@ collections:
 
   "Top Rated in Revenge":
     summary: "Top rated movies in Revenge"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_revenge.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-revenge.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -1038,7 +1038,7 @@ collections:
 
   "Top Rated in Robots":
     summary: "Top rated movies in Robots"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_robots.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-robots.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -1052,7 +1052,7 @@ collections:
 
   "Top Rated in Romantic Comedy":
     summary: "Top rated movies in Romantic Comedy"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_romantic-comedy.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-romantic-comedy.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -1069,7 +1069,7 @@ collections:
 
   "Top Rated in Romantic Drama":
     summary: "Top rated movies in Romantic Drama"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_romantic-drama.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-romantic-drama.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -1086,7 +1086,7 @@ collections:
 
   "Top Rated in Samurai":
     summary: "Top rated movies in Samurai"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_samurai.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-samurai.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -1101,7 +1101,7 @@ collections:
 
   "Top Rated in Satire":
     summary: "Top rated movies in Satire"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_satire.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-satire.png
     schedule: weekly(friday)
     template: {
                     name: sub_genre,
@@ -1116,7 +1116,7 @@ collections:
 
   "Top Rated in Serial Killers":
     summary: "Top rated movies in Serial Killers"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_serial-killers.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-serial-killers.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1130,7 +1130,7 @@ collections:
 
   "Top Rated in Slasher":
     summary: "Top rated movies in Slasher"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_slasher.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-slasher.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1148,7 +1148,7 @@ collections:
 
   "Top Rated in Space Opera":
     summary: "Top rated movies in Space Opera"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_space-opera.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-space-opera.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1162,7 +1162,7 @@ collections:
 
   "Top Rated in Spaghetti Western":
     summary: "Top rated movies in Spaghetti Western"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_spaghetti-western.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-spaghetti-western.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1176,7 +1176,7 @@ collections:
 
   "Top Rated in Splatter":
     summary: "Top rated movies in Splatter"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_splatter.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-splatter.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1191,7 +1191,7 @@ collections:
 
   "Top Rated in Steampunk":
     summary: "Top rated movies in Steampunk"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_steampunk.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-steampunk.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1205,7 +1205,7 @@ collections:
 
   "Top Rated in Stoner":
     summary: "Top rated movies in Stoner"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_stoner.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-stoner.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1219,7 +1219,7 @@ collections:
 
   "Top Rated in Stop-Motion":
     summary: "Top rated movies in Stop-Motion"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_stop-motion.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-stop-motion.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1234,7 +1234,7 @@ collections:
 
   "Top Rated in Superhero":
     summary: "Top rated movies in Superhero"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_superhero.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-superhero.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1248,7 +1248,7 @@ collections:
 
   "Top Rated in Supernatural":
     summary: "Top rated movies in Supernatural"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_supernatural.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-supernatural.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1262,7 +1262,7 @@ collections:
 
   "Top Rated in Surrealism":
     summary: "Top rated movies in Surrealism"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_surrealism.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-surrealism.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1276,7 +1276,7 @@ collections:
 
   "Top Rated in Survival":
     summary: "Top rated movies in Survival"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_survival.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-survival.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1291,7 +1291,7 @@ collections:
 
   "Top Rated in Swashbuckler":
     summary: "Top rated movies in Swashbuckler"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_swashbuckler.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-swashbuckler.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1305,7 +1305,7 @@ collections:
 
   "Top Rated in Sword & Sandal":
     summary: "Top rated movies in Sword & Sandal"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_sword-sandal.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-sword-sandal.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1320,7 +1320,7 @@ collections:
 
   "Top Rated in Sword & Sorcery":
     summary: "Top rated movies in Sword & Sorcery"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_sword-sorcery.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-sword-sorcery.png
     schedule: weekly(saturday)
     template: {
                     name: sub_genre,
@@ -1335,7 +1335,7 @@ collections:
 
   "Top Rated in Time Travel":
     summary: "Top rated movies in Time Travel"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_time-travel.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-time-travel.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
@@ -1350,7 +1350,7 @@ collections:
 
   "Top Rated in Treasure Hunt":
     summary: "Top rated movies in Treasure Hunt"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_treasure-hunt.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-treasure-hunt.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
@@ -1364,7 +1364,7 @@ collections:
 
   "Top Rated in True Story":
     summary: "Top rated movies in True Story"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_true-story.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-true-story.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
@@ -1380,7 +1380,7 @@ collections:
 
   "Top Rated in Urban Fantasy":
     summary: "Top rated movies in Urban Fantasy"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_urban-fantasy.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-urban-fantasy.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
@@ -1394,7 +1394,7 @@ collections:
 
   "Top Rated in Utopian":
     summary: "Top rated movies in Utopian"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_utopian.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-utopian.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
@@ -1409,7 +1409,7 @@ collections:
 
   "Top Rated in Vampires":
     summary: "Top rated movies in Vampires"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_vampires.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-vampires.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
@@ -1423,7 +1423,7 @@ collections:
 
   "Top Rated in Video Game":
     summary: "Top rated movies in Video Game"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_video-game.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-video-game.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
@@ -1437,7 +1437,7 @@ collections:
 
   "Top Rated in Werewolves":
     summary: "Top rated movies in Werewolves"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_werewolves.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-werewolves.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
@@ -1451,7 +1451,7 @@ collections:
 
   "Top Rated in Whodunit?":
     summary: "Top rated movies in Whodunit?"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_whodunit.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-whodunit.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
@@ -1465,7 +1465,7 @@ collections:
 
   "Top Rated in Wizardry & Witchcraft":
     summary: "Top rated movies in Wizardry & Witchcraft"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_wizardry-witchcraft.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-wizardry-witchcraft.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
@@ -1479,7 +1479,7 @@ collections:
 
   "Top Rated in World War":
     summary: "Top rated movies in World War"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_world-war.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-world-war.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
@@ -1493,7 +1493,7 @@ collections:
 
   "Top Rated in Zombies":
     summary: "Top rated movies in Zombies"
-    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/main/assets/7_subgenre_top/subgenre_top_zombies.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-zombies.png
     schedule: weekly(sunday)
     template: {
                     name: sub_genre,
