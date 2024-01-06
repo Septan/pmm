@@ -149,8 +149,8 @@ collections:
       - https://www.imdb.com/list/ls080925875/
 
   "🤱 Mother's Day Movies":
-  schedule: range(05/05-05/10)
-  template: {
+    schedule: range(05/05-05/10)
+    template: {
                   name: seasonal,
                   num: 9,
                   holiday: "Mother's Day",
@@ -159,8 +159,8 @@ collections:
       - https://www.imdb.com/list/ls072551197/
 
   "🪖 Memorial Day Movies":
-  schedule: range(5/18-6/7)
-  template: {
+    schedule: range(5/18-6/7)
+    template: {
                   name: seasonal,
                   num: 9,
                   holiday: "Memorial Day",
@@ -169,8 +169,8 @@ collections:
       - https://www.imdb.com/list/ls561621160/
 
   "👨 Father's Day Movies":
-  schedule: range(06/15-06/20)
-  template: {
+    schedule: range(06/15-06/20)
+    template: {
                   name: seasonal,
                   num: 9,
                   holiday: "Father's Day",
@@ -179,8 +179,8 @@ collections:
       - https://www.imdb.com/list/ls020471057/
 
   "⚒ Labor Day Movies":
-  schedule: range(09/01-09/10)
-  template: {
+    schedule: range(09/01-09/10)
+    template: {
                   name: seasonal,
                   num: 9,
                   holiday: "Mother's Day",
@@ -189,8 +189,8 @@ collections:
       - https://www.imdb.com/list/ls002014923/
 
   "🎖 Veteran's Day Movies":
-  schedule: range(11/01-11/30)
-  template: {
+    schedule: range(11/01-11/30)
+    template: {
                   name: seasonal,
                   num: 9,
                   holiday: "Veteran's Day",
@@ -199,8 +199,8 @@ collections:
       - https://www.imdb.com/list/ls565595526/
 
   "🌊🌺 Asian American Pacific Islander Movies":
-  schedule: range(04/30-05/31)
-  template: {
+    schedule: range(04/30-05/31)
+    template: {
                   name: seasonal,
                   num: 9,
                   holiday: "Asian American Pacific Islander",
@@ -209,8 +209,8 @@ collections:
       - https://mdblist.com/lists/plexmetamanager/asian-american-pacific-islander-heritage-month
 
   "♿ Disability Month Movies":
-  schedule: range(12/02-12/04)
-  template: {
+    schedule: range(12/02-12/04)
+    template: {
                   name: seasonal,
                   num: 9,
                   holiday: "Disability Month",
@@ -219,8 +219,8 @@ collections:
       - https://mdblist.com/lists/plexmetamanager/day-of-persons-with-disabilities
       
   "✊ 🏿 Black History Month Movies":
-  schedule: range(02/01-03/01)
-  template: {
+    schedule: range(02/01-03/01)
+    template: {
                   name: seasonal,
                   num: 9,
                   holiday: "Black History Month",
@@ -230,8 +230,8 @@ collections:
       - https://trakt.tv/users/bluephi8/lists/black-history?display=movie&sort=title,asc
       
   "🪅 National Hispanic Heritage Movies":
-  schedule: range(09/15-10/15)
-  template: {
+    schedule: range(09/15-10/15)
+    template: {
                   name: seasonal,
                   num: 9,
                   holiday: "National Hispanic Heritage",
@@ -240,8 +240,8 @@ collections:
       - https://mdblist.com/lists/plexmetamanager/latinx-heritage-month
       
   "🚺 Women's History Month":
-  schedule: range(02/28-03/31)
-  template: {
+    schedule: range(02/28-03/31)
+    template: {
                   name: seasonal,
                   num: 9,
                   holiday: "Women's History Month",
