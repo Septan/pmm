@@ -187,3 +187,67 @@ collections:
                   }
     imdb_list:
       - https://www.imdb.com/list/ls002014923/
+
+  "🎖 Veteran's Day Movies":
+  schedule: range(11/01-11/30)
+  template: {
+                  name: seasonal,
+                  num: 9,
+                  holiday: "Veteran's Day",
+                  }
+    imdb_list:
+      - https://www.imdb.com/list/ls565595526/
+
+  "🌊🌺 Asian American Pacific Islander Movies":
+  schedule: range(04/30-05/31)
+  template: {
+                  name: seasonal,
+                  num: 9,
+                  holiday: "Asian American Pacific Islander",
+                  }
+    mdblist_list:
+      - https://mdblist.com/lists/plexmetamanager/asian-american-pacific-islander-heritage-month
+
+  "♿ Disability Month Movies":
+  schedule: range(12/02-12/04)
+  template: {
+                  name: seasonal,
+                  num: 9,
+                  holiday: "Disability Month",
+                  }
+    mdblist_list:
+      - https://mdblist.com/lists/plexmetamanager/day-of-persons-with-disabilities
+      
+  "✊ 🏿 Black History Month Movies":
+  schedule: range(02/01-03/01)
+  template: {
+                  name: seasonal,
+                  num: 9,
+                  holiday: "Black History Month",
+                  }
+    trakt_list:
+      - https://trakt.tv/users/hoochzilla/lists/black-cinema?display=movie&sort=title,asc
+      - https://trakt.tv/users/bluephi8/lists/black-history?display=movie&sort=title,asc
+      
+  "🪅 National Hispanic Heritage Movies":
+  schedule: range(09/15-10/15)
+  template: {
+                  name: seasonal,
+                  num: 9,
+                  holiday: "National Hispanic Heritage",
+                  }
+    mdblist_list:
+      - https://mdblist.com/lists/plexmetamanager/latinx-heritage-month
+      
+  "🚺 Women's History Month":
+  schedule: range(02/28-03/31)
+  template: {
+                  name: seasonal,
+                  num: 9,
+                  holiday: "Women's History Month",
+                  }
+    imdb_list:
+      - https://www.imdb.com/search/keyword/?keywords=women-in-film&ref_=fn_kw_kw_9
+      - https://www.imdb.com/search/keyword/?keywords=women%27s-rights&ref_=fn_kw_kw_2
+      - https://www.imdb.com/search/keyword/?keywords=women%27s-suffrage&ref_=fn_kw_kw_13
+    
