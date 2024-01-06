@@ -10,6 +10,7 @@ templates:
     visible_home: false
     visible_library: false
     visible_shared: false
+    tmdb_movie: <<movie>>
 
   mdblist:
     cache_builders: 6
@@ -40,10 +41,12 @@ collections:
                     num: "K",
                     mdblist_user: "XanderRogue",
                     mdblist_list: "stand-up-comedy"
+                    movie:
+                      - 483435
+                      - 424277
+                      - 416477
+                      - 475557
                 }
-    type: genre
-    exclude:
-      - Drama
 
   "Stand-up: Random":
     summary: "Random Stand-up"
