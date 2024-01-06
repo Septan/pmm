@@ -139,8 +139,48 @@ collections:
     template: {
                     name: seasonal,
                     num: 9,
-                    holiday: "Independence Day"
+                    holiday: "Independence Day",
                     }
     imdb_list:
       - https://www.imdb.com/list/ls068664510/
       - https://www.imdb.com/list/ls080925875/
+
+  "🤱 Mother's Day Movies":
+  schedule: range(05/05-05/10)
+  template: {
+                  name: seasonal,
+                  num: 9,
+                  holiday: "Mother's Day",
+                  }
+    imdb_list:
+      - https://www.imdb.com/list/ls072551197/
+
+  "🪖 Memorial Day Movies":
+  schedule: range(5/18-6/7)
+  template: {
+                  name: seasonal,
+                  num: 9,
+                  holiday: "Memorial Day",
+                  }
+    imdb_list:
+      - https://www.imdb.com/list/ls561621160/
+
+  "👨 Father's Day Movies":
+  schedule: range(06/15-06/20)
+  template: {
+                  name: seasonal,
+                  num: 9,
+                  holiday: "Father's Day",
+                  }
+    imdb_list:
+      - https://www.imdb.com/list/ls020471057/
+
+  "⚒ Labor Day Movies":
+  schedule: range(09/01-09/10)
+  template: {
+                  name: seasonal,
+                  num: 9,
+                  holiday: "Mother's Day",
+                  }
+    imdb_list:
+      - https://www.imdb.com/list/ls002014923/
