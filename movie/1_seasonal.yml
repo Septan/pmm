@@ -124,6 +124,9 @@ collections:
       - https://www.imdb.com/list/ls097394442
       - https://www.imdb.com/list/ls068976997
       - https://www.imdb.com/list/ls027567380
+    trakt: 
+      - https://trakt.tv/users/plexmetamanager/lists/christmas-extravaganza-non-tv-movie
+      - https://trakt.tv/users/ubjeckle/lists/christmas-movies?sort=rank,asc
 
   "🎊 New Year's Day Movie":
     schedule: range(12/26-01/02)
