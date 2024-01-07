@@ -41,11 +41,6 @@ collections:
                     num: "K",
                     mdblist_user: "XanderRogue",
                     mdblist_list: "stand-up-comedy"
-                    movie:
-                      - 483435
-                      - 424277
-                      - 416477
-                      - 475557
                 }
 
   "Stand-up: Random":
