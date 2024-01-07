@@ -31,6 +31,12 @@ templates:
       - <<trakt_extra_3>>
       - <<trakt_extra_4>>
       - <<trakt_extra_5>>
+    mdblist_list:
+      - <<mdblist_extra_1>>
+      - <<mdblist_extra_2>>
+      - <<mdblist_extra_3>>
+      - <<mdblist_extra_4>>
+      - <<mdblist_extra_5>>
     optional:
       - imdb_extra_1
       - imdb_extra_2
@@ -48,6 +54,11 @@ templates:
       - trakt_extra_3
       - trakt_extra_4
       - trakt_extra_5
+      - mdblist_extra_1
+      - mdblist_extra_2
+      - mdblist_extra_3
+      - mdblist_extra_4
+      - mdblist_extra_5
 
 collections:
   "💘 Valentine's Day Movies":
@@ -57,11 +68,10 @@ collections:
                     name: seasonal,
                     num: 9,
                     holiday: "Valentine's Day",
+                    imdb_extra_1: https://www.imdb.com/list/ls000094398,
+                    imdb_extra_2: https://www.imdb.com/list/ls057783436,
+                    imdb_extra_3: https://www.imdb.com/list/ls064427905
                     }
-    imdb_list:
-      - https://www.imdb.com/list/ls000094398
-      - https://www.imdb.com/list/ls057783436
-      - https://www.imdb.com/list/ls064427905
 
   "☘ St. Patrick's Day Movies":
     schedule: range(03/16-03/18)
@@ -69,9 +79,8 @@ collections:
                     name: seasonal,
                     num: 9,
                     holiday: "St. Patrick's Day",
+                    imdb_extra_1: https://www.imdb.com/list/ls063934595
                     }
-    imdb_list:
-      - https://www.imdb.com/list/ls063934595
 
   "🐰 Easter Movies":
     schedule: range(03/22-04/25)
@@ -79,14 +88,13 @@ collections:
                     name: seasonal,
                     num: 9,
                     holiday: "Easter",
+                    imdb_extra_1: https://www.imdb.com/list/ls062665509/,
+                    imdb_extra_2: https://www.imdb.com/list/ls051733651/,
+                    imdb_extra_3: https://www.imdb.com/list/ls561620428/,
+                    imdb_extra_4: https://www.imdb.com/list/ls564620820/,
+                    imdb_extra_5: https://www.imdb.com/list/ls094021074/,
+                    imdb_extra_6: https://www.imdb.com/list/ls088378250/
                     }
-    imdb_list:
-      - https://www.imdb.com/list/ls062665509/
-      - https://www.imdb.com/list/ls051733651/
-      - https://www.imdb.com/list/ls561620428/
-      - https://www.imdb.com/list/ls564620820/
-      - https://www.imdb.com/list/ls094021074/
-      - https://www.imdb.com/list/ls088378250/
 
   "🎃 Halloween Movies":
     schedule: range(10/29-10/31)
@@ -94,11 +102,10 @@ collections:
                     name: seasonal,
                     num: 9,
                     holiday: "Halloween",
+                    imdb_extra_1: https://www.imdb.com/list/ls023118929,
+                    imdb_extra_2: https://www.imdb.com/list/ls000099714,
+                    imdb_extra_3: https://www.imdb.com/list/ls000058693
                     }
-    imdb_list:
-      - https://www.imdb.com/list/ls023118929
-      - https://www.imdb.com/list/ls000099714
-      - https://www.imdb.com/list/ls000058693
 
   "🦃 Thanksgiving Movies":
     schedule: range(11/22-11/25)
@@ -106,10 +113,9 @@ collections:
                     name: seasonal,
                     num: 9,
                     holiday: "Thanksgiving",
+                    imdb_extra_1: https://www.imdb.com/list/ls000835734/,
+                    imdb_extra_2: https://www.imdb.com/list/ls091597850/
                     }
-    imdb_list:
-      - https://www.imdb.com/list/ls000835734/
-      - https://www.imdb.com/list/ls091597850/
 
   "🎅 Christmas Movies":
     schedule: range(12/01-12/31)
@@ -117,16 +123,14 @@ collections:
                     name: seasonal,
                     num: 9,
                     holiday: "Christmas",
+                    letterboxed_extra_1: https://letterboxd.com/ediblehedgehog/list/theme-christmas/,
+                    imdb_extra_1: https://www.imdb.com/list/ls000096828,
+                    imdb_extra_2: https://www.imdb.com/list/ls097394442,
+                    imdb_extra_3: https://www.imdb.com/list/ls068976997,
+                    imdb_extra_4: https://www.imdb.com/list/ls027567380,
+                    trakt_extra_1: https://trakt.tv/users/plexmetamanager/lists/christmas-extravaganza-non-tv-movie,
+                    trakt_extra_2: https://trakt.tv/users/ubjeckle/lists/christmas-movies?sort=rank,asc
                     }
-    letterboxd_list: https://letterboxd.com/ediblehedgehog/list/theme-christmas/
-    imdb_list:
-      - https://www.imdb.com/list/ls000096828
-      - https://www.imdb.com/list/ls097394442
-      - https://www.imdb.com/list/ls068976997
-      - https://www.imdb.com/list/ls027567380
-    trakt: 
-      - https://trakt.tv/users/plexmetamanager/lists/christmas-extravaganza-non-tv-movie
-      - https://trakt.tv/users/ubjeckle/lists/christmas-movies?sort=rank,asc
 
   "🎊 New Year's Day Movie":
     schedule: range(12/26-01/02)
@@ -134,8 +138,8 @@ collections:
                     name: seasonal,
                     num: 9,
                     holiday: "New Year's Eve",
+                    imdb_extra_1: https://www.imdb.com/list/ls066838460
                     }
-    imdb_list: https://www.imdb.com/list/ls066838460
 
   "🎆 Independence Day Movies":
     schedule: range(06/23-07/11)
@@ -143,10 +147,9 @@ collections:
                     name: seasonal,
                     num: 9,
                     holiday: "Independence Day",
+                    imdb_extra_1: https://www.imdb.com/list/ls068664510/,
+                    imdb_extra_2: https://www.imdb.com/list/ls080925875/
                     }
-    imdb_list:
-      - https://www.imdb.com/list/ls068664510/
-      - https://www.imdb.com/list/ls080925875/
 
   "🤱 Mother's Day Movies":
     schedule: range(05/05-05/10)
@@ -154,9 +157,8 @@ collections:
                   name: seasonal,
                   num: 9,
                   holiday: "Mother's Day",
+                  imdb_extra_1: https://www.imdb.com/list/ls072551197/
                   }
-    imdb_list:
-      - https://www.imdb.com/list/ls072551197/
 
   "🪖 Memorial Day Movies":
     schedule: range(5/18-6/7)
@@ -164,9 +166,8 @@ collections:
                   name: seasonal,
                   num: 9,
                   holiday: "Memorial Day",
+                  imdb_extra_1: https://www.imdb.com/list/ls561621160/
                   }
-    imdb_list:
-      - https://www.imdb.com/list/ls561621160/
 
   "👨 Father's Day Movies":
     schedule: range(06/15-06/20)
@@ -174,9 +175,8 @@ collections:
                   name: seasonal,
                   num: 9,
                   holiday: "Father's Day",
+                  imdb_extra_1: https://www.imdb.com/list/ls020471057/
                   }
-    imdb_list:
-      - https://www.imdb.com/list/ls020471057/
 
   "⚒ Labor Day Movies":
     schedule: range(09/01-09/10)
@@ -184,9 +184,8 @@ collections:
                   name: seasonal,
                   num: 9,
                   holiday: "Mother's Day",
+                  imdb_extra_1: https://www.imdb.com/list/ls002014923/
                   }
-    imdb_list:
-      - https://www.imdb.com/list/ls002014923/
 
   "🎖 Veteran's Day Movies":
     schedule: range(11/01-11/30)
@@ -194,19 +193,8 @@ collections:
                   name: seasonal,
                   num: 9,
                   holiday: "Veteran's Day",
+                  imdb_extra_1: https://www.imdb.com/list/ls565595526/
                   }
-    imdb_list:
-      - https://www.imdb.com/list/ls565595526/
-
-  "🌊🌺 Asian American Pacific Islander Movies":
-    schedule: range(04/30-05/31)
-    template: {
-                  name: seasonal,
-                  num: 9,
-                  holiday: "Asian American Pacific Islander",
-                  }
-    mdblist_list:
-      - https://mdblist.com/lists/plexmetamanager/asian-american-pacific-islander-heritage-month
 
   "♿ Disability Month Movies":
     schedule: range(12/02-12/04)
@@ -214,30 +202,17 @@ collections:
                   name: seasonal,
                   num: 9,
                   holiday: "Disability Month",
+                  mdblist_extra_1: https://mdblist.com/lists/plexmetamanager/day-of-persons-with-disabilities
                   }
-    mdblist_list:
-      - https://mdblist.com/lists/plexmetamanager/day-of-persons-with-disabilities
-      
-  "✊ 🏿 Black History Month Movies":
-    schedule: range(02/01-03/01)
-    template: {
-                  name: seasonal,
-                  num: 9,
-                  holiday: "Black History Month",
-                  }
-    trakt_list:
-      - https://trakt.tv/users/hoochzilla/lists/black-cinema?display=movie&sort=title,asc
-      - https://trakt.tv/users/bluephi8/lists/black-history?display=movie&sort=title,asc
-      
+       
   "🪅 National Hispanic Heritage Movies":
     schedule: range(09/15-10/15)
     template: {
                   name: seasonal,
                   num: 9,
                   holiday: "National Hispanic Heritage",
+                  mdblist_extra_1: https://mdblist.com/lists/plexmetamanager/latinx-heritage-month
                   }
-    mdblist_list:
-      - https://mdblist.com/lists/plexmetamanager/latinx-heritage-month
       
   "🚺 Women's History Month":
     schedule: range(02/28-03/31)
@@ -245,8 +220,7 @@ collections:
                   name: seasonal,
                   num: 9,
                   holiday: "Women's History Month",
+                  imdb_extra_1: https://www.imdb.com/search/keyword/?keywords=women-in-film&ref_=fn_kw_kw_9,
+                  imdb_extra_2: https://www.imdb.com/search/keyword/?keywords=women%27s-rights&ref_=fn_kw_kw_2,
+                  imdb_extra_3: https://www.imdb.com/search/keyword/?keywords=women%27s-suffrage&ref_=fn_kw_kw_13
                   }
-    imdb_list:
-      - https://www.imdb.com/search/keyword/?keywords=women-in-film&ref_=fn_kw_kw_9
-      - https://www.imdb.com/search/keyword/?keywords=women%27s-rights&ref_=fn_kw_kw_2
-      - https://www.imdb.com/search/keyword/?keywords=women%27s-suffrage&ref_=fn_kw_kw_13    
