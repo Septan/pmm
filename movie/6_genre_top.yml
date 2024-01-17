@@ -215,18 +215,18 @@ collections:
                     language: "en"
                 }
 
-  "Top Rated in Shorts":
-    summary: "Top rated movies in Shorts"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-shorts.png
-    template: {
-                    name: top,
-                    type: "movie,tv_movie",
-                    genre: "short",
-                    title_type: "short_film",
-                    rating.gte: 5,
-                    votes: "500,",
-                    languages: "en",
-                    }
+  # "Top Rated in Shorts":
+  #   summary: "Top rated movies in Shorts"
+  #   url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-shorts.png
+  #   template: {
+  #                   name: top,
+  #                   type: "movie,tv_movie",
+  #                   genre: "short",
+  #                   title_type: "short_film",
+  #                   rating.gte: 5,
+  #                   votes: "500,",
+  #                   languages: "en",
+  #                   }
                     
   "Top Rated in Thriller":
     summary: "Top rated movies in Thriller"

@@ -197,15 +197,15 @@ collections:
                     language: "en"
                 }
 
-  "Popular in Shorts":
-    summary: "Popular movies in Shorts"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-shorts.png
-    template: {
-                    name: popular,
-                    genre: "short",
-                    title_type: "short_film",
-                    languages: "en",
-                    }
+  # "Popular in Shorts":
+  #   summary: "Popular movies in Shorts"
+  #   url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/popular_genre/popular-shorts.png
+  #   template: {
+  #                   name: popular,
+  #                   genre: "short",
+  #                   title_type: "short_film",
+  #                   languages: "en",
+  #                   }
 
   "Popular in Thriller":
     summary: "Popular movies in Thriller"
