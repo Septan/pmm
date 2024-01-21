@@ -14,16 +14,129 @@ templates:
 
 collections:
   "The Simpsons Top 100 Episodes":
-    summary: "A collection of the highest rated simpsons epsodes."
-    visible_library: true
-    builder_level: episode
+    summary: "A collection of the highest rated simpsons episodes."
+    collection_order: custom
+    collection_level: episode
+    plex_search:
+      type: episodes
+      sort_by: audience_rating.desc
+      limit: 100
+      all:
+        title.ends: "The Simpsons"
     schedule: daily
     template: {
                     name: plex,
-                    num: 0
+                    num: 00
                 }
-    imdb_search:
-      typ: tv_episode
-      series: tt0096697
-      sort_by: rating.desc
+
+  "The American Dad! Top 100 Episodes":
+    summary: "A collection of the highest rated american dad episodes."
+    collection_order: custom
+    collection_level: episode
+    plex_search:
+      type: episodes
+      sort_by: audience_rating.desc
       limit: 100
+      all:
+        title.ends: "American Dad!"
+    schedule: daily
+    template: {
+                    name: plex,
+                    num: 01
+                }
+
+  "The Comedy Central Presents Top 100 Episodes":
+    summary: "A collection of the highest rated comedy central presents episodes."
+    collection_order: custom
+    collection_level: episode
+    plex_search:
+      type: episodes
+      sort_by: audience_rating.desc
+      limit: 100
+      all:
+        title.ends: "comedy central presents"
+    schedule: daily
+    template: {
+                    name: plex,
+                    num: 02
+                }
+
+  "The Comedy Central Presents Top 100 Episodes":
+    summary: "A collection of the highest rated comedy central presents episodes."
+    collection_order: custom
+    collection_level: episode
+    plex_search:
+      type: episodes
+      sort_by: audience_rating.desc
+      limit: 100
+      all:
+        title.ends: "comedy central presents"
+    schedule: daily
+    template: {
+                    name: plex,
+                    num: 03
+                }
+
+  "The Family Guy Top 100 Episodes":
+    summary: "A collection of the highest rated family guy episodes."
+    collection_order: custom
+    collection_level: episode
+    plex_search:
+      type: episodes
+      sort_by: audience_rating.desc
+      limit: 100
+      all:
+        title.ends: "Family Guy"
+    schedule: daily
+    template: {
+                    name: plex,
+                    num: 04
+                }
+
+  "The How It's Made Top 100 Episodes":
+    summary: "A collection of the highest rated how it's made episodes."
+    collection_order: custom
+    collection_level: episode
+    plex_search:
+      type: episodes
+      sort_by: audience_rating.desc
+      limit: 100
+      all:
+        title.ends: "how it's made"
+    schedule: daily
+    template: {
+                    name: plex,
+                    num: 05
+                }
+
+  "The South Park Top 100 Episodes":
+    summary: "A collection of the highest rated south park episodes."
+    collection_order: custom
+    collection_level: episode
+    plex_search:
+      type: episodes
+      sort_by: audience_rating.desc
+      limit: 100
+      all:
+        title.ends: "South Park"
+    schedule: daily
+    template: {
+                    name: plex,
+                    num: 06
+                }
+
+  "The Futurama Top 100 Episodes":
+    summary: "A collection of the highest rated futurama episodes."
+    collection_order: custom
+    collection_level: episode
+    plex_search:
+      type: episodes
+      sort_by: audience_rating.desc
+      limit: 100
+      all:
+        title.ends: "Futurama"
+    schedule: daily
+    template: {
+                    name: plex,
+                    num: 07
+                }
