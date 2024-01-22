@@ -1,11 +1,18 @@
 ## 2_episodes_top.yml
 
 templates:
-  plex:
+  episodes:
+    optional:
+      - show
+      - poster
+    tvdb_show: <<show>>
+    url_poster: <<poster>>
+    builder_level: episode
     cache_builders: 4
     collection_mode: hide
+    collection_order: custom
     delete_not_scheduled: false
-    sort_title: "+1_<<num>>_<<collection_name>>"
+    sort_title: "+018_<<num>>_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
@@ -15,8 +22,6 @@ templates:
 collections:
   "The Simpsons Top 100 Episodes":
     summary: "A collection of the highest rated simpsons episodes."
-    collection_order: custom
-    collection_level: episode
     plex_search:
       type: episodes
       sort_by: audience_rating.desc
@@ -25,14 +30,12 @@ collections:
         title.ends: "The Simpsons"
     schedule: daily
     template: {
-                    name: plex,
+                    name: episodes,
                     num: 00
                 }
 
   "The American Dad! Top 100 Episodes":
     summary: "A collection of the highest rated american dad episodes."
-    collection_order: custom
-    collection_level: episode
     plex_search:
       type: episodes
       sort_by: audience_rating.desc
@@ -41,14 +44,12 @@ collections:
         title.ends: "American Dad!"
     schedule: daily
     template: {
-                    name: plex,
+                    name: episodes,
                     num: 01
                 }
 
   "The Comedy Central Presents Top 100 Episodes":
     summary: "A collection of the highest rated comedy central presents episodes."
-    collection_order: custom
-    collection_level: episode
     plex_search:
       type: episodes
       sort_by: audience_rating.desc
@@ -57,14 +58,12 @@ collections:
         title.ends: "comedy central presents"
     schedule: daily
     template: {
-                    name: plex,
+                    name: episodes,
                     num: 02
                 }
 
   "The Comedy Central Presents Top 100 Episodes":
     summary: "A collection of the highest rated comedy central presents episodes."
-    collection_order: custom
-    collection_level: episode
     plex_search:
       type: episodes
       sort_by: audience_rating.desc
@@ -73,14 +72,12 @@ collections:
         title.ends: "comedy central presents"
     schedule: daily
     template: {
-                    name: plex,
+                    name: episodes,
                     num: 03
                 }
 
   "The Family Guy Top 100 Episodes":
     summary: "A collection of the highest rated family guy episodes."
-    collection_order: custom
-    collection_level: episode
     plex_search:
       type: episodes
       sort_by: audience_rating.desc
@@ -89,14 +86,12 @@ collections:
         title.ends: "Family Guy"
     schedule: daily
     template: {
-                    name: plex,
+                    name: episodes,
                     num: 04
                 }
 
   "The How It's Made Top 100 Episodes":
     summary: "A collection of the highest rated how it's made episodes."
-    collection_order: custom
-    collection_level: episode
     plex_search:
       type: episodes
       sort_by: audience_rating.desc
@@ -105,14 +100,12 @@ collections:
         title.ends: "how it's made"
     schedule: daily
     template: {
-                    name: plex,
+                    name: episodes,
                     num: 05
                 }
 
   "The South Park Top 100 Episodes":
     summary: "A collection of the highest rated south park episodes."
-    collection_order: custom
-    collection_level: episode
     plex_search:
       type: episodes
       sort_by: audience_rating.desc
@@ -121,14 +114,12 @@ collections:
         title.ends: "South Park"
     schedule: daily
     template: {
-                    name: plex,
+                    name: episodes,
                     num: 06
                 }
 
   "The Futurama Top 100 Episodes":
     summary: "A collection of the highest rated futurama episodes."
-    collection_order: custom
-    collection_level: episode
     plex_search:
       type: episodes
       sort_by: audience_rating.desc
@@ -137,6 +128,6 @@ collections:
         title.ends: "Futurama"
     schedule: daily
     template: {
-                    name: plex,
+                    name: episodes,
                     num: 07
                 }
