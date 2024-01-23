@@ -14,7 +14,7 @@ templates:
 
 collections:
   "Lost Media":
-    summary: "TV Episode that have banned or removed"
+    summary: "Television episodes pulled from general rotation"
     visible_library: true
     schedule: daily
     template: {
