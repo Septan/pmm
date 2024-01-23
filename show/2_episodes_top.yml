@@ -62,20 +62,6 @@ collections:
                     num: 02
                 }
 
-  "The Comedy Central Presents Top 100 Episodes":
-    summary: "A collection of the highest rated comedy central presents episodes."
-    plex_search:
-      type: episodes
-      sort_by: audience_rating.desc
-      limit: 100
-      all:
-        title.ends: "comedy central presents"
-    schedule: daily
-    template: {
-                    name: episodes,
-                    num: 03
-                }
-
   "The Family Guy Top 100 Episodes":
     summary: "A collection of the highest rated family guy episodes."
     plex_search:
@@ -87,7 +73,7 @@ collections:
     schedule: daily
     template: {
                     name: episodes,
-                    num: 04
+                    num: 03
                 }
 
   "The How It's Made Top 100 Episodes":
@@ -101,7 +87,7 @@ collections:
     schedule: daily
     template: {
                     name: episodes,
-                    num: 05
+                    num: 04
                 }
 
   "The South Park Top 100 Episodes":
@@ -115,7 +101,7 @@ collections:
     schedule: daily
     template: {
                     name: episodes,
-                    num: 06
+                    num: 05
                 }
 
   "The Futurama Top 100 Episodes":
@@ -129,5 +115,5 @@ collections:
     schedule: daily
     template: {
                     name: episodes,
-                    num: 07
+                    num: 06
                 }
