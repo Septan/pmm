@@ -22,6 +22,8 @@ collections:
      - https://trakt.tv/users/moses456/lists/controversial-films-of-the-21st-century
      - https://trakt.tv/users/unabatedshagie/lists/11-of-the-world-s-most-banned-movies
      - https://trakt.tv/users/bigfella/lists/102-most-controversial-films
+    letterboxd_list:
+     - https://letterboxd.com/koffein/list/full-worldwide-list-of-banned-films/
     collection_order: alpha
     collection_mode: default
     sort_title: ++++++++++++++++++_Lost Media
