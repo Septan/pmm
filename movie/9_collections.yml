@@ -12,6 +12,22 @@ collections:
     url_poster: https://cdn.discordapp.com/attachments/1096584253527036095/1136181666352726087/RareObscure1.png
     add_to_arr: false
 
+  Lost Media:
+    trakt_list:
+     - https://trakt.tv/users/moses456/lists/most-shocking-and-banned-horror-movies
+     - https://trakt.tv/users/moses456/lists/the-complete-72-banned-titles-list-by-uselessfact
+     - https://trakt.tv/users/moses456/lists/the-100-most-controversial-movies-of-all-time
+     - https://trakt.tv/users/moses456/lists/us-banned_controversial-movies
+     - https://trakt.tv/users/moses456/lists/list-of-the-most-controversial-films-ever-made-1
+     - https://trakt.tv/users/moses456/lists/controversial-films-of-the-21st-century
+     - https://trakt.tv/users/unabatedshagie/lists/11-of-the-world-s-most-banned-movies
+     - https://trakt.tv/users/bigfella/lists/102-most-controversial-films
+    collection_order: alpha
+    collection_mode: default
+    sort_title: ++++++++++++++++++_Lost Media
+    summary: Films always have the ability to anger us, divide us, shock us, disgust us, and more. Usually, films that inspire controversy, outright boycotting, picketing, banning, censorship, or protest have graphic sex, violence, homosexuality, religious, political or race-related themes and content. They usually push the envelope regarding what can be filmed and displayed on the screen, and are considered taboo, "immoral" or "obscene" due to language, drug use, violence and sensuality/nudity or other incendiary elements. Inevitably, controversy helps to publicize these films and fuel the box-office receipts.
+    add_to_arr: false
+
 
   # Mindfuck Movies:
   #   trakt_list:
