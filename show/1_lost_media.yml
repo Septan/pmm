@@ -24,5 +24,5 @@ collections:
     imdb_id: tt0589782, tt0705972, tt0761283, tt0786244, tt0789661, tt1635619, tt1644896, tt0701217, tt1610750, tt0533417, tt3086182, tt0763039, tt0701230, tt2041216
     smart_filter:
       all:
-      collection: "Lost Media"
+        collection: "Lost Media"
       sort_by: critic_rating.desc
