@@ -2,20 +2,18 @@
 
 templates:
   plex:
-    cache_builders: 4
     collection_mode: hide
     delete_not_scheduled: false
-    sort_title: "+1_<<num>>_<<collection_name>>"
+    sort_title: "+010_<<num>>_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
     visible_shared: false
 
   trakt:
-    cache_builders: 4
     collection_mode: hide
     delete_not_scheduled: false
-    sort_title: "+1_<<num>>_<<collection_name>>"
+    sort_title: "+010_<<num>>_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
@@ -64,11 +62,10 @@ templates:
       - trakt_list_extra_20
 
   mdblist:
-    cache_builders: 6
     collection_mode: hide
     collection_order: custom
     delete_not_scheduled: false
-    sort_title: "+1_<<num>>_<<collection_name>>"
+    sort_title: "+010_<<num>>_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
@@ -83,103 +80,171 @@ templates:
       - mdblist_extra_4
       - mdblist_extra_5
 
+  letterboxd:
+    collection_mode: hide
+    collection_order: custom
+    delete_not_scheduled: false
+    sort_title: "+010_<<num>>_<<collection_name>>"
+    sync_mode: sync
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    letterboxd_list:
+      - <<letterboxd_list_extra_01>>
+      - <<letterboxd_list_extra_02>>
+      - <<letterboxd_list_extra_03>>
+      - <<letterboxd_list_extra_04>>
+      - <<letterboxd_list_extra_05>>
+    optional:
+      - letterboxd_list_extra_01
+      - letterboxd_list_extra_02
+      - letterboxd_list_extra_03
+      - letterboxd_list_extra_04
+      - letterboxd_list_extra_05
+      
 collections:
   "Random Movies":
-    summary: "Random selection of movies"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/random.png
-    visible_library: true
     schedule: daily
+    summary: "Random selection of movies"
+    visible_library: true
     template: {
                     name: plex,
-                    num: 0
+                    num: "0"
                 }
     smart_filter:
-      all:
-        critic_rating.gte: 4
-      sort_by: random
+      any:
+        audio_language: English, english
       limit: 250
+      sort_by: random
       
   "Recently Added Movies":
-    summary: "Recently added movies"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_added.png
+    schedule: daily
+    summary: "Recently added movies"
     visible_home: true
-    visible_shared: true
     visible_library: true
+    visible_shared: true
     template: {
                     name: plex,
-                    num: 1
+                    num: "1"
                 }
     smart_filter:
       any:
         audio_language: English, english
-      sort_by: added.desc
       limit: 200
+      sort_by: added.desc
 
   "Recently Released Movies":
-    summary: "Recently released movies"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_released.png
+    schedule: daily
+    summary: "Recently released movies"
     visible_library: true
     template: {
                     name: plex,
-                    num: 1
+                    num: "2"
                 }
     smart_filter:
       any:
         audio_language: English, english
-      sort_by: release.desc
       limit: 200
+      sort_by: release.desc
+
+  "Recommended Movies":
+    collection_order: alpha
+  #  url_poster: 
+    schedule: daily
+    summary: "Based on personally favourited movies"
+    template: {
+                    name: letterboxd,
+#                    letterboxd_list_extra_01: "https://letterboxd.com/########/list/movie-recommendations",
+                    num: "3"
+                }
+    trakt_userlist:
+      - userlist: favorites
+        user: me
+
       
   "Suggested Movies":
-    collection_order: random
+    collection_order: alpha
     summary: "Based on watched and favourited movies"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/suggested.png
+    schedule: daily
+    summary: "Based on watched and favourited movies"
     template: {
                     name: trakt,
-                    num: 2
+                    num: "4"
+#                    num: "4",
 #                    trakt_list_extra_01: "https://trakt.tv/users/########/lists/movie-recommendations-couchmoney-tv",
 #                    trakt_list_extra_02: "https://trakt.tv/users/########/lists/movies-based-on-recently-watched-couchmoney-tv"
                 }
-    trakt_userlist:
-      - userlist: recommendations
-        user: me
+    trakt_chart:
+      - chart: recommended
+        countries: us, gb, ie, ca, au, nz
+        languages: en
+        limit: 5
+        time_period: daily
+      - chart: recommended
+        countries: us, gb, ie, ca, au, nz
+        languages: en
+        limit: 10
+        time_period: weekly
+      - chart: recommended
+        countries: us, gb, ie, ca, au, nz
+        languages: en
+        limit: 25
+        time_period: monthly
+      - chart: recommended
+        countries: us, gb, ie, ca, au, nz
+        languages: en
+        limit: 50
+        time_period: yearly
+      - chart: recommended
+        countries: us, gb, ie, ca, au, nz
+        languages: en
+        limit: 200
+        time_period: all
+
         
   "Trending Movies":
-    summary: "Movies trending across the internet"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/trending.png
     schedule: daily
+    summary: "Movies trending across the internet"
     template: {
-                    name: mdblist,
-                    num: 2,
-                    mdblist_user: "archivist",
                     mdblist_list: "movie-trending",
-                    mdblist_sort: "rank.desc"
+                    mdblist_sort: "rank.desc",
+                    mdblist_user: "archivist",
+                    name: mdblist,
+                    num: "5"
                 }
     limit: 100
 
   "Popular Movies":
-    summary: "Popular movies across the internet"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/popular.png
-    visible_library: true
     schedule: daily
+    sort_title: "+010_<<num>>_<<collection_name>>"
+    summary: "Popular movies across the internet"
+    visible_library: true
     template: {
-                    name: mdblist,
-                    num: 3,
-                    mdblist_user: "archivist",
                     mdblist_list: "movie-popular",
-                    mdblist_sort: "imdbpopular.desc"
+                    mdblist_sort: "imdbpopular.desc",
+                    mdblist_user: "archivist",
+                    name: mdblist,
+                    num: "6"
                 }
     limit: 250
-
+    
   "Top Rated Movies":
-    summary: "Top rated movies across the internet"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/top_rated.png
     schedule: daily
+    sort_title: "+010_<<num>>_<<collection_name>>"
+    summary: "Top rated movies across the internet"
     template: {
-                    name: mdblist,
-                    num: 3,
-                    mdblist_user: "archivist",
                     mdblist_list: "movie-top-rated",
-                    mdblist_sort: "imdbrating.desc"
+                    mdblist_sort: "imdbrating.desc",
+                    mdblist_user: "archivist",
+                    name: mdblist,
+                    num: "7"
                 }
     limit: 500
 
@@ -190,7 +255,7 @@ collections:
     schedule: daily
     template: {
                     name: trakt,
-                    num: 4
+                    num: 8
                 }
     trakt_chart:
       chart: watched
@@ -206,7 +271,7 @@ collections:
     schedule: daily
     template: {
                     name: trakt,
-                    num: 5
+                    num: 9
                 }
     trakt_chart:
       chart: watched
@@ -222,7 +287,7 @@ collections:
     schedule: weekly(sunday)
     template: {
                     name: trakt,
-                    num: 6
+                    num: 10
                 }
     trakt_chart:
       chart: watched
@@ -238,7 +303,7 @@ collections:
     schedule: weekly(sunday)
     template: {
                     name: trakt,
-                    num: 7
+                    num: 11
                 }
     trakt_chart:
       chart: watched
