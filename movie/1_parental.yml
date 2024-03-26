@@ -2,7 +2,6 @@
 
 templates:
   plex:
-    cache_builders: 4
     collection_mode: hide
     delete_not_scheduled: false
     label.sync: Parental
@@ -14,53 +13,53 @@ templates:
 
 collections:
   "Parental: Random":
-    summary: "Random movies suitable for children"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-random.png
+    summary: "Random movies suitable for children"
     template: {
                     name: plex,
-                    num: "B"
+                    num: "1"
                 }
     smart_filter:
       all:
         collection: "Parental: All"
-      sort_by: random
       limit: 250
+      sort_by: random
 
   "Parental: Recently Released":
-    summary: "Recently released movies suitable for children"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-recently-released.png
+    summary: "Recently released movies suitable for children"
     template: {
                     name: plex,
-                    num: "C"
+                    num: "3"
                 }
     smart_filter:
       all:
         collection: "Parental: All"
-      sort_by: release.desc
       limit: 250
+      sort_by: release.desc
 
   "Parental: Recently Added":
-    summary: "Recently added movies suitable for children"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-recently-added.png
+    summary: "Recently added movies suitable for children"
     template: {
                     name: plex,
-                    num: "D"
+                    num: "2"
                 }
     smart_filter:
       all:
         collection: "Parental: All"
-      sort_by: added.desc
       limit: 100
+      sort_by: added.desc
 
   "Parental: Top Rated":
-    summary: "Top rated movies suitable for children"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-top-rated.png
+    summary: "Top rated movies suitable for children"
     template: {
                     name: plex,
-                    num: "E"
+                    num: "4"
                 }
     smart_filter:
       all:
         collection: "Parental: All"
-      sort_by: critic_rating.desc
       limit: 250
+      sort_by: critic_rating.desc
