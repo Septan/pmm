@@ -1528,14 +1528,14 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-time-travel.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
                     keyword: "time-travel",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
                     letterboxd_list: "theme-time-travel",
-                    trakt_extra_1: https://trakt.tv/users/rizreflects/lists/time-travel
+                    name: sub_genre,
+                    rating.gte: 5,
+                    trakt_extra_1: "https://trakt.tv/users/rizreflects/lists/time-travel",
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Treasure Hunt":
@@ -1543,13 +1543,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-treasure-hunt.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
                     keyword: "treasure-hunt",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 100,
                     language: "en",
                     letterboxd_list: "theme-treasure-hunt",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 100
                 }
 
   "Top Rated in True Story":
@@ -1557,15 +1557,15 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-true-story.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
                     keyword: "based-on-true-story",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
                     letterboxd_list: "theme-true-story",
-                    trakt_extra_1: https://trakt.tv/users/hdlists/lists/based-on-or-inspired-by-a-true-story,
-                    trakt_extra_2: https://trakt.tv/users/rizreflects/lists/true-story-based
+                    name: sub_genre,
+                    rating.gte: 5,
+                    trakt_extra_1: "https://trakt.tv/users/hdlists/lists/based-on-or-inspired-by-a-true-story",
+                    trakt_extra_2: "https://trakt.tv/users/rizreflects/lists/true-story-based",
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Urban Fantasy":
@@ -1573,13 +1573,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-urban-fantasy.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
                     keyword: "urban-fantasy",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-urban-fantasy"
+                    letterboxd_list: "theme-urban-fantasy",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Utopian":
@@ -1587,14 +1587,14 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-utopian.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
+                    imdb_extra_1: "https://www.imdb.com/list/ls041227401",
                     keyword: "utopia",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
                     letterboxd_list: "theme-utopian",
-                    imdb_extra_1: "https://www.imdb.com/list/ls041227401"
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Vampires":
@@ -1602,13 +1602,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-vampires.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
                     keyword: "vampire",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-vampires"
+                    letterboxd_list: "theme-vampires",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Video Game":
@@ -1616,13 +1616,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-video-game.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
                     keyword: "based-on-video-game",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-video-game"
+                    letterboxd_list: "theme-video-game",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Werewolves":
@@ -1630,13 +1630,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-werewolves.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
                     keyword.any: "werewolf,werewolves",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-werewolves"
+                    letterboxd_list: "theme-werewolves",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Whodunit?":
@@ -1644,13 +1644,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-whodunit.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
                     keyword: "whodunit",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 100,
                     language: "en",
                     letterboxd_list: "theme-whodunit",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 100
                 }
 
   "Top Rated in Wizardry & Witchcraft":
@@ -1658,13 +1658,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-wizardry-witchcraft.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
                     keyword.any: "witch,wizard",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-wizardry-witchcraft"
+                    letterboxd_list: "theme-wizardry-witchcraft",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                }
 
   "Top Rated in World War":
@@ -1672,13 +1672,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-world-war.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
                     keyword.any: "world-war-one,world-war-two",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-world-war"
+                    letterboxd_list: "theme-world-war",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                }
 
   "Top Rated in Zombies":
@@ -1686,11 +1686,11 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-zombies.png
     schedule: weekly(sunday)
     template: {
-                    name: sub_genre,
                     keyword: "zombie",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-zombie"
+                    letterboxd_list: "theme-zombie",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
