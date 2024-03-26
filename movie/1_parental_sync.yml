@@ -2,7 +2,6 @@
 
 templates:
   mdblist:
-    cache_builders: 6
     collection_mode: hide
     collection_order: alpha
     delete_not_scheduled: false
@@ -25,11 +24,11 @@ templates:
 
 collections:
   "Parental: All":
+    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/assets/_parental/parental_all.png
     summary: "Movies suitable for children"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-all.png
     template: {
-                    name: mdblist,
-                    num: "A",
+                    mdblist_list: "list-parental",
                     mdblist_user: "archivist",
-                    mdblist_list: "list-parental"
+                    name: mdblist,
+                    num: "0"
                 }
