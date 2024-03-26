@@ -918,13 +918,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-naval.png
     schedule: weekly(thursday)
     template: {
-                    name: sub_genre,
                     keyword: "naval-battle",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-naval"
+                    letterboxd_list: "theme-naval",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Ninjas":
@@ -932,13 +932,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-ninjas.png
     schedule: weekly(thursday)
     template: {
-                    name: sub_genre,
                     keyword: "ninja",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-ninjas"
+                    letterboxd_list: "theme-ninjas",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Novel":
@@ -946,13 +946,26 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-novel.png
     schedule: weekly(thursday)
     template: {
-                    name: sub_genre,
                     keyword: "based-on-book,based-on-novel",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-novel"
+                    letterboxd_list: "theme-novel",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
+                }
+
+  "Top Rated in Nunsploitation":
+    schedule: weekly(thursday)
+    summary: "Top rated movies in Nunsploitation"
+    template: {
+                    keyword: "nunsploitation",
+                    language: "en",
+                    letterboxd_list: "theme-nunsploitation",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 100
                 }
 
   "Top Rated in Occult":
@@ -960,13 +973,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-occult.png
     schedule: weekly(thursday)
     template: {
-                    name: sub_genre,
                     keyword: "occult",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-occult"
+                    letterboxd_list: "theme-occult",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Outerspace":
@@ -974,14 +987,14 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-outerspace.png
     schedule: weekly(thursday)
     template: {
-                    name: sub_genre,
                     keyword: "outer-space,space-travel",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
                     letterboxd_list: "theme-outer-space",
-                    trakt_extra_1: https://trakt.tv/users/hdlists/lists/outer-space-space-exploration-movies
+                    name: sub_genre,
+                    rating.gte: 5,
+                    trakt_extra_1: "https://trakt.tv/users/hdlists/lists/outer-space-space-exploration-movies",
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Outlaw":
@@ -989,13 +1002,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-outlaw.png
     schedule: weekly(thursday)
     template: {
-                    name: sub_genre,
                     keyword: "outlaw",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 100,
                     language: "en",
-                    letterboxd_list: "theme-outlaw"
+                    letterboxd_list: "theme-outlaw",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 100
                 }
 
   "Top Rated in Pandemic":
@@ -1003,13 +1016,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-pandemic.png
     schedule: weekly(thursday)
     template: {
-                    name: sub_genre,
                     keyword: "pandemic",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-pandemic"
+                    letterboxd_list: "theme-pandemic",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Paranormal":
@@ -1017,13 +1030,26 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-paranormal.png
     schedule: weekly(thursday)
     template: {
-                    name: sub_genre,
                     keyword: "paranormal-phenomenon",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-paranormal"
+                    letterboxd_list: "theme-paranormal",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
+                }
+
+  "Top Rated in Parody":
+    schedule: weekly(thursday)
+    summary: "Top rated movies in Parody"
+    template: {
+                    keyword.any: "parody,parody-comedy",
+                    language: "en",
+                    letterboxd_list: "theme-parody",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Period Drama":
@@ -1031,13 +1057,26 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-period-drama.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "period-drama",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-period-drama"
+                    letterboxd_list: "theme-period-drama",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
+                }
+
+  "Top Rated in Petrolhead":
+    schedule: weekly(monday)
+    summary: "Top rated movies in Petrolhead"
+    template: {
+                    keyword.any: "car-racing,racing",
+                    language: "en",
+                    letterboxd_list: "theme-petrolhead",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 100
                 }
 
   "Top Rated in Philosophical":
@@ -1045,14 +1084,14 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-philosophical.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "philosophy",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
                     letterboxd_list: "theme-philosophical",
-                    trakt_extra_1: https://trakt.tv/users/rizreflects/lists/philosophical
+                    name: sub_genre,
+                    rating.gte: 5,
+                    trakt_extra_1: "https://trakt.tv/users/rizreflects/lists/philosophical",
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Political":
@@ -1060,13 +1099,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-political.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "politics,politician",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-political"
+                    letterboxd_list: "theme-political",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Post-Apocalyptic":
@@ -1074,13 +1113,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-post-apocalyptic.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "post-apocalypse",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-post-apocalyptic"
+                    letterboxd_list: "theme-post-apocalyptic",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Prehistoric":
@@ -1088,14 +1127,15 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-prehistoric.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "prehistoric-times",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 1000,
                     language: "en",
+                    letterboxd_list_details_url_1: "https://letterboxd.com/mikkelhh/list/before-civilization-prehistoric-films/by/rating/",
+                    letterboxd_list_details_limit_1: 250,
                     letterboxd_list: "theme-prehistoric",
-                    letterboxd_extra_1: "https://letterboxd.com/mikkelhh/list/before-civilization-prehistoric-films/"
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Prison":
@@ -1103,13 +1143,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-prison.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "prison,prisoner,prison-guard",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 100,
                     language: "en",
-                    letterboxd_list: "theme-prison"
+                    letterboxd_list: "theme-prison",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 100
                 }
 
   "Top Rated in Psychedelic":
@@ -1117,13 +1157,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-psychedlic.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "psychedelic",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-psychedelic"
+                    letterboxd_list: "theme-psychedelic",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Psychological":
@@ -1131,13 +1171,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-psychological.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
-                    keyword: "psychological",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 1000,
+                    keyword.any: "psychological,psychological-horror",
                     language: "en",
-                    letterboxd_list: "theme-psychological"
+                    letterboxd_list: "theme-psychological",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Religion":
@@ -1145,13 +1185,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-religion.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "faith,religion,prayer",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 100,
                     language: "en",
-                    letterboxd_list: "theme-religous"
+                    letterboxd_list: "theme-religous",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 100
                 }
 
   "Top Rated in Remake":
@@ -1159,14 +1199,15 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-remake.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "remake",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 100,
                     language: "en",
+                    letterboxd_list_details_url_1: "https://letterboxd.com/l_shelby/list/remakes/by/rating/",
+                    letterboxd_list_details_limit_1: 250,
                     letterboxd_list: "theme-remake",
-                    letterboxd_extra_1: "https://letterboxd.com/l_shelby/list/remakes/"
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 100
                 }
 
   "Top Rated in Revenge":
@@ -1174,13 +1215,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-revenge.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "revenge-plot",
-                    type: "movie,tv_movie",
-                    rating.gte: 3,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-revenge"
+                    letterboxd_list: "theme-revenge",
+                    name: sub_genre,
+                    rating.gte: 3,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Robots":
@@ -1188,13 +1229,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-robots.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "giant-robot",
-                    type: "movie,tv_movie",
-                    rating.gte: 3,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-robots"
+                    letterboxd_list: "theme-robots",
+                    name: sub_genre,
+                    rating.gte: 3,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Romantic Comedy":
@@ -1202,13 +1243,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-romantic-comedy.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     genre: "romance,comedy",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-romantic-comedy"
+                    letterboxd_list: "theme-romantic-comedy",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
     filters:
      genre: Comedy
@@ -1219,13 +1260,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-romantic-drama.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     genre: "romance,drama",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-romantic-drama"
+                    letterboxd_list: "theme-romantic-drama",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
     filters:
      genre: Drama
@@ -1236,14 +1277,15 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-samurai.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
                     keyword: "samurai,sword-fight",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 100,
                     language: "en",
+                    letterboxd_list_details_url_1: "https://letterboxd.com/jhcrotinger/list/samurai/by/rating/",
+                    letterboxd_list_details_limit_1: 250,
                     letterboxd_list: "theme-samurai",
-                    letterboxd_extra_1: "https://letterboxd.com/jhcrotinger/list/samurai/"
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 100
                 }
 
   "Top Rated in Satire":
@@ -1251,14 +1293,14 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-satire.png
     schedule: weekly(friday)
     template: {
-                    name: sub_genre,
-                    keyword: "satire",
                     genre: "comedy",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
+                    keyword: "satire",
                     language: "en",
-                    letterboxd_list: "theme-satire"
+                    letterboxd_list: "theme-satire",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Serial Killers":
@@ -1266,13 +1308,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-serial-killers.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
                     keyword: "serial-killer,murder",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-serial-killers"
+                    letterboxd_list: "theme-serial-killers",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Slasher":
@@ -1280,17 +1322,17 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-slasher.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
-                    keyword: "slasher",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
-                    language: "en",
-                    letterboxd_list: "theme-slasher",
                     imdb_extra_1: "https://www.imdb.com/list/ls053988992",
                     imdb_extra_2: "https://www.imdb.com/list/ls029703473",
                     imdb_extra_3: "https://www.imdb.com/list/ls002540370",
-                    imdb_extra_4: "https://www.imdb.com/list/ls062357250"
+                    imdb_extra_4: "https://www.imdb.com/list/ls062357250",
+                    keyword: "slasher",
+                    language: "en",
+                    letterboxd_list: "theme-slasher",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Space Opera":
@@ -1298,13 +1340,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-space-opera.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
                     keyword: "space-opera",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-space-opera"
+                    letterboxd_list: "theme-space-opera",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Spaghetti Western":
@@ -1312,13 +1354,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-spaghetti-western.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
                     keyword: "spaghetti-western",
-                    type: "movie,tv_movie",
-                    rating.gte: 1,
-                    votes.gte: 10,
                     language: "en",
-                    letterboxd_list: "theme-spaghetti-western"
+                    letterboxd_list: "theme-spaghetti-western",
+                    name: sub_genre,
+                    rating.gte: 1,
+                    type: "movie,tv_movie",
+                    votes.gte: 10
                 }
 
   "Top Rated in Splatter":
@@ -1326,14 +1368,14 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-splatter.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
-                    keyword: "splatter",
                     genre: "horror",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 1000,
+                    keyword: "splatter",
                     language: "en",
-                    letterboxd_list: "theme-splatter"
+                    letterboxd_list: "theme-splatter",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Steampunk":
@@ -1341,13 +1383,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-steampunk.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
                     keyword: "steampunk",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-steampunk"
+                    letterboxd_list: "theme-steampunk",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Stoner":
@@ -1355,13 +1397,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-stoner.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
                     keyword: "stoner,marijuana",
-                    type: "movie,tv_movie",
-                    rating.gte: 1,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-stoner"
+                    letterboxd_list: "theme-stoner",
+                    name: sub_genre,
+                    rating.gte: 1,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Stop-Motion":
@@ -1369,14 +1411,15 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-stop-motion.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
                     keyword: "stop-motion",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 100,
                     language: "en",
+                    letterboxd_list_details_url_1: "https://letterboxd.com/savage_/list/stop-motion/by/rating/",
+                    letterboxd_list_details_limit_1: 250,
                     letterboxd_list: "theme-stop-motion",
-                    letterboxd_extra_1: "https://letterboxd.com/savage_/list/stop-motion/"
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 100
                 }
 
   "Top Rated in Superhero":
@@ -1398,27 +1441,27 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-supernatural.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
                     keyword: "supernatural-power",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-supernatural"
+                    letterboxd_list: "theme-supernatural",
+                    name: sub_genre,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
-
+                
   "Top Rated in Surrealism":
     summary: "Top rated movies in Surrealism"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-surrealism.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
                     keyword: "surrealism",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
-                    letterboxd_list: "theme-surrealism"
+                    letterboxd_list: "theme-surrealism",
+                    name: sub_genre,
+                    rating.gte: 7,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Survival":
@@ -1426,14 +1469,14 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-survival.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
                     keyword: "survival,survivor",
-                    type: "movie,tv_movie",
-                    rating.gte: 5,
-                    votes.gte: 1000,
                     language: "en",
                     letterboxd_list: "theme-survival",
-                    trakt_extra_1: https://trakt.tv/users/rizreflects/lists/survival
+                    name: sub_genre,
+                    rating.gte: 5,
+                    trakt_extra_1: "https://trakt.tv/users/rizreflects/lists/survival",
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Swashbuckler":
@@ -1441,13 +1484,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-swashbuckler.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
                     keyword: "swashbuckler",
-                    type: "movie,tv_movie",
-                    rating.gte: 2,
-                    votes.gte: 100,
                     language: "en",
-                    letterboxd_list: "theme-swashbuckler"
+                    letterboxd_list: "theme-swashbuckler",
+                    name: sub_genre,
+                    rating.gte: 2,
+                    type: "movie,tv_movie",
+                    votes.gte: 100
                 }
 
   "Top Rated in Sword & Sandal":
@@ -1455,14 +1498,14 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-sword-sandal.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
+                    imdb_extra_1: "https://www.imdb.com/list/ls043130664",
                     keyword: "sword-and-sandal",
-                    type: "movie,tv_movie",
-                    rating.gte: 3,
-                    votes.gte: 1000,
                     language: "en",
                     letterboxd_list: "theme-sword-sandal",
-                    imdb_extra_1: "https://www.imdb.com/list/ls043130664"
+                    name: sub_genre,
+                    rating.gte: 3,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Sword & Sorcery":
@@ -1470,14 +1513,14 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/subgenre/top-rated-sword-sorcery.png
     schedule: weekly(saturday)
     template: {
-                    name: sub_genre,
+                    imdb_extra_1: "https://www.imdb.com/list/ls022909805",
                     keyword: "sword-and-sorcery",
-                    type: "movie,tv_movie",
-                    rating.gte: 3,
-                    votes.gte: 1000,
                     language: "en",
                     letterboxd_list: "theme-sword-sorcery",
-                    imdb_extra_1: "https://www.imdb.com/list/ls022909805"
+                    name: sub_genre,
+                    rating.gte: 3,
+                    type: "movie,tv_movie",
+                    votes.gte: 1000
                 }
 
   "Top Rated in Time Travel":
