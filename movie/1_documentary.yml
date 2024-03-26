@@ -13,11 +13,11 @@ templates:
 
 collections:
   "Documentaries: All":
-    summary: "Documentaries"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesAll.png
+    summary: "Documentaries"
     template: {
                     name: plex,
-                    num: "F"
+                    num: "0"
                 }
     smart_filter:
       all:
@@ -25,54 +25,54 @@ collections:
       sort_by: title.asc
 
   "Documentaries: Random":
-    summary: "Random documentaries"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesRandom.png
+    summary: "Random documentaries"
     template: {
                     name: plex,
-                    num: "G"
+                    num: "1"
                 }
     smart_filter:
       all:
         genre: documentary
-      sort_by: random
       limit: 250
+      sort_by: random
 
   "Documentaries: Recently Released":
-    summary: "Recently released documentaries"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesRecentlyReleased.png
+    summary: "Recently released documentaries"
     template: {
                     name: plex,
-                    num: "H"
+                    num: "2"
                 }
     smart_filter:
       all:
         genre: documentary
-      sort_by: release.desc
       limit: 250
+      sort_by: release.desc
 
   "Documentaries: Recently Added":
-    summary: "Recently added documentaries"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesRecentlyAdded.png
+    summary: "Recently added documentaries"
     visible_library: true
     template: {
                     name: plex,
-                    num: "I"
+                    num: "3"
                 }
     smart_filter:
       all:
         genre: documentary
-      sort_by: added.desc
       limit: 100
-
+      sort_by: added.desc
+      
   "Documentaries: Top Rated":
-    summary: "Top rated documentaries"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesTopRated.png
+    summary: "Top rated documentaries"
     template: {
                     name: plex,
-                    num: "J"
+                    num: "4"
                 }
     smart_filter:
       all:
         genre: documentary
-      sort_by: critic_rating.desc
       limit: 250
+      sort_by: critic_rating.desc
