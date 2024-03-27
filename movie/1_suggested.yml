@@ -167,7 +167,6 @@ collections:
       
   "Suggested Movies":
     collection_order: alpha
-    summary: "Based on watched and favourited movies"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/suggested.png
     schedule: daily
     summary: "Based on watched and favourited movies"
