@@ -1,14 +1,13 @@
-## 1_parental_sync.yml
+## _parental_sync.yml
 
 templates:
   mdblist:
-    cache_builders: 6
     collection_mode: hide
     collection_order: alpha
     delete_not_scheduled: false
     item_label.sync: Parental
     label.sync: Parental
-    sort_title: "+1_<<num>>_<<collection_name>>"
+    sort_title: "+040_<<num>>_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
@@ -25,11 +24,11 @@ templates:
 
 collections:
   "Parental: All":
-    summary: "TV shows suitable for children"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-all.png
+    summary: "TV shows suitable for children"
     template: {
-                    name: mdblist,
-                    num: "A",
+                    mdblist_list: "list-parental",
                     mdblist_user: "archivist",
-                    mdblist_list: "list-parental"
+                    name: mdblist,
+                    num: "0"
                 }
