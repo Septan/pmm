@@ -1,4 +1,4 @@
-## 3_decades_top.yml
+## _decades_top.yml
 
 templates:
   decade_top:
@@ -6,7 +6,7 @@ templates:
     collection_order: custom
     delete_not_scheduled: false
     limit: 250
-    sort_title: "+3_<<num>>_<<collection_name>>"
+    sort_title: "+090_<<num>>_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
