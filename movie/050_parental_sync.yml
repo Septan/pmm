@@ -1,4 +1,4 @@
-## 1_parental_sync.yml
+## _parental_sync.yml
 
 templates:
   mdblist:
@@ -7,7 +7,7 @@ templates:
     delete_not_scheduled: false
     item_label.sync: Parental
     label.sync: Parental
-    sort_title: "+1_<<num>>_<<collection_name>>"
+    sort_title: "+050_<<num>>_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
