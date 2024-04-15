@@ -34,8 +34,8 @@ collections:
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/standup/StandUpAll.png
     summary: "Stand-up"
     template: {
+                    mdblist_list: "stand-up-comedy",
                     mdblist_user: "XanderRogue",
-                    mdblist_list: "stand-up-comedy"
                     name: mdblist,
                     num: "0"
                 }
