@@ -1,4 +1,4 @@
-## 5_genre_popular.yml
+## _genre_popular.yml
 
 templates:
   popular:
@@ -6,7 +6,7 @@ templates:
     collection_order: custom
     delete_not_scheduled: false
     limit: 250
-    sort_title: "+5_<<collection_name>>"
+    sort_title: "+110_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
