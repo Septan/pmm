@@ -1,4 +1,4 @@
-## 2_year_top.yml
+## _year_top.yml
 
 templates:
   year_top:
@@ -6,7 +6,7 @@ templates:
     collection_order: custom
     delete_not_scheduled: false
     limit: 250
-    sort_title: "+2_<<num>>_<<collection_name>>"
+    sort_title: "+080_<<num>>_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
