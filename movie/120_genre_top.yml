@@ -1,218 +1,246 @@
-## 6_genre_top.yml
+## _genre_top.yml
 
 templates:
   top:
-    cache_builders: 6
     collection_mode: hide
     collection_order: custom
     delete_not_scheduled: false
     limit: 500
-    sort_title: "+6 Rated: <<collection_name>>"
+    sort_title: "+120_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
     visible_shared: false
     imdb_search:
       genre: <<genre>>
+      genre.not: <<genre.not>>
       language: <<language>>
       limit: 1000
       rating.gte: <<rating.gte>>
       sort_by: rating.desc
       type: <<type>>
       votes.gte: <<votes.gte>>
+    optional:
+      - genre.not
 
 collections:
   "Top Rated in Action":
-    summary: "Top rated movies in Action"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-action.png
+    summary: "Top rated movies in Action"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "action",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
   "Top Rated in Adventure":
-    summary: "Top rated movies in Adventure"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-adventure.png
+    summary: "Top rated movies in Adventure"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "adventure",
-                    rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
-                }
-
-  "Top Rated in Animation":
-    summary: "Top rated movies in Animation"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-animation.png
-    template: {
+                    genre.not: "documentary",
+                    language: "en",
                     name: top,
-                    type: "movie,tv_movie",
-                    genre: "animation",
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
+                }
+  "Top Rated in Animation":
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-animation.png
+    summary: "Top rated movies in Animation"
+    template: {
+                    genre: "animation",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
   "Top Rated in Biography":
-    summary: "Top rated movies in Biography"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-biography.png
+    summary: "Top rated movies in Biography"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "biography",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
+
 
   "Top Rated in Comedy":
-    summary: "Top rated movies in Comedy"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-comedy.png
+    summary: "Top rated movies in Comedy"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "comedy",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
+                }
+  "Top Rated in Crime":
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-crime.png
+    summary: "Top rated movies in Crime"
+    template: {
+                    genre: "crime",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
-  "Top Rated in Crime":
-    summary: "Top rated movies in Crime"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-crime.png
+  "Top Rated in Documentary":
+    #url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/assets/_genre_top/genre_top-rated_documentary.png
+    summary: "Top rated movies in Documentary"
     template: {
+                    genre: "documentary",
+                    language: "en",
                     name: top,
-                    type: "movie,tv_movie",
-                    genre: "crime",
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
   "Top Rated in Drama":
-    summary: "Top rated movies in Drama"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-drama.png
+    summary: "Top rated movies in Drama"
     template: {
-                    name: top,
                     genre: "drama",
-                    type: "movie,tv_movie",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
   "Top Rated in Family":
-    summary: "Top rated movies in Family"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-family.png
+    summary: "Top rated movies in Family"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "family",
-                    rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
-                }
-
-  "Top Rated in Fantasy":
-    summary: "Top rated movies in Fantasy"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-fantasy.png
-    template: {
+                    genre.not: "documentary",
+                    language: "en",
                     name: top,
-                    type: "movie,tv_movie",
-                    genre: "fantasy",
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
+                }
+                
+  "Top Rated in Fantasy":
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-fantasy.png
+    summary: "Top rated movies in Fantasy"
+    template: {
+                    genre: "fantasy",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
   "Top Rated in History":
-    summary: "Top rated movies in History"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-history.png
+    summary: "Top rated movies in History"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "history",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
   "Top Rated in Horror":
-    summary: "Top rated movies in Horror"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-horror.png
+    summary: "Top rated movies in Horror"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "horror",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
+
   "Top Rated in Music":
-    summary: "Top rated movies in Music"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-music.png
+    summary: "Top rated movies in Music"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "music",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
   "Top Rated in Musicals":
-    summary: "Top rated movies in Musicals"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-musicals.png
+    summary: "Top rated movies in Musicals"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "musical",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
   "Top Rated in Mystery":
-    summary: "Top rated movies in Mystery"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-mystery.png
-
+    summary: "Top rated movies in Mystery"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "mystery",
-                    rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
-                }
-
-  "Top Rated in Romance":
-    summary: "Top rated movies in Romance"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-romance.png
-    template: {
+                    genre.not: "documentary",
+                    language: "en",
                     name: top,
-                    type: "movie,tv_movie",
-                    genre: "romance",
                     rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
+                }
+  "Top Rated in Romance":
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-romance.png
+    summary: "Top rated movies in Romance"
+    template: {
+                    genre: "romance",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
                     votes.gte: 10000,
-                    language: "en"
                 }
 
   "Top Rated in Sci-Fi":
-    summary: "Top rated movies in Sci-Fi"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-sci-fi.png
+    summary: "Top rated movies in Sci-Fi"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "sci-fi",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
   # "Top Rated in Shorts":
@@ -227,39 +255,56 @@ collections:
   #                   votes: "500,",
   #                   languages: "en",
   #                   }
+
+  "Top Rated in Sport":
+    #url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/assets/_genre_top/genre_top-rated_sport.png
+    summary: "Top rated movies in Sport"
+    template: {
+                    genre: "sport",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
+                    rating.gte: 5,
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
+                }
                     
   "Top Rated in Thriller":
-    summary: "Top rated movies in Thriller"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-thriller.png
+    summary: "Top rated movies in Thriller"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "thriller",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
+
   "Top Rated in War":
-    summary: "Top rated movies in War"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-war.png
+    summary: "Top rated movies in War"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "war",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
 
   "Top Rated in Western":
-    summary: "Top rated movies in Western"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/top_rated_genre/top-rated-western.png
+    summary: "Top rated movies in Western"
     template: {
-                    name: top,
-                    type: "movie,tv_movie",
                     genre: "western",
+                    genre.not: "documentary",
+                    language: "en",
+                    name: top,
                     rating.gte: 5,
-                    votes.gte: 10000,
-                    language: "en"
+                    type: "movie,tv_movie",
+                    votes.gte: 10000
                 }
