@@ -1,4 +1,4 @@
-## 7_subgenre_top.yml
+## _subgenre_top.yml
 
 templates:
   sub_genre:
@@ -6,7 +6,7 @@ templates:
     collection_order: critic_rating.desc
     delete_not_scheduled: false
     limit: 250
-    sort_title: "+7_<<collection_name>>"
+    sort_title: "+130_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
