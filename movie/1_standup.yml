@@ -2,7 +2,6 @@
 
 templates:
   plex:
-    cache_builders: 4
     collection_mode: hide
     delete_not_scheduled: false
     sort_title: "+1_<<num>>_<<collection_name>>"
@@ -10,10 +9,8 @@ templates:
     visible_home: false
     visible_library: false
     visible_shared: false
-    tmdb_movie: <<movie>>
 
   mdblist:
-    cache_builders: 6
     collection_mode: hide
     collection_order: alpha
     delete_not_scheduled: false
@@ -34,63 +31,63 @@ templates:
 
 collections:
   "Stand-up: All":
-    summary: "Stand-up"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/standup/StandUpAll.png
+    summary: "Stand-up"
     template: {
-                    name: mdblist,
-                    num: "K",
                     mdblist_user: "XanderRogue",
                     mdblist_list: "stand-up-comedy"
+                    name: mdblist,
+                    num: "0"
                 }
 
   "Stand-up: Random":
-    summary: "Random Stand-up"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/standup/StandUpRandom.png
+    summary: "Random Stand-up"    
     template: {
                     name: plex,
-                    num: "L"
+                    num: "1"
                 }
     smart_filter:
       all:
         collection: "Stand-up: All"
-      sort_by: random
       limit: 250
+      sort_by: random
 
   "Stand-up: Recently Released":
-    summary: "Recently released Stand-up"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/standup/StandUpRecentlyReleased.png
+    summary: "Recently released Stand-up"
     template: {
                     name: plex,
-                    num: "M"
+                    num: "2"
                 }
     smart_filter:
       all:
         collection: "Stand-up: All"
-      sort_by: release.desc
       limit: 250
+      sort_by: added.desc
 
   "Stand-up: Recently Added":
     summary: "Recently added Stand-up"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/standup/StandUpRecentlyAdded.png
     template: {
                     name: plex,
-                    num: "N"
+                    num: "3"
                 }
     smart_filter:
       all:
         collection: "Stand-up: All"
-      sort_by: added.desc
       limit: 100
+      sort_by: release.desc
 
   "Stand-up: Top Rated":
-    summary: "Top rated Stand-up"
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/standup/StandUpTopRated.png
+    summary: "Top rated Stand-up"
     template: {
                     name: plex,
-                    num: "O"
+                    num: "4"
                 }
     smart_filter:
       all:
         collection: "Stand-up: All"
-      sort_by: critic_rating.desc
       limit: 250
+      sort_by: critic_rating.desc
