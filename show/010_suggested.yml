@@ -155,9 +155,6 @@ collections:
                     num: "3"
                     trakt_list_extra_01: "https://trakt.tv/users/madepidemic1/lists/favorites",
                 }
-    trakt_userlist:
-      - userlist: favorites
-        user: me
 
   "Suggested TV shows":
     collection_order: alpha
