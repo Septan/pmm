@@ -109,6 +109,6 @@ collections:
     summary: "Based on personally favourited Anime shows"
     template: {
                     name: trakt,
-                    num: "1"
-                    trakt_list_extra_01: "https://trakt.tv/users/madepidemic1/lists/favorites",
+                    num: "1",
+                    trakt_list_extra_01: "https://trakt.tv/users/madepidemic1/lists/favorites"
                 }
