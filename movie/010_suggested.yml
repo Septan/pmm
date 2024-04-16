@@ -156,8 +156,8 @@ collections:
     schedule: daily
     summary: "Based on personally favourited movies"
     template: {
-                    name: letterboxd,
-#                    letterboxd_list_extra_01: "https://letterboxd.com/########/list/movie-recommendations",
+                    name: trakt,
+                    trakt_list_extra_01: "https://trakt.tv/users/madepidemic1/lists/favorites",
                     num: "3"
                 }
     trakt_userlist:
