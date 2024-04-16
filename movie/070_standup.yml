@@ -31,7 +31,7 @@ templates:
 
 collections:
   "Stand-up: All":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/standup/StandUpAll.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_standup/stand-up_all.png
     summary: "Stand-up"
     template: {
                     mdblist_list: "stand-up-comedy",
@@ -41,7 +41,7 @@ collections:
                 }
 
   "Stand-up: Random":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/standup/StandUpRandom.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_standup/stand-up_random.png
     summary: "Random Stand-up"    
     template: {
                     name: plex,
@@ -54,7 +54,7 @@ collections:
       sort_by: random
 
   "Stand-up: Recently Released":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/standup/StandUpRecentlyReleased.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_standup/stand-up_recently-released.png
     summary: "Recently released Stand-up"
     template: {
                     name: plex,
@@ -68,7 +68,7 @@ collections:
 
   "Stand-up: Recently Added":
     summary: "Recently added Stand-up"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/standup/StandUpRecentlyAdded.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_standup/stand-up_recently-added.png
     template: {
                     name: plex,
                     num: "3"
@@ -80,7 +80,7 @@ collections:
       sort_by: release.desc
 
   "Stand-up: Top Rated":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/standup/StandUpTopRated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_standup/stand-up_top-rated.png
     summary: "Top rated Stand-up"
     template: {
                     name: plex,
