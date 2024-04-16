@@ -160,9 +160,6 @@ collections:
                     trakt_list_extra_01: "https://trakt.tv/users/madepidemic1/lists/favorites",
                     num: "3"
                 }
-    trakt_userlist:
-      - userlist: favorites
-        user: me
 
   "Suggested Movies":
     collection_order: alpha
