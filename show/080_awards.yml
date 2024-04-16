@@ -1,12 +1,11 @@
-## 4_awards.yml
+## _awards.yml
 
 templates:
   award_nominee:
-    cache_builders: 6
     collection_mode: hide
     collection_order: release.desc
     delete_not_scheduled: false
-    sort_title: "+4_<<num>>_<<collection_name>>"
+    sort_title: "+080_<<num>>_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
@@ -18,11 +17,10 @@ templates:
       type: <<type>>
 
   award_winner:
-    cache_builders: 6
     collection_mode: hide
     collection_order: release.desc
     delete_not_scheduled: false
-    sort_title: "+4_<<num>>_<<collection_name>>"
+    sort_title: "+080_<<num>>_<<collection_name>>"
     sync_mode: sync
     visible_home: false
     visible_library: false
@@ -35,67 +33,67 @@ templates:
 
 collections:
   "Emmy Award Nominees":
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_awards/awards_nominees_emmy.png
     summary: "A collection of Emmy Award Nominees"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/emmy_awards_nominees.png
     template: {
+                    event: "emmy",
+                    language: "en",
                     name: award_nominee,
                     num: "A",
-                    type: "tv_series,tv_mini_series,tv_special",
-                    event: "emmy",
-                    language: "en"
+                    type: "tv_series,tv_mini_series,tv_special"
                 }
 
   "Emmy Award Winners":
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_awards/awards_winners_emmy.png
     summary: "A collection of Emmy Award Winners"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/emmy_awards_winners.png
     template: {
+                    event.winning: "emmy",
+                    language: "en",
                     name: award_winner,
                     num: "B",
-                    type: "tv_series,tv_mini_series,tv_special",
-                    event.winning: "emmy",
-                    language: "en"
+                    type: "tv_series,tv_mini_series,tv_special"
                 }
 
   "Golden Globes Nominees":
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_awards/awards_nominees_golden-globes.png
     summary: "A collection of Golden Globes Nominees"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/golden_globes_nominees.png
     template: {
+                    event: "golden",
+                    language: "en",
                     name: award_nominee,
                     num: "C",
-                    type: "tv_series,tv_mini_series,tv_special",
-                    event: "golden",
-                    language: "en"
+                    type: "tv_series,tv_mini_series,tv_special"
                 }
 
   "Golden Globes Winners":
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_awards/awards_winners_golden_globes.png
     summary: "A collection of Golden Globes Winners"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/golden_globes_winners.png
     template: {
+                    event.winning: "golden",
+                    language: "en",
                     name: award_winner,
                     num: "D",
-                    type: "tv_series,tv_mini_series,tv_special",
-                    event.winning: "golden",
-                    language: "en"
+                    type: "tv_series,tv_mini_series,tv_special"
                 }
 
   "BAFTA Winners":
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_awards/awards_winners_bafta.png
     summary: "A collection of BAFTA Winners"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/bafta_winners.png
     template: {
+                    event.winning: "bafta",
+                    language: "en",
                     name: award_winner,
                     num: "E",
-                    type: "tv_series,tv_mini_series,tv_special",
-                    event.winning: "bafta",
-                    language: "en"
+                    type: "tv_series,tv_mini_series,tv_special"
                 }
 
   "Critic's Choice Winners":
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_awards/awards_winners_critics-choice.png
     summary: "A collection of Critic's Choice Winners"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/awards/critics_choice_winners.png
     template: {
-                    name: award_winner,
-                    num: "K",
-                    type: "tv_series,tv_mini_series,tv_special",
                     event.winning: "choice",
-                    language: "en"
+                    language: "en",
+                    name: award_winner,
+                    num: "F",
+                    type: "tv_series,tv_mini_series,tv_special"
                 }
