@@ -1,0 +1,117 @@
+## _suggested.yml
+
+templates:
+  plex:
+    collection_mode: hide
+    delete_not_scheduled: false
+    sort_title: "+010_<<num>>_<<collection_name>>"
+    sync_mode: sync
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+
+  trakt:
+    collection_mode: hide
+    delete_not_scheduled: false
+    sort_title: "+010_<<num>>_<<collection_name>>"
+    sync_mode: sync
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    trakt_list:
+      - <<trakt_list_extra_01>>
+      - <<trakt_list_extra_02>>
+      - <<trakt_list_extra_03>>
+      - <<trakt_list_extra_04>>
+      - <<trakt_list_extra_05>>
+      - <<trakt_list_extra_06>>
+      - <<trakt_list_extra_07>>
+      - <<trakt_list_extra_08>>
+      - <<trakt_list_extra_09>>
+      - <<trakt_list_extra_10>>
+      - <<trakt_list_extra_11>>
+      - <<trakt_list_extra_12>>
+      - <<trakt_list_extra_13>>
+      - <<trakt_list_extra_14>>
+      - <<trakt_list_extra_15>>
+      - <<trakt_list_extra_16>>
+      - <<trakt_list_extra_17>>
+      - <<trakt_list_extra_18>>
+      - <<trakt_list_extra_19>>
+      - <<trakt_list_extra_20>>
+    optional:
+      - trakt_list_extra_01
+      - trakt_list_extra_02
+      - trakt_list_extra_03
+      - trakt_list_extra_04
+      - trakt_list_extra_05
+      - trakt_list_extra_06
+      - trakt_list_extra_07
+      - trakt_list_extra_08
+      - trakt_list_extra_09
+      - trakt_list_extra_10
+      - trakt_list_extra_11
+      - trakt_list_extra_12
+      - trakt_list_extra_13
+      - trakt_list_extra_14
+      - trakt_list_extra_15
+      - trakt_list_extra_16
+      - trakt_list_extra_17
+      - trakt_list_extra_18
+      - trakt_list_extra_19
+      - trakt_list_extra_20
+
+  mdblist:
+    collection_mode: hide
+    collection_order: custom
+    delete_not_scheduled: false
+    sort_title: "+010_<<num>>_<<collection_name>>"
+    sync_mode: sync
+    visible_home: false
+    visible_library: false
+    visible_shared: false
+    mdblist_list:
+      sort_by: <<mdblist_sort>>
+      url: https://mdblist.com/lists/<<mdblist_user>>/<<mdblist_list>>/
+    optional:
+      - mdblist_extra_1
+      - mdblist_extra_2
+      - mdblist_extra_3
+      - mdblist_extra_4
+      - mdblist_extra_5
+
+#  letterboxd:
+#    collection_mode: hide
+#    collection_order: custom
+#    delete_not_scheduled: false
+#    sort_title: "+010_<<num>>_<<collection_name>>"
+#    sync_mode: sync
+#    visible_home: false
+#    visible_library: false
+#    visible_shared: false
+#    letterboxd_list:
+#      - <<letterboxd_list_extra_01>>
+#      - <<letterboxd_list_extra_02>>
+#      - <<letterboxd_list_extra_03>>
+#      - <<letterboxd_list_extra_04>>
+#      - <<letterboxd_list_extra_05>>
+#    optional:
+#      - letterboxd_list_extra_01
+#      - letterboxd_list_extra_02
+#      - letterboxd_list_extra_03
+#      - letterboxd_list_extra_04
+#      - letterboxd_list_extra_05
+
+collections:
+  "Recommended TV shows":
+    collection_order: alpha
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_recommended.png
+    summary: "Based on personally favourited Anime shows"
+    template: {
+                    name: trakt,
+                    num: "1"
+                    trakt_list_extra_01: "https://trakt.tv/users/madepidemic1/lists/favorites",
+                }
+    trakt_userlist:
+      - userlist: favorites
+        user: me
