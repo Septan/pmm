@@ -11,10 +11,9 @@ templates:
     visible_library: false
     visible_shared: false
 
-
 collections:
   "Parental: Random":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-random.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_parental/parental_random.png
     summary: "Random TV shows suitable for children"
     template: {
                     name: plex,
@@ -25,9 +24,9 @@ collections:
         collection: "Parental: All"
       sort_by: random
       limit: 250
-      
+
   "Parental: Recently Added":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-recently-added.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_parental/parental_recently-added.png
     summary: "Recently added TV shows suitable for children"
     template: {
                     name: plex,
@@ -40,7 +39,7 @@ collections:
       limit: 100
 
   "Parental: Recently Released":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-recently-released.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_parental/parental_recently-released.png
     summary: "Recently released TV shows suitable for children"
     template: {
                     name: plex,
@@ -53,7 +52,7 @@ collections:
       limit: 250
 
   "Parental: Top Rated":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/parental/parental-top-rated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_parental/parental_top-rated.png
     summary: "Top rated TV shows suitable for children"
     template: {
                     name: plex,

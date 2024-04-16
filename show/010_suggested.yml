@@ -104,7 +104,7 @@ templates:
 
 collections:
   "Random TV shows":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/random.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_random.png
     schedule: daily
     summary: "Random selection of TV shows"
     visible_library: true
@@ -117,9 +117,9 @@ collections:
         audio_language: English, english
       limit: 250
       sort_by: random
-      
+
   "Recently Added TV shows":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_added.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_recently-added.png
     summary: "Recently added TV shows"
     visible_library: true
     template: {
@@ -133,7 +133,7 @@ collections:
       sort_by: added.desc
 
   "Recently Released TV shows":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_released.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_recently-released.png
     summary: "Recently released TV shows"
     visible_library: true
     template: {
@@ -148,7 +148,7 @@ collections:
 
   "Recommended TV shows":
     collection_order: alpha
-    #url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/assets/_suggested/suggested_recommended.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_recommended.png
     summary: "Based on personally favourited TV shows"
     template: {
                     name: trakt,
@@ -159,10 +159,10 @@ collections:
     trakt_userlist:
       - userlist: favorites
         user: me
-      
+
   "Suggested TV shows":
-    collection_order: random
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/suggested.png
+    collection_order: alpha
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_suggested.png
     summary: "Based on watched and favourited TV shows"
     template: {
                     name: trakt,
@@ -198,9 +198,9 @@ collections:
         limit: 200
         time_period: all
 
-
   "Trending TV shows":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/trending.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_trending.png
+    schedule: daily
     summary: "TV shows trending across the internet"
     template: {
                     mdblist_list: "tv-trending",
@@ -212,7 +212,7 @@ collections:
     limit: 50
 
   "Popular TV shows":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/popular.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_popular.png
     schedule: daily
     summary: "Popular TV shows across the internet"
     visible_library: true
@@ -226,7 +226,7 @@ collections:
     limit: 100
 
   "Top Rated TV shows":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/top_rated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_top-rated.png
     schedule: daily
     summary: "Top rated TV shows across the internet"
     template: {
@@ -237,67 +237,3 @@ collections:
                     num: "7"
                 }
     limit: 500
-
-#    "Most Watched Daily":
-#      summary: "TV shows trending across the internet"
-#      url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/daily.png
-#      collection_order: custom
-#      schedule: daily
-#      template: {
-#                      name: trakt,
-#                      num: 4
-#                  }
-#      trakt_chart:
-#        chart: watched
-#        time_period: daily
-#        languages: en
-#        countries: us, gb, ie, ca, au, nz
-#        limit: 50
-
-#    "Most Watched Weekly":
-#      summary: "TV shows trending across the internet"
-#      url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/weekly.png
-#      collection_order: custom
-#      schedule: daily
-#      template: {
-#                      name: trakt,
-#                      num: 5
-#                  }
-#      trakt_chart:
-#        chart: watched
-#        time_period: weekly
-#        languages: en
-#        countries: us, gb, ie, ca, au, nz
-#        limit: 50
-#  
-#    "Most Watched Monthly":
-#      summary: "TV shows trending across the internet"
-#      url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/monthly.png
-#      collection_order: custom
-#      schedule: weekly(sunday)
-#      template: {
-#                    name: trakt,
-#                    num: 6
-#                  }
-#      trakt_chart:
-#        chart: watched
-#        time_period: monthly
-#        languages: en
-#        countries: us, gb, ie, ca, au, nz
-#        limit: 75
-
-#    "Most Watched Yearly":
-#      summary: "TV shows trending across the internet"
-#      url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/yearly.png
-#      collection_order: custom
-#      schedule: weekly(sunday)
-#      template: {
-#                      name: trakt,
-#                      num: 7
-#                  }
-#      trakt_chart:
-#        chart: watched
-#        time_period: yearly
-#        languages: en
-#        countries: us, gb, ie, ca, au, nz
-#        limit: 100

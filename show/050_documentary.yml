@@ -12,7 +12,7 @@ templates:
 
 collections:
   "Documentaries: All":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesAll.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_documentary/documentary_all.png
     summary: "Documentaries"
     template: {
                     name: plex,
@@ -24,7 +24,7 @@ collections:
       sort_by: title.asc
 
   "Documentaries: Random":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesRandom.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_documentary/documentary_random.png
     summary: "Random documentaries"
     template: {
                     name: plex,
@@ -37,7 +37,7 @@ collections:
       sort_by: random
 
   "Documentaries: Recently Added":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesRecentlyAdded.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_documentary/documentary_recently-added.png
     summary: "Recently added documentaries"
     visible_library: true
     template: {
@@ -51,7 +51,7 @@ collections:
       sort_by: added.desc
 
   "Documentaries: Recently Released":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesRecentlyReleased.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_documentary/documentary_recently-released.png
     summary: "Recently released documentaries"
     template: {
                     name: plex,
@@ -64,7 +64,7 @@ collections:
       limit: 250
 
   "Documentaries: Top Rated":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/documentaries/DocumentariesTopRated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_documentary/documentary_top-rated.png
     summary: "Top rated documentaries"
     template: {
                     name: plex,

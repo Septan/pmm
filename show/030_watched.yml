@@ -55,7 +55,7 @@ templates:
 collections:
   "Most Watched Daily":
     collection_order: custom
-#    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/assets/_watched/watched_daily.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_watched/watched_daily.png
     schedule: daily
     summary: "TV shows trending across the internet"
     template: {
@@ -71,7 +71,7 @@ collections:
 
   "Most Watched Weekly":
     collection_order: custom
-#    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/assets/_watched/watched_weekly.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_watched/watched_weekly.png
     schedule: daily
     summary: "TV shows trending across the internet"
     template: {
@@ -87,7 +87,7 @@ collections:
 
   "Most Watched Monthly":
     collection_order: custom
-#    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/assets/_watched/watched_monthly.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_watched/watched_monthly.png
     schedule: weekly(sunday)
     summary: "TV shows trending across the internet"
     template: {
@@ -103,7 +103,7 @@ collections:
 
   "Most Watched Yearly":
     collection_order: custom
-#    url_poster: https://raw.githubusercontent.com/0x5f3/pmm.config/assets/_watched/watched_yearly.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_watched/watched_yearly.png
     schedule: weekly(sunday)
     summary: "TV shows trending across the internet"
     template: {
