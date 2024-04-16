@@ -104,7 +104,7 @@ templates:
       
 collections:
   "Random Movies":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/random.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_random.png
     schedule: daily
     summary: "Random selection of movies"
     visible_library: true
@@ -119,7 +119,7 @@ collections:
       sort_by: random
       
   "Recently Added Movies":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_added.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_recently-added.png
     schedule: daily
     summary: "Recently added movies"
     visible_home: true
@@ -136,7 +136,7 @@ collections:
       sort_by: added.desc
 
   "Recently Released Movies":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/recently_released.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_recently-released.png
     schedule: daily
     summary: "Recently released movies"
     visible_library: true
@@ -152,7 +152,7 @@ collections:
 
   "Recommended Movies":
     collection_order: alpha
-  #  url_poster: 
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main//assets/_suggested/suggested_recommended.png
     schedule: daily
     summary: "Based on personally favourited movies"
     template: {
@@ -164,10 +164,9 @@ collections:
       - userlist: favorites
         user: me
 
-      
   "Suggested Movies":
     collection_order: alpha
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/suggested.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_suggested.png
     schedule: daily
     summary: "Based on watched and favourited movies"
     template: {
@@ -204,9 +203,8 @@ collections:
         limit: 200
         time_period: all
 
-        
   "Trending Movies":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/trending.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_trending.png
     schedule: daily
     summary: "Movies trending across the internet"
     template: {
@@ -219,7 +217,7 @@ collections:
     limit: 100
 
   "Popular Movies":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/popular.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_popular.png
     schedule: daily
     sort_title: "+1_<<num>>_<<collection_name>>"
     summary: "Popular movies across the internet"
@@ -234,7 +232,7 @@ collections:
     limit: 250
     
   "Top Rated Movies":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/top_rated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_top-rated.png
     schedule: daily
     sort_title: "+1_<<num>>_<<collection_name>>"
     summary: "Top rated movies across the internet"
@@ -246,67 +244,3 @@ collections:
                     num: "7"
                 }
     limit: 500
-
-  "Most Watched Daily":
-    summary: "Movies trending across the internet"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/daily.png
-    collection_order: custom
-    schedule: daily
-    template: {
-                    name: trakt,
-                    num: 8
-                }
-    trakt_chart:
-      chart: watched
-      time_period: daily
-      languages: en
-      countries: us, gb, ie, ca, au, nz
-      limit: 50
-
-  "Most Watched Weekly":
-    summary: "Movies trending across the internet"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/weekly.png
-    collection_order: custom
-    schedule: daily
-    template: {
-                    name: trakt,
-                    num: 9
-                }
-    trakt_chart:
-      chart: watched
-      time_period: weekly
-      languages: en
-      countries: us, gb, ie, ca, au, nz
-      limit: 50
-
-  "Most Watched Monthly":
-    summary: "Movies trending across the internet"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/monthly.png
-    collection_order: custom
-    schedule: weekly(sunday)
-    template: {
-                    name: trakt,
-                    num: 10
-                }
-    trakt_chart:
-      chart: watched
-      time_period: monthly
-      languages: en
-      countries: us, gb, ie, ca, au, nz
-      limit: 75
-
-  "Most Watched Yearly":
-    summary: "Movies trending across the internet"
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/suggested/yearly.png
-    collection_order: custom
-    schedule: weekly(sunday)
-    template: {
-                    name: trakt,
-                    num: 11
-                }
-    trakt_chart:
-      chart: watched
-      time_period: yearly
-      languages: en
-      countries: us, gb, ie, ca, au, nz
-      limit: 100
