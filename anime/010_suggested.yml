@@ -103,7 +103,7 @@ templates:
 #      - letterboxd_list_extra_05
 
 collections:
-  "Recommended TV shows":
+  "Recommended Anime shows":
     collection_order: alpha
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_suggested/suggested_recommended.png
     summary: "Based on personally favourited Anime shows"
