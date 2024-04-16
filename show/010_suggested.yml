@@ -153,8 +153,7 @@ collections:
     template: {
                     name: trakt,
                     num: "3"
-#                    num: "3",
-#                    trakt_list_extra_01: "https://trakt.tv/users/########/lists/tv-recommendations"
+                    trakt_list_extra_01: "https://trakt.tv/users/madepidemic1/lists/favorites",
                 }
     trakt_userlist:
       - userlist: favorites
