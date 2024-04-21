@@ -1,192 +1,80 @@
 metadata:
-  "Nancy Drew":
-    year: 2019
-    title: "Nancy Drew"
-    alt_title: "Nancy Drew (2019)"
-    orig_title: "Nancy Drew"
-    sort_title: "Nancy Drew"
-    url_poster: https://theposterdb.com/api/assets/420649/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/420650/
-        2:
-            url_poster: https://theposterdb.com/api/assets/420651/
-        3:
-            url_poster: https://theposterdb.com/api/assets/420652/
-        4:
-            url_poster: https://theposterdb.com/api/assets/420653/
+  "The 100":
+    url_poster: https://theposterdb.com/api/assets/412020/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/412021/
+        1:
+            url_poster: https://theposterdb.com/api/assets/412022/
+        2:
+            url_poster: https://theposterdb.com/api/assets/412023/
+        3:
+            url_poster: https://theposterdb.com/api/assets/412024/
+        4:
+            url_poster: https://theposterdb.com/api/assets/412025/
+        5:
+            url_poster: https://theposterdb.com/api/assets/412026/
+        6:
+            url_poster: https://theposterdb.com/api/assets/412027/
+        7:
+            url_poster: https://theposterdb.com/api/assets/412028/
 
-  "SMILF":
-    year: 2017
-    title: "SMILF"
-    alt_title: "SMILF (2017)"
-    orig_title: "SMILF"
-    sort_title: "SMILF"
-    url_poster: https://theposterdb.com/api/assets/420609/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/420610/
-        2:
-            url_poster: https://theposterdb.com/api/assets/420611/
+  "1883":
+    url_poster: https://theposterdb.com/api/assets/436747/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/436748/
+        1:
+            url_poster: https://theposterdb.com/api/assets/436749/
 
-  "The Transformers":
-    year: 1984
-    title: "The Transformers"
-    alt_title: "The Transformers (1984)"
-    orig_title: "The Transformers"
-    sort_title: "Transformers"
-    url_poster: https://theposterdb.com/api/assets/419856/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/419857/
-        1:
-            url_poster: https://theposterdb.com/api/assets/419858/
-        2:
-            url_poster: https://theposterdb.com/api/assets/419859/
-        3:
-            url_poster: https://theposterdb.com/api/assets/419860/
-        4:
-            url_poster: https://theposterdb.com/api/assets/419861/
+  "1899":
+    url_poster: https://theposterdb.com/api/assets/412007/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/412008/
+        1:
+            url_poster: https://theposterdb.com/api/assets/412009/
 
-  "The Umbrella Academy":
-    year: 2019
-    title: "The Umbrella Academy"
-    alt_title: "The Umbrella Academy (2019)"
-    orig_title: "The Umbrella Academy"
-    sort_title: "Umbrella Academy"
-    url_poster: https://theposterdb.com/api/assets/419348/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/419349/
-        1:
-            url_poster: https://theposterdb.com/api/assets/419350/
-        2:
-            url_poster: https://theposterdb.com/api/assets/419351/
-        3:
-            url_poster: https://theposterdb.com/api/assets/419352/
-        4:
-            url_poster: https://theposterdb.com/api/assets/419353/
+  "Adventure Time":
+    url_poster: https://theposterdb.com/api/assets/382741/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/382742/
+        1:
+            url_poster: https://theposterdb.com/api/assets/382743/
+        2:
+            url_poster: https://theposterdb.com/api/assets/382744/
+        3:
+            url_poster: https://theposterdb.com/api/assets/382745/
+        4:
+            url_poster: https://theposterdb.com/api/assets/382746/
+        5:
+            url_poster: https://theposterdb.com/api/assets/382747/
+        6:
+            url_poster: https://theposterdb.com/api/assets/382748/
+        7:
+            url_poster: https://theposterdb.com/api/assets/382749/
+        8:
+            url_poster: https://theposterdb.com/api/assets/382750/
+        9:
+            url_poster: https://theposterdb.com/api/assets/382751/
+        10:
+            url_poster: https://theposterdb.com/api/assets/382752/
 
-  "Gen V":
-    year: 2023
-    title: "Gen V"
-    alt_title: "Gen V (2023)"
-    orig_title: "Gen V"
-    sort_title: "Gen V"
-    url_poster: https://theposterdb.com/api/assets/419157/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/419158/
-        1:
-            url_poster: https://theposterdb.com/api/assets/419159/
+  "Adventure Time: Fionna and Cake":
+    url_poster: https://theposterdb.com/api/assets/403927/
+    seasons:
+        1:
+            url_poster: https://theposterdb.com/api/assets/403928/
 
-  "The Mighty Ducks: Game Changers":
-    year: 2021
-    title: "The Mighty Ducks: Game Changers"
-    alt_title: "The Mighty Ducks: Game Changers (2021)"
-    orig_title: "The Mighty Ducks: Game Changers"
-    sort_title: "Mighty Ducks: Game Changers"
-    url_poster: https://theposterdb.com/api/assets/418949/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/418950/
-        2:
-            url_poster: https://theposterdb.com/api/assets/418951/
-
-  "Tacoma FD":
-    year: 2019
-    title: "Tacoma FD"
-    alt_title: "Tacoma FD (2019)"
-    orig_title: "Tacoma FD"
-    sort_title: "Tacoma FD"
-    url_poster: https://theposterdb.com/api/assets/418193/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/418194/
-        1:
-            url_poster: https://theposterdb.com/api/assets/418195/
-        2:
-            url_poster: https://theposterdb.com/api/assets/418196/
-        3:
-            url_poster: https://theposterdb.com/api/assets/418197/
-        4:
-            url_poster: https://theposterdb.com/api/assets/418198/
-
-  "The Man From U.N.C.L.E.":
-    year: 1964
-    title: "The Man From U.N.C.L.E."
-    alt_title: "The Man From U.N.C.L.E. (1964)"
-    orig_title: "The Man From U.N.C.L.E."
-    sort_title: "Man From U.N.C.L.E."
-    url_poster: https://theposterdb.com/api/assets/417600/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/417601/
-        1:
-            url_poster: https://theposterdb.com/api/assets/417602/
-        2:
-            url_poster: https://theposterdb.com/api/assets/417603/
-        3:
-            url_poster: https://theposterdb.com/api/assets/417604/
-        4:
-            url_poster: https://theposterdb.com/api/assets/417605/
-
-  "Magnum P.I.":
-    year: 2018
-    title: "Magnum P.I."
-    alt_title: "Magnum P.I. (2018)"
-    orig_title: "Magnum P.I."
-    sort_title: "Magnum P.I."
-    url_poster: https://theposterdb.com/api/assets/417591/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/417592/
-        2:
-            url_poster: https://theposterdb.com/api/assets/417593/
-        3:
-            url_poster: https://theposterdb.com/api/assets/417594/
-        4:
-            url_poster: https://theposterdb.com/api/assets/417595/
-        5:
-            url_poster: https://theposterdb.com/api/assets/417596/
-
-  "NCIS: Hawai'i":
-    year: 2021
-    title: "NCIS: Hawai'i"
-    alt_title: "NCIS: Hawai'i (2021)"
-    orig_title: "NCIS: Hawai'i"
-    sort_title: "NCIS: Hawai'i"
-    url_poster: https://theposterdb.com/api/assets/417201/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/417202/
-        2:
-            url_poster: https://theposterdb.com/api/assets/417203/
-
-  "The Sandman":
-    year: 2022
-    title: "The Sandman"
-    alt_title: "The Sandman (2022)"
-    orig_title: "The Sandman"
-    sort_title: "Sandman"
-    url_poster: https://theposterdb.com/api/assets/430271/
-    seasons:
-        0:
-            url_poster: https://theposterdb.com/api/assets/430272/
-        1:
-            url_poster: https://theposterdb.com/api/assets/430273/
-    
-  "Pennyworth: THe Origin of Batman's Butler":
-    year: 2019
-    title: "Pennyworth: THe Origin of Batman's Butler"
-    alt_title: "Pennyworth: THe Origin of Batman's Butler (2019)"
-    orig_title: "Pennyworth: THe Origin of Batman's Butler"
-    sort_title: "Pennyworth: THe Origin of Batman's Butler"
-    url_poster: https://theposterdb.com/api/assets/430009/
-    seasons:
-        1:
-            url_poster: https://theposterdb.com/api/assets/430010/
-        2:
-            url_poster: https://theposterdb.com/api/assets/430011/
-        3:
-            url_poster: https://theposterdb.com/api/assets/430012/
+  "The Adventures of Jimmy Neutron: Boy Genius":
+      url_poster: https://theposterdb.com/api/assets/412423/
+    seasons:
+        0:
+            url_poster: https://theposterdb.com/api/assets/412424/
+        1:
+            url_poster: https://theposterdb.com/api/assets/412425/
+        2:
+            url_poster: https://theposterdb.com/api/assets/412426/
+        3:
+            url_poster: https://theposterdb.com/api/assets/412427/
