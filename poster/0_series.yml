@@ -1,6 +1,6 @@
 metadata:
 
-  The 100:
+  "The 100":
     url_poster: https://theposterdb.com/api/assets/412020/
     seasons:
       0:
@@ -20,7 +20,7 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/412028/
 
-  1883:
+  "1883":
     url_poster: https://theposterdb.com/api/assets/436747/
     seasons:
       0:
@@ -28,7 +28,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/436749/
 
-  1899:
+  "1899":
     url_poster: https://theposterdb.com/api/assets/412007/
     seasons:
       0:
@@ -36,7 +36,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/412009/
 
-  Adventure Time:
+  "Adventure Time":
     url_poster: https://theposterdb.com/api/assets/382741/
     seasons:
       0:
