@@ -349,3 +349,132 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/394461
       12:
         url_poster: https://theposterdb.com/api/assets/394462
+
+  Big Mouth:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/423750
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/423752
+      2:
+        url_poster: https://theposterdb.com/api/assets/423753
+      3:
+        url_poster: https://theposterdb.com/api/assets/423754
+      4:
+        url_poster: https://theposterdb.com/api/assets/423755
+      5:
+        url_poster: https://theposterdb.com/api/assets/423756
+      6:
+        url_poster: https://theposterdb.com/api/assets/423757
+      7:
+        url_poster: https://theposterdb.com/api/assets/423758
+
+  Billions:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/408470
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/408472
+      2:
+        url_poster: https://theposterdb.com/api/assets/408473
+      3:
+        url_poster: https://theposterdb.com/api/assets/408474
+      4:
+        url_poster: https://theposterdb.com/api/assets/408475
+      5:
+        url_poster: https://theposterdb.com/api/assets/408476
+      6:
+        url_poster: https://theposterdb.com/api/assets/408477
+      7:
+        url_poster: https://theposterdb.com/api/assets/408478
+
+  Black Lightning:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/427040
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/427041
+      2:
+        url_poster: https://theposterdb.com/api/assets/427042
+      3:
+        url_poster: https://theposterdb.com/api/assets/427043
+      4:
+        url_poster: https://theposterdb.com/api/assets/427044
+
+  Blood & Treasure:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/412044
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/412045
+      2:
+        url_poster: https://theposterdb.com/api/assets/412046
+
+  Bob's Burgers:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/419428
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/419430
+      2:
+        url_poster: https://theposterdb.com/api/assets/419431
+      3:
+        url_poster: https://theposterdb.com/api/assets/419432
+      4:
+        url_poster: https://theposterdb.com/api/assets/419433
+      5:
+        url_poster: https://theposterdb.com/api/assets/419434
+      6:
+        url_poster: https://theposterdb.com/api/assets/419435
+      7:
+        url_poster: https://theposterdb.com/api/assets/419436
+      8:
+        url_poster: https://theposterdb.com/api/assets/419437
+      9:
+        url_poster: https://theposterdb.com/api/assets/419438
+      10:
+        url_poster: https://theposterdb.com/api/assets/419439
+      11:
+        url_poster: https://theposterdb.com/api/assets/419440
+      12:
+        url_poster: https://theposterdb.com/api/assets/419441
+      13:
+        url_poster: https://theposterdb.com/api/assets/419442
+      14:
+        url_poster: https://theposterdb.com/api/assets/419443
+
+  The Book of Boba Fett:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/440637
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/440638
+
+  "Bosch: Legacy":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/422776
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/422777
+      2:
+        url_poster: https://theposterdb.com/api/assets/422778
+
+  The Boys:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/434499
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/434500
+      1:
+        url_poster: https://theposterdb.com/api/assets/434501
+      2:
+        url_poster: https://theposterdb.com/api/assets/434502
+      3:
+        url_poster: https://theposterdb.com/api/assets/434503
+
+  "The Boys Presents: Diabolical":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/434505
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/434506
