@@ -1,0 +1,24 @@
+#######################################################
+#                    Septan                           #
+#                TV Collection                        #
+#######################################################
+templates:
+  Collection:
+    optional:
+      - list
+      - show
+    tvdb_list_details: <<list>>
+    tvdb_show: <<show>>
+    url_poster: <<poster>>
+    # url_background: <<background>>
+    sync_mode: sync
+    collection_order: release
+
+#######################################################
+#######################################################
+
+collections:
+
+  Yellowstone:
+    template: {name: Collection, show: "341164, 396390, 416491, 416503", poster: https://theposterdb.com/api/assets/436750}
+    summary: Collection of shows from the Yellowstone universe.
