@@ -1,0 +1,32 @@
+#######################################################
+#                    Septan                           #
+#                TV Collection                        #
+#######################################################
+templates:
+  Collection:
+    optional:
+      - list
+      - show
+    tvdb_list_details: <<list>>
+    tvdb_show: <<show>>
+    url_poster: <<poster>>
+    # url_background: <<background>>
+    sync_mode: sync
+    collection_order: release
+
+#######################################################
+#######################################################
+
+collections:
+
+  Arrowverse:
+    template: {name: Collection, show: "257655, 279121, 273690, 298305, 295759, 295760, 328982, 332525, 361315, 375655", poster: https://theposterdb.com/api/assets/441112}
+    summary: Collection of shows from the Arrow universe.
+
+  Star Wars:
+    template: {name: Collection, show: "83268, 283468, 330710, 351575, 356114, 361753, 385376, 393190, 393589, 393199, 393189, 393187, 393197", poster: https://theposterdb.com/api/assets/440566}
+    summary: Collection of Star Wars TV Series.
+
+  Yellowstone:
+    template: {name: Collection, show: "341164, 396390, 416491, 416503", poster: https://theposterdb.com/api/assets/436750}
+    summary: Collection of shows from the Yellowstone universe.
