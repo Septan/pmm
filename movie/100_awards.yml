@@ -55,7 +55,7 @@ collections:
                 }
 
   "Golden Globes Nominees":
-    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_awards/golden_globes_nominees.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_awards/awards_nominees_golden-globes.png
     summary: "A collection of Golden Globes Nominees"
     template: {
                     event: "golden",
