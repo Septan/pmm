@@ -23,6 +23,10 @@ collections:
     template: {name: Collection, show: "257655, 279121, 273690, 298305, 295759, 295760, 328982, 332525, 361315, 375655", poster: https://theposterdb.com/api/assets/441112}
     summary: Collection of shows from the Arrow universe.
 
+  The Boys:
+    template: {name: Collection, show: "355567, 413188, 417909", poster: https://theposterdb.com/api/assets/434508}
+    summary: Collection of shows from the Boys universe.
+
   Star Wars:
     template: {name: Collection, show: "83268, 283468, 330710, 351575, 356114, 361753, 385376, 393190, 393589, 393199, 393189, 393187, 393197", poster: https://theposterdb.com/api/assets/440566}
     summary: Collection of Star Wars TV Series.
