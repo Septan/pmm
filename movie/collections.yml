@@ -1,0 +1,25 @@
+#######################################################
+#                    Septan                           #
+#                Movie Collection                        #
+#######################################################
+templates:
+  Collection:
+    optional:
+      - list
+      - movie
+    tvdb_list_details: <<list>>
+    tvdb_movie: <<movie>>
+    url_poster: <<poster>>
+    # url_background: <<background>>
+    sync_mode: sync
+    collection_order: release
+
+#######################################################
+#######################################################
+
+collections:
+
+  Marvel Cinematic Universe:
+    template: {name: Collection, movie: "108, 584, 187, 123, 180, 2580, 4624, 31, 4835, 188, 131145, 178, 7799, 965, 26, 59, 163, 118, 145, 67, 68, 62, 48, 8, 28, 10, 148, 4137, 27759, 131146, 131147, 132448, 32426, 131141, 339967, 31110, 144720, 132202, 11716, 134366, 49196, 160768, 337758, 131702, 132341, 338552, 338553", poster: https://theposterdb.com/api/assets/486291}
+  Thor:
+    template: {name: Collection, movie: "123, 178, 62, 131141", poster: https://theposterdb.com/api/assets/486232}
