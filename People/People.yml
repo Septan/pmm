@@ -14,6 +14,7 @@ templates:
       sort_by: <<sort_by>>
       all:
         actor: tmdb
+    visible_library: true
 
   director_dynamic:
     default:
@@ -26,6 +27,7 @@ templates:
       sort_by: <<sort_by>>
       all:
         director: tmdb
+    visible_library: true
 
 #############################
 #    DYNAMIC COLLECTIONS    #
