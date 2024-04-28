@@ -5,21 +5,43 @@
 templates:
   Collection:
     optional:
-      - list
+      - collection
       - movie
-    tvdb_list_details: <<list>>
-    tvdb_movie: <<movie>>
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
     url_poster: <<poster>>
-    # url_background: <<background>>
     sync_mode: sync
     collection_order: release
-
+  Trakt:
+    trakt_list_details: <<list>>
+    url_poster: <<poster>>
+    sync_mode: sync
+    collection_order: custom
 #######################################################
 #######################################################
 
 collections:
-
+  Ant-Man:
+    template: {name: Collection, collection: 422834, poster: https://theposterdb.com/api/assets/485858}
+  Rebel Moon:
+    template: {name: Collection, collection: 934765, poster: https://theposterdb.com/api/assets/485314}
   Marvel Cinematic Universe:
-    template: {name: Collection, movie: "108, 584, 187, 123, 180, 2580, 4624, 31, 4835, 188, 131145, 178, 7799, 965, 26, 59, 163, 118, 145, 67, 68, 62, 48, 8, 28, 10, 148, 4137, 27759, 131146, 131147, 132448, 32426, 131141, 339967, 31110, 144720, 132202, 11716, 134366, 49196, 160768, 337758, 131702, 132341, 338552, 338553", poster: https://theposterdb.com/api/assets/486291}
+    template: {name: Trakt, list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe, poster: https://theposterdb.com/api/assets/486291}
   Thor:
-    template: {name: Collection, movie: "123, 178, 62, 131141", poster: https://theposterdb.com/api/assets/486232}
+    template: {name: Collection, collection: 131296, poster: https://theposterdb.com/api/assets/486232}
+  The Avengers:
+    template: {name: Collection, collection: 86311, poster: https://theposterdb.com/api/assets/485868}
+  Black Panther:
+    template: {name: Collection, collection: 529892, poster: https://theposterdb.com/api/assets/485873}
+  Captain America:
+    template: {name: Collection, collection: 131295, poster: https://theposterdb.com/api/assets/485978}
+  Captain Marvel:
+    template: {name: Collection, collection: 623911, poster: https://theposterdb.com/api/assets/485994}
+  Doctor Strange:
+    template: {name: Collection, collection: 618529, poster: https://theposterdb.com/api/assets/486018}
+  Guardians of the Galaxy:
+    template: {name: Collection, collection: 284433, poster: https://theposterdb.com/api/assets/486078}
+  Iron Man:
+    template: {name: Collection, collection: 131292, poster: https://theposterdb.com/api/assets/486084}
+  Spider-Man:
+    template: {name: Collection, collection: 531241, poster: https://theposterdb.com/api/assets/486102}
