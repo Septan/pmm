@@ -4,6 +4,110 @@
 
 metadata:
 
+  # Rebel Moon Collection
+  "Rebel Moon - Part One: A Child of Fire":
+     year: 2023
+     url_poster: https://theposterdb.com/api/assets/485316
+  "Rebel Moon - Part Two: The Scargiver":
+     year: 2024
+     url_poster: https://theposterdb.com/api/assets/485315
+
+
+  # Marvel Cinematic Universe
+  The Incredible Hulk:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/486295
+  Black Widow:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/486294
+  Eternals:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/486293
+  Wereworlf by Night:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/486292
+  "Spider-Man: Homecoming":
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/486105
+  "Spider-Man: Far from Home":
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/486104
+  "Spider-Man: No Way Home":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/486103
+  Shang-Chi and the Legend of the Ten Rings:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/486089
+  Iron Man:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/486087
+  Iron Man 2:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/486086
+  Iron Man 3:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/486085
+  Guardians of the Galaxy:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/486082
+  Guardians of the Galaxy Vol. 2:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/486081
+  The Guardians of the Galaxy Holiday Special:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/486080
+  Guardians of the Galaxy Vol. 3:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/486079
+  Doctor Strange:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/486020
+  Doctor Strange in the Multiverse of Madness:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/486019
+  Captain Marvel:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/485996
+  The Marvels:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/485995
+  "Captain America: The First Avenger":
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/485981
+  "Captain America: The Winter Soldier":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/485980
+  "Captain America: Civil War":
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/485979
+  Black Panther:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/485875
+  "Black Panther: Wakanda Forever":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/485874
+  The Avengers:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/485872
+  "Avengers: Age of Ultron":
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/485871
+  "Avengers: Infinity War":
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/485870
+  "Avengers: Endgame":
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/485869
+  Ant-Man:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/485861
+  Ant-Man and the Wasp:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/485860
+  "Ant-Man and the Wasp: Quantumania":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/485859
+
   # Thor Collection
   Thor:
     year: 2011
