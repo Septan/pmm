@@ -1,0 +1,19 @@
+######################################################
+#              Septan's Movie Metadata               #
+######################################################
+
+metadata:
+
+  # Thor Collection
+  Thor:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/486236
+  "Thor: The Dark World":
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/486235
+  "Thor: Ragnarok":
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/486234
+  "Thor: Love and Thunder":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/486233
