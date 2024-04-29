@@ -45,3 +45,15 @@ collections:
     template: {name: Collection, collection: 131292, poster: https://theposterdb.com/api/assets/486084}
   Spider-Man:
     template: {name: Collection, collection: 531241, poster: https://theposterdb.com/api/assets/486102}
+  Cornetto Trilogy:
+    template: {name: Collection, collection: 747, 4638, 107985, poster: https://theposterdb.com/api/assets/486803}
+  Deadpool:
+    template: {name: Collection, collection: 293660, 558144, 383498, 567604, 5335535, poster: https://theposterdb.com/api/assets/486835}
+  Dune:
+    template: {name: Collection, collection: 726871, poster: https://theposterdb.com/api/assets/486863}
+  Ghostbusters:
+    template: {name: Collection, collection: 2980, 43074, poster: https://theposterdb.com/api/assets/486906}
+  Airplane:
+    template: {name: Collection, collection: 91663, poster: https://theposterdb.com/api/assets/486912}
+  Spongebob:
+    template: {name: Collection, collection: 275402, poster: https://theposterdb.com/api/assets/486943}

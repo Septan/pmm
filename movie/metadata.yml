@@ -121,3 +121,103 @@ metadata:
   "Thor: Love and Thunder":
     year: 2022
     url_poster: https://theposterdb.com/api/assets/486233
+
+  "Atsuko Okatsuka: The Intruder":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/486741
+
+  Peter's To-Do List:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/486331
+  
+  # Marvel One-Shots
+  "Marvel One-Shot: The Consultant":
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/486341
+  "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer":
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/486340
+  "Marvel One-Shot: Item 47":
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/486339
+  "Marvel One-Shot: Agent Carter":
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/486338
+  "Marvel One-Shot: All Hail the King":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/486337
+
+  # Cornetto Trilogy
+  Shaun of the Dead:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/486806
+  Hot Fuzz:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/486805
+  The World's End:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/486804
+
+  # Deadpool Collection
+  Deadpool:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/486840
+  "Deadpool: No Good Deed":
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/486839
+  Deadpool 2:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/486838
+  Once Upon a Deadpool:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/486837
+  Deadpool & Wolverine:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/486836
+
+  # Dune Collection
+  Dune:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/486865
+  "Dune: Part Two":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/486864
+  # Ghostbusters Collection
+  Ghostbusters:
+    year: 1984
+    url_poster: https://theposterdb.com/api/assets/486911
+  Ghostbusters II:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/486910
+  Ghostbusters:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/486909
+  "Ghostbusters: Afterlife":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/486908
+  "Ghostsbusters: Frozen Empire":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/486907
+  
+  # Airplane Collection
+  Airplane!:
+    year: 1980
+    url_poster: https://theposterdb.com/api/assets/486914
+  "Airplane II: The Sequel":
+    year: 1982
+    url_poster: https://theposterdb.com/api/assets/486913
+
+  Lost in Translation:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/486924
+
+  # Spongebob Collection
+  The SpongeBob SquarePants Movie:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/486946
+  "The SpongeBob Movie: Sponge Out of Water":
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/486945
+  "The SpongeBob Movie: Sponge on the Run":
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/486944
