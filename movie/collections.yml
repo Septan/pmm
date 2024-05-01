@@ -43,7 +43,7 @@ collections:
     template: {name: Collection, collection: 284433, poster: https://theposterdb.com/api/assets/486078}
   Iron Man:
     template: {name: Collection, collection: 131292, poster: https://theposterdb.com/api/assets/486084}
-  Spider-Man:
+  Spider-Man (MCU):
     template: {name: Collection, collection: 531241, poster: https://theposterdb.com/api/assets/486102}
   Cornetto Trilogy:
     template: {name: Collection, collection: 747, 4638, 107985, poster: https://theposterdb.com/api/assets/486803}
@@ -69,7 +69,7 @@ collections:
     template: {name: Collection, collection: 125574, poster: https://theposterdb.com/api/assets/487330}
   Spider-Man:
     template: {name: Collection, collection: 556, poster: https://theposterdb.com/api/assets/487340}
-  Spider-Man Spider-Verse:
+  "Spider-Man: Spider-Verse":
     template: {name: Collection, collection: 573436, 583055, poster: https://theposterdb.com/api/assets/487372}
   Venom:
     template: {name: Collection, collection: 558216, poster: https://theposterdb.com/api/assets/487393}
