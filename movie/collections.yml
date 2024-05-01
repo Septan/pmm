@@ -57,3 +57,19 @@ collections:
     template: {name: Collection, collection: 91663, poster: https://theposterdb.com/api/assets/486912}
   Spongebob:
     template: {name: Collection, collection: 275402, poster: https://theposterdb.com/api/assets/486943}
+  George of the Jungle:
+    template: {name: Collection, collection: 126221, poster: https://theposterdb.com/api/assets/487100}
+  Jaws:
+    template: {name: Collection, collection: 2366, 84060, poster: https://theposterdb.com/api/assets/487113}
+  Kung Fu Panda:
+    template: {name: Collection, collection: 77816, 15854, 50393, 81003, 381693, 456661, poster: https://theposterdb.com/api/assets/487170}
+  Spider-Man Universe:
+    template: {name: Collection, collection: 526896, 634492, 539972, poster: https://theposterdb.com/api/assets/487325}
+  The Amazing Spider-Man:
+    template: {name: Collection, collection: 125574, poster: https://theposterdb.com/api/assets/487330}
+  Spider-Man:
+    template: {name: Collection, collection: 556, poster: https://theposterdb.com/api/assets/487340}
+  "Spider-Man: Spider-Verse":
+    template: {name: Collection, collection: 573436, 583055, poster: https://theposterdb.com/api/assets/487372}
+  Venom:
+    template: {name: Collection, collection: 558216, poster: https://theposterdb.com/api/assets/487393}

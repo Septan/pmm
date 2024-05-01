@@ -48,6 +48,13 @@ metadata:
       10:
         url_poster: https://theposterdb.com/api/assets/486740
 
+  Fallout:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/487202
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/487203
+
   # The 100:
   #   year: 2014
   #   url_poster: https://theposterdb.com/api/assets/412020

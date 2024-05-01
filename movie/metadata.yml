@@ -221,3 +221,117 @@ metadata:
   "The SpongeBob Movie: Sponge on the Run":
     year: 2020
     url_poster: https://theposterdb.com/api/assets/486944
+
+  Spongebob SquarePants Presents the Tidal Zone:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/487077
+
+  "Saving Bikini Bottom: The Sandy Cheeks Movie":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/487308
+
+  # George of the Jungle Collection
+  George of the Jungle:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/487102
+  George of the Jungle 2:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/487101
+
+  # Jaws Collection
+  Jaws:
+    year: 1975
+    url_poster: https://theposterdb.com/api/assets/487118
+  Jaws 2:
+    year: 1978
+    url_poster: https://theposterdb.com/api/assets/487117
+  Jaws 3-D:
+    year: 1983
+    url_poster: https://theposterdb.com/api/assets/487116
+  "Jaws: The Revenge":
+    year: 1987
+    url_poster: https://theposterdb.com/api/assets/487115
+  Cruel Jaws:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/487114
+
+  # Kung Fu Panda Collection
+  Kung Fu Panda:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/487179
+  "Kunge Fu Panda: Secrets of the Furious Five":
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/487178
+  Kung Fu Panda Holiday:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/487177
+  Kung Fu Panda 2:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/487176
+  "Kung Fu Panda: Secrets of the Masters":
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/487175
+  "Kung Fu Panda: Secrets of the Scroll":
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/487174
+  Kung Fu Panda 3:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/487173
+  Panda Paws:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/487172
+  Kung Fu Panda 4:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/487171
+
+  # Spider-Man Universe Collection
+  Morbius:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/487328
+  Madame Web:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/487327
+  Kraven the Hunter:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/487326
+  
+  # The Amazing Spider-Man Collection
+  The Amazing Spider-Man:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/487332
+  The Amazing Spider-Man 2:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/487331
+
+  # Spider-Man Collection
+  Spider-Man:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/487343
+  Spider-Man 2:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/487342
+  Spider-Man 3:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/487341
+
+  # Spider-Man: Spider-Verse Collection
+  "Spider-Man: Into the Spider-Verse":
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/487376
+  "Spider-Ham: Caught in a Ham":
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/487375
+  "Spider-Man: Across the Spider-Verse":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/487374
+  "The Spider Within: A Spider-Verse Story":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/487373
+
+  # Venom Collection
+  Venom:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/487395
+  "Venom: Let There Be Carnage":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/487394
