@@ -55,6 +55,38 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/487203
 
+  Ghosts (US):
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/487851
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/487852
+      2:
+        url_poster: https://theposterdb.com/api/assets/487853
+      3:
+        url_poster: https://theposterdb.com/api/assets/487854
+
+  Young Sheldon:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/487904
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/487905
+      1:
+        url_poster: https://theposterdb.com/api/assets/487906
+      2:
+        url_poster: https://theposterdb.com/api/assets/487907
+      3:
+        url_poster: https://theposterdb.com/api/assets/487908
+      4:
+        url_poster: https://theposterdb.com/api/assets/487909
+      5:
+        url_poster: https://theposterdb.com/api/assets/487910
+      6:
+        url_poster: https://theposterdb.com/api/assets/487911
+      7:
+        url_poster: https://theposterdb.com/api/assets/487912
+        
   # The 100:
   #   year: 2014
   #   url_poster: https://theposterdb.com/api/assets/412020
