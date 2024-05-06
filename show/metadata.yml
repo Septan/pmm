@@ -87,6 +87,43 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/487912
         
+  Dynasty (2017):
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/488125
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/488126
+      2:
+        url_poster: https://theposterdb.com/api/assets/488127
+      3:
+        url_poster: https://theposterdb.com/api/assets/488128
+      4:
+        url_poster: https://theposterdb.com/api/assets/488129
+      5:
+        url_poster: https://theposterdb.com/api/assets/488130
+
+  
+  The Dukes of Hazzard:
+    year: 1979
+    url_poster: https://theposterdb.com/api/assets/489151
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/489152
+      1:
+        url_poster: https://theposterdb.com/api/assets/489153
+      2:
+        url_poster: https://theposterdb.com/api/assets/489154
+      3:
+        url_poster: https://theposterdb.com/api/assets/489155
+      4:
+        url_poster: https://theposterdb.com/api/assets/489156
+      5:
+        url_poster: https://theposterdb.com/api/assets/489157
+      6:
+        url_poster: https://theposterdb.com/api/assets/489158
+      7:
+        url_poster: https://theposterdb.com/api/assets/489159
+
   # The 100:
   #   year: 2014
   #   url_poster: https://theposterdb.com/api/assets/412020
