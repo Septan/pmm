@@ -339,3 +339,59 @@ metadata:
   Freelance:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/487922
+
+  Lift:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/488131
+  
+  Role Play:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/488136
+
+  The Beekeeper:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/488140
+  
+  The Family Plan:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/488161
+
+  # Men in Black Collection
+  Men in Black:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/489128
+  Men in Black II:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/489127
+  Men in Black 3:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/489126
+  "Men in Black: International":
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/489125
+
+  # X-Men Collection
+  X-Men:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/489198
+  X2:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/489197
+  "X-Men: The Last Stand":
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/489196
+  "X-Men: First Class":
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/489195
+  "X-Men: Days of Future Past":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/489194
+  "X-Men: Apocalypse":
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/489193
+  Dark Phoenix:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/489192
+  The New Mutants:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/489191
