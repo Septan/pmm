@@ -46,13 +46,13 @@ collections:
   Spider-Man (MCU):
     template: {name: Collection, collection: 531241, poster: https://theposterdb.com/api/assets/486102}
   Cornetto Trilogy:
-    template: {name: Collection, collection: 747, 4638, 107985, poster: https://theposterdb.com/api/assets/486803}
+    template: {name: Collection, collection: "747, 4638, 107985", poster: https://theposterdb.com/api/assets/486803}
   Deadpool:
-    template: {name: Collection, collection: 293660, 558144, 383498, 567604, 5335535, poster: https://theposterdb.com/api/assets/486835}
+    template: {name: Collection, collection: "293660, 558144, 383498, 567604, 5335535", poster: https://theposterdb.com/api/assets/486835}
   Dune:
     template: {name: Collection, collection: 726871, poster: https://theposterdb.com/api/assets/486863}
   Ghostbusters:
-    template: {name: Collection, collection: 2980, 43074, poster: https://theposterdb.com/api/assets/486906}
+    template: {name: Collection, collection: "2980, 43074", poster: https://theposterdb.com/api/assets/486906}
   Airplane:
     template: {name: Collection, collection: 91663, poster: https://theposterdb.com/api/assets/486912}
   Spongebob:
@@ -60,22 +60,22 @@ collections:
   George of the Jungle:
     template: {name: Collection, collection: 126221, poster: https://theposterdb.com/api/assets/487100}
   Jaws:
-    template: {name: Collection, collection: 2366, 84060, poster: https://theposterdb.com/api/assets/487113}
+    template: {name: Collection, collection: "2366, 84060", poster: https://theposterdb.com/api/assets/487113}
   Kung Fu Panda:
-    template: {name: Collection, collection: 77816, 15854, 50393, 81003, 381693, 456661, poster: https://theposterdb.com/api/assets/487170}
+    template: {name: Collection, collection: "77816, 15854, 50393, 81003, 381693, 456661", poster: https://theposterdb.com/api/assets/487170}
   Spider-Man Universe:
-    template: {name: Collection, collection: 526896, 634492, 539972, poster: https://theposterdb.com/api/assets/487325}
+    template: {name: Collection, collection: "526896, 634492, 539972", poster: https://theposterdb.com/api/assets/487325}
   The Amazing Spider-Man:
     template: {name: Collection, collection: 125574, poster: https://theposterdb.com/api/assets/487330}
   Spider-Man:
     template: {name: Collection, collection: 556, poster: https://theposterdb.com/api/assets/487340}
   "Spider-Man: Spider-Verse":
-    template: {name: Collection, collection: 573436, 583055, poster: https://theposterdb.com/api/assets/487372}
+    template: {name: Collection, collection: "573436, 583055", poster: https://theposterdb.com/api/assets/487372}
   Venom:
     template: {name: Collection, collection: 558216, poster: https://theposterdb.com/api/assets/487393}
   Men In Black:
-    template: {name: Collection, collection: 86055, 479455, poster: https://theposterdb.com/api/assets/489124}
+    template: {name: Collection, collection: "86055, 479455", poster: https://theposterdb.com/api/assets/489124}
   X-Men:
-    template: {name: Collection, collection: 748, 340102, poster: https://theposterdb.com/api/assets/489190}
+    template: {name: Collection, collection: "748, 340102", poster: https://theposterdb.com/api/assets/489190}
   The Wolverine:
     template: {name: Collection, collection: 453993, poster: https://theposterdb.com/api/assets/489224}
