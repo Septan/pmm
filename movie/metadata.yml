@@ -182,7 +182,7 @@ metadata:
   "Dune: Part Two":
     year: 2024
     url_poster: https://theposterdb.com/api/assets/486864
-    
+
   # Ghostbusters Collection
   Ghostbusters:
     year: 1984
@@ -396,3 +396,14 @@ metadata:
   The New Mutants:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/489191
+
+  # The Wolverine
+  "X-Men Origins: Wolverine":
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/489227
+  The Wolverine:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/489226
+  Logan:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/489225
