@@ -77,3 +77,5 @@ collections:
     template: {name: Collection, collection: 86055, 479455, poster: https://theposterdb.com/api/assets/489124}
   X-Men:
     template: {name: Collection, collection: 748, 340102, poster: https://theposterdb.com/api/assets/489190}
+  The Wolverine:
+    template: {name: Collection, collection: 453993, poster: https://theposterdb.com/api/assets/489224}
