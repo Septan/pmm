@@ -8,27 +8,29 @@ templates:
       sort_by: release.desc
     tmdb_person: <<value>>
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_people/<<key>>.png
-    sort_title: <<key_name>>
+    sort_title: "*_<<key_name>>"
+    sync_mode: sync
+    visible_library: true
     schedule: weekly(saturday)
     smart_filter:
       sort_by: <<sort_by>>
       all:
         actor: tmdb
-    visible_library: true
 
   director_dynamic:
     default:
       sort_by: release.desc
     tmdb_person: <<value>>
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_people/<<key>>.png
-    sort_title: <<key_name>>
+    sort_title: "*_<<key_name>>"
+    sync_mode: sync
+    visible_library: true
     schedule: weekly(saturday)
     smart_filter:
       sort_by: <<sort_by>>
       all:
         director: tmdb
-    visible_library: true
-
+        
 #############################
 #    DYNAMIC COLLECTIONS    #
 #############################
