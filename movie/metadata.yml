@@ -23,7 +23,7 @@ metadata:
   Eternals:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/486293
-  Wereworlf by Night:
+  Werewolf by Night:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/486292
   "Spider-Man: Homecoming":
@@ -122,9 +122,9 @@ metadata:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/486233
 
-  "Atsuko Okatsuka: The Intruder":
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/486741
+  # "Atsuko Okatsuka: The Intruder":
+  #   year: 2022
+  #   url_poster: https://theposterdb.com/api/assets/486741
 
   Peter's To-Do List:
     year: 2019
@@ -182,6 +182,7 @@ metadata:
   "Dune: Part Two":
     year: 2024
     url_poster: https://theposterdb.com/api/assets/486864
+    
   # Ghostbusters Collection
   Ghostbusters:
     year: 1984
