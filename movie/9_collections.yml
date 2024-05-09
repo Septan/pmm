@@ -3,7 +3,6 @@
 collections:
   Rare & Obscure:
     trakt_list:
-     - https://trakt.tv/users/ld667/lists/fifty-seven-great-obscure-movies
      - https://trakt.tv/users/madepidemic1/lists/rare-obscure
     collection_order: alpha
     collection_mode: default
