@@ -22,60 +22,71 @@ templates:
 
 collections:
   Ant-Man:
-    template: {name: Collection, movie: 422834, poster: https://theposterdb.com/api/assets/485858}
+    template: {name: Collection, movie: 422834, poster: https://theposterdb.com/api/assets/489854}
   Rebel Moon:
     template: {name: Collection, movie: 934765, poster: https://theposterdb.com/api/assets/485314}
   Marvel Cinematic Universe:
-    template: {name: Trakt, list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe, poster: https://theposterdb.com/api/assets/486291}
+    template: {name: Trakt, list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe, poster: https://theposterdb.com/api/assets/489896}
   Thor:
-    template: {name: Collection, movie: 131296, poster: https://theposterdb.com/api/assets/486232}
+    template: {name: Collection, movie: 131296, poster: https://theposterdb.com/api/assets/489891}
   The Avengers:
-    template: {name: Collection, movie: 86311, poster: https://theposterdb.com/api/assets/485868}
+    template: {name: Collection, movie: 86311, poster: https://theposterdb.com/api/assets/489858}
   Black Panther:
-    template: {name: Collection, movie: 529892, poster: https://theposterdb.com/api/assets/485873}
+    template: {name: Collection, movie: 529892, poster: https://theposterdb.com/api/assets/489863}
   Captain America:
-    template: {name: Collection, movie: 131295, poster: https://theposterdb.com/api/assets/485978}
+    template: {name: Collection, movie: 131295, poster: hhttps://theposterdb.com/api/assets/489866}
   Captain Marvel:
-    template: {name: Collection, movie: 623911, poster: https://theposterdb.com/api/assets/485994}
+    template: {name: Collection, movie: 623911, poster: https://theposterdb.com/api/assets/489870}
   Doctor Strange:
-    template: {name: Collection, movie: 618529, poster: https://theposterdb.com/api/assets/486018}
+    template: {name: Collection, movie: 618529, poster: https://theposterdb.com/api/assets/489873}
   Guardians of the Galaxy:
-    template: {name: Collection, movie: 284433, poster: https://theposterdb.com/api/assets/486078}
+    template: {name: Collection, movie: 284433, poster: https://theposterdb.com/api/assets/489876}
   Iron Man:
-    template: {name: Collection, movie: 131292, poster: https://theposterdb.com/api/assets/486084}
+    template: {name: Collection, movie: 131292, poster: https://theposterdb.com/api/assets/489881}
+  # Shang-Chi: https://theposterdb.com/api/assets/489885
   Spider-Man (MCU):
-    template: {name: Collection, movie: 531241, poster: https://theposterdb.com/api/assets/486102}
+    template: {name: Collection, movie: 531241, poster: https://theposterdb.com/api/assets/489887}
   Cornetto Trilogy:
-    template: {name: Trakt, list: https://trakt.tv/lists/official/cornetto-trilogy, poster: https://theposterdb.com/api/assets/486803}
+    template: {name: Trakt, list: https://trakt.tv/lists/official/cornetto-trilogy, poster: https://theposterdb.com/api/assets/490733}
   Deadpool:
-    template: {name: Collection, movie: "293660, 558144, 383498, 567604, 5335535", poster: https://theposterdb.com/api/assets/486835}
+    template: {name: Collection, movie: "293660, 558144, 383498, 567604, 5335535", poster: https://theposterdb.com/api/assets/489961}
   Dune:
-    template: {name: Collection, movie: 726871, poster: https://theposterdb.com/api/assets/486863}
+    template: {name: Collection, movie: 726871, poster: https://theposterdb.com/api/assets/490737}
   Ghostbusters:
-    template: {name: Collection, movie: "2980, 43074", poster: https://theposterdb.com/api/assets/486906}
+    template: {name: Collection, movie: "2980, 43074", poster: https://theposterdb.com/api/assets/490073}
   Airplane:
-    template: {name: Collection, movie: 91663, poster: https://theposterdb.com/api/assets/486912}
+    template: {name: Collection, movie: 91663, poster: https://theposterdb.com/api/assets/490087}
   Spongebob:
-    template: {name: Collection, movie: 275402, poster: https://theposterdb.com/api/assets/486943}
+    template: {name: Collection, movie: 275402, poster: https://theposterdb.com/api/assets/491038}
   George of the Jungle:
-    template: {name: Collection, movie: 126221, poster: https://theposterdb.com/api/assets/487100}
+    template: {name: Collection, movie: 126221, poster: https://theposterdb.com/api/assets/490749}
   Jaws:
-    template: {name: Collection, movie: "2366, 84060", poster: https://theposterdb.com/api/assets/487113}
+    template: {name: Collection, movie: "2366, 84060", poster: https://theposterdb.com/api/assets/490753}
   Kung Fu Panda:
-    template: {name: Collection, movie: "77816, 15854, 50393, 81003, 381693, 456661", poster: https://theposterdb.com/api/assets/487170}
+    template: {name: Collection, movie: "77816, 15854, 50393, 81003, 381693, 456661", poster: https://theposterdb.com/api/assets/490868}
   Spider-Man Universe:
-    template: {name: Collection, movie: "526896, 634492, 539972", poster: https://theposterdb.com/api/assets/487325}
+    template: {name: Collection, movie: "526896, 634492, 539972", poster: https://theposterdb.com/api/assets/490323}
   The Amazing Spider-Man:
-    template: {name: Collection, movie: 125574, poster: https://theposterdb.com/api/assets/487330}
+    template: {name: Collection, movie: 125574, poster: https://theposterdb.com/api/assets/490212}
   Spider-Man:
-    template: {name: Collection, movie: 556, poster: https://theposterdb.com/api/assets/487340}
+    template: {name: Collection, movie: 556, poster: https://theposterdb.com/api/assets/490241}
   "Spider-Man: Spider-Verse":
-    template: {name: Collection, movie: "573436, 583055", poster: https://theposterdb.com/api/assets/487372}
+    template: {name: Collection, movie: "573436, 583055", poster: https://theposterdb.com/api/assets/490373}
   Venom:
-    template: {name: Collection, movie: 558216, poster: https://theposterdb.com/api/assets/487393}
+    template: {name: Collection, movie: 558216, poster: https://theposterdb.com/api/assets/490351}
   Men In Black:
-    template: {name: Collection, movie: "86055, 479455", poster: https://theposterdb.com/api/assets/489124}
+    template: {name: Collection, movie: "86055, 479455", poster: https://theposterdb.com/api/assets/490878}
   X-Men:
-    template: {name: Collection, movie: "748, 340102", poster: https://theposterdb.com/api/assets/489190}
+    template: {name: Collection, movie: "748, 340102", poster: https://theposterdb.com/api/assets/490697}
   The Wolverine:
-    template: {name: Collection, movie: 453993, poster: https://theposterdb.com/api/assets/489224}
+    template: {name: Collection, movie: 453993, poster: https://theposterdb.com/api/assets/490601}
+
+  # The Muppets https://theposterdb.com/api/assets/490902
+  # Peanuts https://theposterdb.com/api/assets/490946
+  # Rio https://theposterdb.com/api/assets/490997
+  # Scream https://theposterdb.com/api/assets/491011
+  # Shrek https://theposterdb.com/api/assets/491029
+  # The Trolls https://theposterdb.com/api/assets/491445
+
+  # Marvel One-Shots https://theposterdb.com/api/assets/489955
+  # Team Thor and One Shots https://theposterdb.com/set/270066 / https://theposterdb.com/api/assets/489950
