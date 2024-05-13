@@ -16,115 +16,115 @@ metadata:
   # Marvel Cinematic Universe
   The Incredible Hulk:
     year: 2008
-    url_poster: https://theposterdb.com/api/assets/486295
+    url_poster: https://theposterdb.com/api/assets/489900
   Black Widow:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/486294
+    url_poster: https://theposterdb.com/api/assets/489899
   Eternals:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/486293
+    url_poster: https://theposterdb.com/api/assets/489898
   Werewolf by Night:
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/486292
+    url_poster: https://theposterdb.com/api/assets/489897
   "Spider-Man: Homecoming":
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/486105
+    url_poster: https://theposterdb.com/api/assets/489890
   "Spider-Man: Far from Home":
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/486104
+    url_poster: https://theposterdb.com/api/assets/489889
   "Spider-Man: No Way Home":
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/486103
+    url_poster: https://theposterdb.com/api/assets/489888
   Shang-Chi and the Legend of the Ten Rings:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/486089
+    url_poster: https://theposterdb.com/api/assets/489886
   Iron Man:
     year: 2008
-    url_poster: https://theposterdb.com/api/assets/486087
+    url_poster: https://theposterdb.com/api/assets/489884
   Iron Man 2:
     year: 2010
-    url_poster: https://theposterdb.com/api/assets/486086
+    url_poster: https://theposterdb.com/api/assets/489883
   Iron Man 3:
     year: 2013
-    url_poster: https://theposterdb.com/api/assets/486085
+    url_poster: https://theposterdb.com/api/assets/489882
   Guardians of the Galaxy:
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/486082
+    url_poster: https://theposterdb.com/api/assets/489880
   Guardians of the Galaxy Vol. 2:
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/486081
+    url_poster: https://theposterdb.com/api/assets/489879
   The Guardians of the Galaxy Holiday Special:
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/486080
+    url_poster: https://theposterdb.com/api/assets/489878
   Guardians of the Galaxy Vol. 3:
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/486079
+    url_poster: https://theposterdb.com/api/assets/489877
   Doctor Strange:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/486020
+    url_poster: https://theposterdb.com/api/assets/489875
   Doctor Strange in the Multiverse of Madness:
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/486019
+    url_poster: https://theposterdb.com/api/assets/489874
   Captain Marvel:
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/485996
+    url_poster: https://theposterdb.com/api/assets/489872
   The Marvels:
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/485995
+    url_poster: https://theposterdb.com/api/assets/489871
   "Captain America: The First Avenger":
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/485981
+    url_poster: https://theposterdb.com/api/assets/489869
   "Captain America: The Winter Soldier":
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/485980
+    url_poster: https://theposterdb.com/api/assets/489868
   "Captain America: Civil War":
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/485979
+    url_poster: https://theposterdb.com/api/assets/489867
   Black Panther:
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/485875
+    url_poster: https://theposterdb.com/api/assets/489865
   "Black Panther: Wakanda Forever":
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/485874
+    url_poster: https://theposterdb.com/api/assets/489864
   The Avengers:
     year: 2012
-    url_poster: https://theposterdb.com/api/assets/485872
+    url_poster: https://theposterdb.com/api/assets/489862
   "Avengers: Age of Ultron":
     year: 2015
-    url_poster: https://theposterdb.com/api/assets/485871
+    url_poster: https://theposterdb.com/api/assets/489861
   "Avengers: Infinity War":
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/485870
+    url_poster: https://theposterdb.com/api/assets/489860
   "Avengers: Endgame":
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/485869
+    url_poster: https://theposterdb.com/api/assets/489859
   Ant-Man:
     year: 2015
-    url_poster: https://theposterdb.com/api/assets/485861
+    url_poster: https://theposterdb.com/api/assets/489857
   Ant-Man and the Wasp:
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/485860
+    url_poster: https://theposterdb.com/api/assets/489856
   "Ant-Man and the Wasp: Quantumania":
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/485859
+    url_poster: https://theposterdb.com/api/assets/489855
 
   # Thor Collection
   Thor:
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/486236
+    url_poster: https://theposterdb.com/api/assets/489895
   "Thor: The Dark World":
     year: 2013
-    url_poster: https://theposterdb.com/api/assets/486235
+    url_poster: https://theposterdb.com/api/assets/489894
   "Thor: Ragnarok":
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/486234
+    url_poster: https://theposterdb.com/api/assets/489893
   "Thor: Love and Thunder":
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/486233
+    url_poster: https://theposterdb.com/api/assets/489892
 
-  # "Atsuko Okatsuka: The Intruder":
-  #   year: 2022
-  #   url_poster: https://theposterdb.com/api/assets/486741
+  "Atsuko Okatsuka: The Intruder":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/491689
 
   Peter's To-Do List:
     year: 2019
@@ -133,157 +133,157 @@ metadata:
   # Marvel One-Shots
   "Marvel One-Shot: The Consultant":
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/486341
+    url_poster: https://theposterdb.com/api/assets/489960
   "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer":
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/486340
+    url_poster: https://theposterdb.com/api/assets/489959
   "Marvel One-Shot: Item 47":
     year: 2012
-    url_poster: https://theposterdb.com/api/assets/486339
+    url_poster: https://theposterdb.com/api/assets/489958
   "Marvel One-Shot: Agent Carter":
     year: 2013
-    url_poster: https://theposterdb.com/api/assets/486338
+    url_poster: https://theposterdb.com/api/assets/489957
   "Marvel One-Shot: All Hail the King":
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/486337
+    url_poster: https://theposterdb.com/api/assets/489956
 
   # Cornetto Trilogy
   Shaun of the Dead:
     year: 2004
-    url_poster: https://theposterdb.com/api/assets/486806
+    url_poster: https://theposterdb.com/api/assets/490736
   Hot Fuzz:
     year: 2007
-    url_poster: https://theposterdb.com/api/assets/486805
+    url_poster: https://theposterdb.com/api/assets/490735
   The World's End:
     year: 2013
-    url_poster: https://theposterdb.com/api/assets/486804
+    url_poster: https://theposterdb.com/api/assets/490734
 
   # Deadpool Collection
   Deadpool:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/486840
+    url_poster: https://theposterdb.com/api/assets/489966
   "Deadpool: No Good Deed":
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/486839
+    url_poster: https://theposterdb.com/api/assets/489965
   Deadpool 2:
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/486838
+    url_poster: https://theposterdb.com/api/assets/489964
   Once Upon a Deadpool:
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/486837
+    url_poster: https://theposterdb.com/api/assets/489963
   Deadpool & Wolverine:
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/486836
+    url_poster: https://theposterdb.com/api/assets/489962
 
   # Dune Collection
   Dune:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/486865
+    url_poster: https://theposterdb.com/api/assets/490739
   "Dune: Part Two":
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/486864
+    url_poster: https://theposterdb.com/api/assets/490738
 
   # Ghostbusters Collection
   Ghostbusters:
     year: 1984
-    url_poster: https://theposterdb.com/api/assets/486911
+    url_poster: https://theposterdb.com/api/assets/490078
   Ghostbusters II:
     year: 1989
-    url_poster: https://theposterdb.com/api/assets/486910
+    url_poster: https://theposterdb.com/api/assets/490077
   43074:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/486909
+    url_poster: https://theposterdb.com/api/assets/490076
   "Ghostbusters: Afterlife":
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/486908
+    url_poster: https://theposterdb.com/api/assets/490075
   "Ghostsbusters: Frozen Empire":
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/486907
+    url_poster: https://theposterdb.com/api/assets/490074
   
   # Airplane Collection
   Airplane!:
     year: 1980
-    url_poster: https://theposterdb.com/api/assets/486914
+    url_poster: https://theposterdb.com/api/assets/490089
   "Airplane II: The Sequel":
     year: 1982
-    url_poster: https://theposterdb.com/api/assets/486913
+    url_poster: https://theposterdb.com/api/assets/490088
 
   Lost in Translation:
     year: 2003
-    url_poster: https://theposterdb.com/api/assets/486924
+    url_poster: https://theposterdb.com/api/assets/491633
 
   # Spongebob Collection
   The SpongeBob SquarePants Movie:
     year: 2004
-    url_poster: https://theposterdb.com/api/assets/486946
+    url_poster: https://theposterdb.com/api/assets/491041
   "The SpongeBob Movie: Sponge Out of Water":
     year: 2015
-    url_poster: https://theposterdb.com/api/assets/486945
+    url_poster: https://theposterdb.com/api/assets/491040
   "The SpongeBob Movie: Sponge on the Run":
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/486944
+    url_poster: https://theposterdb.com/api/assets/491039
 
   Spongebob SquarePants Presents the Tidal Zone:
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/487077
+    url_poster: https://theposterdb.com/api/assets/491036
 
   "Saving Bikini Bottom: The Sandy Cheeks Movie":
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/487308
+    url_poster: https://theposterdb.com/api/assets/491037
 
   # George of the Jungle Collection
   George of the Jungle:
     year: 1997
-    url_poster: https://theposterdb.com/api/assets/487102
+    url_poster: https://theposterdb.com/api/assets/490751
   George of the Jungle 2:
     year: 2003
-    url_poster: https://theposterdb.com/api/assets/487101
+    url_poster: https://theposterdb.com/api/assets/490750
 
   # Jaws Collection
   Jaws:
     year: 1975
-    url_poster: https://theposterdb.com/api/assets/487118
+    url_poster: https://theposterdb.com/api/assets/490759
   Jaws 2:
     year: 1978
-    url_poster: https://theposterdb.com/api/assets/487117
+    url_poster: https://theposterdb.com/api/assets/490758
   Jaws 3-D:
     year: 1983
-    url_poster: https://theposterdb.com/api/assets/487116
+    url_poster: https://theposterdb.com/api/assets/490756
   "Jaws: The Revenge":
     year: 1987
-    url_poster: https://theposterdb.com/api/assets/487115
+    url_poster: https://theposterdb.com/api/assets/490755
   Cruel Jaws:
     year: 1995
-    url_poster: https://theposterdb.com/api/assets/487114
+    url_poster: https://theposterdb.com/api/assets/490754
 
   # Kung Fu Panda Collection
   Kung Fu Panda:
     year: 2008
-    url_poster: https://theposterdb.com/api/assets/487179
+    url_poster: https://theposterdb.com/api/assets/490877
   "Kunge Fu Panda: Secrets of the Furious Five":
     year: 2008
-    url_poster: https://theposterdb.com/api/assets/487178
+    url_poster: https://theposterdb.com/api/assets/490876
   Kung Fu Panda Holiday:
     year: 2010
-    url_poster: https://theposterdb.com/api/assets/487177
+    url_poster: https://theposterdb.com/api/assets/490875
   Kung Fu Panda 2:
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/487176
+    url_poster: https://theposterdb.com/api/assets/490874
   "Kung Fu Panda: Secrets of the Masters":
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/487175
+    url_poster: https://theposterdb.com/api/assets/490873
   "Kung Fu Panda: Secrets of the Scroll":
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/487174
+    url_poster: https://theposterdb.com/api/assets/490872
   Kung Fu Panda 3:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/487173
+    url_poster: https://theposterdb.com/api/assets/490871
   Panda Paws:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/487172
+    url_poster: https://theposterdb.com/api/assets/490870
   Kung Fu Panda 4:
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/487171
+    url_poster: https://theposterdb.com/api/assets/490869
 
   # Spider-Man Universe Collection
   Morbius:
@@ -291,7 +291,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/487328
   Madame Web:
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/487327
+    url_poster: https://theposterdb.com/api/assets/490374
   Kraven the Hunter:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/487326
@@ -299,43 +299,43 @@ metadata:
   # The Amazing Spider-Man Collection
   The Amazing Spider-Man:
     year: 2012
-    url_poster: https://theposterdb.com/api/assets/487332
+    url_poster: https://theposterdb.com/api/assets/490214
   The Amazing Spider-Man 2:
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/487331
+    url_poster: https://theposterdb.com/api/assets/490213
 
   # Spider-Man Collection
   Spider-Man:
     year: 2002
-    url_poster: https://theposterdb.com/api/assets/487343
+    url_poster: https://theposterdb.com/api/assets/490244
   Spider-Man 2:
     year: 2004
-    url_poster: https://theposterdb.com/api/assets/487342
+    url_poster: https://theposterdb.com/api/assets/490243
   Spider-Man 3:
     year: 2007
-    url_poster: https://theposterdb.com/api/assets/487341
+    url_poster: https://theposterdb.com/api/assets/490242
 
   # Spider-Man: Spider-Verse Collection
   "Spider-Man: Into the Spider-Verse":
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/487376
+    url_poster: https://theposterdb.com/api/assets/490327
   "Spider-Ham: Caught in a Ham":
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/487375
+    url_poster: https://theposterdb.com/api/assets/490326
   "Spider-Man: Across the Spider-Verse":
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/487374
+    url_poster: https://theposterdb.com/api/assets/490325
   "The Spider Within: A Spider-Verse Story":
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/487373
+    url_poster: https://theposterdb.com/api/assets/490324
 
   # Venom Collection
   Venom:
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/487395
+    url_poster: https://theposterdb.com/api/assets/490353
   "Venom: Let There Be Carnage":
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/487394
+    url_poster: https://theposterdb.com/api/assets/490352
 
   Freelance:
     year: 2023
@@ -360,50 +360,253 @@ metadata:
   # Men in Black Collection
   Men in Black:
     year: 1997
-    url_poster: https://theposterdb.com/api/assets/489128
+    url_poster: https://theposterdb.com/api/assets/490882
   Men in Black II:
     year: 2002
-    url_poster: https://theposterdb.com/api/assets/489127
+    url_poster: https://theposterdb.com/api/assets/490881
   Men in Black 3:
     year: 2012
-    url_poster: https://theposterdb.com/api/assets/489126
+    url_poster: https://theposterdb.com/api/assets/490880
   "Men in Black: International":
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/489125
+    url_poster: https://theposterdb.com/api/assets/490879
 
   # X-Men Collection
   X-Men:
     year: 2000
-    url_poster: https://theposterdb.com/api/assets/489198
+    url_poster: https://theposterdb.com/api/assets/490705
   X2:
     year: 2003
-    url_poster: https://theposterdb.com/api/assets/489197
+    url_poster: https://theposterdb.com/api/assets/490704
   "X-Men: The Last Stand":
     year: 2006
-    url_poster: https://theposterdb.com/api/assets/489196
+    url_poster: https://theposterdb.com/api/assets/490703
   "X-Men: First Class":
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/489195
+    url_poster: https://theposterdb.com/api/assets/490702
   "X-Men: Days of Future Past":
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/489194
+    url_poster: https://theposterdb.com/api/assets/490701
   "X-Men: Apocalypse":
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/489193
+    url_poster: https://theposterdb.com/api/assets/490700
   Dark Phoenix:
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/489192
+    url_poster: https://theposterdb.com/api/assets/490699
   The New Mutants:
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/489191
+    url_poster: https://theposterdb.com/api/assets/490698
 
   # The Wolverine
   "X-Men Origins: Wolverine":
     year: 2009
-    url_poster: https://theposterdb.com/api/assets/489227
+    url_poster: https://theposterdb.com/api/assets/490604
   The Wolverine:
     year: 2013
-    url_poster: https://theposterdb.com/api/assets/489226
+    url_poster: https://theposterdb.com/api/assets/490603
   Logan:
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/489225
+    url_poster: https://theposterdb.com/api/assets/490602
+
+  # The Muppets
+  The Muppet Movie:
+    year: 1979
+    url_poster: https://theposterdb.com/api/assets/490914
+  The Great Muppet Caper:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/490913
+  The Muppets Take Manhattan:
+    year: 1984
+    url_poster: https://theposterdb.com/api/assets/490912
+  A Muppet Family Christmas:
+    year: 1987
+    url_poster: https://theposterdb.com/api/assets/490911
+  The Muppet Christmas Carol:
+    year: 1992
+    url_poster: https://theposterdb.com/api/assets/490910
+  Muppet Treasure Island:
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/490909
+  Muppets from Space:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/490908
+  Kermit's Swamp Years:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/490907
+  It's a Very Merry Muppet Christmas Movie:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/490906
+  The Muppets' Wizard of Oz:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/490905
+  "A Muppets Christmas: Letters to Santa":
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/490904
+  The Muppets:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/490903
+  Muppets Most Wanted:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/490916
+  Muppets Haunted Mansion:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/490915
+
+  # Peanuts
+  A Charlie Brown Christmas:
+    year: 1965
+    url_poster: https://theposterdb.com/api/assets/490952
+  Charlie Brown's All-Stars!:
+    year: 1966
+    url_poster: https://theposterdb.com/api/assets/490951
+  It's the Great Pumpkin, Charlie Brown:
+    year: 1966
+    url_poster: https://theposterdb.com/api/assets/490950
+  A Boy Named Charlie Brown:
+    year: 1969
+    url_poster: https://theposterdb.com/api/assets/490949
+  A Charlie Brown Thanksgiving:
+    year: 1973
+    url_poster: https://theposterdb.com/api/assets/490948
+  It's Magic, Charlie Brown:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/490947
+  
+  # Rio
+  Rio:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/490996
+  Rio 2:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/490998
+  
+  Grandma's Boy:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/490058
+
+  Abigail:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/490061
+
+  See No Evil, Hear No Evil:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/490066
+  
+  The Fifth Element:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/490404
+
+  # Scream
+  Scream:
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/491017
+  Scream 2:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/491016
+  Scream 3:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/491015
+  Scream 4:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/491014
+  646385:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/491013
+  Scream VI:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/491012
+  
+  # Shrek
+  Shrek:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/491033
+  Shrek 2:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/491032
+  Shrek the Third:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/491031
+  Shrek Forever After:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/491030
+  
+  # Trolls
+  Trolls:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/491450
+  Trolls Holiday:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/491449
+  Trolls World Tour:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/491448
+  Trolls Holiday in Harmony:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/491447
+  Trolls Band Together:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/491446
+  
+  500 Days of Summer:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/491459
+
+  The 40-Year-Old Virgin:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/491465
+
+  "AD/BC: A Rock Opera":
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/491468
+  
+  Clueless:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/491490
+  
+  Eternal Sunshine of the Spotless Mind:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/491493
+  
+  The Greatest Showman:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/491520
+  
+  I Love You, Man:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/491617
+
+  Jesus Christ Superstar:
+    year: 1973
+    url_poster: https://theposterdb.com/api/assets/491625
+  
+  Killers of the Flower Moon:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/491628
+  
+  The Life Aquatic with Steve Zissou:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/491632
+
+  Mr. Brooks:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/491644
+
+  Robot Dreams:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/491653
+  
+  Sgt. Pepper's Lonely Hearts Club Band:
+    year: 1978
+    url_poster: https://theposterdb.com/api/assets/491664
+
+  Wanderlust:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/491666
+
+  Wish:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/491677
+
+  Wonka:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/491680
