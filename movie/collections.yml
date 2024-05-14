@@ -128,22 +128,57 @@ collections:
         title:
           - Shang-Chi and the Legend of the Ten Rings
 
+  Spider-Man (MCU):
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/489887
+    plex_search:
+      all:
+        title.begins: Spider-Man
+        genre.not: Animation
+
+  Cornetto Trilogy:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490733
+    trakt_list:
+      - https://trakt.tv/lists/official/cornetto-trilogy
+
+  Deadpool:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/489961
+    plex_search:
+      any:
+        title:
+          - Deadpool
+          - Deadpool 2
+          - Deadpool & Wolverine
+          - Deadpool No Good Deed
+          - Once Upon a Deadpool
+
+  Dune:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490737
+    plex_search:
+      any:
+        title:
+          - Dune
+          - Dune Part Two
+          - Dune Messiah
+
+  Ghostbusters:
+     template:
+       name: franchise
+       poster: https://theposterdb.com/api/assets/490073
+     plex_search:
+       all:
+         title.begins: Ghostbusters
 
 
 
 
-
-
-  # Spider-Man (MCU):
-  #   template: {name: Collection, movie: 531241, poster: https://theposterdb.com/api/assets/489887}
-  # Cornetto Trilogy:
-  #   template: {name: Trakt, list: https://trakt.tv/lists/official/cornetto-trilogy, poster: https://theposterdb.com/api/assets/490733}
-  # Deadpool:
-  #   template: {name: Collection, movie: "293660, 558144, 383498, 567604, 5335535", poster: https://theposterdb.com/api/assets/489961}
-  # Dune:
-  #   template: {name: Collection, movie: 726871, poster: https://theposterdb.com/api/assets/490737}
-  # Ghostbusters:
-  #   template: {name: Collection, movie: "2980, 43074", poster: https://theposterdb.com/api/assets/490073}
   # Airplane:
   #   template: {name: Collection, movie: 91663, poster: https://theposterdb.com/api/assets/490087}
   # Spongebob:
