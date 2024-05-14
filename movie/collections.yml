@@ -30,6 +30,7 @@ collections:
       all:
         title.begins: Rebel Moon
     summary: "Join the Battle for Freedom in Space!
+    
               Embark on an epic sci-fi adventure with Zack Snyder's Rebel Moon series - a six-film saga that takes you to the distant moons of our solar system. Follow the thrilling journey of a mysterious outsider as they join forces with a quiet farming village under siege by the ruthless Motherworld."
   
   Marvel Cinematic Universe:
@@ -51,6 +52,7 @@ collections:
           - Thor Ragnarok
           - Thor Love and Thunder
     summary: "Assemble Your Adventure!
+
               Join the godly journey of Thor, the crown prince of Asgard, as he battles to save the universe from destruction in this Marvel Cinematic Universe (MCU) film series."
   
   The Avengers:
