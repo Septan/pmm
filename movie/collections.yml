@@ -263,9 +263,20 @@ collections:
           - Spider-Man 2
           - Spider-Man 3
 
+  "Spider-Man: Spider-Verse":
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490373
+    plex_search:
+      any:
+        title:
+          - Spider-Man Into the Spider-Verse
+          - Spider-Man Across the Spider-Verse
+          - Spider-Man Beyond the Spider-Verse
+          - Spider-Ham Caught in a Ham
 
-  # "Spider-Man: Spider-Verse":
-  #   template: {name: Collection, movie: "573436, 583055", poster: https://theposterdb.com/api/assets/490373}
+
+
   # Venom:
   #   template: {name: Collection, movie: 558216, poster: https://theposterdb.com/api/assets/490351}
   # Men In Black:
