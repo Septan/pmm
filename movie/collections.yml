@@ -169,22 +169,59 @@ collections:
           - Dune Messiah
 
   Ghostbusters:
-     template:
-       name: franchise
-       poster: https://theposterdb.com/api/assets/490073
-     plex_search:
-       all:
-         title.begins: Ghostbusters
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490073
+    plex_search:
+      all:
+        title.begins: Ghostbusters
+
+  Airplane:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490087
+    plex_search:
+      any:
+        title:
+          - Airplane
+          - Airplane II The Sequel
+  
+  Spongebob:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/491038
+    plex_search:
+      any:
+        title:
+          - The SpongeBob SquarePants Movie
+          - The SpongeBob Movie Sponge Out of Water
+          - The SpongeBob Movie Sponge on the Run
+          - The SpongeBob Movie Search for SquarePants
+
+  George of the Jungle:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490749
+    plex_search:
+      all:
+        title.begins: George of the Jungle
+  
+  Jaws:
+    template:
+      name: franchise
+      poster:
+    plex_search:
+      any:
+        title:
+          - Jaws
+          - Jaws 2
+          - Jaws 3-D
+          - Jaws The Revenge
+          - Cruel Jaws
 
 
 
 
-  # Airplane:
-  #   template: {name: Collection, movie: 91663, poster: https://theposterdb.com/api/assets/490087}
-  # Spongebob:
-  #   template: {name: Collection, movie: 275402, poster: https://theposterdb.com/api/assets/491038}
-  # George of the Jungle:
-  #   template: {name: Collection, movie: 126221, poster: https://theposterdb.com/api/assets/490749}
   # Jaws:
   #   template: {name: Collection, movie: "2366, 84060", poster: https://theposterdb.com/api/assets/490753}
   # Kung Fu Panda:
