@@ -121,7 +121,7 @@ collections:
       poster: https://theposterdb.com/api/assets/489881
     plex_search:
       all:
-        tile.begins: Iron Man
+        title.begins: Iron Man
         genre.not: Animation
 
   Shang-Chi:
