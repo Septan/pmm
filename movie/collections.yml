@@ -30,7 +30,7 @@ collections:
       all:
         title.begins: Rebel Moon
     summary: "Join the Battle for Freedom in Space!
-    
+
               Embark on an epic sci-fi adventure with Zack Snyder's Rebel Moon series - a six-film saga that takes you to the distant moons of our solar system. Follow the thrilling journey of a mysterious outsider as they join forces with a quiet farming village under siege by the ruthless Motherworld."
   
   Marvel Cinematic Universe:
@@ -214,7 +214,7 @@ collections:
   Jaws:
     template:
       name: franchise
-      poster:
+      poster: https://theposterdb.com/api/assets/490753
     plex_search:
       any:
         title:
@@ -228,7 +228,7 @@ collections:
 
 
   # Jaws:
-  #   template: {name: Collection, movie: "2366, 84060", poster: https://theposterdb.com/api/assets/490753}
+  #   template: {name: Collection, movie: "2366, 84060", poster: }
   # Kung Fu Panda:
   #   template: {name: Collection, movie: "77816, 15854, 50393, 81003, 381693, 456661", poster: https://theposterdb.com/api/assets/490868}
   # Spider-Man Universe:
