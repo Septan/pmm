@@ -224,19 +224,46 @@ collections:
           - Jaws The Revenge
           - Cruel Jaws
 
+  Kung Fu Panda:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490868
+    trakt_list:
+      - https://trakt.tv/users/johnshel91/lists/kung-fu-panda-saga
+  
+  Spider-Man Universe:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490323
+    plex_search:
+      any:
+        title:
+          - Morbius
+          - Madame Web
+          - Kraven the Hunter
+
+  Spider-Man Universe:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490212
+    plex_search:
+      any:
+        title:
+          - The Amazing Spider-Man
+          - The Amazing Spider-Man 2
+
+  Spider-Man:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490241
+    plex_search:
+      any:
+        title:
+          - Spider-Man
+          - Spider-Man 2
+          - Spider-Man 3
 
 
-
-  # Jaws:
-  #   template: {name: Collection, movie: "2366, 84060", poster: }
-  # Kung Fu Panda:
-  #   template: {name: Collection, movie: "77816, 15854, 50393, 81003, 381693, 456661", poster: https://theposterdb.com/api/assets/490868}
-  # Spider-Man Universe:
-  #   template: {name: Collection, movie: "526896, 634492, 539972", poster: https://theposterdb.com/api/assets/490323}
-  # The Amazing Spider-Man:
-  #   template: {name: Collection, movie: 125574, poster: https://theposterdb.com/api/assets/490212}
-  # Spider-Man:
-  #   template: {name: Collection, movie: 556, poster: https://theposterdb.com/api/assets/490241}
   # "Spider-Man: Spider-Verse":
   #   template: {name: Collection, movie: "573436, 583055", poster: https://theposterdb.com/api/assets/490373}
   # Venom:
