@@ -7,6 +7,8 @@ templates:
     url_poster: <<poster>>
     sync_mode: sync
     collection_order: release
+    visible_library: true
+    collection_mode: hide_items
     
 #######################################################
 #######################################################
@@ -16,19 +18,18 @@ collections:
     template:
       name: franchise
       poster: https://theposterdb.com/api/assets/489854
-    plex_search:
-     all:
-       title.begins: Ant-Man
+    trakt_list:
+      - https://trakt.tv/lists/official/ant-man-collection
     summary: "Get Ready to Shrink Down to Fun!
+
               Join Scott Lang, aka Ant-Man, on his action-packed adventures through the Marvel Cinematic Universe (MCU)! With his trusty suit that allows him to change size, Ant-Man must use his wit and bravery to outsmart villains, rescue loved ones, and save the world. From stealing a powerful technology to exploring the Quantum Realm, this superhero series is full of excitement, humor, and heart."
   
   Rebel Moon:
     template:
       name: franchise
       poster: https://theposterdb.com/api/assets/485314
-    plex_search:
-      all:
-        title.begins: Rebel Moon
+    trakt_list:
+      - https://trakt.tv/lists/official/rebel-moon-collection
     summary: "Join the Battle for Freedom in Space!
 
               Embark on an epic sci-fi adventure with Zack Snyder's Rebel Moon series - a six-film saga that takes you to the distant moons of our solar system. Follow the thrilling journey of a mysterious outsider as they join forces with a quiet farming village under siege by the ruthless Motherworld."
@@ -44,13 +45,8 @@ collections:
     template:
       name: franchise
       poster: https://theposterdb.com/api/assets/489891
-    plex_search:
-      any:
-        title:
-          - Thor
-          - Thor The Dark World
-          - Thor Ragnarok
-          - Thor Love and Thunder
+    trakt_list:
+      - https://trakt.tv/lists/official/thor-collection
     summary: "Assemble Your Adventure!
 
               Join the godly journey of Thor, the crown prince of Asgard, as he battles to save the universe from destruction in this Marvel Cinematic Universe (MCU) film series."
@@ -59,13 +55,8 @@ collections:
     template:
       name: franchise
       poster: https://theposterdb.com/api/assets/489858
-    plex_search:
-      any:
-        title:
-          - The Avengers
-          - Avengers Age of Ultron
-          - Avengers Infinity War
-          - Avengers Endgame
+    trakt_list:
+      - https://trakt.tv/lists/official/the-avengers-collection
   
   Black Panther:
     template:
