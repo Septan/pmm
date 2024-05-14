@@ -19,7 +19,8 @@ collections:
     plex_search:
      all:
        title.begins: Ant-Man
-    summary: "Get Ready to Shrink Down to Fun!" "Join Scott Lang, aka Ant-Man, on his action-packed adventures through the Marvel Cinematic Universe (MCU)! With his trusty suit that allows him to change size, Ant-Man must use his wit and bravery to outsmart villains, rescue loved ones, and save the world. From stealing a powerful technology to exploring the Quantum Realm, this superhero series is full of excitement, humor, and heart."
+    summary: "Get Ready to Shrink Down to Fun!
+              Join Scott Lang, aka Ant-Man, on his action-packed adventures through the Marvel Cinematic Universe (MCU)! With his trusty suit that allows him to change size, Ant-Man must use his wit and bravery to outsmart villains, rescue loved ones, and save the world. From stealing a powerful technology to exploring the Quantum Realm, this superhero series is full of excitement, humor, and heart."
   
   Rebel Moon:
     template:
@@ -28,7 +29,8 @@ collections:
     plex_search:
       all:
         title.begins: Rebel Moon
-    summary: "Join the Battle for Freedom in Space!" "Embark on an epic sci-fi adventure with Zack Snyder's Rebel Moon series - a six-film saga that takes you to the distant moons of our solar system. Follow the thrilling journey of a mysterious outsider as they join forces with a quiet farming village under siege by the ruthless Motherworld."
+    summary: "Join the Battle for Freedom in Space!
+              Embark on an epic sci-fi adventure with Zack Snyder's Rebel Moon series - a six-film saga that takes you to the distant moons of our solar system. Follow the thrilling journey of a mysterious outsider as they join forces with a quiet farming village under siege by the ruthless Motherworld."
   
   Marvel Cinematic Universe:
     template:
@@ -48,7 +50,8 @@ collections:
           - Thor The Dark World
           - Thor Ragnarok
           - Thor Love and Thunder
-    summary: "Assemble Your Adventure!" "Join the godly journey of Thor, the crown prince of Asgard, as he battles to save the universe from destruction in this Marvel Cinematic Universe (MCU) film series."
+    summary: "Assemble Your Adventure!
+              Join the godly journey of Thor, the crown prince of Asgard, as he battles to save the universe from destruction in this Marvel Cinematic Universe (MCU) film series."
   
   The Avengers:
     template:
