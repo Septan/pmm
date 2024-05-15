@@ -73,10 +73,10 @@ collections:
     plex_search:
       any:
         title:
-          - Captain America The First Avenger
-          - Captain America The Winter Soldier
-          - Captain America Civil War
-          - Captain America Brave New World
+          - "Captain America: The First Avenger"
+          - "Captain America: The Winter Soldier"
+          - "Captain America: Civil War"
+          - "Captain America: Brave New World"
   
   Captain Marvel:
     template:
@@ -104,7 +104,7 @@ collections:
       poster: https://theposterdb.com/api/assets/489876
     plex_search:
       all:
-        title.begins: Guardians of the Galaxy
+        title.begins: "Guardians of the Galaxy"
 
   Iron Man:
     template:
@@ -150,7 +150,7 @@ collections:
           - Deadpool
           - Deadpool 2
           - Deadpool & Wolverine
-          - Deadpool No Good Deed
+          - "Deadpool: No Good Deed"
           - Once Upon a Deadpool
 
   Dune:
@@ -161,7 +161,7 @@ collections:
       any:
         title:
           - Dune
-          - Dune Part Two
+          - "Dune: Part Two"
           - Dune Messiah
 
   Ghostbusters:
@@ -179,8 +179,8 @@ collections:
     plex_search:
       any:
         title:
-          - Airplane
-          - Airplane II The Sequel
+          - Airplane!
+          - "Airplane II: The Sequel"
   
   Spongebob:
     template:
@@ -190,9 +190,9 @@ collections:
       any:
         title:
           - The SpongeBob SquarePants Movie
-          - The SpongeBob Movie Sponge Out of Water
-          - The SpongeBob Movie Sponge on the Run
-          - The SpongeBob Movie Search for SquarePants
+          - "The SpongeBob Movie: Sponge Out of Water"
+          - "The SpongeBob Movie: Sponge on the Run"
+          - "The SpongeBob Movie: Search for SquarePants"
 
   George of the Jungle:
     template:
@@ -212,7 +212,7 @@ collections:
           - Jaws
           - Jaws 2
           - Jaws 3-D
-          - Jaws The Revenge
+          - "Jaws: The Revenge"
           - Cruel Jaws
 
   Kung Fu Panda:
@@ -261,23 +261,55 @@ collections:
     plex_search:
       any:
         title:
-          - Spider-Man Into the Spider-Verse
-          - Spider-Man Across the Spider-Verse
-          - Spider-Man Beyond the Spider-Verse
-          - Spider-Ham Caught in a Ham
+          - "Spider-Man: Into the Spider-Verse"
+          - "Spider-Man: Across the Spider-Verse"
+          - "Spider-Man: Beyond the Spider-Verse"
+          - "Spider-Ham: Caught in a Ham"
+
+  Venom:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490351
+    trakt_list:
+      - https://trakt.tv/lists/official/venom-collection-6273063
+
+  Men In Black:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490878
+    trakt_list:
+      - https://trakt.tv/users/julienicoletv/lists/men-in-black-collection
+
+  X-Men:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490697
+    plex_search:
+      any:
+        title:
+          - X-Men
+          - X2
+          - "X-Men: The Last Stand"
+          - "X-Men: First Class"
+          - "X-Men: Days of Future Past"
+          - "X-Men: Apocalypse"
+          - Dark Phoenix
+          - The New Mutants
+
+  The Wolverine:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490601
+    trakt_list:
+      - https://trakt.tv/lists/official/the-wolverine-collection
+
+  The Muppets:
+    tempplate:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490902
+    imdb_id: tt1204342, tt1292569, tt0422778, tt0329737, tt0304283, tt0158811, tt0117110, tt0104940, tt0251282, tt0087755, tt0082474, tt2281587, tt14602326, tt0079588
 
 
-
-  # Venom:
-  #   template: {name: Collection, movie: 558216, poster: https://theposterdb.com/api/assets/490351}
-  # Men In Black:
-  #   template: {name: Collection, movie: "86055, 479455", poster: https://theposterdb.com/api/assets/490878}
-  # X-Men:
-  #   template: {name: Collection, movie: "748, 340102", poster: https://theposterdb.com/api/assets/490697}
-  # The Wolverine:
-  #   template: {name: Collection, movie: 453993, poster: https://theposterdb.com/api/assets/490601}
-
-  # The Muppets https://theposterdb.com/api/assets/490902
   # Peanuts https://theposterdb.com/api/assets/490946
   # Rio https://theposterdb.com/api/assets/490997
   # Scream https://theposterdb.com/api/assets/491011
