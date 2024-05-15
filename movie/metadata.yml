@@ -610,3 +610,14 @@ metadata:
   Wonka:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/491680
+
+  # Jack in the Box
+  The Jack in the Box:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/491806
+  "The Jack in the Box: Awakening":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/491805
+  The Jack in the Box Rises:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/491804
