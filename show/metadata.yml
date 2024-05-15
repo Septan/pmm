@@ -255,3 +255,185 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/491955
       4:
         url_poster: https://theposterdb.com/api/assets/491956
+
+  FBI:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/491974
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/491975
+      2:
+        url_poster: https://theposterdb.com/api/assets/491976
+      3:
+        url_poster: https://theposterdb.com/api/assets/491977
+      4:
+        url_poster: https://theposterdb.com/api/assets/491978
+      5:
+        url_poster: https://theposterdb.com/api/assets/491979
+      6:
+        url_poster: https://theposterdb.com/api/assets/491980
+
+  Father Brown:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/492006
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/492007
+      2:
+        url_poster: https://theposterdb.com/api/assets/492008
+      3:
+        url_poster: https://theposterdb.com/api/assets/492009
+      4:
+        url_poster: https://theposterdb.com/api/assets/492010
+      5:
+        url_poster: https://theposterdb.com/api/assets/492011
+      6:
+        url_poster: https://theposterdb.com/api/assets/492012
+      7:
+        url_poster: https://theposterdb.com/api/assets/492013
+      8:
+        url_poster: https://theposterdb.com/api/assets/492014
+      9:
+        url_poster: https://theposterdb.com/api/assets/492015
+      10:
+        url_poster: https://theposterdb.com/api/assets/492016
+      11:
+        url_poster: https://theposterdb.com/api/assets/492017
+
+  Death in Paradise:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/492034
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/492035
+      1:
+        url_poster: https://theposterdb.com/api/assets/492036
+      2:
+        url_poster: https://theposterdb.com/api/assets/492037
+      3:
+        url_poster: https://theposterdb.com/api/assets/492038
+      4:
+        url_poster: https://theposterdb.com/api/assets/492039
+      5:
+        url_poster: https://theposterdb.com/api/assets/492040
+      6:
+        url_poster: https://theposterdb.com/api/assets/492041
+      7:
+        url_poster: https://theposterdb.com/api/assets/492042
+      8:
+        url_poster: https://theposterdb.com/api/assets/492043
+      9:
+        url_poster: https://theposterdb.com/api/assets/492044
+      10:
+        url_poster: https://theposterdb.com/api/assets/492045
+      11:
+        url_poster: https://theposterdb.com/api/assets/492046
+      12:
+        url_poster: https://theposterdb.com/api/assets/492047
+      13:
+        url_poster: https://theposterdb.com/api/assets/492048
+
+  The Big Bang Theory:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/492093
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/492094
+      1:
+        url_poster: https://theposterdb.com/api/assets/492095
+      2:
+        url_poster: https://theposterdb.com/api/assets/492096
+      3:
+        url_poster: https://theposterdb.com/api/assets/492097
+      4:
+        url_poster: https://theposterdb.com/api/assets/492098
+      5:
+        url_poster: https://theposterdb.com/api/assets/492099
+      6:
+        url_poster: https://theposterdb.com/api/assets/492100
+      7:
+        url_poster: https://theposterdb.com/api/assets/492101
+      8:
+        url_poster: https://theposterdb.com/api/assets/492102
+      9:
+        url_poster: https://theposterdb.com/api/assets/492103
+      10:
+        url_poster: https://theposterdb.com/api/assets/492104
+      11:
+        url_poster: https://theposterdb.com/api/assets/492105
+      12:
+        url_poster: https://theposterdb.com/api/assets/492106
+
+  Beyond Paradise:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/492254
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/492255
+      1:
+        url_poster: https://theposterdb.com/api/assets/492256
+      2:
+        url_poster: https://theposterdb.com/api/assets/492257
+
+  Agatha Christie's Poirot:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/492287
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/492288
+      1:
+        url_poster: https://theposterdb.com/api/assets/492289
+      2:
+        url_poster: https://theposterdb.com/api/assets/492290
+      3:
+        url_poster: https://theposterdb.com/api/assets/492291
+      4:
+        url_poster: https://theposterdb.com/api/assets/492292
+      5:
+        url_poster: https://theposterdb.com/api/assets/492293
+      6:
+        url_poster: https://theposterdb.com/api/assets/492294
+      7:
+        url_poster: https://theposterdb.com/api/assets/492295
+      8:
+        url_poster: https://theposterdb.com/api/assets/492296
+      9:
+        url_poster: https://theposterdb.com/api/assets/492297
+      10:
+        url_poster: https://theposterdb.com/api/assets/492298
+      11:
+        url_poster: https://theposterdb.com/api/assets/492299
+      12:
+        url_poster: https://theposterdb.com/api/assets/492300
+      13:
+        url_poster: https://theposterdb.com/api/assets/492301
+
+  WandaVision:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/492318
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/492319
+
+  The Falcon and The Winter Soldier:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/492348
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/492349
+
+  Hawkeye (2021):
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/492356
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/492357
+
+  Loki:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/492371
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/492372
+      2:
+        url_poster: https://theposterdb.com/api/assets/492373
