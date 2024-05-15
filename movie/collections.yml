@@ -304,19 +304,36 @@ collections:
       - https://trakt.tv/lists/official/the-wolverine-collection
 
   The Muppets:
-    tempplate:
+    template:
       name: franchise
       poster: https://theposterdb.com/api/assets/490902
     imdb_id: tt1204342, tt1292569, tt0422778, tt0329737, tt0304283, tt0158811, tt0117110, tt0104940, tt0251282, tt0087755, tt0082474, tt2281587, tt14602326, tt0079588
+  
+  Peanuts (Charlie Brown):
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490946
+    imdb_id: tt0082570, tt0068359, tt0064107, tt0060550, tt0060230, tt0059026
+
+  Rio:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/490997
+    trakt_list:
+      - https://trakt.tv/lists/official/rio-collection
+
+  Scream:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/491011
+    trakt_list:
+      - https://trakt.tv/lists/official/scream-collection
 
 
-  # Peanuts https://theposterdb.com/api/assets/490946
-  # Rio https://theposterdb.com/api/assets/490997
-  # Scream https://theposterdb.com/api/assets/491011
   # Shrek https://theposterdb.com/api/assets/491029
   # The Trolls https://theposterdb.com/api/assets/491445
 
   # Marvel One-Shots https://theposterdb.com/api/assets/489955
-  # Team Thor and One Shots https://theposterdb.com/set/270066 / https://theposterdb.com/api/assets/489950
+  # Team Thor and One Shots https://theposterdb.com/set/270066 , https://theposterdb.com/api/assets/489950
 
   # The Jack in the Box https://theposterdb.com/set/271080
