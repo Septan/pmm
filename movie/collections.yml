@@ -329,8 +329,14 @@ collections:
     trakt_list:
       - https://trakt.tv/lists/official/scream-collection
 
+  Shrek:
+    template:
+      name: franchise
+      poster: https://theposterdb.com/api/assets/491029
+    trakt_list:
+      - https://trakt.tv/lists/official/shrek-collection
 
-  # Shrek https://theposterdb.com/api/assets/491029
+      
   # The Trolls https://theposterdb.com/api/assets/491445
 
   # Marvel One-Shots https://theposterdb.com/api/assets/489955
