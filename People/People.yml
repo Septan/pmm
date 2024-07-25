@@ -40,7 +40,7 @@ dynamic_collections:
     type: actor
     template:
       - actor_dynamic
-    title_format: <<title>> Collection
+    title_format: "<<title>> Collection"
     data:
       depth: 5
       minimum: 10
@@ -50,7 +50,7 @@ dynamic_collections:
     type: director
     template:
       - director_dynamic
-    title_format: <<title>> Collection
+    title_format: "<<title>> Collection"
     data:
       depth: 1
       minimum: 10
