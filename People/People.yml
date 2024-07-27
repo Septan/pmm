@@ -9,7 +9,6 @@ templates:
     tmdb_person: <<value>>
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_people/<<key>>.png
     sort_title: "*_<<key_name>>"
-    sync_mode: sync
     visible_library: false
     schedule: weekly(saturday)
     smart_filter:
@@ -23,7 +22,6 @@ templates:
     tmdb_person: <<value>>
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_people/<<key>>.png
     sort_title: "*_<<key_name>>"
-    sync_mode: sync
     visible_library: false
     schedule: weekly(saturday)
     smart_filter:
