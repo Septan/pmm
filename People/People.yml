@@ -8,7 +8,7 @@ templates:
       sort_by: release.desc
     tmdb_person: <<value>>
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_people/<<key>>.png
-    sort_title: "*_<<key_name>>"
+    sort_title: <<key_name>>
     visible_library: false
     schedule: weekly(saturday)
     smart_filter:
@@ -21,7 +21,7 @@ templates:
       sort_by: release.desc
     tmdb_person: <<value>>
     url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_people/<<key>>.png
-    sort_title: "*_<<key_name>>"
+    sort_title: <<key_name>>
     visible_library: false
     schedule: weekly(saturday)
     smart_filter:
