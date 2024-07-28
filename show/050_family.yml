@@ -12,7 +12,7 @@ templates:
 
 collections:
   "Family: All":
-    url_poster: https://raw.githubusercontent.com/0x5f3/kometa.config/assets/_family/family_all.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_family/family_all.png
     summary: "Family"
     collection_order: alpha
     template: {
@@ -25,7 +25,7 @@ collections:
       - filepath: "/mnt/tv-family-4k"
 
   "Family: Random":
-    url_poster: https://raw.githubusercontent.com/0x5f3/kometa.config/assets/_family/family_random.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_family/family_random.png
     summary: "Random family"
     template: {
                     name: plex,
@@ -38,7 +38,7 @@ collections:
       sort_by: random
 
   "Family: Recently Added":
-    url_poster: https://raw.githubusercontent.com/0x5f3/kometa.config/assets/_family/family_recently-added.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_family/family_recently-added.png
     summary: "Recently added family"
     visible_library: true
     template: {
@@ -52,7 +52,7 @@ collections:
       sort_by: added.desc
 
   "Family: Recently Released":
-    url_poster: https://raw.githubusercontent.com/0x5f3/kometa.config/assets/_family/family_recently-released.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_family/family_recently-released.png
     summary: "Recently released family"
     template: {
                     name: plex,
@@ -65,7 +65,7 @@ collections:
       sort_by: release.desc
 
   "Family: Top Rated":
-    url_poster: https://raw.githubusercontent.com/0x5f3/kometa.config/assets/_family/family_top-rated.png
+    url_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_family/family_top-rated.png
     summary: "Top rated family"
     template: {
                     name: plex,
