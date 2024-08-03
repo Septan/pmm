@@ -97,7 +97,7 @@ collections:
                 
   "Popular in Documentary":
    summary: "Popular movies in Documentary"
-   file_poster: config/assets/_genre_popular/genre_popular_documentary.png
+   file_poster: https://raw.githubusercontent.com/Septan/pmm-posters/main/assets/_genre_popular/genre_popular_documentary.png
    template: {
                    genre: "documentary",
                    language: "en",
